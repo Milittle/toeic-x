@@ -1,0 +1,1474 @@
+{
+  "testId": "reading-08",
+  "title": "阅读全真模拟 08",
+  "verified": false,
+  "parts": [
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 101,
+          "stem": "The latest company report indicates ------- lower profitability is likely over the next quarter due to the increased cost of resources.",
+          "options": {
+            "A": "which",
+            "B": "that",
+            "C": "since",
+            "D": "why"
+          },
+          "answer": "B",
+          "translation": "公司最新的报告显示，由于资源成本的上涨，下季度利润可能会偏低。",
+          "explanation": "indicate是表示“表明，指出”的及物动词，其后一般接 that引导的宾语从句。本题就是这种句型。答案是 (B) that。"
+        },
+        {
+          "number": 102,
+          "stem": "The new computerized security system never, or at least, ------- ever, requires rebooting.",
+          "options": {
+            "A": "hardly",
+            "B": "just",
+            "C": "overly 1091",
+            "D": "still"
+          },
+          "answer": "A",
+          "translation": "新的电脑化安全系统从来，或者至少几乎不需要重启。",
+          "explanation": "并列连词or前后有副词never和______ ever，这些副词修饰动词requires。or连接对等的语法成分，因此横线处应填入与ever连用、词义与never类似的副词。答案是 (A) hardly (几乎不，简直不)。hardly ever意为“几乎从不”。"
+        },
+        {
+          "number": 103,
+          "stem": "The prices charged by your Accounting Department do not match those ------- to me by your Sales Department at the time of purchase.",
+          "options": {
+            "A": "repeated",
+            "B": "informed",
+            "C": "recorded",
+            "D": "quoted"
+          },
+          "answer": "D",
+          "translation": "你们财务部收取的费用跟你们销售部在购买时给我的报价不符。",
+          "explanation": "those指代的是prices，“购买时销售部给我的报价”的句意最恰当，故选 (D) quoted。quote有“引用，摘引”的词义，但在托业中一般表示“报价，开价，出价”。"
+        },
+        {
+          "number": 104,
+          "stem": "The much-loved poet’s words could ------- be heard above the sound of thunderous applause.",
+          "options": {
+            "A": "nearly",
+            "B": "barely",
+            "C": "sparsely",
+            "D": "singly"
+          },
+          "answer": "B",
+          "translation": "那位备受爱戴的诗人的话在雷鸣般的掌声中几乎听不见。",
+          "explanation": "根据状语above the sound of thunderous applause (雷鸣般的掌声中) 推断，诗人的讲话应该是被掌声淹没了。所以答案是具有否定意义的 (B) barely (几乎不)。"
+        },
+        {
+          "number": 105,
+          "stem": "Our CEO’s flamboyant style has its -------, but our profitability is more than satisfying to our shareholders.",
+          "options": {
+            "A": "critics",
+            "B": "critical",
+            "C": "criticize",
+            "D": "criticizing"
+          },
+          "answer": "A",
+          "translation": "有人批评我们首席执行官浮夸的风格，但是我们的盈利情况却让我们的股东非常满意。",
+          "explanation": "横线处所填单词被所有格its修饰，充当has的宾语，因此应填入名词。答案是 (A) critics (批评家)。"
+        },
+        {
+          "number": 106,
+          "stem": "If you are not sure which exercise schedule best suits your personal needs, please ------- our detailed guidebook, or speak to one of our specialists.",
+          "options": {
+            "A": "refer",
+            "B": "consult",
+            "C": "discuss 1092",
+            "D": "consider"
+          },
+          "answer": "B",
+          "translation": "如果您不确定哪项健身计划最适合您的个人需要，请参考我们的详细指南，或者咨询我们的专家。",
+          "explanation": "宾语是our detailed guidebook，因此横线处应填入具有“参照，参考”词义的动词。答案是 (B) consult。(A) refer表示“参考”时需与介词to连用。"
+        },
+        {
+          "number": 107,
+          "stem": "Designers are experimenting with a new material ------- flexibility with lightness.",
+          "options": {
+            "A": "is combining",
+            "B": "has combined",
+            "C": "that combines",
+            "D": "combination of"
+          },
+          "answer": "C",
+          "translation": "设计者们正在试验一种将灵活性和轻盈性结合起来的新材料。",
+          "explanation": "横线前已经构成完整的结构，这说明______ flexibility with lightness修饰material。横线处应填入 (C) that combines，构成定语从句。"
+        },
+        {
+          "number": 108,
+          "stem": "The management encourages all staff to place any complaints, suggestions, or questions in the box ------- in the lunch room.",
+          "options": {
+            "A": "provided",
+            "B": "provision",
+            "C": "providing",
+            "D": "provide"
+          },
+          "answer": "A",
+          "translation": "管理部门鼓励所有员工把投诉、建议或者问题放入食堂提供的盒子内。",
+          "explanation": "横线处所填单词修饰名词box，句意应为“放入食堂提供的盒子内”，因box与provide之间是被动关系，故选择过去分词 (A) provided。"
+        },
+        {
+          "number": 109,
+          "stem": "Starlite Roofing Installation will accept responsibility for any damages ------- it can be proven that defective products were the cause of the accident.",
+          "options": {
+            "A": "unless",
+            "B": "because of",
+            "C": "although",
+            "D": "insofar as"
+          },
+          "answer": "D",
+          "translation": "如果能证明不合格产品是导致这起事故的原因，那么星光屋顶安装公司将对所有损失负责。",
+          "explanation": "横线后是从句，故排除 (B) because of。句意应为“如果能证实不合格产品是导致这起事故的原因”，因此答案是 (D) insofar as。"
+        },
+        {
+          "number": 110,
+          "stem": "We would like to advise all advertisers that copy ------- for inclusion in the next catalog must be submitted before 5:00 p.m. on Friday.",
+          "options": {
+            "A": "intended",
+            "B": "engaged",
+            "C": "concluded",
+            "D": "expressed"
+          },
+          "answer": "A",
+          "translation": "我们建议所有的广告商，必须在周五下午5点之前提交想要刊登在下期商品目录中的材料。",
+          "explanation": "横线处应填入表示目的、可与介词for连用的过去分词。最符 1755"
+        },
+        {
+          "number": 111,
+          "stem": "We believe that the popularity of ------- products is the result of a combination of beauty and functionality.",
+          "options": {
+            "A": "us",
+            "B": "we",
+            "C": "our",
+            "D": "ours"
+          },
+          "answer": "C",
+          "translation": "我们认为我们的产品之所以受欢迎是因为其兼具了美感和功效。",
+          "explanation": "横线处应填入修饰名词的形容词性物主代词 (C) our。若备选答案是不同人称代词，需找到其指代的名词，统一人称。"
+        },
+        {
+          "number": 112,
+          "stem": "Contract details are not to be made ------- because of national security requirements.",
+          "options": {
+            "A": "public",
+            "B": "publicly",
+            "C": "publicity",
+            "D": "publicize"
+          },
+          "answer": "A",
+          "translation": "出于国家安全的需要，契约的详细条款不会公开。",
+          "explanation": "由because of national security requirements (出于国家安全的需要) 和表示否定的are not to be made判断，句意应为“契约的详细条款不会公开”，答案是 (A) public。make public表示“公开，曝光”。"
+        },
+        {
+          "number": 113,
+          "stem": "Of course, we know that“all work and no play makes Jack a dull boy”, ------- we have decided to add a health club and spa to our staff facilities.",
+          "options": {
+            "A": "so",
+            "B": "then",
+            "C": "and",
+            "D": "because"
+          },
+          "answer": "A",
+          "translation": "当然，我们知道“只工作，不玩耍，聪明的孩子也变傻”，所以我们已经决定为我们的员工设施增加健身俱乐部和温泉浴场。",
+          "explanation": "横线前后均构成完整、独立的结构，因此横线处应填入连词。句中已提到“只工作，不玩耍，聪明的孩子也变傻”，因此句意应"
+        },
+        {
+          "number": 114,
+          "stem": "The weekend program of special activities for handicapped children was a great success thanks to those who generously ------- their time.",
+          "options": {
+            "A": "voluntary",
+            "B": "volunteer",
+            "C": "voluntarily",
+            "D": "volunteered"
+          },
+          "answer": "D",
+          "translation": "多亏了那些大方地腾出时间做义工的人们，周末为残疾儿童举行的特别活动非常成功。",
+          "explanation": "who generously ______ their time是定语从句，修饰 those，横线处应填入以their time为宾语的动词。本句时态为过去时，故选 (D) volunteered。volunteer one’s time表示“自愿花时间做某事”。"
+        },
+        {
+          "number": 115,
+          "stem": "While the Sales Department has been ------- in marketing our new range, we have been let down by our quality assurance section.",
+          "options": {
+            "A": "accomplishing",
+            "B": "mindful",
+            "C": "successful",
+            "D": "climbing"
+          },
+          "answer": "C",
+          "translation": "虽然销售部门已经成功地将我们的新产品系列推进市场，但是我们被质保部门拖了后腿。",
+          "explanation": "while既可以表示“…的时候”，也可以表示对照意义的“然而，却”。本题中while表示“然而，却”。答案是 (C) successful，与后面的let down形成对照意义。(A) accomplishing是及物动词，后面需要接宾语。"
+        },
+        {
+          "number": 116,
+          "stem": "A recent strategic decision will see that more ------- are allocated for research and development.",
+          "options": {
+            "A": "resource",
+            "B": "resources",
+            "C": "resourceful",
+            "D": "resourcefulness"
+          },
+          "answer": "B",
+          "translation": "最近的战略决策会确保拨出更多资金用于研发。",
+          "explanation": "横线处所填单词被more修饰，充当that从句的主语，因此应填入名词。再根据are，应选择名词复数 (B) resources。"
+        },
+        {
+          "number": 117,
+          "stem": "If we are to ------- towards our common goals, workers must have faith in management, and vice versa.",
+          "options": {
+            "A": "break",
+            "B": "advance",
+            "C": "growth",
+            "D": "approach"
+          },
+          "answer": "B",
+          "translation": "如果我们要实现我们的共同目标，工人们必须对管理部门有信心，反之亦然。",
+          "explanation": "横线处应填入与介词towards (向，往，朝) 语意连贯的不及物动词。答案是 (B) advance (前进，发展)。(D) approach (接近，靠近) 是及物动词，不与介词连用。"
+        },
+        {
+          "number": 118,
+          "stem": "Problems resulting in cost blowouts are to be ------- in any large-scale engineering project.",
+          "options": {
+            "A": "expects",
+            "B": "expected",
+            "C": "expecting",
+            "D": "have expected"
+          },
+          "answer": "B",
+          "translation": "任何大规模的工程项目都有可能发生成本井喷的问题。",
+          "explanation": "expect是及物动词，横线后并没有宾语成分，根据横线前的 be可知，此处应为被动语态。答案是 (B) expected。"
+        },
+        {
+          "number": 119,
+          "stem": "We would like to thank all of our sponsors for their generous donations, and we hope to have your ------- support in the future.",
+          "options": {
+            "A": "connected",
+            "B": "consecutive",
+            "C": "continued",
+            "D": "ceaseless"
+          },
+          "answer": "C",
+          "translation": "我们要感谢所有赞助者的慷慨捐助，我们希望未来能继续得到你们的支持。",
+          "explanation": "句意应为“希望未来能继续得到…”，故选 (C) continued。(D) ceaseless (不停的，无休止的) 指不中断的连续状态，不适合在这种语境下使用。"
+        },
+        {
+          "number": 120,
+          "stem": "All employees are ------- to perform their duties in a professional manner at all times.",
+          "options": {
+            "A": "apparent",
+            "B": "alleged",
+            "C": "allowed",
+            "D": "supposed"
+          },
+          "answer": "D",
+          "translation": "所有员工从始至终都应该以专业的态度做好自己的工作。",
+          "explanation": "由perform their duties in a professional manner at all times可判断，横线处所填单词应表示“应该…”。答案是 (D) supposed。be supposed to do表示“应该做某事，被期望做某事”。"
+        },
+        {
+          "number": 121,
+          "stem": "The personnel section would like to advise all employees that from now on, no smoking breaks will be allowed ------- regular work hours.",
+          "options": {
+            "A": "while",
+            "B": "during",
+            "C": "after",
+            "D": "through"
+          },
+          "answer": "B",
+          "translation": "人事部现通知所有员工，从现在起，在正常工作时间内不允许中途休息抽烟。",
+          "explanation": "regular work hours是名词短语，因此横线处应填入介词。句意应为“在工作期间…”，答案是 (B) during (在…期间)。"
+        },
+        {
+          "number": 122,
+          "stem": "The unemployment rate ------- sharply despite government policies designed to increase public sector employment.",
+          "options": {
+            "A": "was rising",
+            "B": "will have risen",
+            "C": "has risen",
+            "D": "risen"
+          },
+          "answer": "C",
+          "translation": "尽管政府出台政策增加公共部门的就业机会，但是失业率还是急剧上升。",
+          "explanation": "句意应为“尽管政府…，失业率还是急剧上升”，主语the unemployment rate与rise之间是主动关系，故选 (C) has risen。"
+        },
+        {
+          "number": 123,
+          "stem": "We regret to inform all tenants that ------- circumstances beyond our control, the water supply will be shut down between 2:00 and 4:00 p.m. this afternoon.",
+          "options": {
+            "A": "as to 1096",
+            "B": "due to",
+            "C": "in spite of",
+            "D": "in place of"
+          },
+          "answer": "B",
+          "translation": "我们遗憾地通知所有房客，由于无法控制的情况，今天下午2点到4点会停止供水。",
+          "explanation": "circumstances beyond our control (无法控制的情况) 是 the water supply will be shut down between 2 and 4:00 p.m. this afternoon (今天下午2点到4点停止供水) 的原因，故选 (B) due to (由于，因为)。"
+        },
+        {
+          "number": 124,
+          "stem": "The safety inspector has advised us that our health and safety facilities are more than -------.",
+          "options": {
+            "A": "considerable",
+            "B": "decent",
+            "C": "adequate",
+            "D": "accountable"
+          },
+          "answer": "C",
+          "translation": "安全巡查员通知我们，我们的健康和安保设施已经非常完善了。",
+          "explanation": "句意应为“我们的健康和安保设施已经非常完善了”，故选 (C) adequate (适当的，足够的)。"
+        },
+        {
+          "number": 125,
+          "stem": "The management has expressed its total faith in the abilities and performance of the present ------- and will not be seeking to replace him.",
+          "options": {
+            "A": "occupant",
+            "B": "resident",
+            "C": "incumbent",
+            "D": "competent"
+          },
+          "answer": "C",
+          "translation": "管理层已经表示，他们完全相信现任管理者的能力和业绩，并且表示不会撤掉他。",
+          "explanation": "横线处应填入him所指代的名词。the abilities and performance of the present _____ 的句意应为“现任管理者的能力和业绩”。故选 (C) incumbent (任职者)。"
+        },
+        {
+          "number": 126,
+          "stem": "The new summer collection ------- the Asiatic designs will be modeled in the Women’s Fashion Department on Friday morning.",
+          "options": {
+            "A": "about",
+            "B": "within",
+            "C": "over",
+            "D": "from"
+          },
+          "answer": "D",
+          "translation": "来自亚洲设计的新夏装将于周五早上在女性时尚部进行走秀展示。",
+          "explanation": "collection在这里表示新服装的发布会，或发布会上所展示的服装，the Asiatic designs是collection的出处，因此 (D) from最恰当。"
+        },
+        {
+          "number": 127,
+          "stem": "A healthy lifestyle and the opportunity for creativity will help you to maintain a positive attitude towards -------.",
+          "options": {
+            "A": "labor",
+            "B": "work 1097",
+            "C": "business",
+            "D": "employment"
+          },
+          "answer": "B",
+          "translation": "健康的生活方式和创新契机将帮助您保持乐观、积极的工作态度。",
+          "explanation": "labor指the act of doing work，business指the type of work，employment指the condition of having a paid job，都属于work的范畴。最符合句意的是 (B) work。"
+        },
+        {
+          "number": 128,
+          "stem": "In his opening remarks at the company’s internal design conference, the president spoke in general ------- about developments in the business environment.",
+          "options": {
+            "A": "marks",
+            "B": "expressions",
+            "C": "names",
+            "D": "terms"
+          },
+          "answer": "D",
+          "translation": "在公司内部设计会议的开场白中，总裁大概描述了一下公司在商业环境中的发展状况。",
+          "explanation": "in general ______是修饰spoke的状语，答案是 (D) terms。in general terms意为“概括地，笼统地”。"
+        },
+        {
+          "number": 129,
+          "stem": "Unfortunately, several patients at the hospital have been struck by a disease for ------- there is no known cure.",
+          "options": {
+            "A": "while",
+            "B": "whose",
+            "C": "which",
+            "D": "that"
+          },
+          "answer": "C",
+          "translation": "不幸的是，医院里的几位病人患了一种目前无法治愈的病。",
+          "explanation": "for ______ there is no known cure修饰disease，因此横线处应填入关系代词。答案是 (C) which。(D) that引导定语从句时前面不能有介词。"
+        },
+        {
+          "number": 130,
+          "stem": "The investigating panel is ------- out of patience with senior company executives, who are blocking the release of essential documents.",
+          "options": {
+            "A": "moving",
+            "B": "going",
+            "C": "breaking",
+            "D": "running"
+          },
+          "answer": "D",
+          "translation": "调查小组对正在阻止重要文件外泄的公司高级主管们快要失去耐心了。",
+          "explanation": "主句句意应为“调查小组快要失去耐心了”，故选 (D) running。run out of 表示“用完，耗尽”，类似的表达有run short (of)。"
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "passages": [
+        {
+          "id": "p131",
+          "descriptor": "instructions",
+          "title": "Emergency Evacuation Functions",
+          "text": "Emergency Evacuation Functions (131) -------- an emergency situation arises, the persons seated near the exits might be called upon to perform the following tasks: 1. Identify, locate, and operate the mechanisms to open the emergency exits. 2. Assess the situation quickly, and make a decision to see if opening the door would expose the passengers to any hazards. 3. Fasten the emergency exit door to the hinge to ensure a safe flow of departure for the passengers. 4. As the exit doors are unlocked, the inflatable slide will automatically be deployed to the ground below. The diagrams posted next to the exit doors illustrate this procedure. Alert the other passengers once the slide has been fully (132) --------. Exit first to make sure that the situation is safe outside. Once safety has been confirmed, guide the others out of the plane by helping them from the bottom of the slide. If your seating allocation is by the exit doors, but you feel that you can’t meet the (133) -------- listed above, or you simply wish not to take on the responsibility, please tell one of the flight attendants before take off. (134) ------- -.",
+          "questions": [
+            {
+              "number": 131,
+              "stem": "",
+              "options": {
+                "A": "In particular",
+                "B": "By the way",
+                "C": "In the event",
+                "D": "Therefore"
+              },
+              "answer": "C",
+              "translation": "",
+              "explanation": ""
+            },
+            {
+              "number": 132,
+              "stem": "",
+              "options": {
+                "A": "amplified 1099",
+                "B": "inflated",
+                "C": "boosted",
+                "D": "built up"
+              },
+              "answer": "B",
+              "translation": "",
+              "explanation": "第4项要求的开头写道：As the exit doors are unlocked, the inflatable slide will automatically be deployed to the ground below. (当舱门打开时，充气滑梯会自动展开到地面。) 故“充气滑梯充满气时”的句意最恰当，答案是 (B) inflated (给…充气)。"
+            },
+            {
+              "number": 133,
+              "stem": "",
+              "options": {
+                "A": "principle",
+                "B": "value",
+                "C": "law",
+                "D": "criteria"
+              },
+              "answer": "D",
+              "translation": "",
+              "explanation": "横线处所填单词被listed above (以上列出的) 修饰，作meet (满足) 的宾语。最符合句意的是 (D) criteria (标准)。"
+            },
+            {
+              "number": 134,
+              "stem": "",
+              "options": {
+                "A": "Stay in your seat in order for the other passengers to exit first.",
+                "B": "You will be provided with an alternative seating arrangement.",
+                "C": "It is important to know the emergency evacuation functions.",
+                "D": "None of the passengers are competent to undertake these tasks."
+              },
+              "answer": "B",
+              "translation": "",
+              "explanation": "横线处位于文章最后，上一句说“如果您的座位…”可知，描述与座位有关的选项 (B) 能衔接上文，故为正确答案。"
+            }
+          ]
+        },
+        {
+          "id": "p135",
+          "descriptor": "information",
+          "title": "SUBSCRIBE today or pick up an (135) -------- at your local newsstand, and",
+          "text": "SUBSCRIBE today or pick up an (135) -------- at your local newsstand, and get in on the chance to become the winner of our grand prize: a trip for two to Paris, France, with all expenses (136) --------. Plus, five runners-up will win two nights’ stays in the Premier Suite at the Hilton Hotel right here in our city. Yes, a total package valued at over $20,000 dollars will be given away! For a chance to become a (137) --------, drop by your local newsstand or dial 1-800- 358-8484 to subscribe today! (138) --------.",
+          "questions": [
+            {
+              "number": 135,
+              "stem": "",
+              "options": {
+                "A": "requirement",
+                "B": "description",
+                "C": "issue",
+                "D": "information"
+              },
+              "answer": "C",
+              "translation": "",
+              "explanation": "根据pick up (获得，购买) 和at your local newsstand (在当地的报亭) 可知，横线处应填入与报纸、杂志有关的名词。答案是 (C) issue (一期，期号)。"
+            },
+            {
+              "number": 136,
+              "stem": "",
+              "options": {
+                "A": "earned 1100",
+                "B": "paid",
+                "C": "allowed",
+                "D": "compensated"
+              },
+              "answer": "B",
+              "translation": "",
+              "explanation": ""
+            },
+            {
+              "number": 137,
+              "stem": "",
+              "options": {
+                "A": "contributor",
+                "B": "participant",
+                "C": "contestant",
+                "D": "winner"
+              },
+              "answer": "D",
+              "translation": "",
+              "explanation": "前面的内容与活动有关，因此最符合句意的是 (D) winner (获奖者；优胜者)。"
+            },
+            {
+              "number": 138,
+              "stem": "",
+              "options": {
+                "A": "This offer lasts until October 31.",
+                "B": "Runners-up can subscribe the magazine for free.",
+                "C": "Don’t miss the chance to become rich.",
+                "D": "There are 1,000 winners in this offer."
+              },
+              "answer": "A",
+              "translation": "",
+              "explanation": "从给出的信息可看出文中缺少活动截止日期的相关内容，故选 (A)。"
+            }
+          ]
+        },
+        {
+          "id": "p139",
+          "descriptor": "notice",
+          "title": "Star Struck",
+          "text": "Star Struck If you’re not a star gazer, you (139) -------- not be familiar with the beauty of the night sky. But a display of 2018 Bruce Sullivan Awards (140) -------- photography at the Dallas Observatory has captured the splendor of the stars for all to see. Astronomers and photographers were invited to take part in the (141) ------- - awards, organized by the Central East Astronomical Society as part of their annual AstroFest, held at Hills Arts Center. The result is a stunning collection of images. (142) --------. Entry is free, and the display will last until October 15.",
+          "questions": [
+            {
+              "number": 139,
+              "stem": "",
+              "options": {
+                "A": "must 1101",
+                "B": "could",
+                "C": "should",
+                "D": "may"
+              },
+              "answer": "D",
+              "translation": "",
+              "explanation": "前面的if从句意为“如果您不是一个观星者”，因此最符合句意的是情态动词 (D) may。"
+            },
+            {
+              "number": 140,
+              "stem": "",
+              "options": {
+                "A": "in",
+                "B": "for",
+                "C": "to",
+                "D": "on"
+              },
+              "answer": "B",
+              "translation": "",
+              "explanation": "与awards连用的介词是 (B) for。"
+            },
+            {
+              "number": 141,
+              "stem": "",
+              "options": {
+                "A": "dominant",
+                "B": "renowned",
+                "C": "prestigious",
+                "D": "superior"
+              },
+              "answer": "C",
+              "translation": "",
+              "explanation": "横线处应填入决定awards性质的形容词。在 (A) dominant (支配的，统治的) 、 (B) renowned (著名的，有声望的) 、 (C) prestigious (有威望的，有名望的) 、 (D) superior (优于…的) 四个选项中，最符合句意的是 (C) prestigious。"
+            },
+            {
+              "number": 142,
+              "stem": "",
+              "options": {
+                "A": "Three photographic displays will be hosted at the Dallas Observatory.",
+                "B": "Astronomers are most interested in these images.",
+                "C": "They display not only technical skill but also capture the beauty of astronomy.",
+                "D": "Star gazers are familiar with the beauty of the night sky."
+              },
+              "answer": "C",
+              "translation": "",
+              "explanation": "由上句“届时会有精彩的图片展出”可知，横线处填继续描述图片信息的内容最合适，故选 (C)。"
+            }
+          ]
+        },
+        {
+          "id": "p143",
+          "descriptor": "article",
+          "title": "Interest Rate Hike Expected This Week",
+          "text": "Interest Rate Hike Expected This Week Investors will pace themselves very cautiously this week with all attention focused on the U.S. Federal Reserve for guidance after seeing equity markets retreat last month with concerns over higher interest rates and watching the economic (143) -------- they can cause. This week, the U.S. central banks will meet. (144) --------. This comes (145) -------- the Fed has raised them four percentage points over the last two years. “The market has kind of positioned (146) -------- for the Fed raising 25 basis points… because of these fears about inflation,” said John Johnston, chief strategist at Royal Securities.",
+          "questions": [
+            {
+              "number": 143,
+              "stem": "",
+              "options": {
+                "A": "maim",
+                "B": "malign",
+                "C": "damage",
+                "D": "disqualify"
+              },
+              "answer": "C",
+              "translation": "",
+              "explanation": "横线后的they指代的是higher interest rates (高利率)。通货膨胀或国际收支恶化时，一般以提高利率的方式缓和现状，但这种方法有弊端，如加重企业的负担、降低国际竞争力等。因此最符合句意的选项是 (C) damage (损害，损失)。"
+            },
+            {
+              "number": 144,
+              "stem": "",
+              "options": {
+                "A": "Many banks are challenged by inflation.",
+                "B": "However, the interest rates will likely be reduced.",
+                "C": "High interest rates can cause great economic damage.",
+                "D": "The interest rates will likely be hiked."
+              },
+              "answer": "D",
+              "translation": "",
+              "explanation": "下句说“尽管…已经将利率提高了4个百分点，涨息也无法避免”。可知，横线处填“利率上调”的信息最合适，故选 (D)。"
+            },
+            {
+              "number": 145,
+              "stem": "",
+              "options": {
+                "A": "that",
+                "B": "but",
+                "C": "since",
+                "D": "even though"
+              },
+              "answer": "D",
+              "translation": "",
+              "explanation": "“尽管在过去的两年里美联储已经将利率提高了4个百分点”的句意最恰当，故选 (D) even though (尽管，即使)。"
+            },
+            {
+              "number": 146,
+              "stem": "",
+              "options": {
+                "A": "one",
+                "B": "it",
+                "C": "oneself",
+                "D": "itself"
+              },
+              "answer": "D",
+              "translation": "",
+              "explanation": "谓语动词的宾语与主语一致时，一般在宾语的位置用反身代词。本句的主语是the market，故选 (D) itself。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passages": [
+        {
+          "id": "p147",
+          "descriptor": "e-mail message",
+          "title": "To: willsg@utsc.com",
+          "text": "To: willsg@utsc.com From: mmaven@environgroup.net Subject: Confirmation – Thank you! Dear Mr. Wills, Thank you very much for your invaluable contribution to this year’s Environmental Issues Conference. —[1]— Your discussion was hugely popular with our attendees. It was a highlight of our event. —[2]— In our follow-up newsletter, we will devote a full-page to your topic further to outline the points of interest for our membership. Numerous requests have been received for more information. —[3]— We will forward details about the location, dates, and theme well ahead of time so that you can schedule it in your calendar. Thank you again for your tremendous help in making this year’s conference a huge success! —[4]— Yours sincerely, Margaret Maven Chair, National Environmental Group",
+          "questions": [
+            {
+              "number": 147,
+              "stem": "Why will Mr. Wills’ topic of discussion be further outlined?",
+              "options": {
+                "A": "A lot of the attendees did not understand it.",
+                "B": "There was a demand for further explanations. 1104",
+                "C": "Many could not actually attend the seminar.",
+                "D": "There were many points not discussed."
+              },
+              "answer": "B",
+              "translation": "为什么威尔斯先生讨论的主题将被进一步列出提纲？ (A) 很多与会者不明白。 (B) 有人要求进一步解释。 (C) 很多人实际上未能参加研讨会。 (D) 有很多内容没有被讨论到。",
+              "explanation": "很多人对威尔斯先生的演讲主题非常感兴趣，想进一步了解更多的相关信息。答案是 (B)。"
+            },
+            {
+              "number": 148,
+              "stem": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? “It would be a great honor to have you participate in another session at next year’s conference if you can make it.”",
+              "options": {
+                "A": "[1]",
+                "B": "[2]",
+                "C": "[3]",
+                "D": "[4]"
+              },
+              "answer": "C",
+              "translation": "以下句子“It would be a great honor to have you participate in another session at next year’s conference if you can make it.”位于标有[1], [2], [3]和[4]的哪处最合适？",
+              "explanation": "所给句子是说“如果您能在明年的会议期间出席另一个活动，将是我们极大的荣幸。”文中第一、三段都在说今年的会议，第二段提到了将来时，应该是说与明年另一个会议相关的内容。故答案为 (C)。"
+            }
+          ]
+        },
+        {
+          "id": "p149",
+          "descriptor": "facsimile",
+          "title": "Barry,",
+          "text": "Barry, Here’s a quick status report on the current affairs in the office while you’ve been gone. I also sent you an email in addition to this fax but wasn’t sure how much access to email you would have. The major news is the resignation of George Stewart who left to start his own company. If you recall, that had been his career dream for a long time. Our immediate reaction to George’s departure did not include a replacement hire. As you know, we have been struggling with the possibility of staff layoffs for the last month in order to cut costs. By reallocating some of the job responsibilities to the remaining employees, we may be able to save their jobs and fill the void. We also had a surprise visit from a few new senior management members from the head office. I gave them a tour of our office and took them out for a nice dinner. They didn’t make any company announcements while they were here (stating they just wanted to see this division). I have a strange feeling that the future may present some drastic changes for our company. I’ll keep this short, but I wanted to keep you abreast of what’s going on. Enjoy the rest of your trip, and say hello to Mary and the kids! Kent",
+          "questions": [
+            {
+              "number": 149,
+              "stem": "What is the main purpose of the fax?",
+              "options": {
+                "A": "To find out why a co-worker has decided to leave the company",
+                "B": "To catch up on the current situation at the office",
+                "C": "To congratulate a co-worker on a new business venture",
+                "D": "To bring a colleague up-to-date of the situation at the office"
+              },
+              "answer": "D",
+              "translation": "这份传真的主要目的是什么？ (A) 找出一名同事决定离开公司的原因 (B) 了解办公室目前的情况 (C) 祝贺一位同事开始自己创业 (D) 让一位同事了解办公室目前的情况",
+              "explanation": "传真旨在向休假中的同事转达公司近况。答案是 (D)。"
+            },
+            {
+              "number": 150,
+              "stem": "According to the fax, how will the company likely fill George’s position?",
+              "options": {
+                "A": "By taking out a placement ad in the paper",
+                "B": "By laying off some of the workers",
+                "C": "By dividing the work amongst the rest of the employees",
+                "D": "By recruiting someone from the head office"
+              },
+              "answer": "C",
+              "translation": "根据传真内容，公司将怎样处理乔治离职后的空缺？ (A) 在报纸上刊登招聘广告 (B) 解雇一些员工 (C) 把工作分配给其他员工 (D) 从总部招募一个人",
+              "explanation": "公司为了保住现有员工的职位并填补空缺，将原来由乔治负责的业务分配给了其他员工。答案是 (C)。"
+            },
+            {
+              "number": 151,
+              "stem": "What does Kent imply might be forthcoming?",
+              "options": {
+                "A": "A co-worker’s return from retirement",
+                "B": "A visit by the senior management staff",
+                "C": "An adjustment within the company",
+                "D": "A budget cut in the next quarter"
+              },
+              "answer": "C",
+              "translation": "肯特暗示可能会发生什么？ (A) 一位同事退休后被返聘 (B) 高管的造访 (C) 公司内部的调整 (D) 下个季度的预算减少",
+              "explanation": "肯特提到公司可能会发生大变动，故选 (C)。"
+            }
+          ]
+        },
+        {
+          "id": "p152",
+          "descriptor": "report",
+          "title": "Many people in today’s business world are required to be wired and",
+          "text": "Many people in today’s business world are required to be wired and digitally equipped at all times, including cell phones, PDAs (personal digital assistants), and digital cameras, on a daily basis. A simplified system consisting of fewer of these stand-alone products would strongly benefit many people in all industries. The solution may present itself as digital convergence, which refers to the combination of two or more products simplified into a single product. Many of today’s cell phones also allow the user to take pictures, surf the net, and send/receive text messages. There are increasingly newer PDAs combined with cell phones, with highly functional computing capabilities that work seamlessly like desktop computers. It is highly probable that one day soon there will be an“omnipotent” product that can do all these things. Presently, there are some products that can perform a large number of these functions, but are accessible to those who can afford to pay a high price. However, sometime in the near future, a super PDA that can serve all our required functions and is available at a price that is affordable for the average person may be a reality.",
+          "questions": [
+            {
+              "number": 152,
+              "stem": "The word“omnipotent” in paragraph 2, line 8 is closest in meaning to",
+              "options": {
+                "A": "strong",
+                "B": "all-powerful",
+                "C": "unlimited",
+                "D": "divine"
+              },
+              "answer": "B",
+              "translation": "与第二段第八行中的“omnipotent”一词意思最接近的是 (A) 强大的 (B) 全能的 (C) 无限的 (D) 非凡的",
+              "explanation": "omnipotent表示“全能的，有无限权力的，万能的”，在本文中， omnipotent product指“万能产品”。答案是 (B)。"
+            },
+            {
+              "number": 153,
+              "stem": "What best describes the digital convergence mentioned in the report?",
+              "options": {
+                "A": "A requirement of being wired in today’s business",
+                "B": "A single product with the performance of many products",
+                "C": "The breakthrough in digital technology",
+                "D": "The rising cost of highly-functional super gadgets"
+              },
+              "answer": "B",
+              "translation": "下列哪种说法能最准确地描述这个报告里提到的数码产品？ (A) 如今商界对于配备数码产品的需求 (B) 一款多功能产品 (C) 数码技术的一项突破 (D) 功能强大的超级数码产品成本的提高",
+              "explanation": "digital convergence (数字融合，数字汇聚) 指具有多种功能的单机产品。答案是 (B)。"
+            },
+            {
+              "number": 154,
+              "stem": "According to the report, what may become a reality in the future?",
+              "options": {
+                "A": "The average person will be able to use complicated machines.",
+                "B": "All businessmen will own PDAs.",
+                "C": "The general public will be able to afford high-tech goods. 1107",
+                "D": "The Internet will be accessible anywhere and anytime."
+              },
+              "answer": "C",
+              "translation": "根据报告内容，未来什么将成为可能？ (A) 普通人能够使用复杂的机器。 (B) 所有的商界人士都将拥有掌上电脑。 (C) 普通大众能买得起高科技产品。 (D) 任何时候、任何地方都能上网。",
+              "explanation": "虽然现在这种多功能产品价格比较昂贵，只有少数人能够使用，但在不久的将来肯定会有物美价廉的多功能科技产品供大众使用。答案是 (C)。"
+            }
+          ]
+        },
+        {
+          "id": "p155",
+          "descriptor": "information",
+          "title": "Section 1.01 How to Evacuate the Building During an",
+          "text": "Section 1.01 How to Evacuate the Building During an Emergency It is important to note the location of the closest emergency exits on each floor. After doing so, please review the helpful guidelines below in case of an emergency situation. The building’s built-in security response systems and personnel will be responsible for directing general emergency procedures. However, in case of earthquakes or large fires, special instructions requiring your individual efforts will be necessary. Monthly emergency drills will help prepare us in case of such an emergency. In case of an emergency: • Locate the nearest exit. • Please refrain from using the elevators. Use the stairs. • In case of fire, bend down close to the floor to avoid rising smoke as you make your way to the stairs. • Take extra care in ensuring your safety. • Do not take any personal belongings. Your personal safety is your main priority. Thank you for your cooperation in working together to assure everyone’s safety. Management",
+          "questions": [
+            {
+              "number": 155,
+              "stem": "Where would this information most likely be posted?",
+              "options": {
+                "A": "At a fire station",
+                "B": "At a security office",
+                "C": "In an elevator 1108",
+                "D": "In an office building"
+              },
+              "answer": "D",
+              "translation": "这个信息最有可能被张贴在哪里？ (A) 在消防站 (B) 在保安室 (C) 在电梯里 (D) 在一座办公楼里",
+              "explanation": "指导人们从建筑物内紧急撤离的通告应贴在建筑物内。答案是 (D)。"
+            },
+            {
+              "number": 156,
+              "stem": "Which of the following is NOT a part of the list of what to do in an emergency situation?",
+              "options": {
+                "A": "Determine the nearest way out",
+                "B": "Do not use elevators",
+                "C": "Take precautionary measures to avoid inhaling smoke",
+                "D": "Gather only important items"
+              },
+              "answer": "D",
+              "translation": "以下哪项不是清单中列出的在紧急情况下要做的事情？ (A) 决定最近的撤离路线 (B) 不要使用电梯 (C) 采取预防措施避免吸入浓烟 (D) 只收起重要物品",
+              "explanation": "找出本文中并未列出的要点即可。答案是 (D)。"
+            },
+            {
+              "number": 157,
+              "stem": "In which of the following situations, does the information say the responsibility shifts to each individual?",
+              "options": {
+                "A": "If one has not read the guidebook",
+                "B": "If the fire gets out of control",
+                "C": "If the elevators are not in working order",
+                "D": "If the exit doors become too crowded"
+              },
+              "answer": "B",
+              "translation": "信息里提到在以下哪种情况下，责任会转嫁到每个人身上？ (A) 如果没有阅读指导手册 (B) 如果火势失控 (C) 如果电梯处于非工作状态 (D) 如果紧急出口过于拥挤",
+              "explanation": "发生地震或大火灾时，则需要每个人的配合和努力。答案是 (B)。"
+            }
+          ]
+        },
+        {
+          "id": "p158",
+          "descriptor": "letter",
+          "title": "One Child’s Tomorrow",
+          "text": "One Child’s Tomorrow John Manor 202 Main Street Toronto, ON M3B 1B5 October, 2018 Jagar Industries Mr. Mark Allen President 1296 Pleasant Rd, Suite 900 Toronto, ON M2M 2P3 Dear Mr. Allen Thank you very much for your extremely generous fundraising efforts for the“One Child’s Tomorrow” fund. The combined efforts of companies such as yours have helped to raise over $250,000 in the last nine months. We are proud to be able to direct more than 90% of the money raised to directly feeding hungry children a hearty breakfast and running programs in our participating schools. — [1]— By keeping our operating costs at a minimum and with the support of our amazing volunteers, we will continue to expand the program to help underprivileged children. —[2]— To date, we have supported 300 schools and more than 3,000 children on a daily basis for 8 years. Some of our recipients have graduated from high school and are well on their way to fulfilling their dreams of becoming teachers or doctors. —[3]— Our current newsletter highlighting some of our stories will undoubtedly explain the huge difference that your contribution of $5,000 has made. —[4]— Again, from all of us at One Child’s Tomorrow and our participating partners, we thank you for your continued support and belief! All the best, Jennifer Ward, Director",
+          "questions": [
+            {
+              "number": 158,
+              "stem": "What is the purpose of the letter?",
+              "options": {
+                "A": "To volunteer for a charity",
+                "B": "To plead for more donations",
+                "C": "To promote a new education program",
+                "D": "To express gratitude for an act of kindness"
+              },
+              "answer": "D",
+              "translation": "这封信的目的是什么？ (A) 为一家慈善机构做志愿者 (B) 恳求更多的捐助 (C) 推广一个新的教学计划 (D) 对一项善举表示感谢",
+              "explanation": "这封信是为了感谢艾伦先生对此次募捐活动的鼎力相助。答案是 (D)。"
+            },
+            {
+              "number": 159,
+              "stem": "Who is the recipient of this letter?",
+              "options": {
+                "A": "John Manor",
+                "B": "Mark Allen 1110",
+                "C": "Jennifer Ward",
+                "D": "A doctor"
+              },
+              "answer": "B",
+              "translation": "这封信的收信人是谁？ (A) 约翰·马诺尔 (B) 马克·艾伦 (C) 珍妮弗·沃德 (D) 一位医生",
+              "explanation": "本文右上角的是发件人信息，然后才是收件人信息。答案是 (B)。"
+            },
+            {
+              "number": 160,
+              "stem": "How long has the organization been in existence?",
+              "options": {
+                "A": "9 months",
+                "B": "1 year",
+                "C": "8 years",
+                "D": "9 years"
+              },
+              "answer": "C",
+              "translation": "这个组织已经存在多久了？ (A) 9个月 (B) 1年 (C) 8年 (D) 9年",
+              "explanation": "这个机构向300所学校及3000多名儿童提供帮助已有8年之久。答案是 (C)。"
+            },
+            {
+              "number": 161,
+              "stem": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? “These children have a real chance at achieving their hopes and dreams with the help that you and your company have provided.”",
+              "options": {
+                "A": "[1]",
+                "B": "[2]",
+                "C": "[3]",
+                "D": "[4]"
+              },
+              "answer": "C",
+              "translation": "以下句子“These children have a real chance at achieving their hopes and dreams with the help that you and your company have provided.”位于标有[1], [2], [3]和[4]的哪处最合适？",
+              "explanation": "所给句子是说“由于您和贵公司的帮助，这些孩子才真正有机会实现他们的希望和梦想。”文中关于贫困学生实现梦想的内容在第二段，资助者的善行带来了巨大的影响，所以才被报道，该句不应位于段尾。故答案为 (C)。"
+            }
+          ]
+        },
+        {
+          "id": "p162",
+          "descriptor": "information",
+          "title": "OUR MANDATE",
+          "text": "OUR MANDATE Fritz Production Services is committed to the successful execution of all your advertising print projects, including photography, pre-press, printing and project management requirements. Key Goals • To fully integrate with your existing staff and partners to deliver flawless execution on all your projects in a seamless manner • To assure the highest quality of service in the most efficient manner • To invest in our people and our talent offering to increase the profitability of your business Our Core Values • We support our staff’s individual and personal goals equally with their career plans to assure work/life balance and emotional happiness. • We are committed to supporting the environment and utilize only recycled products for printing and organic solvents for our needs. We support a company-wide profit-sharing plan and have a rewarding policy of extra vacation time on a regular basis! We know that our people make the company the success that we enjoy, and we will continue to show our appreciation for their hard work!",
+          "questions": [
+            {
+              "number": 162,
+              "stem": "How does the company play a part in promoting environmental causes?",
+              "options": {
+                "A": "It contributes part of its profits to an environmental group.",
+                "B": "It plans to implement an environmental policy in the company.",
+                "C": "It reuses paper for printing purposes.",
+                "D": "It educates its staff to be environmentally conscious."
+              },
+              "answer": "C",
+              "translation": "公司在推动环保事业方面起到了怎样的作用？ (A) 公司将其部分收入捐赠给一个环保组织。 (B) 公司计划在内部实行一项环保措施。 (C) 公司重复使用打印纸。 (D) 公司教育员工要有环保意识。",
+              "explanation": "“我们的核心价值”部分中提到了使用可回收利用的印刷用品及有机溶剂。答案是 (C)。"
+            },
+            {
+              "number": 163,
+              "stem": "Which of the following is NOT found in the information?",
+              "options": {
+                "A": "The company’s mission",
+                "B": "The company’s beliefs",
+                "C": "The company’s objectives",
+                "D": "The company’s history"
+              },
+              "answer": "D",
+              "translation": "以下哪项信息没有在文中出现？ (A) 公司的使命 (B) 公司的信念 (C) 公司的目标 (D) 公司的历史",
+              "explanation": "可根据小标题确认答案。文中并没有提及公司历史。答案是 (D)。"
+            },
+            {
+              "number": 164,
+              "stem": "What can be inferred about the company?",
+              "options": {
+                "A": "It compensates its employees for their hard work.",
+                "B": "It spends a lot of money and time promoting environmental issues.",
+                "C": "It invests a lot of money on advertisements. 1112",
+                "D": "It uses a large portion of its profits educating its employees."
+              },
+              "answer": "A",
+              "translation": "可以推断出有关公司的什么信息？ (A) 公司奖励员工的努力工作。 (B) 公司花大量金钱和时间推广环保议题。 (C) 公司投入很多钱做广告。 (D) 公司将收益的很大部分用来教育其员工。",
+              "explanation": "公司正在实施利润分配以及定期安排特别休假等福利政策，对员工的辛勤工作给予奖励。答案是 (A)。"
+            }
+          ]
+        },
+        {
+          "id": "p165",
+          "descriptor": "notice",
+          "title": "Session: How to Manage your Stress",
+          "text": "Session: How to Manage your Stress The Center for Mental Wellness is offering their renowned session on“How to Deal with Difficult People in the Workplace.” In the current environment that we work in, many face undue stress over difficult relationships with co-workers, negatively affecting their productivity, performance in general, and other work relationships, and even causing interference into their personal lives. This session will focus on the following: * How to work effectively with difficult people and situations * Conflict prevention and resolution * Positivity to achieve balance A summary guidebook, which can be used as a daily tool, will be distributed at the end of the session. A full list of valuable resources will also be available. There will be two sessions only with limited attendance – Monday, May 4 & Tuesday, May 5. Please register for your session as soon as possible at the front desk to reserve your seat early.",
+          "questions": [
+            {
+              "number": 165,
+              "stem": "What does the notice imply?",
+              "options": {
+                "A": "Many people in today’s society don’t know how to get along with others.",
+                "B": "Relationships with co-workers correlate with work productivity.",
+                "C": "Stress can help one work more efficiently with a little training.",
+                "D": "Most companies don’t consider the mental well being of their employees."
+              },
+              "answer": "B",
+              "translation": "从通知中可以推断出什么信息？ (A) 当今社会中有很多人不知道怎样和他人相处。 (B) 同事之间的关系与工作效率相关。 (C) 通过一些培训，压力能使人工作更有效率。 (D) 大多数公司不考虑他们员工的心理健康。",
+              "explanation": "同事之间复杂的人际关系导致员工产生很大的心理压力，这会对其工作造成一定的影响。答案是 (B)。"
+            },
+            {
+              "number": 166,
+              "stem": "Which of the following will NOT be covered in the seminar?",
+              "options": {
+                "A": "How to deal with rude co-workers 1113",
+                "B": "How to work effectively in short time",
+                "C": "How to avoid misunderstandings with others",
+                "D": "How to become stable by being optimistic"
+              },
+              "answer": "B",
+              "translation": "以下哪项不会在讨论会上讨论？ (A) 怎样与粗鲁的同事相处 (B) 怎样在短时间内高效地工作 (C) 怎样避免与他人发生分歧 (D) 怎样通过乐观的心态保持沉稳",
+              "explanation": "第二段列出了这次研讨会的三个主要内容，找出未列出的即可。答案是 (B)。"
+            },
+            {
+              "number": 167,
+              "stem": "What will the seminar participants receive?",
+              "options": {
+                "A": "A free booklet",
+                "B": "Refreshments",
+                "C": "An invitation to the second session",
+                "D": "A box of tools"
+              },
+              "answer": "A",
+              "translation": "参加讨论会的人会收到什么？ (A) 一本免费的手册 (B) 点心 (C) 第二期研讨会的请帖 (D) 一盒工具",
+              "explanation": "在研讨会的最后，会赠送一本总结手册。答案是 (A)。"
+            }
+          ]
+        },
+        {
+          "id": "p168",
+          "descriptor": "online chat discussion",
+          "title": "Duncan Winchester [1:21 P.M.]",
+          "text": "Duncan Winchester [1:21 P.M.] Good afternoon, everyone. Tomorrow morning, the company will be announcing that it’s accepting transfer applications to the Hong Kong and Dubai offices. I thought I’d give you a bit of advance notice. Paul Montana [1:23 P.M.] Thanks, Duncan. Are you one of the people interested in moving to either place? Duncan Winchester [1:24 P.M.] Not at all. I’m perfectly happy where I am, and my wife and children enjoy living in Texas as well. Cindy Yates [1:25 P.M.] That’s precisely how I feel. What about you, Paul? Paul Montana [1:27 P.M.] It’s long been a dream of mine to work abroad, so I’ll look into the opportunities available in Hong Kong. Amy Shelby [1:28 P.M.] So will I. I’ve heard that the company provides free housing and additional benefits to employees who work at branches abroad. Paul Montana [1:29 P.M.] That’s correct. Salaries are higher, too, but you have to commit to staying there for at least two years. Amy Shelby [1:30 P.M.] Why don’t we get together tomorrow and go over the details once they’re released tomorrow? Paul Montana [1:31 P.M.] Sounds good.",
+          "questions": [
+            {
+              "number": 168,
+              "stem": "At 1:24 P.M., what does Mr. Winchester mean when he writes,“Not at all”?",
+              "options": {
+                "A": "He has never been to Dubai.",
+                "B": "He transferred to his current place recently.",
+                "C": "He will consider the new opportunity.",
+                "D": "He will not apply for a transfer."
+              },
+              "answer": "D",
+              "translation": "在下午1点24分，温切斯特先生写“不会”是要表达什么意思？ (A) 他从未去过迪拜。 (B) 他最近才调到现在这个岗位上。 (C) 他会考虑新的机会。 (D) 他不会申请调岗。",
+              "explanation": "蒙塔纳问大家是否有兴趣调到其中的某个地方，温切斯特先生给出否定回答，即他不会申请调岗。答案是 (D)。"
+            },
+            {
+              "number": 169,
+              "stem": "What is suggested about Ms. Yates?",
+              "options": {
+                "A": "She spent time in Dubai in the past.",
+                "B": "She plans to apply to work in Hong Kong.",
+                "C": "She is satisfied with her workplace.",
+                "D": "Her salary will be increased soon."
+              },
+              "answer": "C",
+              "translation": "关于耶茨女士，文中暗示了什么信息？ (A) 她曾在迪拜待过一段时间。 (B) 她打算申请去香港工作。 (C) 她对她的工作地点很满意。 (D) 她的薪水很快会增加。",
+              "explanation": "温切斯特先生说他很满意现在的工作地点，耶茨女士紧接着表示有同感。答案是 (C)。"
+            },
+            {
+              "number": 170,
+              "stem": "What is NOT mentioned about the company’s branch offices abroad?",
+              "options": {
+                "A": "Workers at them get more paid than at other places.",
+                "B": "Workers must stay at them for one or two years. 1115",
+                "C": "Workers at them do not pay for their accommodations.",
+                "D": "Workers get more benefits by working at them."
+              },
+              "answer": "B",
+              "translation": "关于公司的国外分部，对话中没有提到什么？ (A) 那里员工的工资高于其他地方。 (B) 员工必须在那里工作一两年。 (C) 那里的员工不需要自己支付住宿费。 (D) 在那里工作的员工享受更多的福利。",
+              "explanation": "谢尔比女士听说公司给在国外分部工作的员工提供免费住房和额外的福利，蒙塔纳先生说薪酬也会高一些，但是要求承诺在那里工作至少两年。答案是 (B)。"
+            },
+            {
+              "number": 171,
+              "stem": "What does Ms. Shelby propose doing?",
+              "options": {
+                "A": "Asking for more benefits",
+                "B": "Transferring to Texas",
+                "C": "Practicing for an interview",
+                "D": "Gathering to discuss the news"
+              },
+              "answer": "D",
+              "translation": "谢尔比女士提议做什么？ (A) 要求更多的福利 (B) 调去得克萨斯州 (C) 为面试进行练习 (D) 聚在一起讨论这个消息",
+              "explanation": "谢尔比女士提议，明天发布消息时，大家可以聚在一起，讨论一下细节。答案是 (D)。"
+            }
+          ]
+        },
+        {
+          "id": "p172",
+          "descriptor": "pamphlet",
+          "title": "Amazing Zoo Tour",
+          "text": "Amazing Zoo Tour Welcome to our Amazing Zoo Tour! In the next three hours, you will see the highlights that make this zoo the most amazing zoo in all the country. We will be seeing a lot of animals and covering a lot of ground, so let’s get started with a short list of reminders: ------------------------------------------------------------------ - Please enter and exit the bus in an orderly fashion. - Please stay with your tour guide at all times so that no one gets left behind. - Do not feed any animals, as their regular feeding cycles will be interrupted. - Please refrain from touching the animals through the fence and making any undue noise. - When riding on the bus, please keep the windows closed and your hands inside the bus. ------------------------------------------------------------------ For parents of young children: please ensure that they are supervised at all times. Some animals may appear friendly and cuddly to your child but should be approached with caution. By following our rules, you and the rest of the group will enjoy a safe and happy tour! Please note that those who choose not to follow the above rules may be asked to leave.",
+          "questions": [
+            {
+              "number": 172,
+              "stem": "Which of the following is NOT mentioned in the reminder?",
+              "options": {
+                "A": "Everyone should line up to board the bus.",
+                "B": "Do not go astray from the group.",
+                "C": "Refrain from giving any crackers to the animals.",
+                "D": "Keep in mind that the tour could last longer than expected."
+              },
+              "answer": "D",
+              "translation": "以下哪项没有在注意事项中提到？ (A) 每个人都要排队上车。 (B) 不要离队。 (C) 不要给动物喂饼干。 (D) 记住行程可能会比预期的要长。",
+              "explanation": "本文列出的5个注意事项中并没有提到 (D)。"
+            },
+            {
+              "number": 173,
+              "stem": "What is the consequence for those who do not follow the rules?",
+              "options": {
+                "A": "They may be removed from the group.",
+                "B": "They could be put into another group.",
+                "C": "They won’t be able to come back for a year.",
+                "D": "They will be forced to stay on the bus."
+              },
+              "answer": "A",
+              "translation": "那些不遵守规则的人将会有什么后果？ (A) 他们可能会被要求离开团队。 (B) 他们可能会被编到另一队中。 (C) 他们1年内不能再来动物园。 (D) 他们将被迫待在观光巴士上。",
+              "explanation": "如果不遵守上述要求，有被强制驱逐的可能。答案是 (A)。"
+            }
+          ]
+        },
+        {
+          "id": "p174",
+          "descriptor": "text message chain",
+          "title": "Donovan Reed [12:53 P.M.]",
+          "text": "Donovan Reed [12:53 P.M.] Hi, Sylvia. The conference is starting in a few minutes. You should have arrived here an hour ago. Sylvia Standish [12:54 P.M.] Good afternoon, Donovan. My plane took off late, and we didn’t land until a few minutes ago. I’m still at the airport waiting for my luggage. Donovan Reed [12:55 P.M.] It looks like I’ve got to handle everything by myself. Could you send me the graphics we prepared? Sylvia Standish [12:56 P.M.] You don’t have them? Donovan Reed [12:57 P.M.] You said you’d forward them but never did. Sylvia Standish [12:58 P.M.] Huh. I’m positive I sent them. Anyway, I’ll boot up my laptop at once.",
+          "questions": [
+            {
+              "number": 174,
+              "stem": "Why did Mr. Reed start the text message chain?",
+              "options": {
+                "A": "To inform Ms. Standish about a conference",
+                "B": "To find out Ms. Standish’s location",
+                "C": "To ask Ms. Standish about her flight",
+                "D": "To advise Ms. Standish to take a taxi"
+              },
+              "answer": "B",
+              "translation": "为什么里德先生开始了短信聊天？ (A) 通知斯坦迪什女士参加一次会议 (B) 查明斯坦迪什女士的位置 (C) 向斯坦迪什女士询问她的航班情况 (D) 建议斯坦迪什女士乘坐出租车",
+              "explanation": "里德先生发信息给斯坦迪什女士，说她一小时前就应该到会场了。斯坦迪什女士解释说飞机晚点，而她自己还在机场等行李。里德先生回复说，所有的事情只能他自己处理了。由此可知，里德先生发信息是询问斯坦迪什女士在哪里。答案是 (B)。"
+            },
+            {
+              "number": 175,
+              "stem": "At 12:56 P.M., why does Ms. Standish most likely write,“You don’t have them?”",
+              "options": {
+                "A": "To find out why Mr. Reed lost some documents",
+                "B": "To deny that she forgot to send something",
+                "C": "To express her surprise about missing items",
+                "D": "To request that Mr. Reed confirm his tickets are gone"
+              },
+              "answer": "C",
+              "translation": "下午12点56分，斯坦迪什女士写“你没有 (保存) 吗？”最可能的原因是什么？ (A) 查明里德先生丢失文件的原因 (B) 否认她忘了发送东西 (C) 表达她对缺少东西的惊讶 (D) 要求里德先生确认他的票是否的确丢了",
+              "explanation": "里德先生向斯坦迪什女士要准备好的图表，她回复“你没有 (保存) 图表吗？”并且确定自己已经发送过了。由此可知，斯坦迪什女士对里德先生没有图表一事感到惊讶。答案是 (C)。"
+            }
+          ]
+        },
+        {
+          "id": "p176",
+          "descriptor": "letter and e-mail",
+          "title": "Tony Warner",
+          "text": "Tony Warner Warner Associates Inc. 175 Ninth Avenue New York 10075 Dear Mr. Warner, At the beginning of this month, I signed a contract with your company for an office renovation project. Soon after the crew started work, there were many signs that warned me of bad things to come. I realize now that I should have taken those signs seriously and put a stop to the project to minimize the damage that it has since caused. In summary, the entire project has been a huge catastrophe. Firstly, the crew showed little professionalism by being late in meeting their starting times on a daily basis and took long breaks during crucial stages, which caused extra work for everyone else. As well, certain areas requiring supervision were left unattended for long periods of time, and considerable garbage was left in areas that were not designated for waste removal. These issues have caused much stress to our employees and reduced the productivity of our office over these weeks. Our staff has expressed their discomfort, their feelings of being unsafe and have wasted precious time cleaning up after your company’s crew instead of doing their regular work. Mr. Warner, I have left many messages about this on your voice-mail but have not heard back. I am astonished and extremely disappointed at the performance and quality of the work being done and the lack of responsiveness from your company to my calls. This letter serves to confirm the immediate end to your company’s contract with us. Your crew will no longer be allowed on our premises, and please do not expect payment for any work completed to date! David Martin Panorama Systems, General Manager dlmartin@panorsys.org To: dlmartin@panorsys.org From: twarner@warnerinc.net Subject: Service termination Dear Mr. Martin, My sincerest apologies for the service issues your company has endured. I have been out of the office on a family emergency and have been unable to retrieve my messages in the few days. I have just returned and have listened to your messages and read your letter. There is no excuse for the lack of professionalism and poor performance shown by the crew from our organization. The assigned crew was a new team subcontracted from a source that I thought was very reliable. Normally, our senior supervisor would have worked alongside the crew on this project but, due to extenuating circumstances, could not. I am shocked and severely sorry for the troubles this has caused, and to the reputation of my company. Please accept my deepest apologies and our offer to complete the work properly immediately – with payment for hard costs only. (Our labor and other fees will be waived entirely.) You have my personal commitment that the project will be completed at the highest quality with my direct supervision. I will give you a call in the morning hopefully to be able to discuss this proposal with you and to convince you to allow us to finish this project. Best Regards, Tony Warner Warner Associates Inc.",
+          "questions": [
+            {
+              "number": 176,
+              "stem": "What is the main purpose of the letter?",
+              "options": {
+                "A": "To complain about the progress of the work",
+                "B": "To terminate a work contract",
+                "C": "To warn of some dangers in the work area",
+                "D": "To request reimbursement for some damages"
+              },
+              "answer": "B",
+              "translation": "这封信的主要目的是什么？ (A) 投诉工程进展 (B) 终止一份工作合同 (C) 提示工作区域存在的一些危险 (D) 要求赔偿一些损失",
+              "explanation": "不要只阅读前两段内容就误以为答案是 (A)。必须阅读完整篇文章，因为其目的在最后一段中才有明确表示。其实，马丁写信的主要目的是想终止合约。答案是 (B)。"
+            },
+            {
+              "number": 177,
+              "stem": "Which of the following is NOT a complaint made by Mr. Martin?",
+              "options": {
+                "A": "Workers didn’t show up to work on time.",
+                "B": "The crew did not clean after themselves.",
+                "C": "Workers slacked off too much.",
+                "D": "The crew didn’t offer to work overtime."
+              },
+              "answer": "D",
+              "translation": "以下哪项不包括在马丁先生的投诉中？ (A) 工人们不按时上班。 (B) 事后工人们自己不打扫。 (C) 工人们太偷懒。 (D) 工人们不肯主动加班。",
+              "explanation": "第二段中吐露了不满。并没有提到 (D)。"
+            },
+            {
+              "number": 178,
+              "stem": "What does Mr. Warner offer to do?",
+              "options": {
+                "A": "Replace the work crew",
+                "B": "Provide a discount on labor costs",
+                "C": "Forgo all the fees other than the material cost",
+                "D": "Meet with Mr. Martin to listen to his proposal"
+              },
+              "answer": "C",
+              "translation": "沃纳先生提出做什么？ (A) 换工人 (B) 给劳务费打折 (C) 除了材料费，其他费用全部免收 (D) 与马丁先生见面听取他的建议",
+              "explanation": "沃纳先生提议的内容应在第二篇文章中寻找答案。第二篇文章第四段中沃纳先生提议，只收取材料费，不收取劳务费等费用并及时完成施工项目。答案是 (C)。"
+            },
+            {
+              "number": 179,
+              "stem": "What can be inferred about Warner Associates Incorporated?",
+              "options": {
+                "A": "The company has a history of performing bad work.",
+                "B": "Mr. Warner has a habit of giving excuses for everything.",
+                "C": "Some of the senior managers are unreliable.",
+                "D": "The company cares about what others think."
+              },
+              "answer": "D",
+              "translation": "可以推断出有关沃纳联合公司的什么信息？ (A) 公司有服务质量不好的历史。 (B) 沃纳先生习惯给每件事找借口。 (C) 一些高层管理人员不可靠。 (D) 公司在乎他人对公司的评价。",
+              "explanation": "并没有提到施工经历，故排除 (A)；沃纳先生没有对此事进行辩解而是大方地承认错误，故排除 (B)；文中无法得到有关高层管理人员的信息，故排除 (C)。沃纳联合公司为了公司的声誉想积极解决这件事情，答案是 (D)。"
+            },
+            {
+              "number": 180,
+              "stem": "Why will Mr. Warner call the client?",
+              "options": {
+                "A": "To try to convince Mr. Martin to sign the agreement",
+                "B": "To discuss further about the details of the contract",
+                "C": "To demand payment for the work they have done to date",
+                "D": "To see if he can convince Mr. Martin to allow the crew back on the site"
+              },
+              "answer": "D",
+              "translation": "为什么沃纳先生要给这位客户打电话？ (A) 试图说服马丁先生签协议 (B) 进一步讨论合同的细节 (C) 要求他们支付到目前为止的工程费用 (D) 想试试能否说服马丁先生允许工人回去施工",
+              "explanation": "沃纳先生想和客户马丁先生就其提出的解决方案进行讨论，以期完成本次施工。答案是 (D)。"
+            }
+          ]
+        },
+        {
+          "id": "p181",
+          "descriptor": "poll and analysis",
+          "title": "We are working to improve the overall working dynamics within our",
+          "text": "We are working to improve the overall working dynamics within our company, in particular employees’ attitudes towards the relationships with senior management, a primary factor influencing the core human relations in the workplace. Please read below, and circle one answer only. 1. Please describe your working relationship style with your direct senior manager. A) Casual B) Very casual C) Formal D) Very formal 2. How often do you meet with your senior manager to discuss your progress and projects in general? A) Once a week B) Once a month C) Once a year D) Never 3. How do you address your senior manager in correspondence? A) By first name B) By last name C) By full title D) Flexible — depends on topic 4. How would you prefer that your senior manager view you? A) As an employee B) As a colleague C) As a friend D) As a trainee 5. How satisfied are you with your relationship with your senior manager? A) Very satisfied B) Satisfied C) Somewhat satisfied D) Not satisfied Results 1. A) Casual 53% B) Very casual 7% C) Formal 26% D) Very formal 14% 2. A) Once a week 48% B) Once a month 25% C) Once a year 19% D) Never 8% 3. A) By first name 45% B) By last name 30% C) By full title 10% D) Flexible – depends on topic 15% 4. A) As an employee 23% B) As a colleague 47% C) As a friend 25% D) As a trainee 5% 5. A) Very satisfied 63% B) Satisfied 28% C) Somewhat satisfied 7% D) Not satisfied 2% Analysis After reviewing the study results, we conclude that a large number of staff relationships with their senior mangers are increasingly casual, which corresponds to the nationwide trends of effective workforce relationships. Interaction and communication with management is therefore more frequent and natural. Correspondence and other written communication are also more friendly and casual, with almost half of respondents feeling comfortable using a first name basis only. Employees want and enjoy a co-working relationship view with their senior managers, preferring to be viewed as a colleague. With a staggering 63%“very satisfied” with their relationships and another 28%“satisfied”, the present relations in our company’s staff with management seem to indicate a surprisingly content team of people. Of course, we will recommend making efforts to increasing the overall satisfaction in all relationships for everyone.",
+          "questions": [
+            {
+              "number": 181,
+              "stem": "What is the main purpose of the poll?",
+              "options": {
+                "A": "To establish a definite hierarchy within the workplace",
+                "B": "To resolve the difference of opinions between managers and staff members",
+                "C": "To get a grasp of how the managers are managing the members of their teams",
+                "D": "To better understand the relationship between employees and their managers to improve the working environment"
+              },
+              "answer": "D",
+              "translation": "这次民意调查的主要目的是什么？ (A) 在工作场所内部建立明确的等级制度 (B) 处理领导和员工之间的意见分歧 (C) 了解一下领导将其团队成员管理得如何 (D) 为了改善工作环境，更好地了解员工和领导之间的关系",
+              "explanation": "调查是为了深入了解上下级之间的关系，以改善工作环境。答案是 (D)。"
+            },
+            {
+              "number": 182,
+              "stem": "Which question did NOT address the relationship aspect of the managers and employees?",
+              "options": {
+                "A": "Question 1",
+                "B": "Question 2",
+                "C": "Question 3 1123",
+                "D": "Question 4"
+              },
+              "answer": "B",
+              "translation": "哪个问题没有涉及领导和员工的关系？ (A) 问题1 (B) 问题2 (C) 问题3 (D) 问题4",
+              "explanation": "调查表中的第二个问题没有涉及领导和员工的关系，故答案是 (B)。"
+            },
+            {
+              "number": 183,
+              "stem": "What can be inferred from the results of Question 4?",
+              "options": {
+                "A": "Many employees feel distant from their bosses.",
+                "B": "The managers neglect being supportive in the employees’ personal goals.",
+                "C": "A large portion of the employees wants to be treated with respect from their bosses.",
+                "D": "The working environment allows the staff members to meet often to discuss issues."
+              },
+              "answer": "C",
+              "translation": "从问题4的结果中可以推断出什么？ (A) 很多员工觉得和自己的老板有距离感。 (B) 领导忽视了对员工的个人目标的支持。 (C) 大部分员工希望能得到老板的尊重。 (D) 工作环境允许员工经常见面一起讨论问题。",
+              "explanation": "有47%的员工选择了希望被领导看作“同事”，可见很多员工希望受到尊重。答案是 (C)。"
+            },
+            {
+              "number": 184,
+              "stem": "What best describes the outcome of the study results?",
+              "options": {
+                "A": "The interactions between workers and management are heading in the right direction.",
+                "B": "Most of the managers prefer to be addressed by their full title.",
+                "C": "The relationship with senior managers still needs to be improved a great deal.",
+                "D": "A majority of the staff members share the same feeling that they are being treated as workhorses."
+              },
+              "answer": "A",
+              "translation": "以下哪项最好地描述了调查结果？ (A) 员工与管理层之间的互动关系正朝着正确的方向发展。 (B) 大多数领导更喜欢被称呼全名。 (C) 员工与高层领导的关系仍需大力改善。 (D) 大多数员工都有同样的感觉——他们被当作牛马一样对待。",
+              "explanation": "第二篇文章是对问卷调查结果的具体分析。文中提到了上下级关系正在改善。答案是 (A)。"
+            },
+            {
+              "number": 185,
+              "stem": "In the analysis, the word“corresponds” in paragraph 1, line 2 is closest in meaning to",
+              "options": {
+                "A": "compares",
+                "B": "correlates",
+                "C": "conforms",
+                "D": "comes to"
+              },
+              "answer": "C",
+              "translation": "在分析中，与第一段第二行的“corresponds”一词意思最接近的是 (A) 比较 (B) 相关 (C) 一致 (D) 变成",
+              "explanation": "correspond表示“相一致，符合；通信；相当于”，本文中用作 corresponds to the nationwide trends (与全国性的趋势一致)。答案是 (C)。"
+            }
+          ]
+        },
+        {
+          "id": "p186",
+          "descriptor": "instructions and e-mails",
+          "title": "http://www.andersonbank.com",
+          "text": "http://www.andersonbank.com Customers at Anderson Bank can open various accounts: Silver Savings Account: Must maintain a minimum balance of $100. Pays 2.1% interest. Yearly fee of $15. Gold Savings Account: Must maintain a minimum balance of $1,000. Pays 2.4% interest. Yearly fee of $20. Platinum Savings Account: Must maintain a minimum balance of $5,000. Pays 2.8% interest. No yearly fee. Silver Checking Account: Requires a minimum balance of $200. Provides 20 free checks per year. Annual fee of $25. Gold Checking Account: Requires a minimum balance of $1,000. Provides 50 free checks per year. Annual fee of $30. Combined Savings-Checking Account: Requires a minimum balance of $6,000. Pays 3.0% interest. Provides 100 free checks per year. No yearly fee. To open an account, visit any branch in the Detroit area. Don’t forget to inquire about our online banking options. To: Susan Meeks <smeeks@andersonbank.com> From: David Rowe <davidrowe@fostertrade.com> Subject: Bank Accounts Date: January 28 Dear Ms. Meeks, I moved to Detroit in December and wish to open an account with a local bank. I checked with several of my colleagues, and most recommended utilizing the services at your establishment. After reading your bank’s Web site, I concluded that I agree with them. I live in the Goldenrod neighborhood. I wonder where the branch closest to me is. In addition, I don’t require checking services and anticipate keeping at least a couple of thousand dollars in my account at all times. Do I need to pay the $20 fee when I sign up? Sincerely, David Rowe To: David Rowe <davidrowe@fostertrade.com> From: Susan Meeks <smeeks@andersonbank.com> Subject: Re: Bank Accounts Date: January 29 Dear Mr. Rowe, We strive to take care of our customers and will do our utmost to help you, too. Yes, you need to pay the annual fee upon opening an account. In addition, for your information, there are 5 branches near you. They are at the following addresses: 543 Northwood Avenue (Freemont neighborhood) 87 W. Hampton Street (Plain View neighborhood) 821 Robinson Road (Goldenrod neighborhood) 73 Lake Michigan Drive (Hampton neighborhood) 909 Pine Forest Boulevard (Hampton neighborhood) You can visit any location to begin banking with us. Please bring two forms of picture ID when you come. Regards, Susan Meeks Customer Service Representative Anderson Bank",
+          "questions": [
+            {
+              "number": 186,
+              "stem": "What is true about the combined savings-checking account?",
+              "options": {
+                "A": "It pays more interest than the other accounts.",
+                "B": "It does not have a minimum deposit.",
+                "C": "It provides users with free online banking.",
+                "D": "It requires the payment of money annually."
+              },
+              "answer": "A",
+              "translation": "关于储蓄-支票组合账户，以下说法正确的是哪项？ (A) 储蓄-支票组合账户比其他账户的利息高。 (B) 储蓄-支票组合账户没有最低存款额要求。 (C) 储蓄-支票组合账户提供免费的网上银行业务。 (D) 储蓄-支票组合账户需要客户支付年费。",
+              "explanation": "储蓄-支票组合账户最低余额不得低于6000美元，利息为3.0%，每年提供100张免费支票，且无年费。对比各种类型账户的利息，储蓄-支票组合账户最高。答案是 (A)。"
+            },
+            {
+              "number": 187,
+              "stem": "Why does Mr. Rowe want to open an account?",
+              "options": {
+                "A": "He needs to use it to pay bills automatically.",
+                "B": "He likes to make purchases with checks.",
+                "C": "He was told to open one by his employer.",
+                "D": "He wants an account at a bank in his city."
+              },
+              "answer": "D",
+              "translation": "罗先生为何想开通一个银行账户？ (A) 他需要开通账户来自动支付账单。 (B) 他喜欢用支票购物。 (C) 他的老板要求他开通一个账户。 (D) 他想在所在的城市开通一个本地账户。",
+              "explanation": "罗先生12月刚搬到底特律，希望在当地银行开办一个银行账户。答案是 (D)。"
+            },
+            {
+              "number": 188,
+              "stem": "Which account is Mr. Rowe interested in?",
+              "options": {
+                "A": "Silver Savings Account",
+                "B": "Gold Savings Account",
+                "C": "Silver Checking Account",
+                "D": "Gold Checking Account"
+              },
+              "answer": "B",
+              "translation": "罗先生对哪种账户感兴趣？ (A) 银卡储蓄账户 (B) 金卡储蓄账户 (C) 银卡支票账户 (D) 金卡支票账户",
+              "explanation": "罗先生预计账户中至少会存有几千美元，并询问对方自己是否需要支付20美元的年费。对应几种账户的年费类型可知，他应是对金卡储蓄账户感兴趣。答案为 (B)。"
+            },
+            {
+              "number": 189,
+              "stem": "What does Ms. Meeks suggest about Anderson Bank?",
+              "options": {
+                "A": "Customer service is important there.",
+                "B": "It has branches throughout the country.",
+                "C": "Mr. Rowe should consider applying for a job there. 1127",
+                "D": "Online banking is a new option there."
+              },
+              "answer": "A",
+              "translation": "关于安德森银行，米克斯女士暗示了什么？ (A) 它重视客户服务。 (B) 它在全国都有分行。 (C) 罗先生应考虑在安德森银行申请一份工作。 (D) 网上银行是一项新的选择。",
+              "explanation": "米克斯女士在回信的开头表明安德森银行致力于服务客户。答案是 (A)。"
+            },
+            {
+              "number": 190,
+              "stem": "What is the address of the branch Mr. Rowe will most likely visit?",
+              "options": {
+                "A": "543 Northwood Avenue",
+                "B": "87 W. Hampton Street",
+                "C": "821 Robinson Road",
+                "D": "909 Pine Forest Boulevard"
+              },
+              "answer": "C",
+              "translation": "罗先生最有可能选择以下哪家分行？ (A) 诺斯伍德大街543号 (B) 汉普顿西大街87号 (C) 罗宾逊路821号 (D) 松林大道909号",
+              "explanation": "罗先生住在麒麟草街区，位于罗宾逊路821号的麒麟草街区分行距离他最近。答案是 (C)。"
+            }
+          ]
+        },
+        {
+          "id": "p191",
+          "descriptor": "schedule, notice, and letter",
+          "title": "Lincoln Station",
+          "text": "Lincoln Station Departures * Runs from Monday to Saturday only. It is possible to purchase transportation passes which allow unlimited travel on all of the city’s commuter trains. Passes may be purchased for one day, three days, one week, and one month. Inquire at the ticket booth for more information. Visit www.peoriacommutertrain.com to find out about routes, travel times, and costs. NOTICE Lincoln Station will close at 5:00 every evening during the month of December. Repair work on the station’s interior will take place in the station during that time. Commuter trains scheduled to depart after that time will instead stop at Haywood Commuter Train Station. Access to the station will not be granted between 5:00 P.M. and 6:00 A.M. Please contact Sabrina Marlowe at smarlowe@peoriacommutertrain.com if you have any questions regarding the closure. To: smarlowe@peoriacommutertrain.com From: duncanroswell@personalmail.com Subject: Bus Pass Date: December 2 Dear Ms. Marlowe, I was caught completely off guard yesterday when I arrived at Lincoln Station to go to my home on Nutmeg Street. While another passenger informed me where to catch a train, I was unable to purchase a transportation pass like I normally do at the start of each month. I wonder if there is some way I could pay online and then have a pass mailed to me at my home or place of business. If you would be kind enough to respond quickly, I would appreciate it. Sincerely, Duncan Roswell",
+          "questions": [
+            {
+              "number": 191,
+              "stem": "According to the schedule, which destination cannot be reached on Sundays?",
+              "options": {
+                "A": "St. James Street",
+                "B": "Duncan Road 1129",
+                "C": "Mayberry Avenue",
+                "D": "Nutmeg Street"
+              },
+              "answer": "A",
+              "translation": "根据时刻表，周日不能抵达下列哪个目的地？ (A) 圣詹姆斯街 (B) 邓肯路 (C) 梅伯里大街 (D) 肉豆蔻街",
+              "explanation": "根据时刻表中的星号“*”可知，终点站为圣詹姆斯街的131号车只在周一至周六运营。答案是 (A)。"
+            },
+            {
+              "number": 192,
+              "stem": "In December, what is the last time the number 244 commuter train will depart from Lincoln Station?",
+              "options": {
+                "A": "At 12:53 P.M.",
+                "B": "At 2:09 P.M.",
+                "C": "At 4:30 P.M.",
+                "D": "At 6:41 P.M."
+              },
+              "answer": "C",
+              "translation": "12月，末班244号列车离开林肯站的时间是几点？ (A) 下午12:53 (B) 下午2:09 (C) 下午4:30 (D) 下午6:41",
+              "explanation": "由通知内容可知，林肯车站在12月每天下午5:00点闭站，因此244号列车最晚离开林肯站的时间则是下午4:30。答案是 (C)。"
+            },
+            {
+              "number": 193,
+              "stem": "Why will Lincoln Station close early in December?",
+              "options": {
+                "A": "It is undergoing renovations.",
+                "B": "Few passengers use it then.",
+                "C": "Its budget has been reduced.",
+                "D": "Some workers were laid off."
+              },
+              "answer": "A",
+              "translation": "林肯车站为什么会在12月份提前闭站？ (A) 车站内部进行翻修作业。 (B) 那时乘客很少。 (C) 车站经费减少。 (D) 一些员工被解雇了。",
+              "explanation": "通知第一句提到，林肯车站在12月提前闭站是由于内部翻修。答案是 (A)。"
+            },
+            {
+              "number": 194,
+              "stem": "Which commuter train does Mr. Roswell most likely take?",
+              "options": {
+                "A": "Number 131",
+                "B": "Number 244",
+                "C": "Number 364",
+                "D": "Number 382"
+              },
+              "answer": "D",
+              "translation": "罗斯威尔先生最可能乘坐哪趟列车？ (A) 131号 (B) 244号 (C) 364号 (D) 382号",
+              "explanation": "邮件提到，罗斯威尔先生的家位于肉豆蔻街，以上四个选项中，只有 382号列车的终点站为肉豆蔻街。答案是 (D)。"
+            },
+            {
+              "number": 195,
+              "stem": "What does Mr. Roswell request Ms. Marlowe to do?",
+              "options": {
+                "A": "Call him at his office",
+                "B": "Arrange a payment method",
+                "C": "Send the transportation card he bought",
+                "D": "Clarify a change in a schedule"
+              },
+              "answer": "B",
+              "translation": "罗斯威尔先生请求马洛女士做什么？ (A) 给他的办公室打电话 (B) 提供一种购票方法 (C) 将他购买的车票送过去 (D) 阐明时刻表中的变化",
+              "explanation": "罗斯威尔先生请求马洛女士提供一种能够网上购票的方法。答案是 (B)。"
+            }
+          ]
+        },
+        {
+          "id": "p196",
+          "descriptor": "advertisement, e-mail, and letter",
+          "title": "Bernard Rentals is the city’s top real estate agency. Let our realtors find the",
+          "text": "Bernard Rentals is the city’s top real estate agency. Let our realtors find the perfect place for you. Tell them what you’re looking for, and they’ll match your desires with the available homes. We’ll take you through the entire process of buying or renting a home. Our prices are low, but the quality of our service is high. Here are some of the homes we have now: 56 Cherry Lane: 4 bedrooms, 3 bathrooms, swimming pool, near elementary and middle schools, $190,000 743 Rockefeller Road: 3 bedrooms, 2 bathrooms, 2-car garage, close to highway, $165,000 31 Stanton Avenue: 2 bedrooms, 1 bathroom, large backyard, next to Bedford Forest, $120,000 88 Walden Street: 4 bedrooms, 2 bathrooms, fenced-in backyard, near Hatfield Park, $170,000 To learn more, contact us at information@bernardrentals.com. To: information@bernardrentals.com From: susandavis@tmr.com Subject: Moving Date: August 11 Dear Sir/Madam, My husband and our two children are moving to Oxnard in two months, so we’re interested in acquiring a house by then. I wonder if you have any homes that would fit our needs. Ideally, my children would each have a room of their own, and we wouldn’t spend more than $175,000. Since it rains and snows a lot there, we’d prefer a covered area for both of our cars. We’ll be in the city one week from today. If you can identify a few places for us to check out by that time, I’d appreciate it. Sincerely, Susan Davis September 18 Dear Susan, It was such a shock to get a letter from you the other day. It’s been a long time, hasn’t it? I’m pleased to hear that you and your family are doing well. I’m even more pleased to know that we’re going to be neighbors soon. In fact, it sounds like you’re going to be living two blocks away from us. Let me know when you intend to arrive, and Jason and I will head over there to help you unpack. We can also give you recommendations on where to go for shopping, food, and entertainment. You can feel free to give me a call at (704) 329-8737 anytime. Best, Martina Thompson",
+          "questions": [
+            {
+              "number": 196,
+              "stem": "In the advertisement, what is mentioned about Bernard Rentals?",
+              "options": {
+                "A": "It sells both homes and apartments.",
+                "B": "It prefers to be reached by phone.",
+                "C": "It is the oldest realtor in the city.",
+                "D": "It charges small amounts for its services."
+              },
+              "answer": "D",
+              "translation": "关于伯纳德租赁公司，广告中提到了什么？ (A) 该公司同时出售房屋和公寓。 (B) 该公司更倾向于通过电话与客户联系。 (C) 它是该市成立时间最久的房产中介公司。 (D) 该公司的服务费用低廉。",
+              "explanation": "广告提到，伯纳德租赁公司价格低廉，但是服务优质。答案是 (D)。"
+            },
+            {
+              "number": 197,
+              "stem": "Which home fits Ms. Davis’s requirements best?",
+              "options": {
+                "A": "56 Cherry Lane 1132",
+                "B": "743 Rockefeller Road",
+                "C": "31 Stanton Avenue",
+                "D": "88 Walden Street"
+              },
+              "answer": "B",
+              "translation": "下列哪栋房子最能满足戴维斯女士的需求？ (A) 樱桃巷56号 (B) 洛克菲勒路743号 (C) 斯坦顿大街31号 (D) 瓦尔登大街88号",
+              "explanation": "戴维斯女士一家人需要3间卧室，并且需要一个双车位的车库，预算不超过17.5万美元，显然洛克菲勒路743号最符合她一家人的需求。答案是 (B)。"
+            },
+            {
+              "number": 198,
+              "stem": "In the e-mail, what does Ms. Davis request Bernard Rentals to do?",
+              "options": {
+                "A": "Help her get financing for a house",
+                "B": "Suggest some homes to look at",
+                "C": "Negotiate with the owner of a home",
+                "D": "Send her a brochure about the city"
+              },
+              "answer": "B",
+              "translation": "在邮件中，戴维斯女士希望伯纳德租赁公司能为她做什么？ (A) 帮助她筹集购房资金 (B) 帮她寻找房源 (C) 与房主谈判 (D) 送她一本该市的宣传册",
+              "explanation": "在邮件中，戴维斯女士希望伯纳德租赁公司能为她寻找一些房源，带她去看房。答案是 (B)。"
+            },
+            {
+              "number": 199,
+              "stem": "What is suggested about Ms. Thompson?",
+              "options": {
+                "A": "She has school-aged children.",
+                "B": "She used to work with Ms. Davis.",
+                "C": "She is employed at Bernard Rentals.",
+                "D": "She is a resident of Oxnard."
+              },
+              "answer": "D",
+              "translation": "关于汤普森女士，文中暗示了什么？ (A) 她的孩子正在上学。 (B) 她曾经与戴维斯女士是同事。 (C) 她在伯纳德租赁公司工作。 (D) 她居住在奥克斯纳德。",
+              "explanation": "汤普森女士在邮件中写道，她跟戴维斯女士可能会成为邻居，说明她也居住在奥克斯纳德。答案是 (D)。"
+            },
+            {
+              "number": 200,
+              "stem": "What does Ms. Thompson offer to do for Ms. Davis?",
+              "options": {
+                "A": "Tell her about the local area",
+                "B": "Introduce a real estate agency",
+                "C": "Discuss the local elementary schools",
+                "D": "Cook dinner for her and her family"
+              },
+              "answer": "A",
+              "translation": "汤普森女士主动提出要为戴维斯女士做什么？ (A) 向她介绍当地情况 (B) 向她介绍一家房地产中介公司 (C) 讨论当地的小学 (D) 为她和她的家人做晚餐",
+              "explanation": "汤普森女士提出要向戴维斯女士推荐当地购物、吃饭和休闲娱乐的地方。答案是 (A)。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

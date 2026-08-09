@@ -1,0 +1,24 @@
+# dependencies
+node_modules/
+
+# next.js
+.next/
+out/
+
+# the app's local SQLite database (dynamic records, not the question bank)
+data/app.db
+data/app.db-journal
+data/app.db-shm
+data/app.db-wal
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+
+.code-review-graph/

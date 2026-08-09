@@ -1,0 +1,1474 @@
+{
+  "testId": "reading-03",
+  "title": "阅读全真模拟 03",
+  "verified": false,
+  "parts": [
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 101,
+          "stem": "Our new social organizer’s personal favorites do not include jazz or classical music, but she loves listening to techno, world music, ------- rock.",
+          "options": {
+            "A": "so",
+            "B": "but",
+            "C": "yet",
+            "D": "and"
+          },
+          "answer": "D",
+          "translation": "我们的新社交组织者的个人爱好不包括爵士乐或古典音乐，但是她喜欢听电子音乐、世界风音乐和摇滚乐。",
+          "explanation": "列出几项有并列关系的语句时，在最后一项前加and，其他项用逗号分开。文中列出了techno、world music、rock三个音乐种类，因此要在最后一项rock前使用并列连词(D) and。"
+        },
+        {
+          "number": 102,
+          "stem": "It is strongly advised that you check that you have all your essential documents in a briefcase ------- you set out on an international trip.",
+          "options": {
+            "A": "upon",
+            "B": "before",
+            "C": "beside 876",
+            "D": "next to"
+          },
+          "answer": "B",
+          "translation": "我们强烈建议你在开始国际旅行前检查一下你所有的重要文件是否都在公文包里。",
+          "explanation": "横线前后都是完整的结构，因此横线处需填入连词。答案是 (B) before，其余选项均为介词。"
+        },
+        {
+          "number": 103,
+          "stem": "The most ------- piece in the collection was acquired by our founder and principal patron during an archaeological expedition he undertook in 1935.",
+          "options": {
+            "A": "value",
+            "B": "valuing",
+            "C": "values",
+            "D": "valuable"
+          },
+          "answer": "D",
+          "translation": "这件最有价值的藏品是我们的创立者及最重要的赞助人在1935年参加的一次考古探险中得到的。",
+          "explanation": "横线前有表示最高级的the most，横线后有名词piece，因此横线处应填入形容词。答案是(D) valuable。"
+        },
+        {
+          "number": 104,
+          "stem": "At this year’s orientation session, the general manager ------- took the time to personally welcome all new recruits in her usual, affable manner.",
+          "options": {
+            "A": "she",
+            "B": "her",
+            "C": "hers",
+            "D": "herself"
+          },
+          "answer": "D",
+          "translation": "在今年的新员工培训会上，总经理以她一贯的和蔼态度亲自对所有新员工表示了欢迎。",
+          "explanation": "反身代词可作主语或宾语的同位语表示强调，一般置于所强调词的后面。本句中反身代词(D) herself强调的是句子的主语。"
+        },
+        {
+          "number": 105,
+          "stem": "Our latest customer ------- survey reveals some problems in the after-sales service area, especially the lack of a telephone hotline.",
+          "options": {
+            "A": "satisfying",
+            "B": "satisfied",
+            "C": "satisfaction",
+            "D": "satisfactory"
+          },
+          "answer": "C",
+          "translation": "我们最近的一次顾客满意度调查显示出售后服务方面的一些问题，尤其是没有热线电话。",
+          "explanation": "late的最高级latest修饰名词短语customer ______ survey，横线处应填入名词。答案是(C)satisfaction。customer satisfaction survey(顾客满意度调查)常出现在托业考试中，须熟记。"
+        },
+        {
+          "number": 106,
+          "stem": "Our on-going, ------- development seminars allow staff members to develop their skills in various directions.",
+          "options": {
+            "A": "profession",
+            "B": "professionally",
+            "C": "professional",
+            "D": "professionalism"
+          },
+          "answer": "C",
+          "translation": "我们正在进行的职业发展讲座能让员工在各个方面发展他们的技能。",
+          "explanation": "on-going后是逗号，说明横线处所填单词和on-going一起修饰development seminars，因此横线处应填入形容词。故选 (C)professional。"
+        },
+        {
+          "number": 107,
+          "stem": "If you wish to register for State University’s new Academic News Update ---- ---, please log-in, click on the“register” box, and then list your preferences.",
+          "options": {
+            "A": "service",
+            "B": "servicing",
+            "C": "serviced",
+            "D": "serviceable"
+          },
+          "answer": "A",
+          "translation": "如果你希望注册州立大学新开设的学术动态信息服务，请登录，点击“注册”框，然后列出你的喜好。",
+          "explanation": "Academic News Update ______是被形容词new修饰的名词短语，因此横线处应填入名词。答案是(A) service。"
+        },
+        {
+          "number": 108,
+          "stem": "The music faculty offers free weekly seminars designed to encourage young musicians to begin ------- their own masterpieces.",
+          "options": {
+            "A": "composer",
+            "B": "composes",
+            "C": "composed",
+            "D": "composing"
+          },
+          "answer": "D",
+          "translation": "音乐学院每周提供免费的讲座，鼓励年轻的音乐家开始创作他们自己的杰作。",
+          "explanation": "begin后可以接动名词或不定式作宾语，故选(D) composing。"
+        },
+        {
+          "number": 109,
+          "stem": "At the latest meeting of the Business Advisory Council, the newly elected president ------- that the council extend its activities to the field of social justice.",
+          "options": {
+            "A": "propose",
+            "B": "proposal",
+            "C": "proposing",
+            "D": "proposed"
+          },
+          "answer": "D",
+          "translation": "在最近的一次商业咨询委员会会议上，新当选的主席提议委员会拓展社会正义活动。",
+          "explanation": "that the council extend its activities to the field of social justice是宾语，而且主语the newly elected president是第三人称单数形式，因此在动词(A) propose和(D) proposed中选择(D)。填入 (B) proposal或(C) proposing都不能构成完整的句子。"
+        },
+        {
+          "number": 110,
+          "stem": "To celebrate our tenth year in the stationery supply business, we’d like to offer a special bonus discount ------- our most loyal customers.",
+          "options": {
+            "A": "to",
+            "B": "by",
+            "C": "as",
+            "D": "at"
+          },
+          "answer": "A",
+          "translation": "为了庆祝我们的文具供应业务进入第十年，我们将对最忠实的客户提供特别的折扣。",
+          "explanation": "本题乍一看像是一道介词题，实际上是在考查动词offer的用法。接双宾语的及物动词offer一般使用“offer+间接宾语+直接宾语”的结构，但两个宾语的位置可对调，对调时需在间接宾语前加介词to，形成“offer+直接宾语+to+间接宾语”的结构。答案是(A) to。"
+        },
+        {
+          "number": 111,
+          "stem": "------- recent adjustments in income tax rates, workers will find themselves pleasantly surprised by an increase in the size of their paychecks.",
+          "options": {
+            "A": "Due to",
+            "B": "While",
+            "C": "In fact",
+            "D": "Whether"
+          },
+          "answer": "A",
+          "translation": "",
+          "explanation": ""
+        },
+        {
+          "number": 112,
+          "stem": "Much of investors’ long-held esteem in the company ------- during the share- market boom when executives were involved in accounting irregularities.",
+          "options": {
+            "A": "losing",
+            "B": "loses",
+            "C": "was lost",
+            "D": "is lost"
+          },
+          "answer": "C",
+          "translation": "当领导层卷入做假账事件后，大多数投资者失去了在股票市场繁荣时期建立起来的对公司的尊敬。",
+          "explanation": "横线处需填入句子的谓语。lose是及物动词，但横线后并没有宾语，因此应为被动语态。状语从句when executives were involved in accounting irregularities是过去时，按照句意主句也应是过去时，故选 (C) was lost。"
+        },
+        {
+          "number": 113,
+          "stem": "The Springborg Hotel chain’s attention to detail and business-friendly pricing structure make our hotels ------- to any others in the mid-priced hotel bracket.",
+          "options": {
+            "A": "better",
+            "B": "improved",
+            "C": "superior",
+            "D": "advanced"
+          },
+          "answer": "C",
+          "translation": "斯普林堡连锁酒店注重细节和利于经营的价格结构使我们的酒店在中档价位酒店中处于优势地位。",
+          "explanation": "any others in the mid-priced hotel bracket(中档价位的其他酒店)是比较对象，横线后有介词to，因此表示比较意义的形容词(C) superior最恰当。"
+        },
+        {
+          "number": 114,
+          "stem": "Professor Barkley is not ------- an expert in classical economics but also a world-renowned specialist in international banking laws.",
+          "options": {
+            "A": "over",
+            "B": "only",
+            "C": "less",
+            "D": "alone"
+          },
+          "answer": "B",
+          "translation": "巴克利教授不仅是古典经济学专家，而且还是世界闻名的国际银行法专家。",
+          "explanation": "根据横线前的not和横线后的but also，应该马上联想到not only...but also... 这一结构。故正确答案为(B) only。"
+        },
+        {
+          "number": 115,
+          "stem": "Under the new law, consumers are entitled to ------- if products malfunction or fail to perform as promised.",
+          "options": {
+            "A": "compensate",
+            "B": "compensated",
+            "C": "compensating",
+            "D": "compensation"
+          },
+          "answer": "D",
+          "translation": "在新法律下，如果产品有质量问题或者不能像商家承诺的那样使用，消费者有获得补偿的权利。",
+          "explanation": "be entitled to +名词/动名词/动词原形，故排除(B)。 compensate是及物动词，需要后接宾语，故排除(A)和(C)。答案是名词(D) compensation。"
+        },
+        {
+          "number": 116,
+          "stem": "During the one-month trial period, customers are under no ------- to sign any contracts.",
+          "options": {
+            "A": "pledge",
+            "B": "promise",
+            "C": "obligation",
+            "D": "engagement"
+          },
+          "answer": "C",
+          "translation": "在一个月的试用期内，客户没有义务签订任何合同。",
+          "explanation": "一般在trial period(试用期)内不会让客户承担任何责任或义务，因此(C) obligation(义务)最恰当。"
+        },
+        {
+          "number": 117,
+          "stem": "Educational expenses are tax-deductible ------- the taxpayer can show that these expenses enhanced his or her professional skills or expertise.",
+          "options": {
+            "A": "only if",
+            "B": "as if",
+            "C": "as many as",
+            "D": "as much as"
+          },
+          "answer": "A",
+          "translation": "只要纳税人表示这些费用提高了他或她的职业技能或专长，那么教育费用就不必交税了。",
+          "explanation": "the taxpayer can show that... skills or expertise可看作educational expenses are tax-deductible的条件，因此(A) only if最恰当。"
+        },
+        {
+          "number": 118,
+          "stem": "If you cannot make up your mind ------- destination to choose for your summer holidays, why not talk with our experienced travel consultants?",
+          "options": {
+            "A": "whom",
+            "B": "which",
+            "C": "on",
+            "D": "about"
+          },
+          "answer": "B",
+          "translation": "如果你无法决定暑假度假的目的地，为什么不和我们经验丰富的旅游顾问谈谈呢？",
+          "explanation": "介词(C) on和(D) about都是“关于”的意思，用法比较相似，因此在这种单选题中不可能是正确答案。whom是疑问代词，不能修饰名"
+        },
+        {
+          "number": 119,
+          "stem": "The Public Transport Commission’s commitment to running our city’s trains and buses as ------- as possible has reduced costs to the taxpayer by 5%.",
+          "options": {
+            "A": "efficient 880",
+            "B": "efficiency",
+            "C": "efficiently",
+            "D": "efficiencies"
+          },
+          "answer": "C",
+          "translation": "公共交通委员会承诺使我市的火车和公交车尽可能高效地运营，这使纳税人可以少交5%的税。",
+          "explanation": "横线处需要填入形容词或副词。填入形容词可修饰前面的名词或充当表语，填入副词则修饰动词。根据本句结构，横线处所填单词需要修饰running。故选副词(C) efficiently。"
+        },
+        {
+          "number": 120,
+          "stem": "Unfortunately, any benefits gained by lowering prices never ------- if they are achieved by a reduction in quality.",
+          "options": {
+            "A": "last",
+            "B": "pass",
+            "C": "spend",
+            "D": "retain"
+          },
+          "answer": "A",
+          "translation": "不幸的是，通过偷工减料削减价格而获得的利益从来不会持久。",
+          "explanation": "句中没有谓语动词，if they are achieved by a reduction in quality是条件状语从句，因此全句无宾语，横线处应填入不及物动词。 (D) retain(保留)是及物动词。(B) pass(经过，通过)虽然是不及物动词，但是要后接表示场所的状语。(C) spend(消耗，花费)与句意不符。故选择 (A) last(持久)。"
+        },
+        {
+          "number": 121,
+          "stem": "------- serious disadvantage of the existing plant is the lack of adequate ventilation; workers frequently complain of nausea and headaches.",
+          "options": {
+            "A": "Any",
+            "B": "Other",
+            "C": "Another",
+            "D": "One another"
+          },
+          "answer": "C",
+          "translation": "",
+          "explanation": ""
+        },
+        {
+          "number": 122,
+          "stem": "Encounter Environmental Tours offers trips to some of the most beautiful and isolated wildernesses in the world ------- all the comforts of five-star accommodations.",
+          "options": {
+            "A": "both",
+            "B": "plus",
+            "C": "though",
+            "D": "together"
+          },
+          "answer": "B",
+          "translation": "“相约自然旅行”为您提供世界上最美丽、最与世隔绝的荒野之旅，以及全程五星级的舒适住宿。",
+          "explanation": "横线前后是两个名词短语，因此横线处应填入并列连词或介词。只有(B) plus符合要求。这里的plus = and also。"
+        },
+        {
+          "number": 123,
+          "stem": "A recent survey showed that the increase in the number of random tax audits on businesses has been ------- unpopular.",
+          "options": {
+            "A": "predict 881",
+            "B": "prediction",
+            "C": "to predict",
+            "D": "predictably"
+          },
+          "answer": "D",
+          "translation": "近期的一项调查显示，商业税务随机监察的增加预计不会受欢迎。",
+          "explanation": "has been _____ unpopular已经是完整的结构，因此横线处需要填入修饰unpopular的副词。故选(D) predictably。"
+        },
+        {
+          "number": 124,
+          "stem": "The company is pleased to announce that we have invited several members of our experienced ------- and casual staff to become permanent employees.",
+          "options": {
+            "A": "minor",
+            "B": "lengthy",
+            "C": "temporary",
+            "D": "duplicate"
+          },
+          "answer": "C",
+          "translation": "公司很高兴地宣布我们已经邀请了几位有经验的临时工和非正式员工成为正式员工。",
+          "explanation": "并列连词and一般用于列举相同词性的词汇，因此应选择和 casual(非正规的)意思相近的形容词。答案是(C) temporary(临时的)。"
+        },
+        {
+          "number": 125,
+          "stem": "The company admitted that it had been entirely at fault and announced that all professional fees that it had collected were to be fully -------.",
+          "options": {
+            "A": "refunds",
+            "B": "refunding",
+            "C": "refunded",
+            "D": "is refunded"
+          },
+          "answer": "C",
+          "translation": "公司承认自己负完全责任，并宣布之前收到的所有职业培训费用将如数退还。",
+          "explanation": "本题需选择动词的适当词形。横线前为were to be fully，为被动语态结构，故选择(C) refunded(退还)。"
+        },
+        {
+          "number": 126,
+          "stem": "Media organizations can be called before a tribunal if they fail to operate ----- -- the guidelines laid out by federal legislation.",
+          "options": {
+            "A": "within",
+            "B": "among",
+            "C": "between",
+            "D": "from"
+          },
+          "answer": "A",
+          "translation": "如果媒体机构没有依循联邦立法方针运作，可能会被法院传唤。",
+          "explanation": "根据guidelines laid out by federal legislation(联邦立法的方针)，可推测句意应为“媒体机构的运作不遵守联邦立法的方针时，可能会被法庭传唤”，因此(A) within(在…之内)最恰当。"
+        },
+        {
+          "number": 127,
+          "stem": "These days managers and designers are expected to work ------- to a greater extent than in the past.",
+          "options": {
+            "A": "collaboratively",
+            "B": "collaborative 882",
+            "C": "collaboration",
+            "D": "collaborate"
+          },
+          "answer": "A",
+          "translation": "如今，经理和设计师被希望能比以前更广泛地协作。",
+          "explanation": "to a greater extent than in the past(比以前更广泛地) 是全句的状语，因此横线处应填入修饰work的副词。答案是(A) collaboratively(协作地)。"
+        },
+        {
+          "number": 128,
+          "stem": "The unemployment figures ------- last June, no doubt due to the surprise closure of several leading Australian manufacturers.",
+          "options": {
+            "A": "enlarged",
+            "B": "reached",
+            "C": "peaked",
+            "D": "magnified"
+          },
+          "answer": "C",
+          "translation": "去年6月，失业人数达到最高点，这无疑是因为澳大利亚几家最主要的制造厂商突然倒闭。",
+          "explanation": "the unemployment figures(失业人数)是主语，横线后没有宾语，因此横线处应填入表示“增加”或“减少”的不及物动词，先排除及物动词(D) magnified(放大)和(B) reached(达到)。(A) enlarged表示体积或规模的扩大。(C) peaked表示数值或水平达到最高点，是不及物动词，因此(C)是正确答案。"
+        },
+        {
+          "number": 129,
+          "stem": "The business council stated its opinion that the new penalties for tax evasion are out of ------- with the seriousness of the crime.",
+          "options": {
+            "A": "size",
+            "B": "proportion",
+            "C": "equivalence",
+            "D": "combination"
+          },
+          "answer": "B",
+          "translation": "商业委员会表达了他们的意见，认为对逃税的最新处罚措施与其罪行的严重程度不相称。",
+          "explanation": "本题需选择符合句意的名词。将备选答案一一代入后分析全句。(B) proportion(比率，均衡)和new penalties for tax evasion(对逃税的最新处罚措施)以及the seriousness of the crime(犯罪的严重性)语意搭配最连贯，又能和横线前后的out of和with构成固定搭配be out of proportion with(与…不相称)，故正确答案是(B)。"
+        },
+        {
+          "number": 130,
+          "stem": "In the interests of consumer safety, the senior management unanimously ------- to recall all versions of the Alphington and Executive sedans.",
+          "options": {
+            "A": "settled",
+            "B": "picked",
+            "C": "decided",
+            "D": "established"
+          },
+          "answer": "C",
+          "translation": "为了消费者的安全起见，高层管理人员一致决定召回阿尔法顿和埃克斯特夫所有类型的小轿车。",
+          "explanation": "unanimously decided(一致决定)最符合句意，故答案是(C) decided。"
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "passages": [
+        {
+          "id": "p131",
+          "descriptor": "notice",
+          "title": "The High Park Harvest Festival",
+          "text": "The High Park Harvest Festival A trio of colorful fall events gets underway in October with a horse and wagon ride (131) -------- High Park from Grenadier Café to Colborne Lodge. All ages. Oct. 1. $2. Storytelling, face painting, nature-themed crafts, and a marketplace full of autumn treats take (132) -------- residence at the Children’s Garden. Ages three and up. Oct. 1. Free. When the sun sets, brave the Haunted High Park tour, a moonlit stroll set to the eerie tales of old Chicago. Pre-registration is required. Ages eight and up. Oct. 27 and 28. Adults $10, ages eight and up $5. The playground in the northwest corner of the park becomes pumpkin carving central, when creations are set adrift on the water (133) -------- the annual High Park Pumpkin Float. (134) -------- .",
+          "questions": [
+            {
+              "number": 131,
+              "stem": "",
+              "options": {
+                "A": "after",
+                "B": "before",
+                "C": "during",
+                "D": "through"
+              },
+              "answer": "D",
+              "translation": "",
+              "explanation": "句意应为“从戈兰娜迪亚咖啡店穿过高地公园到达科尔伯恩旅馆”，因此答案是(D)through。"
+            },
+            {
+              "number": 132,
+              "stem": "",
+              "options": {
+                "A": "off",
+                "B": "on",
+                "C": "up",
+                "D": "care"
+              },
+              "answer": "C",
+              "translation": "",
+              "explanation": "按照句意，take ______ residence应表示“发生，举行”，因此选择(C)up。take up residence = take place(发生，进行，举行)。"
+            },
+            {
+              "number": 133,
+              "stem": "",
+              "options": {
+                "A": "until",
+                "B": "while 884",
+                "C": "during",
+                "D": "between"
+              },
+              "answer": "C",
+              "translation": "",
+              "explanation": "the annual High Park Pumpkin Float是在特定时间举行的活动的名称，故横线处应填入表示时间段的介词(C)during。"
+            },
+            {
+              "number": 134,
+              "stem": "",
+              "options": {
+                "A": "Tickets for adults on Oct. 27 and 28 have been sold out.",
+                "B": "Warm up afterward with some hot cider and storytelling.",
+                "C": "There are two free, colorful fall events on Oct. 1 for locals.",
+                "D": "On Oct. 27, people can enjoy the Hunted High Park tour."
+              },
+              "answer": "B",
+              "translation": "",
+              "explanation": "上句介绍了有关南瓜漂流活动的内容。横线处填“在之后的热身活动中会供应热苹果汁，还有讲故事活动”能与上文呼应，故选(B) 。"
+            }
+          ]
+        },
+        {
+          "id": "p135",
+          "descriptor": "letter",
+          "title": "Mr. Sean Ronald",
+          "text": "Mr. Sean Ronald 1385 Midland Ave. Sydney Australia Dear Mr. Ronald, On September 3, you asked me to make hotel reservations for your guests. As per your instruction, 2 rooms (double-bed requested) have been booked at the Marco Polo Hong Kong Hotel (135) -------- details as shown: Guest Names: Mr. John Simpson & Mr. Mark Fritzler Check-in Date: Sept. 22, 2018 Check-out Date: Sept. 25, 2018 Hotel Address: 3 Canton Road, Harbour City, Tsim Sha Tsui, Kowloon Hotel Telephone: (852) 2113 0088 Room Rate: HK$1,250 net per room per night Total Room Rate: HK$1,250 x 3 nights x 2 rooms = HK$7,500 (136) -------- . Simply proceed to counters A16 or B16 (Parklane Counter) at the Arrival Hall and pay HK$130 per person for the shuttle bus fare. The shuttle bus will take you to the hotel. Apex/HKG will (137) -------- the room rate for the guests first. Thus, the guests are not required to pay the room rate when checking out. Apex/HKG will (138) -------- them later. However, if room service such as the mini-bar is used, the guests will need to settle them when checking out. Sincerely, Cory White",
+          "questions": [
+            {
+              "number": 135,
+              "stem": "",
+              "options": {
+                "A": "with",
+                "B": "by",
+                "C": "for",
+                "D": "along"
+              },
+              "answer": "A",
+              "translation": "",
+              "explanation": "按照句意，______ details as shown应表示“详细信息如下”，故 (A)with最恰当。"
+            },
+            {
+              "number": 136,
+              "stem": "",
+              "options": {
+                "A": "There is a hotel shuttle bus that can take the guests to the hotel.",
+                "B": "You have booked two rooms at the Marco Polo Hong Kong Hotel.",
+                "C": "Guests will not need to pay for room services such as the mini-bar.",
+                "D": "The room rate must be paid by guests when they check out."
+              },
+              "answer": "A",
+              "translation": "",
+              "explanation": "下句介绍如何乘坐大巴到达酒店。可知，横线处应填入与大巴有关的信息，故选(A)。"
+            },
+            {
+              "number": 137,
+              "stem": "",
+              "options": {
+                "A": "decide",
+                "B": "select",
+                "C": "settle",
+                "D": "detour"
+              },
+              "answer": "C",
+              "translation": "",
+              "explanation": "横线处应填入词义为“支付”的动词。(C)settle除了有“解决”的意思之外，还可表示“支付，结算”，故为正确答案。"
+            },
+            {
+              "number": 138,
+              "stem": "",
+              "options": {
+                "A": "accuse",
+                "B": "loan",
+                "C": "credit 886",
+                "D": "charge"
+              },
+              "answer": "D",
+              "translation": "",
+              "explanation": "解答本题需仔细阅读并理解文章内容。文中提到，因Apex/HKG会先代付酒店费用，故客人在办理退房手续时不需要支付相关费用，因此“Apex/HKG会在以后向客人收费”的句意最恰当。答案是(D)charge。"
+            }
+          ]
+        },
+        {
+          "id": "p139",
+          "descriptor": "advertisement",
+          "title": "Overview",
+          "text": "Overview The Grand Hotel, which is situated at Fort Worth International Airport in Dallas, has a covered, climate-controlled skywalk that connects the hotel directly to Terminal 3 and to an Automated People Mover going to Terminal 1. Our check-in kiosks, recently installed in the lobby, allow our guests to check in for flights and receive their boarding passes (139) -------- from the hotel. Guests can also check their baggage here and not have to worry about lining up at the airport. The monitors set up next to the kiosks display flight departure and arrival times to ensure that you’re (140) -------- on time. (141) -------- . Our warm and friendly staff will go out of their way to make you feel right at home. Relax and unwind from the stresses of (142) -------- in one of our recently renovated guest rooms, complete with a jacuzzi in each room. So the next time you’re in Dallas, experience how comfortable and convenient travel can be. When you check into the Grand hotel, you don’t just stay, you belong.",
+          "questions": [
+            {
+              "number": 139,
+              "stem": "",
+              "options": {
+                "A": "right",
+                "B": "rightly",
+                "C": "rightful",
+                "D": "rightfully"
+              },
+              "answer": "A",
+              "translation": "",
+              "explanation": "此处修饰from the hotel，应选副词(A)right。right from是“直接从…”的意思。"
+            },
+            {
+              "number": 140,
+              "stem": "",
+              "options": {
+                "A": "often",
+                "B": "finally",
+                "C": "always",
+                "D": "almost"
+              },
+              "answer": "C",
+              "translation": "",
+              "explanation": "显示屏显示飞机起飞和降落时间的目的是to ensure that you’re"
+            },
+            {
+              "number": 141,
+              "stem": "",
+              "options": {
+                "A": "Guests can enjoy free internet service in the Grand Hotel.",
+                "B": "The Grand Hotel installed check-in kiosks in the lobby about three years ago.",
+                "C": "The Grand Hotel is not far from a local supermarket.",
+                "D": "At the Grand Hotel, you will feel right at home the moment you set foot in our hotel."
+              },
+              "answer": "D",
+              "translation": "",
+              "explanation": "下句说酒店服务带给人的感受。可知，横线处所填句子内容也应与此相关，故选(D)。"
+            },
+            {
+              "number": 142,
+              "stem": "",
+              "options": {
+                "A": "visit",
+                "B": "tour",
+                "C": "travel",
+                "D": "arrival"
+              },
+              "answer": "C",
+              "translation": "",
+              "explanation": "这则广告主要是在宣传机场旁的酒店，因此(C)travel最恰当。"
+            }
+          ]
+        },
+        {
+          "id": "p143",
+          "descriptor": "e-mail",
+          "title": "",
+          "text": "",
+          "questions": [
+            {
+              "number": 143,
+              "stem": "",
+              "options": {
+                "A": "job",
+                "B": "chance",
+                "C": "limit",
+                "D": "pursuit"
+              },
+              "answer": "A",
+              "translation": "",
+              "explanation": "由前一句内容“有一个销售机会”和表语to send a package by express cargo mode from FRA to NY判断，(A)job最恰当。"
+            },
+            {
+              "number": 144,
+              "stem": "",
+              "options": {
+                "A": "The task may not be that easy to fulfill.",
+                "B": "I hope that a profit sharing of 60/40 will be okay with you.",
+                "C": "We are looking for an arrival on the day after shipment.",
+                "D": "The shipment’s content contains books and magazines."
+              },
+              "answer": "C",
+              "translation": "",
+              "explanation": "上句说发货次数，下句询问对方能否承担此项工作。可知，横线处应继续描述运货要求，故选(C)。"
+            },
+            {
+              "number": 145,
+              "stem": "",
+              "options": {
+                "A": "how",
+                "B": "that",
+                "C": "what",
+                "D": "whether"
+              },
+              "answer": "D",
+              "translation": "",
+              "explanation": "______ you are able to handle this是宾语从句，且you are able to handle this已构成完整的结构，故先排除(C)what。句意应为“想知道你能否承担这一工作”，故选(D)whether。"
+            },
+            {
+              "number": 146,
+              "stem": "",
+              "options": {
+                "A": "defended",
+                "B": "refused",
+                "C": "incurred",
+                "D": "conveyed"
+              },
+              "answer": "C",
+              "translation": "",
+              "explanation": "和charges(费用)语意连贯的是(C)incurred(引发的)。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passages": [
+        {
+          "id": "p147",
+          "descriptor": "text message chain",
+          "title": "Alice Sims [1:04 P.M.]",
+          "text": "Alice Sims [1:04 P.M.] Good afternoon, Chris. I arrived at the train station but don’t know where your company is located. Which bus should I take? Chris Ernst [1:05 P.M.] Hello, Alice. Actually, I recommend taking a taxi here. Alice Sims [1:06 P.M.] There are more than thirty people waiting in line, and there are no taxis in the queue. Chris Ernst [1:08 P.M.] In that case, get on bus number 67 heading west. It’ll take you an hour to get here though. Alice Sims [1:09 P.M.] In that case, I’ll get off after a couple of stops and find a taxi. Chris Ernst [1:10 P.M.] That should work. You’ll get here much faster then.",
+          "questions": [
+            {
+              "number": 147,
+              "stem": "Where most likely is Ms. Sims?",
+              "options": {
+                "A": "On a train",
+                "B": "On a bus",
+                "C": "Near a train station",
+                "D": "At a subway station"
+              },
+              "answer": "C",
+              "translation": "西姆斯女士最有可能在哪里？ (A) 在火车上 (B) 在公交车上 (C) 在火车站附近 (D) 在地铁站",
+              "explanation": "西姆斯女士告知欧内斯特先生自己到了火车站，并询问他该坐哪路公交车到公司。由此可知她在火车站附近，而不是在火车上、公交车上或是地铁站。答案是(C)。"
+            },
+            {
+              "number": 148,
+              "stem": "At 1:05 P.M., why does Mr. Ernst write,“I recommend taking a taxi here”?",
+              "options": {
+                "A": "To point out the cheapest way to travel",
+                "B": "To indicate his office is not near public transportation",
+                "C": "To encourage Ms. Sims not to be late for a meeting",
+                "D": "To suggest that Ms. Sims should not take the bus"
+              },
+              "answer": "D",
+              "translation": "下午1:05，欧内斯特先生为什么写道“我建议你坐出租车来这儿”？ (A) 为了指明最便宜的出行方式 (B) 为了表明他的办公室附近没有公共交通 (C) 为了劝说西姆斯女士开会不要迟到 (D) 为了建议西姆斯女士不要乘公交车",
+              "explanation": "欧内斯特先生建议西姆斯女士坐出租车来公司，西姆斯女士解释说出租车很难打到，于是欧内斯特先生告诉她应乘坐67路公交车，并告诉她要花一个小时才能到，由此可知欧内斯特先生建议西姆斯女士乘坐出租车是因为乘坐公交车的话路上的时间比较长，所以不要乘坐公交车。答案是(D)。"
+            }
+          ]
+        },
+        {
+          "id": "p149",
+          "descriptor": "notice",
+          "title": "Christmas and Boxing Day Arrangements",
+          "text": "Christmas and Boxing Day Arrangements As Christmas and Boxing Day fall on a Thursday and Friday this year, all periodical payments falling on those two days will be paid early on Wednesday. Staff will be processing authorizations and transferring funds until midnight (Australian Western Standard Time) on the 24th of December. Regular banking services will resume on the following Monday, the 29th of December. There will be no change in the operations of our Automatic Teller Machines or Electronic Funds Transfers. Our financial advisory services centers will, however, be closed on Christmas and Boxing Day. Internet transactions may be scheduled but will not be processed until Monday, the 29th of December. Phone banking services will not be available on the 25th, 26th, 27th, or 28th. We apologize for any inconvenience. We wish all of our customers a very happy and safe Christmas!",
+          "questions": [
+            {
+              "number": 149,
+              "stem": "Who is the intended audience of this notice?",
+              "options": {
+                "A": "Bank employees",
+                "B": "Customers",
+                "C": "Drivers",
+                "D": "Security guards"
+              },
+              "answer": "B",
+              "translation": "这个通知是针对谁的？ (A) 银行职员 (B) 客户 (C) 司机 (D) 保安",
+              "explanation": "本通知旨在向顾客公示圣诞节期间银行相关业务的运营情况。故答案是(B)。"
+            },
+            {
+              "number": 150,
+              "stem": "What is the purpose of the notice?",
+              "options": {
+                "A": "To announce the holiday schedule",
+                "B": "To notify customers of a holiday sale",
+                "C": "To apologize for a mistake",
+                "D": "To advertise a new type of service"
+              },
+              "answer": "A",
+              "translation": "这个通知的目的是什么？ (A) 宣布假期安排 (B) 通知客户假期减价活动 (C) 为失误道歉 (D) 为新服务做广告",
+              "explanation": "本通知公示了圣诞假期期间银行的业务变动及安排。故答案是(A)。"
+            },
+            {
+              "number": 151,
+              "stem": "Which of the following services can be performed on the 25th?",
+              "options": {
+                "A": "Paying utility bills at the teller’s window",
+                "B": "Receiving financial advice from the institution",
+                "C": "Transferring money by telephone",
+                "D": "Taking money out of a cash dispenser"
+              },
+              "answer": "D",
+              "translation": "以下哪项服务能在25日办理？ (A) 在出纳窗口交水电费 (B) 在银行咨询金融服务 (C) 用电话转账 (D) 从自动提款机取钱",
+              "explanation": "节日期间自动提款机和电子资金转账业务不受影响。Automatic Teller Machines=cash dispenser。故答案是(D)。"
+            },
+            {
+              "number": 152,
+              "stem": "What will happen to regular payments that fall on the 26th this year?",
+              "options": {
+                "A": "The payments will have to be mailed out.",
+                "B": "They won’t be taken care of until the 29th.",
+                "C": "The transactions will occur on that day.",
+                "D": "They will go out a few days early."
+              },
+              "answer": "D",
+              "translation": "在今年12月26日要支付的定期缴付款项会怎么处理？ (A) 缴付款项将需要寄出。 (B) 到29日再处理。 (C) 在当天转账。 (D) 会提前几天支付。",
+              "explanation": "原定在25日和26日自动扣除的定期支付金额会在星期三提前扣除。答案是(D)。"
+            }
+          ]
+        },
+        {
+          "id": "p153",
+          "descriptor": "form",
+          "title": "Sophie’s Place",
+          "text": "Sophie’s Place Questionnaire Dear Guest, Your continuous support and patronage is our greatest source of comfort. Your heartfelt comments are our compelling drive to provide better service for you. Please kindly complete this questionnaire to let us know your thoughts. Thank you very much. _____________________________________________________________________ Name: John Williams Telephone: 755-2563 Date of Visit: Nov. 28, 2018 Time of Visit: 6:30 p.m. Further Comments: We had to wait over an hour for our food to arrive. The food was very tasty, but I think the place needs more people to wait on customers.",
+          "questions": [
+            {
+              "number": 153,
+              "stem": "Which of the following is NOT true about the results of the questionnaire?",
+              "options": {
+                "A": "Mr. Williams felt that the restaurant was understaffed.",
+                "B": "Mr. Williams liked the food he had today.",
+                "C": "Mr. Williams felt that the price was very unreasonable.",
+                "D": "Mr. Williams thought the menu selection needs were limited."
+              },
+              "answer": "C",
+              "translation": "以下关于调查问卷的结果哪项不正确？ (A) 威廉斯先生觉得餐厅人手不够。 (B) 威廉斯先生喜欢今天的食物。 (C) 威廉斯先生觉得菜价很不合理。 (D) 威廉斯先生觉得菜品种类有限。",
+              "explanation": "威廉斯先生对价格的评价是Good，这说明价格很合理。unreasonable 表示“不合理，(价格等)过高的”。"
+            },
+            {
+              "number": 154,
+              "stem": "What can be implied about Mr. Williams?",
+              "options": {
+                "A": "He had dinner at the restaurant.",
+                "B": "He came with several guests.",
+                "C": "He is a regular customer.",
+                "D": "He is a very picky person."
+              },
+              "answer": "A",
+              "translation": "可以推断出有关威廉斯先生的什么信息？ (A) 他在这家餐厅用过晚餐。 (B) 他和几位客人一起去的。 (C) 他是一位常客。 (D) 他是一个很挑剔的人。",
+              "explanation": "威廉斯先生下午6:30光顾的这家店。答案是(A)。"
+            }
+          ]
+        },
+        {
+          "id": "p155",
+          "descriptor": "notice",
+          "title": "NOTICE TO CREDITORS",
+          "text": "NOTICE TO CREDITORS re: the estate of Michael Gordon, formerly of 7 Golden Circus, Victoria, British Columbia, deceased on the 19th of November. Notice is hereby given that any further creditors and other claimants against the said estate should contact the offices of Sankin and Sankin, Solicitors, Suite 9, 432 Wilberforce Road, Victoria, V8W 3R3, the executors of the will of Michael Gordon, no later than December 22. After that date, we, the executors, will distribute the estate among the parties entitled to it, taking into consideration only claims received by the due date.",
+          "questions": [
+            {
+              "number": 155,
+              "stem": "What is the main purpose of this notice?",
+              "options": {
+                "A": "To announce the passing away of Mr. Michael Gordon",
+                "B": "To find a missing person",
+                "C": "To remember a person who did good deeds",
+                "D": "To inform people of a due date to make claims against a person"
+              },
+              "answer": "D",
+              "translation": "该通知的主要目的是什么？ (A) 宣布迈克尔·戈登先生去世 (B) 寻找一位失踪的人 (C) 纪念一位做过好事的人 (D) 通知索赔人索赔截止日期",
+              "explanation": "该通知告知债权人索赔的有效期限截止到12月22日。故答案是(D)。"
+            },
+            {
+              "number": 156,
+              "stem": "In which part of the newspaper would this notice be printed?",
+              "options": {
+                "A": "In the editorial section",
+                "B": "In the obituary section",
+                "C": "In the business section",
+                "D": "In the want ad section"
+              },
+              "answer": "B",
+              "translation": "此通知会刊登在报纸的什么版面？ (A) 社论版 (B) 讣告版 (C) 商业版 (D) 招聘广告版",
+              "explanation": "本通知向债权人通报迈克尔·戈登的死亡消息，讣告栏最适当。答案是(B)。"
+            },
+            {
+              "number": 157,
+              "stem": "Who most likely took out this notice?",
+              "options": {
+                "A": "Mr. Gordon’s family",
+                "B": "Michael",
+                "C": "A law firm",
+                "D": "A bank"
+              },
+              "answer": "C",
+              "translation": "谁最有可能发出这个通知？ (A) 戈登先生的家人 (B) 迈克尔 (C) 律师事务所 (D) 银行",
+              "explanation": "债权人需要和遗嘱执行方——桑金律师事务所取得联系。答案是 (C)。"
+            },
+            {
+              "number": 158,
+              "stem": "According to the notice, what is going to occur after December 22?",
+              "options": {
+                "A": "A funeral will be held in honor of Mr. Gordon.",
+                "B": "Creditors will get a chance to submit their claims to the debtor.",
+                "C": "Michael’s estate will be distributed among those who made a claim. 895",
+                "D": "The appointment of the executor of the will is going to take place."
+              },
+              "answer": "C",
+              "translation": "根据通知内容，12月22日后将发生什么？ (A) 举行纪念戈登先生的葬礼。 (B) 债权人将有机会向债务人提出索赔。 (C) 迈克尔的地产将分给那些提出索赔的人。 (D) 将任命遗嘱执行人。",
+              "explanation": "根据文章的最后一句，答案应为(C)。"
+            }
+          ]
+        },
+        {
+          "id": "p159",
+          "descriptor": "policy",
+          "title": "Joy-Market Returns Policy",
+          "text": "Joy-Market Returns Policy With a few exceptions, anything purchased from a Joy-Market store may be exchanged or returned for a full refund of the purchase price within 30 days provided 1) that the goods are unused, 2) that the goods are placed in their original package, and 3) that proof of purchase is provided. IMPORTANT: please note Food purchased from our fresh food counters must be returned no later than 24 hours after the time of purchase. Some items must be returned unopened. These items are toys; music CDs and DVDs; computer software and hardware; videos; glassware; kitchenware; undergarments; and packaged hardware items. Customers, or those returning Joy Market items received as gifts, should provide photo identification at the time of application. Customers returning goods valued at less than $100 will be issued an exchange certificate or money order on the spot. For returns of goods valued at $100 or more, a check will be mailed to the purchaser within 3 working days of the return. The amount of refunds or exchange certificates will be the same as the price paid for the item returned. Joy-Market aims to satisfy its customers with high-quality items sold in good condition.",
+          "questions": [
+            {
+              "number": 159,
+              "stem": "What is NOT stated in the policy?",
+              "options": {
+                "A": "Goods must be brought back in their original form.",
+                "B": "The original receipt must accompany the returned item.",
+                "C": "A time limit is placed on items being returned.",
+                "D": "A full refund will be provided for all items if returned within 24 hours."
+              },
+              "answer": "D",
+              "translation": "以下哪项退货须知中未提及？ (A) 退换商品必须放在原包装内。 (B) 退货必须凭购物凭证。 (C) 退货有时间限制。 (D) 24小时内退货将得到全额退款。",
+              "explanation": "退货须知中提到了新鲜食品可在24小时之内退货，(D)项属于曲解原意。答案是(D)。"
+            },
+            {
+              "number": 160,
+              "stem": "In which of the following situations would a person have to show photo identification?",
+              "options": {
+                "A": "When returning items that are valued over $100 before taxes",
+                "B": "If the merchandise was originally bought by someone other than the person returning it",
+                "C": "In situations where the boxes have been opened and used",
+                "D": "If a credit card was used when making the purchase"
+              },
+              "answer": "B",
+              "translation": "以下哪种情况顾客须出示有照片的证件？ (A) 退价值100美元(税前)以上的商品时 (B) 如果商品不是退货人买的，而是别人买的 (C) 在商品包装被打开过和使用过的情况下 (D) 如果买东西时使用了信用卡付账",
+              "explanation": "若顾客退换的商品是别人购买后当礼物赠送的，则退货时需要出示有照片的证件。答案是(B)。"
+            },
+            {
+              "number": 161,
+              "stem": "According to the policy, how long will it take to get a refund for a purchase made under $100?",
+              "options": {
+                "A": "It depends on the product purchased.",
+                "B": "A refund will be provided right away.",
+                "C": "At least 3 business days",
+                "D": "24 hours if receipt is provided"
+              },
+              "answer": "B",
+              "translation": "根据规定，如果所购买的商品低于100美元，多长时间能得到退款？ (A) 视所买商品的情况而定。 (B) 马上就能退款。 (C) 至少3个工作日 (D) 如果提供购买凭证，需要24小时",
+              "explanation": "商品退换须知中提到：Customers returning goods valued at less than $100 will be issued an exchange certificate or money order on the spot。故答案为(B)。"
+            }
+          ]
+        },
+        {
+          "id": "p162",
+          "descriptor": "e-mail",
+          "title": "From: Rudi Kok Kee",
+          "text": "From: Rudi Kok Kee Sent: Wednesday, May 30, 2018 To: Linda Chong Cc: Samantha Long Subject: Long Holliday in Indonesia Dear colleagues, Kindly be informed that Indonesia will be celebrating a long holiday from June 11-20, 2018, for Hari Raya Iedul Fitri. There will be no pick-ups and deliveries, but clearance will still run as normal. In addition, for inbound shipments that are directed to cities outside Jakarta, the last transshipment by local agents will be on June 8. Any shipment we receive after that day will be on hold in our office and be sent out after the long holiday on June 21. Furthermore, for shipments headed to smaller towns, there will be a further delay because the holiday festivities will be ongoing until the 24th in many rural areas. This situation will return to normal on the 25th of June. Thank you for your kind attention. Regards, Rudi DSL / JKT Customer Service Department",
+          "questions": [
+            {
+              "number": 162,
+              "stem": "Why was this e-mail written?",
+              "options": {
+                "A": "To request a shipment",
+                "B": "To notify someone of an upcoming schedule",
+                "C": "To send an invitation for a celebration",
+                "D": "To inquire about a shipment"
+              },
+              "answer": "B",
+              "translation": "写这封电子邮件的目的是什么？ (A) 请求装运 (B) 通知某人未来的安排 (C) 为一次庆典发出邀请 (D) 询问一批货物",
+              "explanation": "邮件的目的是转告员工在印度尼西亚国内长假期间的货运安排。答案是(B)。"
+            },
+            {
+              "number": 163,
+              "stem": "What will happen to an incoming shipment heading to a small town on June 21?",
+              "options": {
+                "A": "It will be returned to the sender.",
+                "B": "It will be held until the 30th.",
+                "C": "It will reach its destination after the 25th of June. 898",
+                "D": "It will be delivered the next day."
+              },
+              "answer": "C",
+              "translation": "6月21日发往小镇的货物会如何处理？ (A) 会退给发货人。 (B) 会拖延到30日发货。 (C) 会在6月25日之后到达目的地。 (D) 会在第二天寄出。",
+              "explanation": "6月8日后的货物将临时保管在公司里，休假结束后的6月21日开始恢复配送，但是送往小镇的业务要等到6月25日才能恢复。答案应为(C)。"
+            },
+            {
+              "number": 164,
+              "stem": "When was this e-mail sent?",
+              "options": {
+                "A": "May 30th",
+                "B": "June 20th",
+                "C": "June 30th",
+                "D": "June 4th"
+              },
+              "answer": "A",
+              "translation": "这封电子邮件是什么时候发出的？ (A) 5月30日 (B) 6月20日 (C) 6月30日 (D) 6月4日",
+              "explanation": "查看邮件的发送日期即可。答案是(A)。"
+            }
+          ]
+        },
+        {
+          "id": "p165",
+          "descriptor": "article",
+          "title": "Gaz International Sells Its Siberian Oil Operations to Local Company",
+          "text": "Gaz International Sells Its Siberian Oil Operations to Local Company ZURICH – Yevgeni Star, a mid-sized Russian oil company, has bought the Siberian oil and gas operations of Zurich-based Gaz International. While no official figures have been released by either firm, the deal is believed to worth in the vicinity of $145 million. Until recently, Gaz International had been seeking to expand its exploration and refining operations, but it has reportedly been frustrated by local regulatory bodies. —[1]— Yevgeni Star, which has some cross-share holdings with large industrial corporations in related and unrelated fields, notably in the energy and shipbuilding sectors, will become one of Russian’s leading players in the vital strategic area of energy supplies. —[2]— Explaining the reasons for the sale, Gaz International CEO Fritz Faschier told reporters yesterday,“Our board of directors believes that this is the ideal time to consolidate our operations by concentrating on less-risky investments while at the same time boosting our interests in research and development. I mean, in particular, research into alternative fuels and energy sources. I have no doubt that this deal is in the interests of both parties.” It is known that the deal includes significant technology transfers. —[3]— A team of Gaz International engineers and administrators will train Yevgeni engineers in the operation of exploration and extraction technology developed by the international giant. Yevgeni Star operators were also keen to acquire Gaz International’s license to explore and develop northern oil fields until 2025. The current production of 10,000 barrels a day is expected to at least double over the next 5 years. Due to the complex nature of legal arrangements surrounding the transfer of licenses and technological information, the deal is not expected to be sewn up before January of next year. —[4]— Approval for the license transfer must be negotiated with Russian authorities while several major Swiss banks will vet the financial arrangements and the details of technology transfer.",
+          "questions": [
+            {
+              "number": 165,
+              "stem": "Who is Mr. Fritz Faschier?",
+              "options": {
+                "A": "A reporter for a local newspaper",
+                "B": "The president of Gaz International",
+                "C": "A spokesperson for Yevgeni Star",
+                "D": "A Russian authority"
+              },
+              "answer": "B",
+              "translation": "弗里茨·法谢尔先生是谁？ (A) 当地报纸的记者 (B) 嘎斯国际的董事长 (C) 叶夫根尼之星的发言人 (D) 俄罗斯官员",
+              "explanation": "弗里茨·法谢尔先生是嘎斯国际的CEO。答案是(B)。"
+            },
+            {
+              "number": 166,
+              "stem": "According to the article, when will the deal be finalized?",
+              "options": {
+                "A": "In 2025",
+                "B": "In five years",
+                "C": "Within the following weeks",
+                "D": "By early next year"
+              },
+              "answer": "D",
+              "translation": "根据文章，此次交易将在什么时候完成？ (A) 2025年 (B) 五年之内 (C) 在接下来的几周内 (D) 明年年初",
+              "explanation": "文章最后一段提到了明年1月以后有望完成相关交易。答案是(D)。"
+            },
+            {
+              "number": 167,
+              "stem": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? “Gaz International shares rose by 1% as news of the sale filtered into the media.”",
+              "options": {
+                "A": "[1]",
+                "B": "[2]",
+                "C": "[3]",
+                "D": "[4]"
+              },
+              "answer": "A",
+              "translation": "以下句子“Gaz International shares rose by 1% as news of the sale filtered into the media.”位于标有[1], [2], [3]和[4]的哪处最合适？",
+              "explanation": "所给句子是说“这笔交易被媒体曝光后，嘎斯国际的股票涨了 1%。”介绍嘎斯国际发展状况的内容是在第二段。答案为(A)。"
+            }
+          ]
+        },
+        {
+          "id": "p168",
+          "descriptor": "online chat discussion",
+          "title": "Amy Wilson [11:05 A.M.]",
+          "text": "Amy Wilson [11:05 A.M.] Hi, Jacob. My plane landed, and I’m waiting at the baggage claim area now. Jacob Vance [11:08 A.M.] I’m glad to hear you made it to town. Are you planning to take a taxi here? Amy Wilson [11:09 A.M.] Actually, I rented a car. I can park in the lot on the eastern side of the building, right? Jacob Vance [11:10 A.M.] That’s only for employees. You’ll get towed if you park there. And the visitors’ parking lot is being resurfaced. Hold on a second, please. Jacob Vance [11:13 A.M.] Hello, Ms. Davis. This is Jacob Vance in Sales. Would you mind telling Ms. Wilson where to park since the visitors’ lot is temporarily off limits? Sandra Davis [11:15 A.M.] Hello, Ms. Wilson. When you arrive, call me at (903) 454-1736, and I’ll go to the front of the building with a parking pass. Then, you can use the employees’ parking lot. Amy Wilson [11:16 A.M.] Excellent. I’ll be there in a couple of hours. Jacob Vance [11:17 A.M.] Thanks, Ms. Davis. Amy, let me know when you arrive, and I’ll be waiting at the security desk.",
+          "questions": [
+            {
+              "number": 168,
+              "stem": "Where is Ms. Wilson?",
+              "options": {
+                "A": "In a vehicle 901",
+                "B": "At a building",
+                "C": "At an airport",
+                "D": "In a parking lot"
+              },
+              "answer": "C",
+              "translation": "威尔逊女士现在在哪里？ (A) 在一辆车里 (B) 在一栋大楼里 (C) 在机场 (D) 在停车场",
+              "explanation": "对话开始威尔逊女士就说：“我乘坐的航班落地了，我正在行李认领处等着拿行李。”因此她在机场，答案是(C)。"
+            },
+            {
+              "number": 169,
+              "stem": "What does Mr. Vance suggest about the parking lot on the eastern side of the building?",
+              "options": {
+                "A": "It has no empty spaces.",
+                "B": "Visitors may not park there.",
+                "C": "Motorists must pay to park there.",
+                "D": "Only cars and motorcycles may be parked there."
+              },
+              "answer": "B",
+              "translation": "关于大楼东侧的停车场，万斯先生暗示了什么？ (A) 那里没有空位。 (B) 访客不可以在那里停车。 (C) 汽车司机必须要交停车费。 (D) 只有轿车和摩托车能停在那里。",
+              "explanation": "万斯先生说:“那是员工专用停车场。你停在那里，车会被拖走的。”也就是说，访客不可以在那里停车，答案是(B)。"
+            },
+            {
+              "number": 170,
+              "stem": "At 11:16 A.M., what does Ms. Wilson imply when she writes,“Excellent”?",
+              "options": {
+                "A": "She appreciates Mr. Vance’s suggestion.",
+                "B": "She just located an empty parking spot.",
+                "C": "She will meet Ms. Davis in a moment.",
+                "D": "She is looking forward to the demonstration."
+              },
+              "answer": "C",
+              "translation": "上午11:16，威尔逊女士写道“太好了”，隐含了什么意思？ (A) 她感谢万斯先生的建议。 (B) 她刚刚找到了一个空车位。 (C) 她不久后会见到戴维丝女士。 (D) 她很期待这次的演示。",
+              "explanation": "威尔逊女士在说完“太好了”后又说“我几个小时以后到”，意思是说她不久后会和戴维丝女士见面。答案是(C)。"
+            },
+            {
+              "number": 171,
+              "stem": "Where most likely will Ms. Wilson park her vehicle?",
+              "options": {
+                "A": "In the visitors’ parking lot",
+                "B": "On the side of the road",
+                "C": "At a nearby parking garage",
+                "D": "In the employees’ parking lot"
+              },
+              "answer": "D",
+              "translation": "威尔逊女士最可能将把车停在哪里？ (A) 在访客专用停车场 (B) 在马路边 (C) 在附近的停车库 (D) 在员工专用停车场",
+              "explanation": "戴维丝女士让威尔逊女士到达以后给她打电话，她会拿着停车通行证下楼去，这样威尔逊女士就能使用员工专用停车场了。答案是(D)。"
+            }
+          ]
+        },
+        {
+          "id": "p172",
+          "descriptor": "letter",
+          "title": "Fly-by-night Travel Agency",
+          "text": "Fly-by-night Travel Agency Suite 9 Chicago Life Building Lake Shore Square Chicago IL. 60637 April 3, 2018 Lightning Computer Supplies 152 Whacker Road Chicago 60401 Re: faulty print cartridges Dear Madam or Sir, On a recent visit to your store, I purchased a box of Onyx Print Cartridges for our 3 printers. —[1]— As you are well aware, fast and high-quality printing is essential in any business, big or small, these days. —[2]— You can imagine our disappointment when, after installation, we found that the cartridges were faulty, either in the feed mechanism or in the ink itself. When we examined the packages, we discovered that all three cartridges had passed their use-by date. However, when I returned them to your store, I was refused free replacement cartridges as the receipt had unfortunately somehow been misplaced. —[3]— Am I not to be trusted? The cartridges were clearly expired. I have since bought cartridges elsewhere, and I have no intention of returning to your store. But I wanted to express my dissatisfaction to you, and I hope that you will examine your policy on returns. —[4]— Thank you. Julie Nixon Senior Travel Consultant",
+          "questions": [
+            {
+              "number": 172,
+              "stem": "Why did Julie write this letter?",
+              "options": {
+                "A": "To place an order for some ink cartridges",
+                "B": "To voice her disappointment regarding the store’s rules",
+                "C": "To find out if the store carries a specific type of cartridge 903",
+                "D": "To get the printer serviced by a technician"
+              },
+              "answer": "B",
+              "translation": "朱莉为什么写这封信？ (A) 为了订一些墨盒 (B) 为了表达对商店规定的失望 (C) 为了查明商店是否有某种墨盒 (D) 为了找技术员检修打印机",
+              "explanation": "因朱莉找不到收据，商家拒绝更换问题墨盒。她写信对此事表达不满。答案是(B)。"
+            },
+            {
+              "number": 173,
+              "stem": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? “This was extremely disappointing to me, as I am a long-term customer of your store.”",
+              "options": {
+                "A": "[1]",
+                "B": "[2]",
+                "C": "[3]",
+                "D": "[4]"
+              },
+              "answer": "C",
+              "translation": "以下句子“This was extremely dis-appointing to me, as I am a long-term customer of your store.”位于标有[1], [2], [3]和[4]的哪处最合适？",
+              "explanation": "所给句子是说“这让我很失望，因为我是贵店的老客户。”由此可知，朱莉是在将自己的不幸遭遇说完才说了这句话。第二段提到，她去店里退货时，因为找不到收据，店员拒绝了她免费更换墨盒的要求。后面接这句话意思连贯，故答案为(C)。"
+            }
+          ]
+        },
+        {
+          "id": "p174",
+          "descriptor": "card",
+          "title": "Be Clean, Be Green",
+          "text": "Be Clean, Be Green Dear Guests, Each year, many of the major waterways in the world get polluted by vast amounts of detergents used to wash bed linen and towels in hotels. In an effort to help preserve the environment, we’d like to ask all of our guests to please leave the towels that you intend to re-use on the towel rack and place those towels you want exchanged in the bathtub. May we also ask that you leave this card on the bed if you do not require your bed linens changed? We’d like to thank you for your cooperation in helping to improve our environment. The Management",
+          "questions": [
+            {
+              "number": 174,
+              "stem": "What is being asked of those who do not want their bedsheets changed to do?",
+              "options": {
+                "A": "Call the management staff 904",
+                "B": "Talk to the hotel maid",
+                "C": "Leave a do-not-disturb sign on the door",
+                "D": "Place the card on the bed"
+              },
+              "answer": "D",
+              "translation": "那些不想换床单的客人被要求做什么？ (A) 给管理人员打电话 (B) 告诉酒店服务员 (C) 在门上挂上“请勿打扰”的标牌 (D) 把这张卡片放在床上",
+              "explanation": "不需要更换床单的顾客将卡片放在床上即可。答案是(D)。"
+            },
+            {
+              "number": 175,
+              "stem": "What can be inferred about the hotel?",
+              "options": {
+                "A": "It is trying to do its part to help a good cause.",
+                "B": "It is trying to cut down on its cleaning costs.",
+                "C": "It is short of cleaning staff.",
+                "D": "It only uses environment-friendly products."
+              },
+              "answer": "A",
+              "translation": "从文中能推断出关于这家酒店的什么信息？ (A) 它正为公益事业作出自己的贡献。 (B) 它正试图降低清洁成本。 (C) 它缺少清洁工。 (D) 它只使用环保产品。",
+              "explanation": "控制清洁剂使用量可减少环境污染。答案是(A)。"
+            }
+          ]
+        },
+        {
+          "id": "p176",
+          "descriptor": "advertisement and letter",
+          "title": "Door2Door Since 1962",
+          "text": "Door2Door Since 1962 A name you can trust Thinking of relocating? Why not contact Door2Door, the west coast’s leading specialists in moving, packing, and storage? Since 1962 we’ve been helping families and businesses start new lives without the stress of worrying about the safety of their valued possessions. Our secret? Well, it’s simple — planning and organization, combined with state-of-the-art equipment and packing materials, and, of course, experienced manpower. We can pack for you, or, if you prefer to do it yourself, we can offer you advice and the best shock-absorbing protective packaging materials. Need to ship overseas? We have the contacts and the experience in Europe and parts of some Asian nations. Storage? We have a wide range of options! Insurance? No problems. Our insurance is cheap because we don’t take chances with your precious goods. Call our advisers now at 888-8888 or 888-9999. Or check out our new website www.door2door.com for a comprehensive guide to our services. We are located at 343 Prince Highway, Caulfield South. Door2Door 343 Prince Highway Caulfield South 3005 23/08/2018 Dear Door2Door, I intend to move overseas with my family at the start of next year. Between us, we have many valuable personal possessions — musical instruments, computers, audio systems, etc. — which we intend to take with us. The country where we’ll be living for the next 5 years (I’m taking up an academic position) is France. We know little about that country and even less about how to ship goods overseas. I really need to get some good advice soon. How can I arrange to speak with one of your consultants? Could you please call me at 934-1134, or email me at robsted@gomail.com? Yours sincerely, Robert Steddon",
+          "questions": [
+            {
+              "number": 176,
+              "stem": "What kind of business is being advertised?",
+              "options": {
+                "A": "An insurance company",
+                "B": "An equipment rental company",
+                "C": "A moving company",
+                "D": "A web design company"
+              },
+              "answer": "C",
+              "translation": "广告中介绍了什么公司？ (A) 保险公司 (B) 设备租赁公司 (C) 搬家公司 (D) 网页设计公司",
+              "explanation": "这是一则有关搬家、打包及储藏业务的宣传广告。答案是(C)。"
+            },
+            {
+              "number": 177,
+              "stem": "Which of the following does NOT describe Door2Door?",
+              "options": {
+                "A": "It uses the best type of equipment.",
+                "B": "It is internationally connected.",
+                "C": "It has experienced workers.",
+                "D": "It is a family-operated business."
+              },
+              "answer": "D",
+              "translation": "以下哪项不是描述Door2Door公司的？ (A) 它使用最好的设备。 (B) 它有国际业务。 (C) 它有经验丰富的员工。 (D) 它是家族企业。",
+              "explanation": "广告中提到，该公司拥有最先进的设备及包装材料(A)，在欧洲和亚洲地区有业务经验(B)，员工经验丰富(C)，文中没有提到的是(D)。"
+            },
+            {
+              "number": 178,
+              "stem": "What is the purpose of the letter?",
+              "options": {
+                "A": "To apply to an overseas company",
+                "B": "To seek information about some musical equipment",
+                "C": "To get a cost assessment of some personal possessions",
+                "D": "To arrange an appointment to get a consultation"
+              },
+              "answer": "D",
+              "translation": "这封信的目的是什么？ (A) 申请海外公司 (B) 寻找关于某种乐器的信息 (C) 获得个人资产评估 (D) 安排一次咨询",
+              "explanation": "斯代顿先生写信是为了咨询移居法国时贵重物品的搬运方法。答案是 (D)。"
+            },
+            {
+              "number": 179,
+              "stem": "What is Mr. Steddon scheduled to do early next year?",
+              "options": {
+                "A": "Take French lessons",
+                "B": "Meet with an overseas client",
+                "C": "Work at a consulting firm",
+                "D": "Teach in a foreign country"
+              },
+              "answer": "D",
+              "translation": "斯代顿先生明年年初的计划是什么？ (A) 上法语课 (B) 见海外客户 (C) 在咨询公司工作 (D) 在国外任教",
+              "explanation": "斯代顿先生移居法国后会从事教学工作。答案是(D)。"
+            },
+            {
+              "number": 180,
+              "stem": "For which of the following reasons will Door2Door be able to help Robert?",
+              "options": {
+                "A": "Door2Door has a business relationship in the country Robert will be moving to.",
+                "B": "Door2Door has a special discounted package that Robert can take advantage of.",
+                "C": "Door2Door specializes in storing valuable goods at a reasonable cost.",
+                "D": "Door2Door has offices all around the country, especially in the city that Robert lives."
+              },
+              "answer": "A",
+              "translation": "Door2Door公司因以下哪个原因能帮助罗伯特？ (A) Door2Door公司在罗伯特要搬去的国家有商业关系。 (B) 罗伯特能享受Door2Door公司特别的优惠套餐服务。 (C) Door2Door公司专营贵重物品储藏而且价格合理。 (D) Door2Door公司在全国各地都有办事处，特别是在罗伯特居住的城市。",
+              "explanation": "Door2Door业务范围覆盖欧洲地区，可帮助罗伯特搬到法国。答案是 (A)。"
+            }
+          ]
+        },
+        {
+          "id": "p181",
+          "descriptor": "letter and its response",
+          "title": "New World Supermarkets",
+          "text": "New World Supermarkets 5th Floor Federation Tower Melbourne September 8, 2018 Dear Sir or Madam, I received the bill for my August account on September 5, 2018, and was very surprised to find that I had been charged for a box of diapers I didn’t buy. I am an old-age pensioner, and my children are all grown up. It’s very unlikely that I will be needing diapers any time soon. I have to say that I am surprised. I have shopped at New World Supermarkets for 30 years, and I’ve generally been very satisfied with your standards of service. Could you please check your accounts and sort out the problem? I have a fixed income, so a bill for $50 for something I never bought is making me very worried. Please let me know as soon as possible. Yours faithfully, Ms. Suzanne Jones Ms. Suzanne Jones 87 Bluff Rd. Melbourne Re: New World Account no. 33782A for August Dear Ms. Jones: Please accept our apologies. You were indeed correct that an error was made in your August account dated and sent out on September 3, 2018. We have ascertained that this error occurred in several accounts, in which extra charges were added, due to a glitch in the computer program. Rest assured that we have rectified the error in your account and modified our automated accounts system to ensure that no mistakes will be made in the future. An updated account will be sent with your next statement. However, please do not hesitate to contact me if you prefer a replacement statement immediately or if you have any other query. Yours faithfully, Julie London Accounts Department",
+          "questions": [
+            {
+              "number": 181,
+              "stem": "What is the purpose of the first letter?",
+              "options": {
+                "A": "To point out a mistake on an invoice",
+                "B": "To complain about a late delivery",
+                "C": "To show appreciation for good service",
+                "D": "To inquire about a product on sale"
+              },
+              "answer": "A",
+              "translation": "第一封信的目的是什么？ (A) 指出结算清单上的一处错误 (B) 投诉运送延迟 (C) 对高质量的服务表示感谢 (D) 询问一个减价产品",
+              "explanation": "8月份的结算清单中，误结算了并未购买的一箱尿布的钱。答案是 (A)。"
+            },
+            {
+              "number": 182,
+              "stem": "What is suggested about Ms. Jones?",
+              "options": {
+                "A": "She has never shopped at the supermarket before.",
+                "B": "She has had problems with her bill before.",
+                "C": "She only has a limited income.",
+                "D": "She will never shop at the store again."
+              },
+              "answer": "C",
+              "translation": "可以推断出有关琼斯女士的什么信息？ (A) 她以前从来没有在这家超市购过物。 (B) 她的账单以前就出过错。 (C) 她收入有限。 (D) 她再也不会去那家商店购物了。",
+              "explanation": "琼斯女士收入有限，想尽量减少不必要的支出。答案是(C)。"
+            },
+            {
+              "number": 183,
+              "stem": "What caused the problem to occur?",
+              "options": {
+                "A": "An accounting error by one of the staff members",
+                "B": "A malfunction in the computer program",
+                "C": "A delivery mix-up at the warehouse",
+                "D": "A shortage of staff in the Accounting Department"
+              },
+              "answer": "B",
+              "translation": "这个问题是由什么引起的？ (A) 某位员工的计算错误 (B) 电脑程序错误 (C) 仓库发错货 (D) 财务部人手不足",
+              "explanation": "其他几个账户也有类似情况发生，被查出是因为计算机程序的问题。答案是(B)。"
+            },
+            {
+              "number": 184,
+              "stem": "When should Ms. Jones contact Julie London?",
+              "options": {
+                "A": "If the problem persists",
+                "B": "As soon as the next bill arrives",
+                "C": "If she is curious to know the cause of the problem",
+                "D": "If she wants the correct statement right away"
+              },
+              "answer": "D",
+              "translation": "琼斯女士应什么时候联系朱莉·伦敦？ (A) 如果问题还存在 (B) 收到下个月的账单时 (C) 如果她对引起问题的原因感兴趣 (D) 如果她马上需要正确的账目明细",
+              "explanation": "更正的清单会在下个月寄出，若想尽快拿到，可马上联系朱莉·伦敦。答案是(D)。"
+            },
+            {
+              "number": 185,
+              "stem": "How many days after the store sent out its bill did Ms. Jones write back?",
+              "options": {
+                "A": "2 days",
+                "B": "3 days",
+                "C": "4 days",
+                "D": "5 days"
+              },
+              "answer": "D",
+              "translation": "琼斯女士是在商店寄出账单后多少天回的信？ (A) 两天 (B) 三天 (C) 四天 (D) 五天",
+              "explanation": "新世界超市在9月3日寄出的账单，苏珊娜·琼斯女士在9月5日收到的账单，9月8日写的信。答案是(D)。"
+            }
+          ]
+        },
+        {
+          "id": "p186",
+          "descriptor": "report, e-mail, and article",
+          "title": "This is a preliminary report of the employee survey conducted last month on",
+          "text": "This is a preliminary report of the employee survey conducted last month on December 31. All 150 employees at the firm filled out their surveys. The responses were anonymous and were compiled by Watson Research. The raw data and written comments are still being analyzed. Those results will be released on February 1. Medford Textiles employees provided the following answers: To: Silas Farmer <silasf@medfordtextiles.com> From: Clarence Davidson <cdavidson@medfordtextiles.com> Subject: Survey Results Date: February 4 Silas, I had the opportunity to review your suggestions for what changes to make based on the results of the employee survey. You’re suggesting some radical changes, so I can’t approve everything at this moment. I wasn’t around to complete the survey, so I’d like to speak with a few more people who responded to it and listen to what they have to say. How about selecting 6 employees at random and instructing them to visit me in my office tomorrow at 4:00 P.M.? Please advise everyone that they should be open and that nothing they say will be held against them. Regards, Clarence http://www.medfordtextiles.com/newsletter Changes Are Coming to the Firm Vice President Clarence Davidson announced some sweeping changes at Medford Textiles during a speech in the auditorium last night. Nearly every employee at the company was in attendance. Mr. Davidson spoke for a bit, encouraged the employees to make comments, and then announced his decisions regarding the company’s future. Mr. Davidson fired Francis Cohen and Leonardo Bellucci, citing their poor leadership skills. He also announced a new training program for those individuals in executive positions. He further added that the workplace would be renovated and that employees would be receiving 6% increases in their wages immediately. He also promised to consult with each employee on an individual basis to determine how they feel about working at Medford Textiles.",
+          "questions": [
+            {
+              "number": 186,
+              "stem": "According to the report, what did Watson Research do?",
+              "options": {
+                "A": "Conducted interviews with employees",
+                "B": "Interviewed job candidates",
+                "C": "Collected some data",
+                "D": "Created survey questions"
+              },
+              "answer": "C",
+              "translation": "根据报告，沃森研究所做了什么？ (A) 与员工进行面谈 (B) 面试求职者 (C) 收集一些数据 (D) 创建调研问题",
+              "explanation": "沃森研究所负责将调查报告进行汇编。答案为(C)。"
+            },
+            {
+              "number": 187,
+              "stem": "What is suggested about Mr. Davidson?",
+              "options": {
+                "A": "He is working closely with Watson Research.",
+                "B": "He disregards the results of the survey.",
+                "C": "He started working at Medford Textiles this year.",
+                "D": "He will be promoted to CEO soon."
+              },
+              "answer": "C",
+              "translation": "关于戴维森先生，文中表明了什么？ (A) 他正在与沃森研究所紧密合作。 (B) 他不理会该调查的结果。 (C) 他今年开始在梅德福纺织公司工作。 (D) 他很快就会晋升为首席执行官。",
+              "explanation": "调查报告中提到公司所有员工参与了12月31日的调查，而戴维森先生在邮件中提到他未参加那次调查，由此可知，戴维森先生是12月31日之后，即今年才到梅德福纺织公司工作的。答案为(C)。"
+            },
+            {
+              "number": 188,
+              "stem": "What did Mr. Davidson instruct Mr. Farmer to do?",
+              "options": {
+                "A": "Organize a meeting",
+                "B": "Compile some results",
+                "C": "Conduct a survey",
+                "D": "Employ his suggestions"
+              },
+              "answer": "A",
+              "translation": "戴维森先生要求法默先生去做什么？ (A) 组织一次会议 (B) 汇编一些结果 (C) 进行一项调查 (D) 采用他的建议",
+              "explanation": "戴维森先生在邮件中让法默先生随机挑选6名员工并通知他们明天下"
+            },
+            {
+              "number": 189,
+              "stem": "In the e-mail, the word“open” in line 7 is closest in meaning to __________.",
+              "options": {
+                "A": "extended",
+                "B": "frank",
+                "C": "vacant",
+                "D": "exposed"
+              },
+              "answer": "B",
+              "translation": "在这封电子邮件中，与第7行的“open”一词意思最相近的是 (A) 延伸的 (B) 坦白的 (C) 空缺的 (D) 暴露的",
+              "explanation": "戴维森先生想与更多答过问卷的人谈谈，听听他们的意见，希望他们能够畅所欲言。答案为(B)。"
+            },
+            {
+              "number": 190,
+              "stem": "Which topic covered in the survey did Mr. Davidson NOT mention to the employees at his speech?",
+              "options": {
+                "A": "Salary",
+                "B": "Office/cubicle",
+                "C": "Manager",
+                "D": "Prospects for advancement"
+              },
+              "answer": "D",
+              "translation": "关于调查中涉及的话题，哪项是戴维森先生在其演讲中未向员工提及的？ (A) 薪资 (B) 办公室/工位 (C) 经理 (D) 发展前景",
+              "explanation": "戴维森先生在其演讲中提到了鼓励员工发表意见、对公司未来的决策、为管理人员提供新的培训计划、翻新工作场所、为员工涨薪、解雇两名管理者等，未提及员工的发展前景。答案为(D)。"
+            }
+          ]
+        },
+        {
+          "id": "p191",
+          "descriptor": "advertisement, invoice, and memo",
+          "title": "Caraway Coffee",
+          "text": "Caraway Coffee is having a special sale on coffee beans this week only We import the finest coffee beans from around the world We have coffee beans from Hawaii, Indonesia, Ethiopia, Kenya, and 50 other countries We specialize in bulk orders for coffee shops, cafés, restaurants, and supermarkets Until March 10, take advantage of this offer: - Buy 5kg of one type of coffee beans and get 1kg for free - Buy 8kg of one type of coffee beans and get 2kg for free - Buy 10kg of one type of coffee beans and get 3kg for free - Buy 15kg of one type of coffee beans and get 6kg for free This offer applies to all the coffee beans we sell The free coffee beans will be the same as those purchased For more information or to place an order, call (908) 253-1726 or e-mail us at orders@carawaycoffee.com Caraway Coffee 598 Longshore Drive Los Angeles, CA 90243 Customer Name: Melrose Coffee Shop (Contact Name: Judith Hearne) Address: 192 Grissom Street, Pasadena, CA 90394 Phone Number: 232-7336 Order Number: 58533 Order Date: March 5 Delivery Date: March 6 Thank you for your order. Please call us at (908) 253-1726 to report any problems or to ask any questions. To: All Staff, Melrose Coffee Shop From: Judith Hearne Subject: Coffee Beans Date: March 10 We received some coffee beans from our supplier three days ago, so please remember to recommend them to customers who ask what they should try. Point out the new items on the menu and tell the customers that they ought to give the beans a chance. We’re already running low on Jamaican Blue Mountain coffee beans. That item has proved to be very popular. I’m going to order 8kg tomorrow so that we can receive some free beans. Let me know if we should order any other beans before we close for the day, please.",
+          "questions": [
+            {
+              "number": 191,
+              "stem": "What is indicated about Caraway Coffee?",
+              "options": {
+                "A": "It only sells items in bulk.",
+                "B": "It has a chain of coffee shops.",
+                "C": "It sends free samples to some customers. 914",
+                "D": "It sells coffee beans from many places."
+              },
+              "answer": "D",
+              "translation": "文中表明了有关葛缕子咖啡店的什么信息？ (A) 它只大批量出售咖啡。 (B) 它有咖啡连锁店。 (C) 它向一些顾客赠送免费试吃品。 (D) 它出售来自许多地方的咖啡豆。",
+              "explanation": "葛缕子咖啡店有来自夏威夷、印度尼西亚、埃塞俄比亚、肯尼亚以及其他50个国家的咖啡豆，即它出售来自许多地方的咖啡豆。答案为(D)。"
+            },
+            {
+              "number": 192,
+              "stem": "Who most likely is Ms. Hearne?",
+              "options": {
+                "A": "A Caraway Coffee employee",
+                "B": "A coffee distributor",
+                "C": "A customer",
+                "D": "A salesperson"
+              },
+              "answer": "C",
+              "translation": "赫恩女士最有可能是什么身份？ (A) 一位葛缕子咖啡店的员工 (B) 一位咖啡分销商 (C) 一位顾客 (D) 一位售货员",
+              "explanation": "葛缕子咖啡店订单的联系人是朱迪思·赫恩，即赫恩女士是葛缕子咖啡店的一位顾客。答案为(C)。"
+            },
+            {
+              "number": 193,
+              "stem": "Which coffee beans will the Melrose Coffee Shop receive more than it ordered?",
+              "options": {
+                "A": "Kona coffee beans",
+                "B": "Opalaca coffee beans",
+                "C": "Jamaican Blue Mountain coffee beans",
+                "D": "Panama Esmerelda coffee beans"
+              },
+              "answer": "B",
+              "translation": "梅尔罗斯咖啡店收到的哪种咖啡豆将比其预订的要多？ (A) 科纳咖啡豆 (B) 奥帕拉卡咖啡豆 (C) 牙买加蓝山咖啡豆 (D) 巴拿马艾斯梅尔达咖啡豆",
+              "explanation": "3月10日之前葛缕子咖啡店会提供一些优惠活动，即只要购买5公斤及以上数量的咖啡豆，都会获得一些免费的咖啡豆。发票上显示，梅尔罗斯咖啡店订购了6公斤的奥帕拉卡咖啡豆，故答案为(B)。"
+            },
+            {
+              "number": 194,
+              "stem": "What is one purpose of the memo?",
+              "options": {
+                "A": "To give employees a reminder",
+                "B": "To confirm a request for an order",
+                "C": "To note an increase in prices",
+                "D": "To mention the removal of items from the menu"
+              },
+              "answer": "A",
+              "translation": "这份备忘录的目的是什么？ (A) 给员工提个醒 (B) 确认订单需求 (C) 记录价格上涨 (D) 提及从菜单上删除的品种",
+              "explanation": "一般在备忘录的开头和结尾会叙述写备忘录的目的。此备忘录提醒员工向顾客推荐菜单上的新品种，并在今天结束营业之前反馈是否有需要订购的咖啡豆。答案为(A)。"
+            },
+            {
+              "number": 195,
+              "stem": "Why will the Melrose Coffee Shop NOT get any free coffee beans on its next order?",
+              "options": {
+                "A": "It does not belong to a special customer program.",
+                "B": "The sale period will have already ended.",
+                "C": "Customers can only get discounts one time.",
+                "D": "The store is not purchasing enough coffee beans."
+              },
+              "answer": "B",
+              "translation": "为什么梅尔罗斯咖啡店在下一个订单中不会得到免费咖啡豆？ (A) 它不属于一个特殊的客户计划。 (B) 特价销售期将会结束。 (C) 顾客只能享受一次打折优惠。 (D) 商店没有购买足够的咖啡豆。",
+              "explanation": "3月10日之前葛缕子咖啡店会提供一些优惠活动，而梅尔罗斯咖啡店在3月11日才会订购咖啡豆。答案为(B)。"
+            }
+          ]
+        },
+        {
+          "id": "p196",
+          "descriptor": "article, e-mail, and announcement",
+          "title": "Powell Hospital to Open Soon",
+          "text": "Powell Hospital to Open Soon WATERTOWN (April 23) – For years, the residents of Watertown have only been serviced by a small health clinic. For serious issues and emergencies, the people of this town of 10,000 have been forced to travel to Piedmont, which has two large hospitals. However, that is going to change in May when the Powell Hospital opens its doors. Adrian Desmond, a longtime resident of Watertown, is the man behind Powell Hospital.“I love this town, and I thought long and hard about how to make it better. I decided that constructing a hospital would be the best way for me to accomplish this.” Local residents agree as they can’t stop thanking Mr. Desmond whenever they see him on the town’s streets.“It’s hard for me to drive more than an hour to get to a hospital,” commented local resident Dale Sweeney.“It will be nice to be able to walk down the street the next time something ails me.” The opening of the hospital comes at a crucial time since Dr. Edith Fairmount is considering shutting down the Watertown Health Clinic. Without the hospital, that would leave the area with no professional medical services. To: Clarence Harper From: Mark Portland Subject: Position Date: April 29 Dear Mr. Harper, It was a pleasure to speak with you yesterday. I was satisfied with the terms of your offer and would like to inform you that I’m looking forward to working at Powell Hospital on the day it opens. It will be an honor to continue treating the residents of Watertown as I have been doing for the past three years. I will visit your office this coming Friday in the afternoon to sign the necessary paperwork. Sincerely, Mark Portland Powell Hospital Open Powell Hospital opened its doors to the public for the first time yesterday, May 5. The hospital has 65 beds, employs 20 full-time doctors, and has an emergency room staffed 24 hours a day. The hospital is big enough to tend to the medical needs of a town of approximately 6,000 individuals. Residents can be treated for a variety of illnesses, undergo surgical procedures, and receive vaccinations there.",
+          "questions": [
+            {
+              "number": 196,
+              "stem": "Who is Mr. Desmond?",
+              "options": {
+                "A": "A medical patient",
+                "B": "The owner of the Watertown Health Clinic",
+                "C": "A local doctor",
+                "D": "The founder of a hospital"
+              },
+              "answer": "D",
+              "translation": "德斯蒙德先生是什么身份? (A) 一位病人 (B) 沃特镇卫生诊所的老板 (C) 一位当地的医生 (D) 一家医院的创办人",
+              "explanation": "由文章中的the man behind the hospital可知，德斯蒙德先生是医"
+            },
+            {
+              "number": 197,
+              "stem": "What most likely is true about Mr. Sweeney?",
+              "options": {
+                "A": "He intends to continue visiting Piedmont.",
+                "B": "His home is close to Powell Hospital.",
+                "C": "One of his family members works at Powell Hospital.",
+                "D": "He is friends with Mr. Desmond."
+              },
+              "answer": "B",
+              "translation": "关于斯威尼先生，以下哪项最有可能是对的? (A) 他想继续参观皮埃蒙特。 (B) 他的家距离鲍威尔医院很近。 (C) 他的一个家人在鲍威尔医院工作。 (D) 他和德斯蒙德先生是朋友。",
+              "explanation": "斯威尼先生说，以后再生病可以沿街走到医院去，可以推断出他的家距离鲍威尔医院很近，答案选(B)。"
+            },
+            {
+              "number": 198,
+              "stem": "Why did Mr. Portland write to Mr. Harper?",
+              "options": {
+                "A": "To ask when to sign some papers",
+                "B": "To request he be offered a job",
+                "C": "To accept an offer of employment",
+                "D": "To ask about the results of a test"
+              },
+              "answer": "C",
+              "translation": "波特兰先生为什么要写邮件给哈珀先生? (A) 询问何时签署一些文件 (B) 要求对方提供一份工作 (C) 接受聘用 (D) 询问一项考试的结果",
+              "explanation": "波特兰先生在邮件中说对聘用条件满意，并且期待在医院开业当天就能去工作，所以答案选(C)。"
+            },
+            {
+              "number": 199,
+              "stem": "What is most likely true about Mr. Portland?",
+              "options": {
+                "A": "He worked at the Watertown Health Clinic.",
+                "B": "He has lived in Watertown his entire life.",
+                "C": "He works in the Powell Hospital emergency room.",
+                "D": "He specializes in surgical operations."
+              },
+              "answer": "A",
+              "translation": "关于波特兰先生，以下哪项最有可能是对的? (A) 他曾在沃特镇卫生诊所工作。 (B) 他一生都在沃特镇居住。 (C) 他在鲍威尔医院急诊室工作。 (D) 他专门做外科手术。",
+              "explanation": "波特兰先生在邮件中说自己能延续三年来的工作，继续为小镇居民提供医疗服务，说明他之前在镇上唯一的诊所(沃特镇卫生诊所)工作。答案选 (A)。"
+            },
+            {
+              "number": 200,
+              "stem": "What is suggested about the residents of Watertown?",
+              "options": {
+                "A": "They donated the land that the hospital is built on.",
+                "B": "Some may still need to visit Piedmont for medical care.",
+                "C": "They will pay low rates at Powell Hospital.",
+                "D": "Some encouraged Dr. Fairmount to continue working."
+              },
+              "answer": "B",
+              "translation": "关于沃特镇居民，文中表明了什么? (A) 他们捐赠了用于建造医院的土地。 (B) 一些人可能仍需到皮埃蒙特就诊。 (C) 他们在鲍威尔医院的花费将很低。 (D) 一些人鼓励费尔蒙特医生继续工作。",
+              "explanation": "以前小镇居民经常开车到皮埃蒙特的大医院就诊，虽然鲍威尔医院开业，但只能满足镇上大约6000人的医疗需求，而小镇上有1万名居民，所以镇上的一些人可能仍然需要到皮埃蒙特的大医院就医，因此答案选(B)。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

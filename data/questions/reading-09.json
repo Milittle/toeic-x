@@ -1,0 +1,1474 @@
+{
+  "testId": "reading-09",
+  "title": "阅读全真模拟 09",
+  "verified": false,
+  "parts": [
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 101,
+          "stem": "Mrs. Szubanska has made a great contribution to our company through ------- wide knowledge and practical, down-to-earth approach.",
+          "options": {
+            "A": "she",
+            "B": "hers",
+            "C": "herself",
+            "D": "her"
+          },
+          "answer": "D",
+          "translation": "祖班斯卡女士凭借她广博的知识和实用、务实的方法为我们公司做出了巨大的贡献。",
+          "explanation": "备选答案均为同一人称的不同人称代词，因此需要分析横线前后的具体结构。横线后有名词短语wide knowledge (形容词+名词)，因此横线处所填代词应和wide一起修饰knowledge。故选形容词性物主代词 (D) her。"
+        },
+        {
+          "number": 102,
+          "stem": "The lunch menu today consists of a choice of ------- chicken or pork served with a salad or vegetables.",
+          "options": {
+            "A": "both",
+            "B": "other",
+            "C": "either 1134",
+            "D": "another"
+          },
+          "answer": "C",
+          "translation": "今天的午餐菜单上有搭配沙拉或者蔬菜的鸡肉和猪肉，可以任选其一。",
+          "explanation": "横线后的chicken和pork由or连接，因此可判断是 either...or...的结构。答案是 (C)。both...and...， neither...nor...，not only...but also...等结构也经常出现在试题中。"
+        },
+        {
+          "number": 103,
+          "stem": "A committee of senior managers has designed a new interest rate schedule that it believes will ------- many new investors.",
+          "options": {
+            "A": "observe",
+            "B": "appeal",
+            "C": "attract",
+            "D": "engage"
+          },
+          "answer": "C",
+          "translation": "高层管理委员会设计了一个自认为能吸引许多新投资者的新利率表。",
+          "explanation": "it believes是插入语，可省略。will ______ many new investors的动作实施者是a new interest rate schedule，因此“吸引很多新投资者”的句意最恰当。答案是 (C) attract (吸引，引起注意)。"
+        },
+        {
+          "number": 104,
+          "stem": "The ------- of the most recent customer satisfaction survey are generally positive, and we would like to congratulate all of our employees.",
+          "options": {
+            "A": "effects",
+            "B": "replies",
+            "C": "results",
+            "D": "amount"
+          },
+          "answer": "C",
+          "translation": "最近的顾客满意度调查的结果整体比较乐观，因此我们想祝贺所有的员工。",
+          "explanation": "横线处所填单词被介词短语of the most recent customer satisfaction survey (最近的顾客满意度调查) 修饰，因此“最近的顾客"
+        },
+        {
+          "number": 105,
+          "stem": "Senior managers assured investigators that ------- no time were they aware of illegal activities in their Accounting Department.",
+          "options": {
+            "A": "at",
+            "B": "over",
+            "C": "by",
+            "D": "in"
+          },
+          "answer": "A",
+          "translation": "高层经理向调查员保证他们对财务部的不法行为毫不知情。",
+          "explanation": "在本文中，that从句的语序是“谓语+主语”，而非“主语 +谓语”，可见采用了倒装，因此______ no time应作状语。句意应为“他们对财务部的不法行为毫不知情”，故选 (A) at。at no time意为“绝不，从不”。"
+        },
+        {
+          "number": 106,
+          "stem": "As part of the takeover agreement, the new owners have agreed to ------- the existing senior managers.",
+          "options": {
+            "A": "enquire",
+            "B": "contain",
+            "C": "retain",
+            "D": "absorb"
+          },
+          "answer": "C",
+          "translation": "作为收购协议的一部分，新业主已经同意保留现有的高级管理人员。",
+          "explanation": "根据as part of the takeover agreement (作为收购协议的一部分)、have agreed to (同意)，以及充当横线处所填单词宾语的the existing senior managers (现有的高层管理人员) 等内容判断，最恰当的是 (C) retain (保留，保持)。"
+        },
+        {
+          "number": 107,
+          "stem": "Investors should realistically ------- the potential of any startup before investing their hard-earned funds.",
+          "options": {
+            "A": "compensate",
+            "B": "convince",
+            "C": "evaluate",
+            "D": "aim"
+          },
+          "answer": "C",
+          "translation": "投资者在用自己辛苦挣来的钱进行投资前，应该客观地评估新兴公司的潜力。",
+          "explanation": "句意应为“投资者应客观地评估…”，故选 (C) evaluate (估计，评价)。(A) 一般用于compensate for (对…进行补偿) 的结构， (B) 一般用于convince...that... (使…相信…)、convince...of... (使…相信…)、convince sb. to do (说服某人做某事) 等结构。"
+        },
+        {
+          "number": 108,
+          "stem": "Employees wishing to ------- professional congresses or seminars will continue to receive their pay during the time they are absent.",
+          "options": {
+            "A": "enroll",
+            "B": "attend",
+            "C": "participate",
+            "D": "perform"
+          },
+          "answer": "B",
+          "translation": "有意参加专业会议或者研讨会的员工在缺勤期间将继续获得工资。",
+          "explanation": "(A) 应与介词in连用构成enroll in (登记，招收)；(C) 也应与介词in连用构成participate in (参加，参与)；(D) 可直接后接宾语，但不符合句意。“想参加专业会议或研讨会的…”的句意最恰当，故选 (B) attend (参加)。"
+        },
+        {
+          "number": 109,
+          "stem": "If ------- has found a wallet containing cash and valuable papers, could that person please hand it in to the security desk.",
+          "options": {
+            "A": "anyone",
+            "B": "everyone",
+            "C": "they",
+            "D": "oneself"
+          },
+          "answer": "A",
+          "translation": "如果有人捡到一个装有现金和有价证券的钱包，可否将其交到保安处？",
+          "explanation": "has是第三人称单数，故排除复数 (C) they。反身代词 (D) oneself不能独立作句子的主语，因此也排除。“如果有人捡到装有现金和有价证券的钱包…”的句意最恰当，因此答案是 (A) anyone。(B) everyone虽然在语法上符合要求，但是“如果每个人捡到…”的句意不符合逻辑。"
+        },
+        {
+          "number": 110,
+          "stem": "The Business Advisory Council has been specifically designed for those in --- ---- of advice about setting up new businesses.",
+          "options": {
+            "A": "need",
+            "B": "want",
+            "C": "duty",
+            "D": "absence"
+          },
+          "answer": "A",
+          "translation": "商业咨询委员会是为那些需要创业指导的人士特别设立的。",
+          "explanation": "句意应为“针对创业需要指导的人士”，故选 (A) need。in need of意为“需要…”。"
+        },
+        {
+          "number": 111,
+          "stem": "Payment of telephone or Internet orders is ------- within 7 working days of the receipt of the goods and invoice.",
+          "options": {
+            "A": "due",
+            "B": "coming",
+            "C": "payable",
+            "D": "complete"
+          },
+          "answer": "A",
+          "translation": "电话订购或者网上订购需要在收到货物和发票后的7个工作日内付款。",
+          "explanation": "句意应为“应在收到货物和发票后7个工作日内付款”，故选 (A) due (应支付的)。"
+        },
+        {
+          "number": 112,
+          "stem": "The organizing committee has not yet set a ------- date for the seminar, but it will be some time in the first week of November.",
+          "options": {
+            "A": "full",
+            "B": "factual",
+            "C": "explicit",
+            "D": "specific"
+          },
+          "answer": "D",
+          "translation": "组织委员会还未给研讨会定下具体的日期，但会议将在11月的第一周举行。",
+          "explanation": "“还没有决定研讨会的具体日期”的句意最恰当，故选 (D) specific (具体的，特定的)。"
+        },
+        {
+          "number": 113,
+          "stem": "The new head of marketing has been criticized for being too ------- to please senior managers.",
+          "options": {
+            "A": "eager",
+            "B": "happy",
+            "C": "ambitious",
+            "D": "simple"
+          },
+          "answer": "D",
+          "translation": "市场部的新经理太单纯，不能使高层管理人员满意。",
+          "explanation": "for being too ______ to please senior managers是the new head of marketing受到指责的原因，因此应表达出“太单纯，不能使高层管理人员满意”的句意。答案是 (D) simple。too...to do (太…以至于不能做某事)。"
+        },
+        {
+          "number": 114,
+          "stem": "The main ------- of completing a postgraduate business qualification is that it allows you to make valuable contacts in related fields.",
+          "options": {
+            "A": "use",
+            "B": "merit",
+            "C": "advantage",
+            "D": "improvement"
+          },
+          "answer": "C",
+          "translation": "获得商业研究生学位证书的主要好处就是让你在相关行业积累重要的人脉资源。",
+          "explanation": "that it allows you to make valuable contacts in related fields (帮助你在相关行业积累重要的人脉资源) 属于有利因素，故选 (C) advantage (优势，有利条件)。"
+        },
+        {
+          "number": 115,
+          "stem": "All female employees are advised to be ------- when entering and leaving the building after-hours due to a recent spate of attacks.",
+          "options": {
+            "A": "caution",
+            "B": "cautious",
+            "C": "cautiously",
+            "D": "cautiousness"
+          },
+          "answer": "B",
+          "translation": "由于最近发生的一连串袭击事件，所有女性员工都被建议在下班后进出大楼时要非常小心。",
+          "explanation": "横线前有be，横线后有when引导的时间状语从句，因此横线处应填入名词或形容词作表语。若选名词，主句的语意不连贯，故选表示主语状态的形容词 (B) cautious。"
+        },
+        {
+          "number": 116,
+          "stem": "At the last meeting, many enquiries were made ------- the proposed shift in the company’s mission statement.",
+          "options": {
+            "A": "regard",
+            "B": "regarding",
+            "C": "in regard",
+            "D": "with regard"
+          },
+          "answer": "B",
+          "translation": "在上次会议中，很多人询问关于改变公司使命宣言的提案。",
+          "explanation": "the proposed shift in the company’s mission statement是enquiries (询问) 的对象，故选介词 (B) regarding (关于)。"
+        },
+        {
+          "number": 117,
+          "stem": "As you are aware, a wide range of issues was ------- at the meeting last Thursday, and I am pleased to announce that several action committees have already been set up.",
+          "options": {
+            "A": "discusses",
+            "B": "discussed",
+            "C": "discussing",
+            "D": "discussion"
+          },
+          "answer": "B",
+          "translation": "正如你们所知，上周四的会议上讨论了一系列问题，而且我很高兴地宣布几个行动委员会已经成立了。",
+          "explanation": "a wide range of issues是discuss的宾语，因此这里应该使用被动语态。答案是 (B) discussed。"
+        },
+        {
+          "number": 118,
+          "stem": "Answering mobile phone calls while you are at a work meeting is not only discourteous, but it can also destroy the ------- of the meeting.",
+          "options": {
+            "A": "capableness",
+            "B": "efficacy",
+            "C": "facts",
+            "D": "impression"
+          },
+          "answer": "B",
+          "translation": "在工作会议上接听手机不仅不礼貌，而且会破坏会议的效果。",
+          "explanation": "会议中接听电话不仅是一种没有礼貌的行为，而且会影响会议的顺利进行。最符合句意的是 (B) efficacy (效率，功效)。"
+        },
+        {
+          "number": 119,
+          "stem": "Entry to the seminar is restricted to those who have received a personal ------- from the general manager.",
+          "options": {
+            "A": "bidding",
+            "B": "appeal",
+            "C": "invitation",
+            "D": "honor"
+          },
+          "answer": "C",
+          "translation": "只有那些受到总经理个人邀请的人才能参加此次研讨会。",
+          "explanation": "句意应为“只有那些受到总经理个人邀请的人”，答案是 (C) invitation (邀请，招待)。"
+        },
+        {
+          "number": 120,
+          "stem": "------- recent changes in government small business regulations, we will be holding a series of practical workshops to assist owners and managers.",
+          "options": {
+            "A": "Even if",
+            "B": "However",
+            "C": "As soon as",
+            "D": "Because of"
+          },
+          "answer": "D",
+          "translation": "",
+          "explanation": ""
+        },
+        {
+          "number": 121,
+          "stem": "Mr. Smith wants you to know that he will be ------- job applicants all day on Thursday, and that all enquiries should be directed to his secretary.",
+          "options": {
+            "A": "interview",
+            "B": "interviews",
+            "C": "interviewed",
+            "D": "interviewing"
+          },
+          "answer": "D",
+          "translation": "史密斯先生想让你知道他周四全天都要面试求职者，所有问题都跟他的秘书说。",
+          "explanation": ""
+        },
+        {
+          "number": 122,
+          "stem": "All possible ------- will be taken to ensure that this mine is entirely accident and injury-free.",
+          "options": {
+            "A": "rules",
+            "B": "details",
+            "C": "guidelines",
+            "D": "measures"
+          },
+          "answer": "D",
+          "translation": "我们将采取一切可能的措施来确保这个矿井完全不会造成事故或人员伤亡。",
+          "explanation": "job applicants充当interview的宾语，且横线前有be，故选 (D) interviewing。将来进行时 (will be doing) 用于描述主语确信的、将来肯定会发生的事情。"
+        },
+        {
+          "number": 123,
+          "stem": "The selection committee will consider applications from any employee ------- to apply for these positions.",
+          "options": {
+            "A": "valuable 1139",
+            "B": "impressive",
+            "C": "eligible",
+            "D": "flexible"
+          },
+          "answer": "C",
+          "translation": "选拔委员会将考虑来自任何有资格应聘这些职位的员工的申请。",
+          "explanation": "______ to apply for these positions修饰any employee，因此要表达出“有资格应聘这些职位”的句意。答案是 (C) eligible (合格的，符合条件的)。"
+        },
+        {
+          "number": 124,
+          "stem": "Our rapid courier service guarantees to ------- your urgent documents anywhere within the city limits within an hour of pickup.",
+          "options": {
+            "A": "check",
+            "B": "deliver",
+            "C": "commute",
+            "D": "respond"
+          },
+          "answer": "B",
+          "translation": "只要在本市范围内，我们迅捷的快递服务保证在取件后的1小时内送达您的紧急文件。",
+          "explanation": "“保证紧急文件在1小时内送达”的句意最恰当，故选 (B) deliver (运送)。(C) commute (通勤) 和 (D) respond (回答，响应) 是不及物动词，后接宾语时要加介词to。"
+        },
+        {
+          "number": 125,
+          "stem": "It won’t be ------- to take notes during the seminar, as we will be handing out detailed summaries.",
+          "options": {
+            "A": "basic",
+            "B": "compelling",
+            "C": "necessary",
+            "D": "natural"
+          },
+          "answer": "C",
+          "translation": "在研讨会期间没有必要记笔记，因为我们会分发详细摘要。",
+          "explanation": "根据原因状语从句as we will be handing out detailed summaries (我们会分发详细摘要) 判断，句意应为“会议期间不需要记笔记”。答案是 (C) necessary (必需的，必要的)。"
+        },
+        {
+          "number": 126,
+          "stem": "Management experts consider it highly ------- that internal communications not only be ‘top-down’.",
+          "options": {
+            "A": "desire",
+            "B": "desirable",
+            "C": "desirably",
+            "D": "desirability"
+          },
+          "answer": "B",
+          "translation": "管理专家认为内部交流不应该仅限于“自上而下”。",
+          "explanation": "本句具有“consider +形式宾语it + 副词 (highly) +宾语补足语+真正宾语”的结构。宾语补足语对宾语的特征、状态等情况进行补充说明，故选形容词 (B) desirable。"
+        },
+        {
+          "number": 127,
+          "stem": "Fine Fare is a journal devoted ------- to the subject of exquisite foods and wines from all over the world.",
+          "options": {
+            "A": "mutually",
+            "B": "generously 1140",
+            "C": "impulsively",
+            "D": "exclusively"
+          },
+          "answer": "D",
+          "translation": "《美食》是一本专门以世界各地的食物与美酒为主题的刊物。",
+          "explanation": "“专门以世界各地的美食与美酒为主题的刊物”的句意最恰当，故选 (D) exclusively (专门地，专有地)。"
+        },
+        {
+          "number": 128,
+          "stem": "During high school, Richard was ------- by his uncompromising determination to win at any cost.",
+          "options": {
+            "A": "distinguish",
+            "B": "distinguished",
+            "C": "distinguishable",
+            "D": "distinguisher"
+          },
+          "answer": "B",
+          "translation": "在高中的时候，理查德就因其永不妥协、不惜一切获胜的决心而出名。",
+          "explanation": "句意应为“理查德以…而与众不同”，故选 (B) distinguished (与众不同的)。"
+        },
+        {
+          "number": 129,
+          "stem": "Should you have ------- regarding the new contracts, don’t hesitate to contact your union representative.",
+          "options": {
+            "A": "relations",
+            "B": "concerns",
+            "C": "significance",
+            "D": "attachments"
+          },
+          "answer": "B",
+          "translation": "如果您对新合同有任何疑虑，请直接联系工会代表。",
+          "explanation": "横线处所填单词被介词短语regarding the new contracts (有关新合同的) 修饰，最符合句意的名词是 (B) concerns。"
+        },
+        {
+          "number": 130,
+          "stem": "Could you please tell Mr. Parsons that I tried to contact him ------- this morning, but there was no answer at the number he gave me.",
+          "options": {
+            "A": "exactly",
+            "B": "genuinely",
+            "C": "diligently",
+            "D": "repeatedly"
+          },
+          "answer": "D",
+          "translation": "您可否告诉帕森斯先生我今天上午多次尝试联系他，但是他给我的号码一直没有人接听？",
+          "explanation": "根据but there was no answer at the number he gave me (但是他给我的电话号码没有人接听) 和I tried to contact him (我试着联系他) 判断，最符合句意的是 (D) repeatedly (再三，多次)。"
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "passages": [
+        {
+          "id": "p131",
+          "descriptor": "advertisement",
+          "title": "Your Invitation to saturdays@artswave",
+          "text": "Your Invitation to saturdays@artswave Scenario Saturday, casual wear, inspired space, scented oils, soothing music, ambient lighting, warm cups of green tea, lost in the experience, sketch the day away… pure bliss. Saturday is an excellent day to lose (131) -------- in a creative activity at Artswave. (132) --------. Absolutely no talent is needed. And we have (133) ----- --- our special offer, so you will still save $20. Between now and November 30, all experiences are just $79 (except life drawing). But hurry, (134) -------- places are available. saturdays@artswave 10 a.m.–2:30 p.m. Light lunch included. Unwind your mind at www.artswave.com/escape. Or phone 1-800-755-4554 for a free catalogue.",
+          "questions": [
+            {
+              "number": 131,
+              "stem": "",
+              "options": {
+                "A": "themselves",
+                "B": "herself",
+                "C": "himself",
+                "D": "yourself"
+              },
+              "answer": "D",
+              "translation": "",
+              "explanation": "这是面向大众的广告，因此最恰当的是 (D) yourself。"
+            },
+            {
+              "number": 132,
+              "stem": "",
+              "options": {
+                "A": "All experiences are designed for complete beginners.",
+                "B": "The activity is designed for only professional artists.",
+                "C": "All experiences will cost over $80, including life drawing.",
+                "D": "Unlimited places are available from now to November 30."
+              },
+              "answer": "A",
+              "translation": "",
+              "explanation": "由下句“不需要任何天赋”可知，横线处说该活动适用于初学者，故选 (A)。"
+            },
+            {
+              "number": 133,
+              "stem": "",
+              "options": {
+                "A": "exposed 1142",
+                "B": "expected",
+                "C": "extended",
+                "D": "expelled"
+              },
+              "answer": "C",
+              "translation": "",
+              "explanation": "连词so连接因果关系的两个句子，因此横线处所填单词应表示you will still save $20 (您还可以省20美元) 的理由。答案是 (C) extended。"
+            },
+            {
+              "number": 134,
+              "stem": "",
+              "options": {
+                "A": "little",
+                "B": "partial",
+                "C": "few",
+                "D": "limited"
+              },
+              "answer": "D",
+              "translation": "",
+              "explanation": "之所以要尽快申请，是因为名额有限。答案是 (D) limited。"
+            }
+          ]
+        },
+        {
+          "id": "p135",
+          "descriptor": "letter",
+          "title": "Dear Samantha,",
+          "text": "Dear Samantha, I am writing in regard to Mimi Stone. I had the privilege of meeting her during my last visit to the Singapore Business Conference. I have heard recently that she left Global Tech about a month ago. This is a good thing because we are currently in search of someone like her for our new business prospects with your company. I know it may still be premature to conclude on the new business; however, we have met her, and she seems well versed in the operations part of our business. We are strongly considering her as a potential operations manager, but we need your feedback as (135) --------. I am doing a background (136) -------- on her and want to know if she is worthwhile to hire. (137) --------. If you are not familiar with her, could you talk to Jack Ryan, her ex-boss for me? I think you will get a much better (138) -------- from him since you’ve done business with Global Tech in the past. Thank you. Best regards, Jeffrey Hill Director of Planning & Business Development Group, BASE ON-ROUTE INC.",
+          "questions": [
+            {
+              "number": 135,
+              "stem": "",
+              "options": {
+                "A": "settlement",
+                "B": "selection",
+                "C": "connection",
+                "D": "reference"
+              },
+              "answer": "D",
+              "translation": "",
+              "explanation": "(A) settlement意为“解决”，(B) selection意为“选择，挑选”，(C) connection意为“连接”，(D) reference意为“参考，参照”。最符合句意的是 (D)。"
+            },
+            {
+              "number": 136,
+              "stem": "",
+              "options": {
+                "A": "check",
+                "B": "checks",
+                "C": "checking",
+                "D": "checked"
+              },
+              "answer": "A",
+              "translation": "",
+              "explanation": "a background ______要充当doing的宾语，因此横线处应填入名词单数。答案是 (A) check。do a background check意为“做背景调查”。"
+            },
+            {
+              "number": 137,
+              "stem": "",
+              "options": {
+                "A": "She was an employer in the Global Tech one year ago.",
+                "B": "Jack Ryan has been her boss for two years.",
+                "C": "She is considered as an excellent operations manager.",
+                "D": "If you do know anything about her, your reference will be of great value."
+              },
+              "answer": "D",
+              "translation": "",
+              "explanation": "由下句“如果您对她不了解，能否……”可知，横线处是说“如果您确实了解她……”，故选 (D)。"
+            },
+            {
+              "number": 138,
+              "stem": "",
+              "options": {
+                "A": "answer",
+                "B": "commitment",
+                "C": "estimate",
+                "D": "respond"
+              },
+              "answer": "A",
+              "translation": "",
+              "explanation": "根据前文内容，最恰当的是 (A) answer。"
+            }
+          ]
+        },
+        {
+          "id": "p139",
+          "descriptor": "announcement",
+          "title": "DEL PROPERTY MANAGEMENT, INC. is pleased and (139) -------- once",
+          "text": "DEL PROPERTY MANAGEMENT, INC. is pleased and (139) -------- once again to have received the Consumers’ Choice Award for excellence in Residential Property Management and also congratulates the deserving (140) ---- ---- in all the other categories. (141) --------. They have been a constant source of (142) -------- in our unwavering pursuit of excellence throughout our more than 50 years in business. DEL PROPERTY MANAGEMENT, INC. Specializing in Professional Condominium Property Management Services",
+          "questions": [
+            {
+              "number": 139,
+              "stem": "",
+              "options": {
+                "A": "pride",
+                "B": "proud",
+                "C": "prideful",
+                "D": "proudly"
+              },
+              "answer": "B",
+              "translation": "",
+              "explanation": "答案是 (B) proud。be proud to do意为“为做…而感到自豪”。"
+            },
+            {
+              "number": 140,
+              "stem": "",
+              "options": {
+                "A": "owners",
+                "B": "advisors",
+                "C": "recipients",
+                "D": "spectators"
+              },
+              "answer": "C",
+              "translation": "",
+              "explanation": ""
+            },
+            {
+              "number": 141,
+              "stem": "",
+              "options": {
+                "A": "They have contributed a lot to this award in the past more than 50 years.",
+                "B": "This award is also a tribute to our loyal and valued clients, owners and staff.",
+                "C": "Del Property Management, Inc. has won the award many times.",
+                "D": "Two companies have won this Consumers’ Choice Award."
+              },
+              "answer": "B",
+              "translation": "",
+              "explanation": "下句说“他们……是我们永恒的动力源泉”。由此可知，横线处是在表达对“他们”帮助该公司获奖的感激之情，故选 (B)。"
+            },
+            {
+              "number": 142,
+              "stem": "",
+              "options": {
+                "A": "potential",
+                "B": "management",
+                "C": "encouragement",
+                "D": "damage"
+              },
+              "answer": "C",
+              "translation": "",
+              "explanation": "根据上下文，这里是说“他们的鼓励是我们永恒的动力源泉”，故选 (C)。"
+            }
+          ]
+        },
+        {
+          "id": "p143",
+          "descriptor": "advertisement",
+          "title": "ENTER TO WIN!",
+          "text": "ENTER TO WIN! 4 tickets to the Blue Jays in (143) -------- at the Sky Dome and 4 passes to CN Tower, plus a $100 gift card to be used at the CN Tower restaurant overlooking the beautiful city of Toronto! To (144) --------, please send an e-mail to entertowin@tor.com with your name, address, and phone number and write subject line: A day in Toronto. If you are interested in receiving more information about Downsview Park Events, please include YES in your e-mail (145) --------. Visit www.dp.com for more information! (146) --------.",
+          "questions": [
+            {
+              "number": 143,
+              "stem": "",
+              "options": {
+                "A": "active",
+                "B": "action",
+                "C": "activeness",
+                "D": "actively"
+              },
+              "answer": "B",
+              "translation": "",
+              "explanation": ""
+            },
+            {
+              "number": 144,
+              "stem": "",
+              "options": {
+                "A": "access",
+                "B": "enter",
+                "C": "insert",
+                "D": "penetrate"
+              },
+              "answer": "B",
+              "translation": "",
+              "explanation": "句意应为“想报名参加，请…”，故选 (B) enter。表示参加比赛、大会、活动等的动词用enter。"
+            },
+            {
+              "number": 145,
+              "stem": "",
+              "options": {
+                "A": "solicitation",
+                "B": "submitting",
+                "C": "subjection",
+                "D": "submission"
+              },
+              "answer": "D",
+              "translation": "",
+              "explanation": "句意应为“在提交邮件时注明‘是’”，故选 (D) submission。(A) solicitation (恳求，恳请) 和 (C) subjection (征服，屈从) 都不符合句意。"
+            },
+            {
+              "number": 146,
+              "stem": "",
+              "options": {
+                "A": "Contest closes on Friday, October 6 at 9 P.M.",
+                "B": "Over 100 gift cards are available in this contest.",
+                "C": "Winners are free to eat at the CN Tower restaurant.",
+                "D": "Only 4 free passes to the CN Tower are available."
+              },
+              "answer": "A",
+              "translation": "",
+              "explanation": "前三段都没有提及比赛的截止日期。横线处填“本次比赛将于10月6 日 (周五) 晚上9点结束”能与上文内容相呼应，故选 (A)。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passages": [
+        {
+          "id": "p147",
+          "descriptor": "text message chain",
+          "title": "Leonard Grubbs [1:35 P.M.]",
+          "text": "Leonard Grubbs [1:35 P.M.] Hi, Clarice. The deliveryman called me about a package that’s coming, but I’m at the courthouse. Can you sign for it, please? Clarice Deacon [1:36 P.M.] How soon should he be here? Leonard Grubbs [1:37 P.M.] He said he’d be in our office in about fifteen minutes. Why do you ask? Clarice Deacon [1:39 P.M.] I’m supposed to attend a meeting with the department heads at 2:00. Leonard Grubbs [1:40 P.M.] If he doesn’t come by then, could you ask Dennis to take care of this? I really need the documents in that package. Clarice Deacon [1:41 P.M.] Of course. I’ll make sure you get it.",
+          "questions": [
+            {
+              "number": 147,
+              "stem": "At 1:36 P.M., what does Ms. Deacon most likely imply when she writes,“How soon should he be here?”",
+              "options": {
+                "A": "She has an appointment soon. 1147",
+                "B": "She cannot see the deliveryman.",
+                "C": "She just arrived in the office.",
+                "D": "She is preparing to go home."
+              },
+              "answer": "A",
+              "translation": "下午1点36分，迪肯女士写：“他要多久能到这儿？”她最可能要暗示什么？ (A) 她很快要去赴约。 (B) 她看不见快递员。 (C) 她刚到办公室。 (D) 她正准备回家。",
+              "explanation": "迪肯女士问了这一问题后，格拉布斯先生问她为什么这么问？她回复说，她两点钟需要和部门主任开会，而两人发信息的时间是1点39分左右，由此可知她很快要去开会。答案是 (A)。"
+            },
+            {
+              "number": 148,
+              "stem": "What is suggested about Dennis?",
+              "options": {
+                "A": "He regularly delivers packages to Mr. Grubbs.",
+                "B": "He is an employee in the mailroom.",
+                "C": "He is attending the meeting with Ms. Deacon.",
+                "D": "He works in the same office as Mr. Grubbs."
+              },
+              "answer": "D",
+              "translation": "关于丹尼斯，文章暗示了什么？ (A) 他定期给格拉布斯先生送包裹。 (B) 他是收发室的员工。 (C) 他正和迪肯女士开会。 (D) 他和格拉布斯先生在同一个办公室工作。",
+              "explanation": "格拉布斯先生说快递员会送包裹到办公室，并请求迪肯女士，如果她无法签收，就请丹尼斯帮忙签收，由此可知格拉布斯先生、迪肯女士和丹尼斯都在一个办公室工作。答案是 (D)。"
+            }
+          ]
+        },
+        {
+          "id": "p149",
+          "descriptor": "notice",
+          "title": "Opportunity for International Experience",
+          "text": "Opportunity for International Experience Currently we have four positions open for middle managers who wish to participate in a six-month, international exchange program. The program will involve sharing with our counterparts in the respective country best practice principles learned while on the job here in our head office. During your brief excursion, you will spend a considerable amount of time learning about the domestic branches’ markets, with a specific focus on market research in the area of domestic consumers’ preferences. Afterwards, a comprehensive report of our research results will be submitted to the head office on your return. Interested applicants must fill out an application in addition to submitting a maximum two-page essay on the benefits of participating in an international exchange and how that experience can add value to the corporation. The deadline to apply is October 31.",
+          "questions": [
+            {
+              "number": 149,
+              "stem": "What is the purpose of the notice?",
+              "options": {
+                "A": "To announce the promotion of some managers",
+                "B": "To invite staff members to the international conference",
+                "C": "To request a report on the domestic market 1148",
+                "D": "To recruit people interested in participating in a special program"
+              },
+              "answer": "D",
+              "translation": "这个通知的目的是什么？ (A) 宣布一些经理升职 (B) 邀请员工参加国际会议 (C) 要求写一份国内市场报告 (D) 招募有意参加特殊项目的人",
+              "explanation": "这个通知是为了招募自愿参加国际交流项目的中层管理者。答案是 (D)。"
+            },
+            {
+              "number": 150,
+              "stem": "What must be turned in at the end of the six-month period?",
+              "options": {
+                "A": "An essay",
+                "B": "An application form",
+                "C": "A report",
+                "D": "The course fee"
+              },
+              "answer": "C",
+              "translation": "在为期半年的项目结束时必须上交什么？ (A) 一篇文章 (B) 一张申请表 (C) 一份报告 (D) 课程费",
+              "explanation": "参加完交流项目之后需要提交研究报告。答案是 (C)。"
+            },
+            {
+              "number": 151,
+              "stem": "Which of the following is NOT required to be done by the applicants?",
+              "options": {
+                "A": "Complete a form",
+                "B": "Write about what they have learned",
+                "C": "Provide a reason for their application",
+                "D": "Get permission from their immediate managers"
+              },
+              "answer": "D",
+              "translation": "以下哪项不要求申请人做？ (A) 填一张表格 (B) 写一下这个项目如何利于公司发展 (C) 提供申请理由 (D) 从他们的直接上级那里获得批准",
+              "explanation": "通知的最后一段列出了申请人所要提交的资料。fill out an application对应 (A)，how that experience can add value to the corporation对应 (B)，two-page essay on the benefits of participating in an international exchange对应 (C)。申请人不需要做的是 (D)。"
+            }
+          ]
+        },
+        {
+          "id": "p152",
+          "descriptor": "e-mail message",
+          "title": "To: charles@danone.com",
+          "text": "To: charles@danone.com From: jgibson@kalpine.net Subject: Upcoming visit Dear Charles, The purpose of this letter is to confirm the travel dates for Sharon and myself. We had some difficulty working out our schedules but have finally agreed that the best time for our trip would be from February 14 to 21. We will be traveling to France by Air France, and then we will proceed to Switzerland by train three days later, whereupon we will leave for home after we’ve had plenty of chances to catch up on old times. Please note below the times and dates of our schedule: Travel itinerary: February 14 – Air France departure point: New York, New York February 15 – Air France arrival point: Paris, France February 17 – Eurostar departure point: Paris, France February 18 – Eurostar arrival point: Zurich, Switzerland February 20 – Swiss Air departure point: Zurich, Switzerland February 21 – Southwest Airlines arrival point: New York, New York As you can see from our schedule, we will be changing destinations twice. During our travel, we were hoping to rent a car in each city. If you could arrange that one be sent to the airport with a driver on our arrival in each city, that would be greatly appreciated. I look forward to getting reacquainted with you after such a long time. Best regards, John",
+          "questions": [
+            {
+              "number": 152,
+              "stem": "What does this e-mail confirm?",
+              "options": {
+                "A": "A car has been rented for John.",
+                "B": "Accommodation arrangements have been taken care of.",
+                "C": "The dates of travel have been set.",
+                "D": "The plane tickets have been reserved."
+              },
+              "answer": "C",
+              "translation": "这封电子邮件是为了确认什么？ (A) 已经为约翰租好了一辆车。 (B) 已经安排好了住宿。 (C) 旅行日期已经定下来了。 (D) 已经预订好了机票。",
+              "explanation": "莎伦和约翰已确定了具体日程，故写邮件告知查尔斯。答案是 (C)。"
+            },
+            {
+              "number": 153,
+              "stem": "What is being requested by the writer?",
+              "options": {
+                "A": "To be picked up at the airport",
+                "B": "To have transportation arranged",
+                "C": "To send the plane tickets right away",
+                "D": "To convince Sharon to go on the trip"
+              },
+              "answer": "B",
+              "translation": "写邮件的人提出了什么要求？ (A) 有人去机场接机 (B) 安排好交通工具 (C) 马上送出机票 (D) 说服莎伦去旅行",
+              "explanation": "约翰写信请求查尔斯在每个城市为他们安排一辆车。答案是 (B)。"
+            },
+            {
+              "number": 154,
+              "stem": "What does the letter imply about the relationship between Charles and John?",
+              "options": {
+                "A": "They will be meeting in France for the first time.",
+                "B": "Charles is John’s superior.",
+                "C": "They have not seen each other for a long time.",
+                "D": "John can’t wait for Charles to meet Sharon."
+              },
+              "answer": "C",
+              "translation": "这封信暗示查尔斯和约翰是什么关系？ (A) 他们将在法国第一次见面。 (B) 查尔斯是约翰的上级。 (C) 他们很长时间没见面了。 (D) 约翰迫不及待地想让查尔斯见莎伦。",
+              "explanation": "邮件的最后写道：I look forward to getting reacquainted with you after such a long time。答案是 (C)。"
+            }
+          ]
+        },
+        {
+          "id": "p155",
+          "descriptor": "advertisement",
+          "title": "Making It Big with only a Dollar a Day!",
+          "text": "Making It Big with only a Dollar a Day! Now let’s be real. Life is much more complex today compared to the way things were 50 years ago. —[1]— The introduction of personal computers in our homes and workplaces and the vast number of investments available in the market make our lives much more confusing. And with the world changing so fast, it’s hard to keep up with the latest trends and new investment products that are made available by our local investment advisors or institutions. —[2]— This means having to do your homework on learning about the constant, changing, investment opportunities and instruments on top of doing your daily household chores and work assignments. Completely overwhelmed and, exhausted, you’re not alone. Hundreds of people everyday face the same situation as you, but where do they turn to for help? —[3]— Now the solution has become much easier with an investment of as little as 10 minutes and a dollar a day. —[4]— Making It Big with only a Dollar a Day! can put you on the right path to financial success and happiness. Read it, and you’ll learn that working is good, but financial success is even better. At $29.99, you will get your money’s worth. It’s available at any local bookstores near you.",
+          "questions": [
+            {
+              "number": 155,
+              "stem": "What product is being advertised?",
+              "options": {
+                "A": "An investment product",
+                "B": "A book",
+                "C": "A computer 1151",
+                "D": "A business school"
+              },
+              "answer": "B",
+              "translation": "这则广告是宣传什么产品的？ (A) 一种投资产品 (B) 一本书 (C) 一台电脑 (D) 一所商业学校",
+              "explanation": "广告在最后一段推荐阅读这本书。答案是 (B)。"
+            },
+            {
+              "number": 156,
+              "stem": "According to the advertisement, what must consumers do to keep up with the latest trends?",
+              "options": {
+                "A": "Consult with investment advisors",
+                "B": "Enroll in a business course",
+                "C": "Take charge and read up on the changes",
+                "D": "Get a desktop computer"
+              },
+              "answer": "C",
+              "translation": "根据这则广告，为了跟上最新趋势，消费者必须做什么？ (A) 咨询投资顾问 (B) 参加商业课程 (C) 掌握并仔细研究变化 (D) 买一台台式电脑",
+              "explanation": "在第一段的This means having to do your homework on learning about the constant, changing...work assignments中可找到答案。答案是 (C)。"
+            },
+            {
+              "number": 157,
+              "stem": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? “Watch your savings grow from a small hill to a large mountain in no time at all.”",
+              "options": {
+                "A": "[1]",
+                "B": "[2]",
+                "C": "[3]",
+                "D": "[4]"
+              },
+              "answer": "D",
+              "translation": "以下句子“Watch your savings grow from a small hill to a large mountain in no time at all.”位于标有[1], [2], [3]和[4]的哪处最合适？",
+              "explanation": "所给句子是说“根本不需要多久就能看到您的存款从一个小山丘变成一座大山”，是在讲某种方法带来的好处，第二段开头提到了“解决办法”，该句放在其后语义连贯。答案为 (D)。"
+            }
+          ]
+        },
+        {
+          "id": "p158",
+          "descriptor": "letter",
+          "title": "September 25, 2018",
+          "text": "September 25, 2018 TLEFC Mr. John Sutton 490 Landsdowne Road Buffalo, NY 14203 Dear John, Thank you very much for your email. The Talent Loan & Equity Financing Corporation (TLEFC), the largest multilateral source of loan and equity financing for private sector projects in the emerging markets, is recruiting top talent for its International Transaction Team (ITT) program. It is therefore organizing a Career Event from October 19 through October 21 at the Maycott Convention Center. Please forward the attached event schedule to your recruitment officer. We also welcome any other means you suggest to ensure that the event will be successful. For further information, please log on to our website at http://www.tlefc.com. We thank you in advance and look forward to hearing from you regarding this event. Best regards, Paul G. Koop HR manager, Head Office www.tlefc.com Paul@tlefc.com Tel: +310.755.1245",
+          "questions": [
+            {
+              "number": 158,
+              "stem": "What has been enclosed with this letter?",
+              "options": {
+                "A": "The event agenda",
+                "B": "A loan application form",
+                "C": "A resume",
+                "D": "A registration form"
+              },
+              "answer": "A",
+              "translation": "信中附上了什么？ (A) 活动日程 (B) 一份借贷申请表 (C) 一份简历 (D) 一份注册表",
+              "explanation": "第三段提到了请求收件人将随附的活动日程安排转交给招聘负责人。答案是 (A)。"
+            },
+            {
+              "number": 159,
+              "stem": "According to the letter, how can one receive additional information?",
+              "options": {
+                "A": "By calling Mr. Koop at his office",
+                "B": "By sending Paul a letter",
+                "C": "By checking out the company’s homepage",
+                "D": "By going down to the Maycott Convention Center"
+              },
+              "answer": "C",
+              "translation": "根据这封信，怎样才能获得更多信息？ (A) 打电话到库普先生的办公室 (B) 给保罗写信 (C) 查看公司主页 (D) 去梅科特会议中心",
+              "explanation": "登录公司网站即可得到更详细的信息。答案是 (C)。"
+            }
+          ]
+        },
+        {
+          "id": "p160",
+          "descriptor": "online chat discussion",
+          "title": "Ken Jackson [12:04 P.M.]",
+          "text": "Ken Jackson [12:04 P.M.] I’ve got a slight problem at the worksite at 98 Clover Lane. It looks like we’re going to run out of red bricks pretty soon. Larry Oak [12:05 P.M.] How many more do you have left? Ken Jackson [12:06 P.M.] About fifty. There were more, but when I opened the pallet this morning, I discovered that more than half of them were broken. Jessica Lewis [12:07 P.M.] You’re using the standard-sized red bricks made by Martin, Inc., aren’t you? I can head to the storeroom to check if we have some. Ken Jackson [12:08 P.M.] That would be great, Jessica. Thanks. Jessica Lewis [12:13 P.M.] Okay, I’m back. There are three pallets. How many do you need? Ken Jackson [12:14 P.M.] One should do. Larry Oak [12:15 P.M.] I’ll load it on the truck and bring it to you at once. I’ll arrive by two. I’ll also load the broken ones onto the truck after I arrive. Ken Jackson [12:16 P.M.] Thanks, both of you. When I run out of bricks, I’ll do some of the other work the client requested so that I don’t have to sit around and wait.",
+          "questions": [
+            {
+              "number": 160,
+              "stem": "What is the problem?",
+              "options": {
+                "A": "A client changed his mind about something.",
+                "B": "A project is running late.",
+                "C": "An employee needs more of an item.",
+                "D": "A project is over budget."
+              },
+              "answer": "C",
+              "translation": "问题是什么？ (A) 一个客户改变了主意。 (B) 一个项目要延期。 (C) 一个员工需要更多的一种物资。 (D) 一个项目超预算了。",
+              "explanation": "杰克逊先生说红砖看起来很快就要用完了，刘易斯女士说她可以去库房看看是否有一些。答案是 (C)。"
+            },
+            {
+              "number": 161,
+              "stem": "At 12:08, what does Mr. Jackson imply when he writes,“That would be great, Jessica”?",
+              "options": {
+                "A": "He is using bricks made by Martin, Inc.",
+                "B": "He wants Ms. Lewis to visit the worksite.",
+                "C": "He is pleased Ms. Lewis found some bricks.",
+                "D": "He is eager someone will assist him in the project."
+              },
+              "answer": "A",
+              "translation": "在12点08分，杰克逊先生写“那就太好了，杰茜卡”暗示了什么？ (A) 他使用的是马丁公司生产的砖。 (B) 他想让刘易斯女士去工地。 (C) 他很高兴刘易斯女士找到了一些砖。 (D) 他迫切希望能有人帮他完成这个项目。",
+              "explanation": "刘易斯女士问杰克逊先生是否用的是马丁公司生产的标准尺寸的红砖，她可以去库房看看是否有一些，杰克逊先生回答说“太好了”，可见他用的正是马丁公司生产的砖。答案是 (A)。"
+            },
+            {
+              "number": 162,
+              "stem": "What will Mr. Oak most likely do next?",
+              "options": {
+                "A": "Search for some missing items",
+                "B": "Put some items onto a truck",
+                "C": "Contact a client",
+                "D": "Repair some broken bricks"
+              },
+              "answer": "B",
+              "translation": "欧科先生接下来最有可能做什么？ (A) 寻找一些丢失的物品 (B) 把一些东西装到卡车上 (C) 联系一位客户 (D) 修复破损的砖",
+              "explanation": "欧科先生说他会立即把库房里的砖装上卡车给杰克逊先生运过去，那么接下来他要做的应该是装车。答案是 (B)。"
+            },
+            {
+              "number": 163,
+              "stem": "What does Mr. Jackson suggest?",
+              "options": {
+                "A": "He is unable to drive a truck.",
+                "B": "He has several work projects to do.",
+                "C": "He is far from 98 Clover Lane.",
+                "D": "He was responsible for breaking the bricks."
+              },
+              "answer": "B",
+              "translation": "杰克逊先生在暗示什么信息？ (A) 他不会开卡车。 (B) 他还有几项工作要做。 (C) 他距离克洛弗路98号很远。 (D) 砖块破损是他的责任。",
+              "explanation": "对话结束时，杰克逊先生说红砖用完后，他会做一些客户要求的其他工作。言外之意，他有不止一项工作要做。答案是 (B)。"
+            }
+          ]
+        },
+        {
+          "id": "p164",
+          "descriptor": "report",
+          "title": "The legal dispute between Frecopy and Dwean has yet to reach a",
+          "text": "The legal dispute between Frecopy and Dwean has yet to reach a conclusion. Talks between each side’s legal representatives have been ensuing for about a month now. They were close to a settlement about a week ago but have since slid back from their earlier talks due to new information that has been released by the FDA. The FDA announced the discovery of a substance in both companys’ migraine medication mix that exceeds the daily recommended amount by 12%. The major area of dispute is that Frecopy claims that they legally licensed the use of the main substances from Dwean to make the medication for minors; however, they claim they were unaware of the legal dosage required under the FDA regulations since Dwean is the main applicant with the FDA. However, Dwean claims Frecopy was fully aware of the legal dosage in talks prior to the actual licensing agreement signing. Recently, analysts have downgraded both companies in their equity reports and say that the two companies should proceed with caution and do their best to work out a settlement with the FDA and each other quickly and quietly. Any long, dragged out, legal disputes with the FDA and the state prosecutor’s office could truly hurt both companies’ long-term profitability.",
+          "questions": [
+            {
+              "number": 164,
+              "stem": "What is the report mainly about?",
+              "options": {
+                "A": "The merging of two major medical companies",
+                "B": "The FDA and its new policy",
+                "C": "The ensuing legal battle between two firms",
+                "D": "The licensing process for a new medicine"
+              },
+              "answer": "C",
+              "translation": "这份报告主要报道了什么？ (A) 两家制药公司的兼并 (B) 食品和药物监管局及其新政策 (C) 两家公司之间的法律纠纷 (D) 一种新药的执照获得过程",
+              "explanation": "第一段提到了两家企业间的纠纷到现在还没有解决。答案是 (C)。"
+            },
+            {
+              "number": 165,
+              "stem": "According to the report, what has caused the talks to take a step back?",
+              "options": {
+                "A": "The disagreement over the name their new product",
+                "B": "The surfacing of new information",
+                "C": "The lawyers on both sides not liking each other",
+                "D": "The legality issue of the licensing process"
+              },
+              "answer": "B",
+              "translation": "根据这份报道，是什么使谈判倒退？ (A) 在新产品的名字上没有达成一致 (B) 新信息的出现 (C) 双方的律师相互不喜欢 (D) 获得执照过程中的法律问题",
+              "explanation": "食品和药物监管局发表了有关两家企业生产的偏头痛药物成分的新结论。答案是 (B)。"
+            },
+            {
+              "number": 166,
+              "stem": "What did the FDA announce?",
+              "options": {
+                "A": "A new policy regarding the licensing of new medicines",
+                "B": "A new product for migraine headaches",
+                "C": "A violation of its standard usage",
+                "D": "A signing of a new licensing agreement"
+              },
+              "answer": "C",
+              "translation": "食品和药物监管局宣布了什么？ (A) 关于取得新药执照的新政策 (B) 治疗偏头痛的一种新药 (C) 对其规定用量的违反 (D) 新执照协议的签订",
+              "explanation": "食品和药物监管局说这两家企业的药物中的某种成分超过了规定剂量。答案是 (C)。"
+            }
+          ]
+        },
+        {
+          "id": "p167",
+          "descriptor": "advertisement",
+          "title": "Fantasy Fitness",
+          "text": "Fantasy Fitness Are you tired of waiting in line to use your favorite exercise machine only to find out that it is broken for the day? Or you finally get yourself out to the gym, but there is no one to train with? Well, don’t fret because Fantasy Fitness is here. At Fantasy Fitness, all your health care needs are at your fingertips. We have a 200- square-feet exercise room with the latest exercise equipment and a 100-square- foot swimming pool with multiple private saunas and Jacuzzi rooms, and everyone who signs up with us will be put in a special program tailored-made by our licensed trainer to help you get into the best shape of your life. Read what some of our most satisfied customers have to say: “I always used to skip going to the gym and wasted so much money on those expensive membership fees. But not at Fantasy Fitness, with their readily available personal trainers and customized workout programs. I never miss a workout!” - Dave from New York “As a mother of four, who would ever think that I would have the time to go to the gym, much less spend any time in the sauna, but at Fantasy Fitness they take care of all my family’s needs. They have a fully-equipped professional staff of over 10 daycare specialists working around the clock as well as 5 different play rooms for children between 5-10 to play in. I used to think I would never exercise again, but not any more… Fantasy Fitness is a mother’s fantasy come true!” - Jane from Los Angeles “My girlfriend used to complain that I work too much and that I’ve gained a lot of weight over the months. She said that we never get to spend any quality time together, but ever since I joined Fantasy Fitness, that has changed. Since joining six months ago, I have already lost 25 pounds and my girlfriend was so impressed she joined as well. Now we spend a lot of time together at Fantasy Fitness. Fantasy Fitness has turned my life from frustration to a true fantasy!” - Bob from Texas Come and try Fantasy Fitness! You’ll never regret it!",
+          "questions": [
+            {
+              "number": 167,
+              "stem": "Which of the following is NOT a service mentioned in the advertisement?",
+              "options": {
+                "A": "Person training by a specialist",
+                "B": "A daycare center for children under 10 years old",
+                "C": "Saunas for members to relax in",
+                "D": "Free swimming lessons for regulars"
+              },
+              "answer": "D",
+              "translation": "以下哪项服务没有在广告中提到？ (A) 专业人员指导的个人锻炼 (B) 照看10岁以下孩子的日托中心 (C) 为会员提供休息的桑拿室 (D) 为老客户提供的免费游泳课",
+              "explanation": "第一段的后半部分中列出了具体设施及服务内容，再参考三位顾客的实例可知，并没有 (D) 的内容，故为答案。"
+            },
+            {
+              "number": 168,
+              "stem": "What can be inferred from the advertisement?",
+              "options": {
+                "A": "Fantasy Fitness has gyms nationwide.",
+                "B": "The fitness center guarantees weight loss.",
+                "C": "Children get free memberships.",
+                "D": "The swimming pool is available 24 hours a day."
+              },
+              "answer": "A",
+              "translation": "从广告中可以推断出什么？ (A) 幻想健身房在全国都有分店。 (B) 健身中心保证能让客户减轻体重。 (C) 孩子们能免费入会。 (D) 游泳池24小时开放。",
+              "explanation": "实例中的三位顾客居住在不同的城市，可推断幻想健身房是全国连锁的。答案是 (A)。"
+            },
+            {
+              "number": 169,
+              "stem": "Why is Jane happy with Fantasy Fitness?",
+              "options": {
+                "A": "She can work out with her children.",
+                "B": "She received many tips about nutrition.",
+                "C": "She does not have to worry about her kids.",
+                "D": "She has lost a lot of weight."
+              },
+              "answer": "C",
+              "translation": "简为什么对幻想健身房很满意？ (A) 她可以和孩子们一起锻炼。 (B) 她得到了很多关于营养的小诀窍。 (C) 她不需要担心她的孩子们。 (D) 她减掉了很多体重。",
+              "explanation": "本题需参考第二个顾客实例。简是一位主妇，她对幻想健身房有儿童游乐区及专业看管人员感到非常满意。答案是 (C)。"
+            }
+          ]
+        },
+        {
+          "id": "p170",
+          "descriptor": "e-mail message",
+          "title": "To: sjthompson@sxp.com",
+          "text": "To: sjthompson@sxp.com From: dan.ficklestein@makana.com Subject: Shoe Catalogue Request Dear Mr. Thompson, Thank you for your e-mail inquiry in regard to our 2018 spring collection catalog of our latest line of fashionable men and ladies’ shoes. We will be more than happy to send you a catalog right away. Also, at this time, I would like to let you know that we have just started a collection of men and ladies’ sports wear which you will find in the catalog I will be sending. —[1]— And as a token of our good will, we will also include a free sample of our latest men’s shoe polish that you can try. —[2]— If you like it and would like to order some, just check the box at the bottom of the order form included in our delivery. —[3]— I will have the delivery sent to you today by express courier. —[4]— If you have any questions in the meantime, please do not hesitate to contact me. Serving all our customer’s needs at the click of mouse, www.makana.com. With best regards, Dan Ficklestein Customer Service Representative",
+          "questions": [
+            {
+              "number": 170,
+              "stem": "Why was the e-mail written?",
+              "options": {
+                "A": "To respond to a request",
+                "B": "To place an order for shoes",
+                "C": "To request a company brochure to be sent",
+                "D": "To receive some samples of goods"
+              },
+              "answer": "A",
+              "translation": "为什么要写这封电子邮件？ (A) 回应一个要求 (B) 订购一些鞋子 (C) 要求寄送公司宣传册 (D) 收到货物的一些样品",
+              "explanation": "根据邮件主题以及邮件的第一段内容可知，此邮件是应顾客的请求，承诺寄送出一份鞋类商品目录的回复邮件。答案是 (A)。"
+            },
+            {
+              "number": 171,
+              "stem": "How did Mr. Thompson get in contact with Mr. Ficklestein?",
+              "options": {
+                "A": "By e-mail 1159",
+                "B": "By phone",
+                "C": "By mail",
+                "D": "By fax"
+              },
+              "answer": "A",
+              "translation": "汤普森先生是怎样与费克莱斯坦先生取得联系的？ (A) 通过电子邮件 (B) 打电话 (C) 写信 (D) 发传真",
+              "explanation": "可在第一段开头的Thank you for e-mail inquiry in regard to... 中找到答案。答案是 (A)。"
+            },
+            {
+              "number": 172,
+              "stem": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? “You should receive the package in the next three days.”",
+              "options": {
+                "A": "[1]",
+                "B": "[2]",
+                "C": "[3]",
+                "D": "[4]"
+              },
+              "answer": "D",
+              "translation": "以下句子“You should receive the package in the next three days.”位于标有 [1], [2], [3]和[4]的哪处最合适？",
+              "explanation": "所给句子是说“您应该能在接下来的三天内收到包裹”，是在说快递到达时间，电子邮件中与“快递”有关的内容出现在第三段。答案为 (D)。"
+            }
+          ]
+        },
+        {
+          "id": "p173",
+          "descriptor": "memorandum",
+          "title": "To: All Employees",
+          "text": "To: All Employees From: Paul Creighton As you all know, we have had a great year this year, and we have tallied the sales numbers on each and every one of you. I’d like first of all to thank everyone for their hard work and effort. Despite the slow growth in the economy this year, we still managed to stay ahead of our competition and beat last year’s figures as well. In addition to surpassing last year’s numbers, we have added 6 new branches, two in the downtown area, one on the west side of town, and the remaining three in the growing northern area of the city. We are pleased that each of our new branches showed a positive net income, and we expect them to grow modestly over the next couple of years with more explosive growth as we hit 2020. In a week’s time we will be gathering for our annual appreciation ceremony for all the hard work that you do. I expect everyone to be there. It’s a great time just to relax and enjoy the fruits of our labors. Besides some great entertainment and tons of awards to give out this year, we have also lined up a surprise for Brad Jones’ retirement. We want to honor him for his 32 years of service with a special tribute that night. I hope to see you all there!",
+          "questions": [
+            {
+              "number": 173,
+              "stem": "What is the main purpose of the memo?",
+              "options": {
+                "A": "To announce the opening of a new branch office downtown",
+                "B": "To invite staff members to an awards night",
+                "C": "To persuade employees to participate in a special event arranged by Brad Jones",
+                "D": "To announce the achievements of a co-worker who has been with the company for 32 years"
+              },
+              "answer": "B",
+              "translation": "这个备忘录的主要目的是什么？ (A) 宣布市区的一家新分部开业 (B) 邀请员工参加一个颁奖晚会 (C) 说服员工参加布拉德·琼斯组织的一个特别活动 (D) 宣布一位为公司服务32年的同事的成就",
+              "explanation": "写这个备忘录是为了邀请员工参加年终颁奖大会。答案是 (B)。"
+            },
+            {
+              "number": 174,
+              "stem": "Which of the following is NOT part of this year’s occurrences?",
+              "options": {
+                "A": "The opening of six branch offices in the city",
+                "B": "A retirement announcement made by a colleague",
+                "C": "A successful year in the number of sales made",
+                "D": "The closing of one of their competing companies"
+              },
+              "answer": "D",
+              "translation": "以下哪项不是今年发生的？ (A) 在本市开了六家分部 (B) 有一位同事宣布退休 (C) 销售业绩辉煌的一年 (D) 一家竞争公司倒闭",
+              "explanation": "文中并没有提到 (D)。"
+            },
+            {
+              "number": 175,
+              "stem": "What does Mr. Creighton say about the new branch offices?",
+              "options": {
+                "A": "They are facing an uncertain future.",
+                "B": "They will grow rapidly within the next few years.",
+                "C": "They are planning to expand their workforce in the near future.",
+                "D": "They will be assigned new general managers."
+              },
+              "answer": "B",
+              "translation": "克莱顿先生提及了有关新分部的什么信息？ (A) 它们面临不确定的未来。 (B) 它们会在未来的几年里迅速成长。 (C) 它们计划在不久的将来扩大员工规模。 (D) 它们会被指派新的总经理。",
+              "explanation": "第二段中写到，这一年增加了6家分部，期待它们在未来能有更好的发展。答案是 (B)。"
+            }
+          ]
+        },
+        {
+          "id": "p176",
+          "descriptor": "letter and catalog excerpt",
+          "title": "Stella Velo",
+          "text": "Stella Velo 132 Rodeoway Crescent. #2 Vancouver, British Columbia, Canada Dear Mrs. Velo, My name is Christian Lind, and I am Fly Entertainment’s Senior Marketing Director. A couple of weeks ago I had the privilege of becoming acquainted with you at the American Marketing Association Conference in Atlanta, Georgia. At the time, you expressed great interest in our in-flight entertainment system, but unfortunately I did not have a brochure handy with me. However, you were kind enough to hand me your business card, and here I am writing to you. I have enclosed a catalog with this letter along with some information regarding our state-of-the-art entertainment system used by many of the top airlines and cruise ships throughout the world. At this time, I’d like to point out that since our last meeting, we have made a couple of improvements to our system from the feedback of our beloved consumers. We have now included a memory portion to the program selection, so you can go back and see which programs you have selected. We have also included a parental control button to screen select programs for the children. And, if you order now, we are willing to promotionally offer 20% off our regular price in order to develop our mutually beneficial relationship. I appreciate the time you have taken to read my letter to you. I hope I hear from you soon and get a chance to meet you again at another AMA event. With best regards, Christian Lind Senior Marketing Manager Fly Entertainment, Inc. Premium Standard System Quality and premium selection at its best One of the most common complaints from passengers on planes is the inadequate in-flight entertainment. Generally, movies are played at times selected by the airline, which best suits the airline staff. And, if any choices are provided, they are usually restricted to a few audio channels. Now, with the introduction of Fly Entertainment’s Premium Standard System, freedom is just a touch away. With over 100 satellite stations and over 100 radio stations, each passenger is about to custom-select their choice of shows at whatever time is most convenient for them. This way, you can keep up with all your favorite movies, shows, and programs while you are a hundred miles away from home, or you can experience the programs of a different culture and language. All of this can be available at a low cost of $10 per seat.",
+          "questions": [
+            {
+              "number": 176,
+              "stem": "What is the main purpose of the letter?",
+              "options": {
+                "A": "To enquire further about a product introduced at the conference",
+                "B": "To invite Mrs. Velo to the next American Marketing Association Conference",
+                "C": "To follow up on an earlier discussion with Mrs. Velo.",
+                "D": "To request a discount on the next purchase"
+              },
+              "answer": "C",
+              "translation": "这封信的主要目的是什么？ (A) 进一步询问会议上介绍的一个产品 (B) 邀请韦洛女士参加下一次的美国市场联合会议 (C) 继续与韦洛女士早先的讨论 (D) 要求下一次购买时能够打折",
+              "explanation": "第一篇文章第一段对写信理由进行了说明，即对几周前韦洛女士感兴趣的产品进行说明，并附上产品宣传册。答案是 (C)。"
+            },
+            {
+              "number": 177,
+              "stem": "How can Mrs. Velo receive the discount mentioned?",
+              "options": {
+                "A": "By acting now",
+                "B": "By purchasing in bulk",
+                "C": "By paying cash",
+                "D": "By attending the next AMA event"
+              },
+              "answer": "A",
+              "translation": "韦洛女士怎样才能获得提到的折扣？ (A) 现在就购买 (B) 大批量购买 (C) 用现金购买 (D) 参加下次的美国市场联合会议",
+              "explanation": "第一篇文章第二段的最后写到If you order now, we are willing to promotionally offer 20% off our regular price...，答案是 (A)。"
+            },
+            {
+              "number": 178,
+              "stem": "According to the letter, what has taken place since Mr. Lind last spoke with Mrs. Velo?",
+              "options": {
+                "A": "A consumer survey had been conducted by the company.",
+                "B": "Some new features have been added to the system.",
+                "C": "The price of the system has been slashed 20%.",
+                "D": "Plenty of brochures have been ordered."
+              },
+              "answer": "B",
+              "translation": "根据这封信，自从林德先生上次和韦洛女士谈话后发生了什么？ (A) 公司进行了一次客户调查。 (B) 系统添加了一些新特色。 (C) 系统的价钱降低了20%。 (D) 宣传小册被大量订购。",
+              "explanation": "第一篇文章第二段的开头写到...we have made a couple of improvements to our system。答案是 (B)。"
+            },
+            {
+              "number": 179,
+              "stem": "What is the Premium Standard System?",
+              "options": {
+                "A": "An airline company",
+                "B": "An entertainment company",
+                "C": "A product of Fly Entertainment",
+                "D": "A rule set by the airline industry"
+              },
+              "answer": "C",
+              "translation": "什么是高级标准系统？ (A) 一家航空公司 (B) 一家娱乐公司 (C) 飞行娱乐公司的一个产品 (D) 航空业定的一条规则",
+              "explanation": "第二篇文章是飞行娱乐公司的产品宣传。高级标准系统是一种机舱内使用的娱乐设施。答案是 (C)。"
+            },
+            {
+              "number": 180,
+              "stem": "Which of the following is NOT a feature described of the product?",
+              "options": {
+                "A": "It has many stations to choose from.",
+                "B": "It catches stations from other nations.",
+                "C": "It has a parental screen option.",
+                "D": "It has many children’s programs."
+              },
+              "answer": "D",
+              "translation": "以下哪项不是所描述产品的特点？ (A) 它有很多电台可供选择。 (B) 它能收到其他国家的电台。 (C) 它有父母屏幕选项。 (D) 它有很多儿童节目。",
+              "explanation": "第二篇文中写到With over 100 satellite stations and over 100 radio stations...most convenient for them (A)，you can experience the programs of a different culture and language (B)，第一篇文中写到We have also included a parental control button to screen... (C)。文中没有提到的是 (D)。"
+            }
+          ]
+        },
+        {
+          "id": "p181",
+          "descriptor": "e-mail message and itinerary",
+          "title": "To: ALL TRAVELERS",
+          "text": "To: ALL TRAVELERS From: lisawilliams@westcoasttravels.com Subject: May 1-May 5 Tour To everyone, The west coast tour has finally arrived. I hope everyone is looking forward to some great sightseeing we have planned for you. On this West Coast Adventure Tour, there will be two destinations: LA and Las Vegas. Since there are 25 members who will be in attendance, we request that each passenger only bring one bag due to limited space on the bus. The weather is forecast to be bright, warm, and sunny throughout the entire trip. Remember that we will be spending a night in Dodgers’ Stadium to watch a baseball game in the evening. So please remember to pack a jacket since the nights in LA get a bit cool. We have many events planned. So please refer to the schedule attached with this e-mail. If there are any questions regarding the itinerary or anything about our trip, please call me at my office during business hours. Also, please arrive at Kennedy Airport at least two hours before the 8 o’clock flight to LA. Thank you and I look forward to seeing you at the airport on the 1st of May. Lisa Williams",
+          "questions": [
+            {
+              "number": 181,
+              "stem": "Which of the following events will NOT be part of the tour?",
+              "options": {
+                "A": "A sporting event",
+                "B": "A Broadway play",
+                "C": "A car show",
+                "D": "A museum visit"
+              },
+              "answer": "D",
+              "translation": "以下哪项不是行程的一部分？ (A) 一场体育比赛 (B) 一场百老汇音乐剧 (C) 一次车展 (D) 参观博物馆",
+              "explanation": "本题需查看第二篇文章的日程表。答案是 (D)。"
+            },
+            {
+              "number": 182,
+              "stem": "What can be inferred from the schedule?",
+              "options": {
+                "A": "On the first day of the tour, they will most likely have lunch on the plane. 1165",
+                "B": "Each day begins at the same time.",
+                "C": "Tour members prefer to spend more time in Las Vegas.",
+                "D": "They will stay at five-star accommodations."
+              },
+              "answer": "A",
+              "translation": "从日程表可以推断出什么？ (A) 在第一天，他们很有可能在飞机上用午餐。 (B) 每天的活动都在同一时间开始。 (C) 旅行团成员更喜欢多花点时间在拉斯维加斯。 (D) 他们将入住五星级酒店。",
+              "explanation": "旅游的第一天是早晨6:00在机场集合，下午1:30到达目的地，日程表中并没有具体列出午餐时间，因此在飞机上吃午餐的可能性比较大。答案是 (A)。"
+            },
+            {
+              "number": 183,
+              "stem": "On which day will the jacket mentioned in the e-mail become handy?",
+              "options": {
+                "A": "Day 1",
+                "B": "Day 2",
+                "C": "Day 3",
+                "D": "Day 4"
+              },
+              "answer": "B",
+              "translation": "邮件中提到夹克衫会在哪天用到？ (A) 第一天 (B) 第二天 (C) 第三天 (D) 第四天",
+              "explanation": "第一篇文章第二段中提到观看棒球比赛时需要带外套，查看日程表可知，观看棒球比赛的时间是第二天的晚上7:30。答案是 (B)。"
+            },
+            {
+              "number": 184,
+              "stem": "What does the e-mail imply?",
+              "options": {
+                "A": "The tour has already taken place.",
+                "B": "Too many tourists have misbehaved in the past.",
+                "C": "People should prepare themselves for chilly weather.",
+                "D": "A group this large has never been put together before."
+              },
+              "answer": "C",
+              "translation": "电子邮件暗示了什么？ (A) 旅行已经开始。 (B) 过去太多的旅行者举止不文明。 (C) 人们应该为寒冷天气做好准备。 (D) 从来没有过像这个团一样大的旅行团。",
+              "explanation": "参考183题。答案是 (C)。"
+            },
+            {
+              "number": 185,
+              "stem": "What does Ms. Williams NOT mention in the e-mail?",
+              "options": {
+                "A": "To expect a long line at the airport check in counter",
+                "B": "To bring only one suitcase",
+                "C": "To pack warm clothing",
+                "D": "To read the itinerary"
+              },
+              "answer": "A",
+              "translation": "威廉斯女士没有在电子邮件中提到什么？ (A) 预见机场安检处的队伍很长 (B) 只能带一个行李箱 (C) 带上保暖的衣服 (D) 阅读整个行程安排",
+              "explanation": "威廉斯在邮件中并没有提到的是 (A)。only bring one bag对应 (B)，to pack a jacket对应 (C)，refer to the schedule对应 (D)。"
+            }
+          ]
+        },
+        {
+          "id": "p186",
+          "descriptor": "advertisement, ticket, and e-mail",
+          "title": "Summer Concert Series at Waverly Park",
+          "text": "Summer Concert Series at Waverly Park Saturday, June 23: Brad Tilson (5:00 P.M. – 6:30 P.M.) Sunday, July 8: Winston Orchestra (2:00 P.M. – 4:30 P.M.) Saturday, July 21: The Pauline Group (7:00 P.M. – 9:00 P.M.) Friday, August 10: Tina Jackson (6:30 P.M. – 8:00 P.M.) Saturday, August 25: Four Guys (4:30 P.M. – 6:30 P.M.) Tickets may be purchased at www.waverlypark.com/tickets. Prices range from $10 to $25. All concerts will be held in the open-air auditorium on the eastern side of the park. There are lawn seats available as well as regular chairs. In case of inclement weather, events will be rescheduled for another time. Refunds and exchanges will be permitted in these cases. Otherwise, all ticket sales are final. Waverly Park is located at 38 Cranston Street. It is open from 6:00 A.M. to 8:00 P.M. every day of the week. TICKET Date: August 10 Location: Waverly Park Buyer: Peter Grant Price: $25 Seating: Section A Call 383-1273 for information if it rains on the date of the event. To: Irene Gray <irenegray@mymail.com> From: Rudolph West <rwest@waverlypark.org.> Subject: Re: Volunteer Opportunities Date: June 11 Dear Ms. Gray, I appreciate your generous offer to provide your services at this year’s Summer Concert Series. We could use all the help that we can get. It’s wonderful that you have such a large amount of experience with musical concerts. I’m sure we will benefit from your assistance. You indicated that you are presently out of the country until June 25, so why don’t you come to the next concert on the schedule? If you arrive one hour before it starts, I’ll be able to provide you with instructions on what to do. And just so you know, the volunteers usually stay after the concert and enjoy a picnic provided by the park. You are invited to attend it. See you soon. Regards, Rudolph West Summer Concert Series Organizer",
+          "questions": [
+            {
+              "number": 186,
+              "stem": "What is indicated about the concert being held by the Pauline Group?",
+              "options": {
+                "A": "It will last longer than every other concert.",
+                "B": "There is no charge to attend it.",
+                "C": "Rain will likely cause it to be canceled.",
+                "D": "It will finish after the park has closed."
+              },
+              "answer": "D",
+              "translation": "关于波林组合举办的音乐会，文中所给信息表明了什么？ (A) 它将比其他音乐会的时间长。 (B) 参加此音乐会不收取任何费用。 (C) 下雨可能会导致音乐会取消。 (D) 音乐会结束时间是在公园闭园后。",
+              "explanation": "波林组合的音乐会结束时间为晚上9:00，而韦弗利公园闭园时间为晚上8:00。答案是 (D)。"
+            },
+            {
+              "number": 187,
+              "stem": "Where will the concerts be held?",
+              "options": {
+                "A": "In a stadium",
+                "B": "At a community center",
+                "C": "In an outdoor theater",
+                "D": "Across from a park"
+              },
+              "answer": "C",
+              "translation": "系列音乐会将会在哪里举行？ (A) 在体育场 (B) 在一个社区中心 (C) 在一个露天剧场 (D) 在一个公园的对面",
+              "explanation": "夏季系列音乐会将会在韦弗利公园东侧的露天剧场举行。答案是 (C)。"
+            },
+            {
+              "number": 188,
+              "stem": "What is true about the ticket Mr. Grant purchased?",
+              "options": {
+                "A": "It is eligible for a refund. 1168",
+                "B": "It is the most expensive available.",
+                "C": "It is located far from the stage.",
+                "D": "It is for a classical music performance."
+              },
+              "answer": "B",
+              "translation": "关于格兰特先生的购票信息，以下哪项是正确的？ (A) 该票可以退。 (B) 该票是最贵的。 (C) 该票座位距离舞台很远。 (D) 这是一张古典乐表演的票。",
+              "explanation": "格兰特先生所购买的音乐会门票在A区，价格为25美元，而该系列音乐会门票在10~25美元之间，所以这张门票是票价最贵的。答案是 (B)。"
+            },
+            {
+              "number": 189,
+              "stem": "What does Mr. West mention about Ms. Gray?",
+              "options": {
+                "A": "She expects to be paid for her work.",
+                "B": "She is traveling abroad at the moment.",
+                "C": "She is a member of a musical group.",
+                "D": "She can help organize a picnic."
+              },
+              "answer": "B",
+              "translation": "关于格雷女士，韦斯特先生提到了什么？ (A) 她希望这份工作有报酬。 (B) 她此时正在国外。 (C) 她是一个乐团的成员。 (D) 她可以帮忙组织野餐。",
+              "explanation": "音乐会组织方在6月11日给格雷女士发邮件，说格雷女士6月25日之前不在国内，即她此时正在国外。答案是 (B)。"
+            },
+            {
+              "number": 190,
+              "stem": "When will Ms. Gray volunteer at Waverly Park?",
+              "options": {
+                "A": "On June 23",
+                "B": "On July 8",
+                "C": "On July 21",
+                "D": "On August 10"
+              },
+              "answer": "B",
+              "translation": "格雷女士什么时候会在韦弗利公园做志愿活动？ (A) 6月23日 (B) 7月8日 (C) 7月21日 (D) 8月10日",
+              "explanation": "格雷女士6月25日才会回国，在邮件中韦斯特先生建议她参加日程表上的下一场音乐会，也就是7月8日的音乐会。答案是 (B)。"
+            }
+          ]
+        },
+        {
+          "id": "p191",
+          "descriptor": "e-mail, invoice, and survey",
+          "title": "To: Dennis Shepherd <dennis_shepherd@wondermail.com>",
+          "text": "To: Dennis Shepherd <dennis_shepherd@wondermail.com> From: Karen Cross <kcross@bookdepot.com> Subject: Welcome Date: February 12 Dear Mr. Shepherd, Payment for your annual membership to the Book Depot has been received. For the next twelve months, you will get 10% off every purchase you make with us. You’ll also gain access to special offers exclusively for our members. The Book Depot has more than 20 million used books for sale at bookstores around the world. We work with some of the finest used bookstores everywhere and make their collections available online when you shop with us. After you place an order, individual bookstores will send the items you want wherever in the world you are. As a special bonus, the delivery of each book you purchase will be completely free until March 15. Finally, should you spend more than $80 on your first purchase as a new member, you will receive a complimentary grab bag of 10 used books selected at random. Sincerely, Karen Cross INVOICE Customer Name: Dennis Shepherd Membership Number: 234952 Address: 78 Mangrove Street, Columbia, SC Phone Number: (393) 348-2836 E-mail Address: dennis_shepherd@wondermail.com Order Date: February 18 If ordering from multiple bookstores, your items will be sent separately. You will receive an e-mail from each bookseller regarding the status of your purchase. The Book Depot Customer Survey Please let us know how you felt about your most recent order. Your comments will help us improve the customer experience for our members. How would you rate the following (1 = very unsatisfied / 5 =very satisfied): Comments: I was mostly satisfied with everything, especially the grab bag which I received. I was e-mailed about every book I ordered except for Wandering the Wastelands. Nevertheless, it still arrived, so there were no problems. — Dennis Shepherd",
+          "questions": [
+            {
+              "number": 191,
+              "stem": "What is indicated about the Book Depot?",
+              "options": {
+                "A": "It is the owner of several bookstores.",
+                "B": "It provides membership for free.",
+                "C": "It is having a sale for all customers in March.",
+                "D": "It delivers books to other countries."
+              },
+              "answer": "D",
+              "translation": "关于“书之家”，原文表明了什么？ (A) 它拥有几家实体书店。 (B) 它提供免费会员服务。 (C) 它在3月有一次面向所有会员的促销活动。 (D) 它邮寄书籍到外国。",
+              "explanation": "“书之家”是一家在线售书平台，会员在网上购书，不管下单者在世界的哪个地方，书籍都可邮寄到家。答案是(D)。"
+            },
+            {
+              "number": 192,
+              "stem": "How can members of the Book Depot receive a free gift?",
+              "options": {
+                "A": "By providing a special code",
+                "B": "By ordering from two different bookstores 1171",
+                "C": "By spending a certain amount of money",
+                "D": "By placing an order in April"
+              },
+              "answer": "C",
+              "translation": "“书之家”的会员如何获得免费礼品？ (A) 提供特殊密码 (B) 同时在两家书店下单 (C) 消费一定的金额 (D) 在4月份下单",
+              "explanation": "由第一封邮件最后一段可知，新会员购书满80美元即可免费获得随机二手书福袋。答案是 (C)。"
+            },
+            {
+              "number": 193,
+              "stem": "What is most likely NOT true about Mr. Shepherd’s order?",
+              "options": {
+                "A": "It took too long to arrive.",
+                "B": "It was delivered for free.",
+                "C": "It was the first he made with the Book Depot.",
+                "D": "It received a discount."
+              },
+              "answer": "A",
+              "translation": "关于谢泼德先生的订单，下列哪一项最有可能是错误的？ (A) 送货时间太长。 (B) 免费送货。 (C) 这是他在“书之家”的第一个订单。 (D) 该订单享有折扣优惠。",
+              "explanation": "根据谢泼德先生的售后评价，他给配送速度打了5分，可知他对送货速度非常满意。答案是 (A)。"
+            },
+            {
+              "number": 194,
+              "stem": "In the survey, the word“felt” in line 1 is closest in meaning to",
+              "options": {
+                "A": "sensed",
+                "B": "experienced",
+                "C": "thought",
+                "D": "touched"
+              },
+              "answer": "C",
+              "translation": "在顾客售后反馈调查中，第一行的“felt”一词的意思最接近 (A) 意识 (B) 体验 (C) 认为 (D) 触摸",
+              "explanation": "由原文“...how you felt about your most recent order (对最近一次订单的意见) ”可知，“felt”是“认为”的意思。答案是 (C)。"
+            },
+            {
+              "number": 195,
+              "stem": "Which bookstore failed to contact Mr. Shepherd?",
+              "options": {
+                "A": "Price and Hamels",
+                "B": "Books Galore",
+                "C": "Shasta",
+                "D": "McIntyre Books"
+              },
+              "answer": "C",
+              "translation": "哪家书店没有联系谢泼德先生？ (A) 汉梅尔斯平价书店 (B) 书海书店 (C) 沙斯塔书店 (D) 麦金太尔书店",
+              "explanation": "谢泼德先生在售后评价中写到，除了没有收到《荒原漫游》的订单核对邮件外，其余都收到了，可知沙斯塔书店没有与他进行邮件联系。答案是 (C)。"
+            }
+          ]
+        },
+        {
+          "id": "p196",
+          "descriptor": "memos and signup sheet",
+          "title": "To: All Employees, Jackson Facility",
+          "text": "To: All Employees, Jackson Facility From: Andrea Carter, HR Department Subject: Volleyball League Date: March 23 We at Emerson Motors encourage our staffers to be physically fit. Accordingly, we will begin organizing sports leagues for our employees. The first will be for volleyball. We hope to form six teams comprised of eight players each. The league is set to commence on April 15, and games, including a playoff series to determine the league champion, will end in mid-June. Employees are urged to create their own teams. Registration forms may be obtained from Patricia Fleming in the HR Department. Please register no later than April 1. Call Ms. Fleming at extension 84 if you have any questions regarding the league. To: Sue Rose, Ming Chang, Marcus Andretti, Jack Darvish, Julie Stone, Margaret Smythe, Ken Anderson From: Derrick Moon Subject: Volleyball Practice Date: April 2 Welcome to the Lions, everyone. I’m Derrick Moon, the team captain. We’ll have our first practice tomorrow at 6:00 P.M. at the company gym. Please wear the appropriate clothes and shoes. Our first game is scheduled for April 15 against the Eagles. There are ten teams in the league. I’ll give you the schedule tomorrow. We’re from different departments, so it’s likely that we haven’t all met. How about practicing for an hour and then having dinner afterward? That should help us break the ice.",
+          "questions": [
+            {
+              "number": 196,
+              "stem": "What is suggested about Emerson Motors?",
+              "options": {
+                "A": "It has facilities in several different states.",
+                "B": "It will form leagues for other sports later.",
+                "C": "It is currently led by Ms. Fleming.",
+                "D": "It is the country’s top producer of motor vehicles."
+              },
+              "answer": "B",
+              "translation": "关于爱默生汽车公司，文章暗示了什么？ (A) 公司在几个不同的州都开设有制造厂。 (B) 今后公司还会组建其他运动项目的联赛。 (C) 公司目前的领导人是弗莱明女士。 (D) 公司是该国领先的汽车制造商。",
+              "explanation": "爱默生汽车公司将组建员工运动联赛，首先组建的是排球联赛，即今后该公司还会组建其他运动项目的联赛。答案是 (B)。"
+            },
+            {
+              "number": 197,
+              "stem": "Why is the league being formed?",
+              "options": {
+                "A": "To help employees improve their teamwork",
+                "B": "To respond to a request by the employees",
+                "C": "To improve the health of the employees",
+                "D": "To develop a sense of competition among employees"
+              },
+              "answer": "C",
+              "translation": "为什么组建运动联赛？ (A) 帮助员工增强团队协作能力 (B) 应员工的要求组建 (C) 增强员工的体质 (D) 培养员工的竞争意识",
+              "explanation": "第一封邮件开头提到，爱默生汽车公司鼓励员工培养强健的体魄，因此将组建运动联赛。答案是 (C)。"
+            },
+            {
+              "number": 198,
+              "stem": "What is indicated about Mr. Darvish?",
+              "options": {
+                "A": "He is not allowed to play due to health issues.",
+                "B": "He will be the manager of the team.",
+                "C": "He hopes to lose weight by playing volleyball.",
+                "D": "He was not selected for the team he wanted."
+              },
+              "answer": "D",
+              "translation": "关于达尔比修先生，文章暗示了什么？ (A) 由于身体原因他未被允许参赛。 (B) 他将担任排球队的教练。 (C) 他希望通过打排球减肥。 (D) 他没有入选想加入的队伍。",
+              "explanation": "由第三封邮件可知，达尔比修先生加入的是狮子队，而在排球联赛报名登记表中，达尔比修先生偏向的是猎鹰队，所以他没有入选想加入的队伍。答案是 (D)。"
+            },
+            {
+              "number": 199,
+              "stem": "What will happen on April 3?",
+              "options": {
+                "A": "Practice will be held.",
+                "B": "A game will be played.",
+                "C": "Registration will end.",
+                "D": "Teams will be determined."
+              },
+              "answer": "A",
+              "translation": "4月3日会发生什么？ (A) 将进行训练。 (B) 将举行比赛。 (C) 登记报名将截止。 (D) 将确定最终组建的队伍。",
+              "explanation": "由第三封邮件可知，4月3日下午六点，狮子队将进行第一次训练。答"
+            },
+            {
+              "number": 200,
+              "stem": "What is most likely true about the company volleyball league?",
+              "options": {
+                "A": "It has been in existence for several years.",
+                "B": "All of its games are played at a community center.",
+                "C": "More people than expected signed up for it.",
+                "D": "There is a registration fee to join it."
+              },
+              "answer": "C",
+              "translation": "关于排球联赛，哪一项最有可能是正确的？ (A) 联赛已经组建多年。 (B) 联赛所有比赛均在社区活动中心举行。 (C) 报名人数超过预期人数。 (D) 参加需缴纳报名费。",
+              "explanation": "由第三封邮件可知，排球联赛有10支队伍，而公司希望组建6支队伍，即报名人数超过预期人数。答案是 (C)。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

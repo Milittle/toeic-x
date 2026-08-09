@@ -1,0 +1,590 @@
+# 题库抽样校验清单
+
+> 每套抽 7 题（P5×3 / P6×2 / P7×2），逐题对照纸质书核对题号、题干、选项与答案。
+> 全部核对无误后执行 `python3 scripts/verify_question_bank.py --apply` 置「已校验」。
+
+## 阅读全真模拟 01  (`reading-01`, verified=False)
+
+- [ ] **101** （P5，答案=A）
+      - 题干：------- you want to receive additional information regarding the services we offer, please log onto our website at www.healthclub.com today.
+      - (A) If
+      - (B) For
+      - (C) Despite
+      - (D) Whether
+- [ ] **115** （P5，答案=B）
+      - 题干：Mr. Chan’s main role in the company for the next two weeks is to look ------- the right person to take over Mr. Shaw’s position when he leaves at the end of the month.
+      - (A) in
+      - (B) for
+      - (C) over
+      - (D) from
+      - 解析：备选答案均为介词，横线前有动词look，应选择可与look搭配的介词。句意要表达“找”的意思。故答案是(B)for，look for意为“寻找”。
+- [ ] **128** （P5，答案=D）
+      - 题干：The hard work put in during his younger years made him become ------- sound in his later years.
+      - (A) finance
+      - (B) finances
+      - (C) financial
+      - (D) financially
+      - 解析：本题需选择适当的词形。横线处应填入副词，修饰become的表语sound(殷实的)，故选(D)。
+- [ ] **133** （P6，答案=C）
+      - 题干：（题干在文章中，见文章上下文）
+      - (A) turn down
+      - (B) shorten
+      - (C) reduce
+      - (D) narrow
+      - 解析：本题需选择符合句意的动词。根据银行下调按揭利率的报道内容，应选择具有“减少，缩减”词义的及物动词，且可以与后面的rates搭配，故选(C)reduce。
+- [ ] **142** （P6，答案=D）
+      - 题干：（题干在文章中，见文章上下文）
+      - (A) Few people have realized the significance of cycling.
+      - (B) Cycling is beneficial to environmental protection.
+      - (C) Nowadays, more and more people like cycling in big cities.
+      - (D) The city wishes to hear your thoughts about its proposals.
+      - 解析：下句提到“提交表格”，可知，横线处应填与“搜集公众建议”有关的信息，故选(D)。
+- [ ] **150** （P7，答案=B）
+      - 题干：In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? “The newest members, who will be carrying on our tradition, should hear what the older members have to say.”
+      - (A) [1]
+      - (B) [2]
+      - (C) [3]
+      - (D) [4]
+      - 解析：所给句子是说“将要继承我们的传统的新会员应该听一听老会员的想法。”信中作者提到新会员和老会员的内容是在第二段。故答案为(B)。
+- [ ] **168** （P7，答案=B）
+      - 题干：Who is the intended audience of this advertisement?
+      - (A) People who are in legal trouble
+      - (B) Anyone who is having financial problems
+      - (C) Businesses that are in need of tax breaks
+      - (D) Workers who must do their yearly income taxes
+      - 解析：根据广告内容，可联想到因信用问题经济活动受制约的一类人。答案是(B)。
+- [ ] **184** （P7，答案=B）
+      - 题干：What is the main purpose of the e-mail?
+      - (A) To receive information about an art exhibit
+      - (B) To set up an appointment
+      - (C) To put her apartment on the market
+      - (D) To reply to an inquiry she received from the man
+      - 解析：在书信和电子邮件中描述写信目的时常用Could you please..., Can you..., I’d like to..., I was wondering if..., Is it possible... 等，而信中提到了想要约定看房时间。答案是(B)。
+
+## 阅读全真模拟 02  (`reading-02`, verified=False)
+
+- [ ] **101** （P5，答案=A）
+      - 题干：Due to popular demand by the staff members, the scheduled talk by Mr. Smith will take place ------- Room 15 instead of Room 20 as was first planned.
+      - (A) in
+      - (B) on
+      - (C) of
+      - (D) as
+      - 解析：本题需选择适当的介词。会议室、办公室等密闭场所前用介词in。故答案为(A)。
+- [ ] **115** （P5，答案=D）
+      - 题干：Due to the heavy damage the storm has caused in some rural areas, it is predicted that the cost of fruits and vegetables will be ------- this summer.
+      - (A) increase
+      - (B) increases
+      - (C) to increase
+      - (D) increasing
+      - 解析：横线后没有动词出现，由横线前面的be动词可以判断横线处应填入动词的现在分词或过去分词。主语the cost of fruits and vegetables和动词increase之间是主动关系，因此只有(D)increasing符合要求。
+- [ ] **128** （P5，答案=C）
+      - 题干：The new dome built in the center of town houses many new facilities, including a hotel with rooms that have a spectacular view of the stadium that is ---- ---.
+      - (A) impress
+      - (B) impression
+      - (C) impressive
+      - (D) impressing
+      - 解析：横线处所填的词充当is的表语，且补充说明横线前的 stadium。动词原形(A)impress和现在进行时(D)impressing不能作is的表语；(B)impression在语意上不通；只有形容词(C)impressive符合题意。
+- [ ] **133** （P6，答案=C）
+      - 题干：（题干在文章中，见文章上下文）
+      - (A) most feasible
+      - (B) feasibly
+      - (C) feasibility
+      - (D) more feasible
+      - 解析：横线前有定冠词the，再加上介词短语of our cooperation在后面起修饰作用，故答案是名词(C)feasibility(可行性)。
+- [ ] **142** （P6，答案=D）
+      - 题干：（题干在文章中，见文章上下文）
+      - (A) less
+      - (B) fewer
+      - (C) a few
+      - (D) least
+      - 解析：横线前有定冠词the，故选最高级(D)least。
+- [ ] **150** （P7，答案=B）
+      - 题干：Which of the following is NOT a trend mentioned by the analysts?
+      - (A) Women are placing less importance on their traditional roles as homemakers.
+      - (B) Men are giving in to the pressure and settling down early.
+      - (C) Women are taking over positions that were normally held by men.
+      - (D) Men are less likely to chase after sound investment advice.
+      - 解析：本题需要将专家分析的内容和备选答案进行比较。(B)项中的内容和文章的第二条分析内容相反。
+- [ ] **168** （P7，答案=B）
+      - 题干：Which of the following information is NOT included in the invitation?
+      - (A) The seminar date
+      - (B) The lunch menu
+      - (C) The place of the seminar
+      - (D) The main speaker
+      - 解析：本题要求回答邀请函中未提及的内容，因此要仔细阅读所有信息。文中并没有提到午餐菜单，故答案为(B)。
+- [ ] **184** （P7，答案=A）
+      - 题干：In the notice, what are the participants asked to do by next Friday?
+      - (A) Submit their artwork
+      - (B) Pay the entry fee
+      - (C) Speak to the coordinator
+      - (D) Send in their checks
+      - 解析：第二篇文中提到，提交参展作品的截止日期为下周五，故答案是 (A)。
+
+## 阅读全真模拟 03  (`reading-03`, verified=False)
+
+- [ ] **101** （P5，答案=D）
+      - 题干：Our new social organizer’s personal favorites do not include jazz or classical music, but she loves listening to techno, world music, ------- rock.
+      - (A) so
+      - (B) but
+      - (C) yet
+      - (D) and
+      - 解析：列出几项有并列关系的语句时，在最后一项前加and，其他项用逗号分开。文中列出了techno、world music、rock三个音乐种类，因此要在最后一项rock前使用并列连词(D) and。
+- [ ] **115** （P5，答案=D）
+      - 题干：Under the new law, consumers are entitled to ------- if products malfunction or fail to perform as promised.
+      - (A) compensate
+      - (B) compensated
+      - (C) compensating
+      - (D) compensation
+      - 解析：be entitled to +名词/动名词/动词原形，故排除(B)。 compensate是及物动词，需要后接宾语，故排除(A)和(C)。答案是名词(D) compensation。
+- [ ] **128** （P5，答案=C）
+      - 题干：The unemployment figures ------- last June, no doubt due to the surprise closure of several leading Australian manufacturers.
+      - (A) enlarged
+      - (B) reached
+      - (C) peaked
+      - (D) magnified
+      - 解析：the unemployment figures(失业人数)是主语，横线后没有宾语，因此横线处应填入表示“增加”或“减少”的不及物动词，先排除及物动词(D) magnified(放大)和(B) reached(达到)。(A) enlarged表示体积或规模的扩大。(C) peaked表示数值或水平达到最高点，是不及物动词，因此(C)是正确答案。
+- [ ] **133** （P6，答案=C）
+      - 题干：（题干在文章中，见文章上下文）
+      - (A) until
+      - (B) while 884
+      - (C) during
+      - (D) between
+      - 解析：the annual High Park Pumpkin Float是在特定时间举行的活动的名称，故横线处应填入表示时间段的介词(C)during。
+- [ ] **142** （P6，答案=C）
+      - 题干：（题干在文章中，见文章上下文）
+      - (A) visit
+      - (B) tour
+      - (C) travel
+      - (D) arrival
+      - 解析：这则广告主要是在宣传机场旁的酒店，因此(C)travel最恰当。
+- [ ] **150** （P7，答案=A）
+      - 题干：What is the purpose of the notice?
+      - (A) To announce the holiday schedule
+      - (B) To notify customers of a holiday sale
+      - (C) To apologize for a mistake
+      - (D) To advertise a new type of service
+      - 解析：本通知公示了圣诞假期期间银行的业务变动及安排。故答案是(A)。
+- [ ] **168** （P7，答案=C）
+      - 题干：Where is Ms. Wilson?
+      - (A) In a vehicle 901
+      - (B) At a building
+      - (C) At an airport
+      - (D) In a parking lot
+      - 解析：对话开始威尔逊女士就说：“我乘坐的航班落地了，我正在行李认领处等着拿行李。”因此她在机场，答案是(C)。
+- [ ] **184** （P7，答案=D）
+      - 题干：When should Ms. Jones contact Julie London?
+      - (A) If the problem persists
+      - (B) As soon as the next bill arrives
+      - (C) If she is curious to know the cause of the problem
+      - (D) If she wants the correct statement right away
+      - 解析：更正的清单会在下个月寄出，若想尽快拿到，可马上联系朱莉·伦敦。答案是(D)。
+
+## 阅读全真模拟 04  (`reading-04`, verified=False)
+
+- [ ] **101** （P5，答案=D）
+      - 题干：Our new range of products is available in ------- configurations, including sports and commercial styles.
+      - (A) vary
+      - (B) variety
+      - (C) variable
+      - (D) various
+      - 解析：横线处需要填入修饰名词configurations的形容词。答案是 (D)various(各种各样的)。
+- [ ] **115** （P5，答案=C）
+      - 题干：All prospective employees are requested to ------- a recent photo as well as copies of all letters of recommendation.
+      - (A) take
+      - (B) come
+      - (C) bring
+      - (D) have
+      - 解析：横线处需要填入以a recent photo为宾语的动词。(B)come和宾语在语意上不连贯，故排除。(D)have单纯地表示“有，拿”等状态。 (A)take表示将人或物带走或拿走。(C)bring表示从别处把人或物带来或拿来。最符合句意的是(C)bring。
+- [ ] **128** （P5，答案=C）
+      - 题干：Employees attending the writing seminar are expected to practice imaginative and ------- writing as well as develop their technical writing skills.
+      - (A) detective
+      - (B) negative
+      - (C) descriptive
+      - (D) cooperative
+      - 解析：横线处所填词语和imaginative(富有创意的)一起修饰 writing(写作)，词义上最恰当的是(C)descriptive(描写的)。
+- [ ] **133** （P6，答案=D）
+      - 题干：（题干在文章中，见文章上下文）
+      - (A) employees 927
+      - (B) employs
+      - (C) employment
+      - (D) employer
+      - 解析：横线处被wishing to place a want ad修饰，充当句子的主语，想刊登招聘广告的应该是雇主，故选(D)employer。
+- [ ] **142** （P6，答案=A）
+      - 题干：（题干在文章中，见文章上下文）
+      - (A) Instant winning tickets must be redeemed before the“Prize Claimed by” date.
+      - (B) Instant winning tickets can be redeemed after the“Prize Claimed by” date.
+      - (C) Many people have bought instant winning tickets.
+      - (D) Presented prizes will be saved in your bank accounts.
+      - 解析：下句介绍彩票背面印有兑奖截止日期。可知，横线处介绍彩票必须在兑奖截止日期前兑现最合适，故选(A)。
+- [ ] **150** （P7，答案=C）
+      - 题干：What will Mr. Cooper receive once he makes his decision?
+      - (A) An invitation card
+      - (B) The hotel key
+      - (C) The itinerary
+      - (D) A guest list
+      - 解析：如果决定参加这次培训，将会收到有关培训日程和住宿的详细信息。答案是(C)。
+- [ ] **168** （P7，答案=D）
+      - 题干：Why is Mr. Fraser angry?
+      - (A) His electricity was recently cut off.
+      - (B) He has not yet received his paycheck.
+      - (C) He was billed for unnecessary charges.
+      - (D) He was falsely accused of nonpayment.
+      - 解析：弗雷泽先生已缴纳的电费被误认为未缴纳。答案是(D)。
+- [ ] **184** （P7，答案=B）
+      - 题干：What does Ms. Lawrence mention about the magazine?
+      - (A) She thinks there are too many ads.
+      - (B) She will refer it her co-workers.
+      - (C) She is not very happy with the stories.
+      - (D) She wants it sent to another office.
+      - 解析：由于工作变动，劳伦斯女士不能再订阅，但她对杂志很满意，会向别人推荐。答案是(B)。
+
+## 阅读全真模拟 05  (`reading-05`, verified=False)
+
+- [ ] **101** （P5，答案=B）
+      - 题干：------- economic growth rates have stagnated over the last 6 months, we cannot expect any rise in the value of the dollar.
+      - (A) So
+      - (B) As
+      - (C) For
+      - (D) Although
+- [ ] **115** （P5，答案=B）
+      - 题干：The Personnel Department has lost no time seeking a ------- for Dr. Roberts, who recently retired after 30 years of service.
+      - (A) consideration
+      - (B) replacement
+      - (C) maintenance
+      - (D) position
+      - 解析：“罗伯茨博士的接班人”的句意最恰当，故选 (B) replacement (后任；代替，替换)。replacement for sb. 表示“某人的接班人”，find / look for/ seek a replacement for... 表示“寻找…的接班人”。
+- [ ] **128** （P5，答案=D）
+      - 题干：The purpose of this planning meeting is to ensure that our move to the new site will not cause any ------- in our services.
+      - (A) illusion
+      - (B) corruption
+      - (C) instruction
+      - (D) interruption
+      - 解析：本题需选择符合句意的名词。因our move to the new site (搬迁新址)，可能会发生“服务的中断”。答案是 (D) interruption (中断；干扰) 。
+- [ ] **133** （P6，答案=C）
+      - 题干：（题干在文章中，见文章上下文）
+      - (A) besides
+      - (B) of
+      - (C) also
+      - (D) either
+      - 解析：前一句提到史密斯一家将在阿尔伯特音乐厅首次登台，之后又介绍了几位艺术家的演出安排，故最恰当的是 (C) also。
+- [ ] **142** （P6，答案=D）
+      - 题干：（题干在文章中，见文章上下文）
+      - (A) provide
+      - (B) provisions
+      - (C) providing
+      - (D) provides
+      - 解析：横线处需填入动词，因主语是第三人称单数，故选 (D) provides。
+- [ ] **150** （P7，答案=B）
+      - 题干：When will the staff meet to assess and produce new ideas for the work?
+      - (A) Monday, January 25
+      - (B) Tuesday, January 26
+      - (C) Saturday, January 30
+      - (D) Monday, February 8
+      - 解析：星期二的日程内容为have a brainstorming session，故答案是 (B)。brainstorming意为“集体讨论”。
+- [ ] **168** （P7，答案=C）
+      - 题干：What are the writers mostly discussing?
+      - (A) A meeting
+      - (B) A competitor
+      - (C) A work assignment
+      - (D) A photograph
+      - 解析：墨菲先生说，埃德华兹先生决定要给客户做一份目录，下周一前要初稿。后面内容则是对这项任务的讨论。答案是 (C)。
+- [ ] **184** （P7，答案=D）
+      - 题干：Who is exempted from attending the workshop?
+      - (A) John Stack
+      - (B) James Conway
+      - (C) Terry Dillon
+      - (D) Lenny Brown
+      - 解析：兰尼·布朗因爷爷过世需要回国，故不能参加这次培训。答案是 (D)。
+
+## 阅读全真模拟 06  (`reading-06`, verified=False)
+
+- [ ] **101** （P5，答案=D）
+      - 题干：Simms Engineering estimates that the proposed modifications ------- your original design will cost in the region of $200,000.
+      - (A) at
+      - (B) as
+      - (C) by
+      - (D) to
+      - 解析：与modification连用的介词有to，of，in 等。“modification to + 名词/名词短语”意为“对…的修改”；“modification of + 名词/名词短语”表示“在…方面的改变”，强调发生变化的事实本身；“modification in + 名词/名词短语”表示“…的变化”，in后面接变化的对象。本题答案为 (D)。
+- [ ] **115** （P5，答案=B）
+      - 题干：------- the formal part of this evening’s proceedings, you are all welcome to pass into the dining hall for a relaxed buffet dinner.
+      - (A) Followed
+      - (B) Following
+      - (C) Follows
+      - (D) Follow
+- [ ] **128** （P5，答案=C）
+      - 题干：It is often reported in the press ------- bonuses paid to chief executives are excessive and do not take actual performance into consideration.
+      - (A) of
+      - (B) for
+      - (C) that
+      - (D) what
+      - 解析：横线处所填单词引导主语从句，故选 (C) that。
+- [ ] **133** （P6，答案=D）
+      - 题干：（题干在文章中，见文章上下文）
+      - (A) More families will want to participate in the Thompson Family Day in the future. 1013
+      - (B) More coupons will be distributed to families participating in the taste- testing.
+      - (C) Thompson has been supporting the park and has achieved great achievements.
+      - (D) It was certainly meaningful to me that you chose to support this kind of event.
+      - 解析：发件人一直在表达对收件方的感谢之情，选项 (D)“你们选择支持这类活动对我来说意义非凡”与之意思最相近，故为正确答案。
+- [ ] **142** （P6，答案=C）
+      - 题干：（题干在文章中，见文章上下文）
+      - (A) At least three years’ practical experience is required for the position.
+      - (B) The applicant must be independent and is able to deal with emergencies. 1016
+      - (C) The position is open to both part-time and full-time applicants.
+      - (D) The experience as a senior manager in the PR is not essential.
+      - 解析：下句交代该职位的工作特点。横线处也应是对该职位特点的相关描述，故选 (C)。选项 (A) 和 (B) 前面已经提到了，选项 (D) 与原文内容不符。
+- [ ] **150** （P7，答案=A）
+      - 题干：Which of the following is NOT true about the exhibit?
+      - (A) It will simultaneously be held in four nations.
+      - (B) It is going to take place outdoors.
+      - (C) It will be an unprecedented event.
+      - (D) It is going to be sponsored by local businesses.
+      - 解析：文中提到：展览将在国家植物园举办 (B)，是一次史无前例的展览会 (C)，受到当地企业和商业伙伴的协助 (D)。文中说展览会得到了四个国家的帮助，并非在四国同时举办，故答案是 (A)。
+- [ ] **168** （P7，答案=B）
+      - 题干：What is known about the account holder?
+      - (A) He has been spending his money unwisely.
+      - (B) He traveled to many cities in March.
+      - (C) He likes to read while traveling.
+      - (D) He is very fond of exotic foods.
+      - 解析：根据交易记录，持卡人在纽约、圣巴巴拉、洛杉矶、尤里卡等地使用过信用卡，因此答案是 (B)。
+- [ ] **184** （P7，答案=C）
+      - 题干：On which day will James be available to meet with John?
+      - (A) Tuesday morning
+      - (B) Thursday afternoon
+      - (C) Saturday afternoon
+      - (D) Anytime on weekdays
+      - 解析：邮件的最后一段提到了能见面的时间。答案是 (C)。
+
+## 阅读全真模拟 07  (`reading-07`, verified=False)
+
+- [ ] **101** （P5，答案=D）
+      - 题干：Recent graduates often find it a challenge to communicate ------- less-qualified but more-experienced workers.
+      - (A) by
+      - (B) per
+      - (C) for
+      - (D) with
+      - 解析：communicate有“传达；通信；沟通”等词义，在本题中表示“沟通”。答案是 (D) with。表示“传达”的意思时，communicate常用于communicate A to B (向B传达A) 的结构。
+- [ ] **115** （P5，答案=D）
+      - 题干：The survey indicated that teenage boys who consume alcohol are ------- to experience stress during exam periods.
+      - (A) like
+      - (B) likeness
+      - (C) liked
+      - (D) more likely
+      - 解析：句意是“饮酒的青少年更有可能…”，故选 (D) more likely。be likely to do表示“很有可能做某事”，likely前面加more或 most表示强调。
+- [ ] **128** （P5，答案=D）
+      - 题干：After a highly profitable first six months, the restaurant’s profits for the second half of the year were a great -------.
+      - (A) disappoints
+      - (B) disappointed
+      - (C) disappointing
+      - (D) disappointment
+      - 解析：主系表结构中，名词和形容词可作表语，表语一般说明主语的身份、特征、属性或状态。在本题中，主语是the restaurant’s profits，横线前有冠词和形容词 (a great)，因此最恰当的是 (D) disappointment。
+- [ ] **133** （P6，答案=A）
+      - 题干：（题干在文章中，见文章上下文）
+      - (A) Due to
+      - (B) Even though
+      - (C) In spite of
+      - (D) In addition to
+- [ ] **142** （P6，答案=D）
+      - 题干：（题干在文章中，见文章上下文）
+      - (A) The audience could well understand clichés in the movie.
+      - (B) The movie was about Canada’s two official cultures clash.
+      - (C) It was a movie that boasted wonderful performances of its actors. 1060
+      - (D) The plot was too obvious to receive a good rating.
+      - 解析：上句描写作者对电影的消极评价，下句也应描写作者对电影的消极评价，因此选项 (D)“情节太过平淡无奇，因此不能获得好评”意思符合，故为正确答案。
+- [ ] **150** （P7，答案=B）
+      - 题干：According to the report, what will likely strike the economy the hardest if the price of oil hits the $80 per barrel mark?
+      - (A) The tourism industry
+      - (B) Consumer spending
+      - (C) Airlines
+      - (D) Gas stations
+      - 解析：文中指出，如果油价达到80美元，消费者的燃料负担会加重，致使能源消费量减少，而这是对经济的最大影响。答案是 (B)。
+- [ ] **168** （P7，答案=B）
+      - 题干：What are the participants requested to do all day?
+      - (A) Be on their best behavior
+      - (B) Have name tags on their bodies
+      - (C) Refer to the list for any changes in venue
+      - (D) Jot down questions to ask at the end of the day
+      - 解析：日程的第一项中强调了必须一直佩戴名牌。答案是 (B)。
+- [ ] **184** （P7，答案=B）
+      - 题干：In the letter, the word“attached” in paragraph 1, line 2 is closest in meaning to
+      - (A) fastened
+      - (B) included
+      - (C) restrained
+      - (D) disposed
+      - 解析：attach具有“附上，贴上，系；附属，归属”等词义，在这里最接近的是 (B)。
+
+## 阅读全真模拟 08  (`reading-08`, verified=False)
+
+- [ ] **101** （P5，答案=B）
+      - 题干：The latest company report indicates ------- lower profitability is likely over the next quarter due to the increased cost of resources.
+      - (A) which
+      - (B) that
+      - (C) since
+      - (D) why
+      - 解析：indicate是表示“表明，指出”的及物动词，其后一般接 that引导的宾语从句。本题就是这种句型。答案是 (B) that。
+- [ ] **115** （P5，答案=C）
+      - 题干：While the Sales Department has been ------- in marketing our new range, we have been let down by our quality assurance section.
+      - (A) accomplishing
+      - (B) mindful
+      - (C) successful
+      - (D) climbing
+      - 解析：while既可以表示“…的时候”，也可以表示对照意义的“然而，却”。本题中while表示“然而，却”。答案是 (C) successful，与后面的let down形成对照意义。(A) accomplishing是及物动词，后面需要接宾语。
+- [ ] **128** （P5，答案=D）
+      - 题干：In his opening remarks at the company’s internal design conference, the president spoke in general ------- about developments in the business environment.
+      - (A) marks
+      - (B) expressions
+      - (C) names
+      - (D) terms
+      - 解析：in general ______是修饰spoke的状语，答案是 (D) terms。in general terms意为“概括地，笼统地”。
+- [ ] **133** （P6，答案=D）
+      - 题干：（题干在文章中，见文章上下文）
+      - (A) principle
+      - (B) value
+      - (C) law
+      - (D) criteria
+      - 解析：横线处所填单词被listed above (以上列出的) 修饰，作meet (满足) 的宾语。最符合句意的是 (D) criteria (标准)。
+- [ ] **142** （P6，答案=C）
+      - 题干：（题干在文章中，见文章上下文）
+      - (A) Three photographic displays will be hosted at the Dallas Observatory.
+      - (B) Astronomers are most interested in these images.
+      - (C) They display not only technical skill but also capture the beauty of astronomy.
+      - (D) Star gazers are familiar with the beauty of the night sky.
+      - 解析：由上句“届时会有精彩的图片展出”可知，横线处填继续描述图片信息的内容最合适，故选 (C)。
+- [ ] **150** （P7，答案=C）
+      - 题干：According to the fax, how will the company likely fill George’s position?
+      - (A) By taking out a placement ad in the paper
+      - (B) By laying off some of the workers
+      - (C) By dividing the work amongst the rest of the employees
+      - (D) By recruiting someone from the head office
+      - 解析：公司为了保住现有员工的职位并填补空缺，将原来由乔治负责的业务分配给了其他员工。答案是 (C)。
+- [ ] **168** （P7，答案=D）
+      - 题干：At 1:24 P.M., what does Mr. Winchester mean when he writes,“Not at all”?
+      - (A) He has never been to Dubai.
+      - (B) He transferred to his current place recently.
+      - (C) He will consider the new opportunity.
+      - (D) He will not apply for a transfer.
+      - 解析：蒙塔纳问大家是否有兴趣调到其中的某个地方，温切斯特先生给出否定回答，即他不会申请调岗。答案是 (D)。
+- [ ] **184** （P7，答案=A）
+      - 题干：What best describes the outcome of the study results?
+      - (A) The interactions between workers and management are heading in the right direction.
+      - (B) Most of the managers prefer to be addressed by their full title.
+      - (C) The relationship with senior managers still needs to be improved a great deal.
+      - (D) A majority of the staff members share the same feeling that they are being treated as workhorses.
+      - 解析：第二篇文章是对问卷调查结果的具体分析。文中提到了上下级关系正在改善。答案是 (A)。
+
+## 阅读全真模拟 09  (`reading-09`, verified=False)
+
+- [ ] **101** （P5，答案=D）
+      - 题干：Mrs. Szubanska has made a great contribution to our company through ------- wide knowledge and practical, down-to-earth approach.
+      - (A) she
+      - (B) hers
+      - (C) herself
+      - (D) her
+      - 解析：备选答案均为同一人称的不同人称代词，因此需要分析横线前后的具体结构。横线后有名词短语wide knowledge (形容词+名词)，因此横线处所填代词应和wide一起修饰knowledge。故选形容词性物主代词 (D) her。
+- [ ] **115** （P5，答案=B）
+      - 题干：All female employees are advised to be ------- when entering and leaving the building after-hours due to a recent spate of attacks.
+      - (A) caution
+      - (B) cautious
+      - (C) cautiously
+      - (D) cautiousness
+      - 解析：横线前有be，横线后有when引导的时间状语从句，因此横线处应填入名词或形容词作表语。若选名词，主句的语意不连贯，故选表示主语状态的形容词 (B) cautious。
+- [ ] **128** （P5，答案=B）
+      - 题干：During high school, Richard was ------- by his uncompromising determination to win at any cost.
+      - (A) distinguish
+      - (B) distinguished
+      - (C) distinguishable
+      - (D) distinguisher
+      - 解析：句意应为“理查德以…而与众不同”，故选 (B) distinguished (与众不同的)。
+- [ ] **133** （P6，答案=C）
+      - 题干：（题干在文章中，见文章上下文）
+      - (A) exposed 1142
+      - (B) expected
+      - (C) extended
+      - (D) expelled
+      - 解析：连词so连接因果关系的两个句子，因此横线处所填单词应表示you will still save $20 (您还可以省20美元) 的理由。答案是 (C) extended。
+- [ ] **142** （P6，答案=C）
+      - 题干：（题干在文章中，见文章上下文）
+      - (A) potential
+      - (B) management
+      - (C) encouragement
+      - (D) damage
+      - 解析：根据上下文，这里是说“他们的鼓励是我们永恒的动力源泉”，故选 (C)。
+- [ ] **150** （P7，答案=C）
+      - 题干：What must be turned in at the end of the six-month period?
+      - (A) An essay
+      - (B) An application form
+      - (C) A report
+      - (D) The course fee
+      - 解析：参加完交流项目之后需要提交研究报告。答案是 (C)。
+- [ ] **168** （P7，答案=A）
+      - 题干：What can be inferred from the advertisement?
+      - (A) Fantasy Fitness has gyms nationwide.
+      - (B) The fitness center guarantees weight loss.
+      - (C) Children get free memberships.
+      - (D) The swimming pool is available 24 hours a day.
+      - 解析：实例中的三位顾客居住在不同的城市，可推断幻想健身房是全国连锁的。答案是 (A)。
+- [ ] **184** （P7，答案=C）
+      - 题干：What does the e-mail imply?
+      - (A) The tour has already taken place.
+      - (B) Too many tourists have misbehaved in the past.
+      - (C) People should prepare themselves for chilly weather.
+      - (D) A group this large has never been put together before.
+      - 解析：参考183题。答案是 (C)。
+
+## 阅读全真模拟 10  (`reading-10`, verified=False)
+
+- [ ] **101** （P5，答案=B）
+      - 题干：The Technical Department is currently formulating written guidelines ------- the use of our micro-publishing facilities.
+      - (A) in
+      - (B) for
+      - (C) at
+      - (D) with
+      - 解析：本题需选择适当的介词。句意应为“为微出版设施制订使用指南”，故选表示目的的介词 (B) for。
+- [ ] **115** （P5，答案=D）
+      - 题干：Rexington Engineering has recently set up an entire new research ------- because of the increasing interest in robotic technology.
+      - (A) separation
+      - (B) partition
+      - (C) segmentation
+      - (D) division
+      - 解析：横线处所填单词与research组成名词短语，充当set up (成立，设立) 的宾语，因此应填入名词。答案是 (D) division。research division意为“研发部门”。
+- [ ] **128** （P5，答案=D）
+      - 题干：This memo is just to remind everybody that I will be starting my long service leave next Thursday and that my deputy ------- in my position for the following 3 months.
+      - (A) is acting
+      - (B) has been acting
+      - (C) has acted
+      - (D) will be acting
+      - 解析：根据状语for the following 3 months (在接下来的3个月里) 和I will be starting的时态，横线处应填入将来进行时。答案是 (D) will be acting。
+- [ ] **133** （P6，答案=C）
+      - 题干：（题干在文章中，见文章上下文）
+      - (A) add
+      - (B) addition 1184
+      - (C) additional
+      - (D) additionally
+      - 解析：横线处应填入修饰cost的形容词。答案是 (C) additional。at no additional cost意为“无需额外费用”。
+- [ ] **142** （P6，答案=A）
+      - 题干：（题干在文章中，见文章上下文）
+      - (A) rival
+      - (B) partial
+      - (C) renewed
+      - (D) contrasting
+      - 解析：前面三个段落都在叙述有关美国银行的内容，最后一段开始提到花旗银行，可推测花旗银行应该是美国银行的竞争对手。答案是 (A) rival。
+- [ ] **150** （P7，答案=D）
+      - 题干：Which of the following services is NOT available today?
+      - (A) Internet access
+      - (B) Color printing
+      - (C) International faxes
+      - (D) Cellular phone rental
+      - 解析：文中列出的服务项目有：电脑上网 (A) 、使用彩色打印机 (B) 和传真机 (C)。而手机租赁服务从7月1日起才开始实施，故答案是 (D)。
+- [ ] **168** （P7，答案=B）
+      - 题干：In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? “His father was a soldier who taught him these values, too.”
+      - (A) [1]
+      - (B) [2]
+      - (C) [3]
+      - (D) [4]
+      - 解析：所给句子是说“他的父亲也是一位战士，并教导他这些品质。”these values是解题关键词，[2]前面一句提到了“纪律、为国效忠和正直”，与“这些品质”对应。故答案为 (B)。
+- [ ] **184** （P7，答案=C）
+      - 题干：Who would be most interested in attending Lucy Costner’s talk?
+      - (A) Enterprises that want to keep up with the current changes
+      - (B) Firms that are looking to upgrade their product image
+      - (C) Corporations that are looking for ways to build rapport among their employees
+      - (D) Companies that want to catch the paradigm wave
+      - 解析：露西的演讲主题是“员工管理”。答案是 (C)。
