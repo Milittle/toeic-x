@@ -1,0 +1,61 @@
+{
+  "note": "仅删除垃圾行（set/set_gloss 已在此前应用）",
+  "ops": [
+    {
+      "op": "delete",
+      "expression": "Acrobat、Photoshop"
+    },
+    {
+      "op": "delete",
+      "expression": "Apex/HKG"
+    },
+    {
+      "op": "delete",
+      "expression": "cityofbuffalo.gov.us"
+    },
+    {
+      "op": "delete",
+      "expression": "Creative Suite 2("
+    },
+    {
+      "op": "delete",
+      "expression": "Door2Door"
+    },
+    {
+      "op": "delete",
+      "expression": "either...or …"
+    },
+    {
+      "op": "delete",
+      "expression": "expected to do"
+    },
+    {
+      "op": "delete",
+      "expression": "G＆G"
+    },
+    {
+      "op": "delete",
+      "expression": "M.H. 《"
+    },
+    {
+      "op": "delete",
+      "expression": "or not”"
+    },
+    {
+      "op": "delete",
+      "expression": "Pump It"
+    },
+    {
+      "op": "delete",
+      "expression": "Sharp Tongue"
+    },
+    {
+      "op": "delete",
+      "expression": "Stone，Evolution，The Girls，Bryan Mcadams"
+    },
+    {
+      "op": "delete",
+      "expression": "The Tongue"
+    }
+  ]
+}

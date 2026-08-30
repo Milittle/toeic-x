@@ -1,10 +1,10 @@
 {
   "source": "TOEIC_Reading_固定搭配与惯用法_最终版.xlsx · 高频汇总",
-  "count": 894,
+  "count": 876,
   "items": [
     {
       "expression": "a bit",
-      "chinese": "有点儿",
+      "chinese": "有点儿；一会儿",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -138,22 +138,6 @@
         }
       ],
       "id": "a-bit"
-    },
-    {
-      "expression": "a clean seek",
-      "chinese": "寻找；企图",
-      "type": "商务/名词词块",
-      "bookFreq": 1,
-      "counts": {
-        "5": 0,
-        "6": 1,
-        "7": 0
-      },
-      "bookletCount": 0,
-      "priority": "B",
-      "sourceType": "Vocabulary Check",
-      "sources": [],
-      "id": "a-clean-seek"
     },
     {
       "expression": "a couple of",
@@ -318,7 +302,7 @@
     },
     {
       "expression": "a list of",
-      "chinese": "一 系列",
+      "chinese": "一份…清单；名单",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -552,7 +536,7 @@
     },
     {
       "expression": "a touch away",
-      "chinese": "很近",
+      "chinese": "近在咫尺；触手可及；唾手可得",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -741,7 +725,7 @@
     },
     {
       "expression": "a wide range of",
-      "chinese": "一系列的，一连串的",
+      "chinese": "广泛的，各种各样的",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -1232,43 +1216,6 @@
       "id": "acknowledge-receipt-of"
     },
     {
-      "expression": "Acrobat、Photoshop",
-      "chinese": "和Illustrator)。了解杂志排版、 印刷广告设计和印前工作的应聘者将被优先考虑。 这个职位是兼职，每周从周三工作到周五。同时，应聘者必须能承受 严格的截止日期下的压力。应聘者也必须值得信赖并且对细节有敏锐的洞 察力。如果应聘成功，你将会有幸在一个年轻、有活力的团队氛围中工 作。 有意应聘者可发邮件至Joan@threedsymp-hony. com。",
-      "type": "商务/名词词块",
-      "bookFreq": 1,
-      "counts": {
-        "5": 0,
-        "6": 1,
-        "7": 0
-      },
-      "bookletCount": 0,
-      "priority": "B",
-      "sourceType": "Vocabulary Check",
-      "sources": [
-        {
-          "testId": "reading-02",
-          "part": 6,
-          "questionNumber": 135
-        },
-        {
-          "testId": "reading-02",
-          "part": 6,
-          "questionNumber": 136
-        },
-        {
-          "testId": "reading-02",
-          "part": 6,
-          "questionNumber": 137
-        },
-        {
-          "testId": "reading-02",
-          "part": 6,
-          "questionNumber": 138
-        }
-      ],
-      "id": "acrobat-photoshop"
-    },
-    {
       "expression": "across the board",
       "chinese": "全面地",
       "type": "商务/名词词块",
@@ -1369,7 +1316,7 @@
     },
     {
       "expression": "add A to B",
-      "chinese": "把A 加到B",
+      "chinese": "把A加到B；增添，增加",
       "type": "动词搭配",
       "bookFreq": 2,
       "counts": {
@@ -1479,7 +1426,7 @@
     },
     {
       "expression": "afford to do",
-      "chinese": "负担得起做某事",
+      "chinese": "负担得起；承受得起做某事的后果或代价",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -1724,7 +1671,7 @@
     },
     {
       "expression": "agree with",
-      "chinese": "同意",
+      "chinese": "同意；与…相符，一致",
       "type": "短语动词/动词+介词",
       "bookFreq": 1,
       "counts": {
@@ -2269,43 +2216,6 @@
       "id": "annual-salary"
     },
     {
-      "expression": "Apex/HKG",
-      "chinese": "会先为客人支付房间费用。因此客人不必在退房时结算房 费。Apex/HKG会在以后再向他们收取房费。但是，如果使用了房间服 务，比如说小冰箱，客人则需要在退房时付清该笔费用。 真诚的， 科里·怀特",
-      "type": "商务/名词词块",
-      "bookFreq": 1,
-      "counts": {
-        "5": 0,
-        "6": 1,
-        "7": 0
-      },
-      "bookletCount": 2,
-      "priority": "A",
-      "sourceType": "Vocabulary Check",
-      "sources": [
-        {
-          "testId": "reading-03",
-          "part": 6,
-          "questionNumber": 135
-        },
-        {
-          "testId": "reading-03",
-          "part": 6,
-          "questionNumber": 136
-        },
-        {
-          "testId": "reading-03",
-          "part": 6,
-          "questionNumber": 137
-        },
-        {
-          "testId": "reading-03",
-          "part": 6,
-          "questionNumber": 138
-        }
-      ],
-      "id": "apex-hkg"
-    },
-    {
       "expression": "apply for",
       "chinese": "申请",
       "type": "短语动词/动词+介词",
@@ -2404,7 +2314,7 @@
     },
     {
       "expression": "apply to",
-      "chinese": "适用，适 合",
+      "chinese": "适用于；向…申请",
       "type": "短语动词/动词+介词",
       "bookFreq": 1,
       "counts": {
@@ -2541,7 +2451,7 @@
     },
     {
       "expression": "approve of",
-      "chinese": "同意，批准",
+      "chinese": "赞成，同意",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -2648,7 +2558,7 @@
     },
     {
       "expression": "arrival time",
-      "chinese": "降落时间",
+      "chinese": "到达时间",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -2690,7 +2600,7 @@
     },
     {
       "expression": "arrive at",
-      "chinese": "到达，抵达",
+      "chinese": "到达；达成，得出",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -3416,7 +3326,7 @@
     },
     {
       "expression": "as to",
-      "chinese": "根据，按照；关于，至于",
+      "chinese": "关于；至于",
       "type": "介词/连接短语",
       "bookFreq": 2,
       "counts": {
@@ -3478,7 +3388,7 @@
     },
     {
       "expression": "as well",
-      "chinese": "也",
+      "chinese": "也；同样",
       "type": "介词/连接短语",
       "bookFreq": 1,
       "counts": {
@@ -3965,7 +3875,7 @@
     },
     {
       "expression": "as well as B",
-      "chinese": "不仅A 而且B",
+      "chinese": "和；以及；除…之外（还）",
       "type": "介词/连接短语",
       "bookFreq": 1,
       "counts": {
@@ -4489,7 +4399,7 @@
     },
     {
       "expression": "at first",
-      "chinese": "起初；首先",
+      "chinese": "起初；最初",
       "type": "介词/连接短语",
       "bookFreq": 1,
       "counts": {
@@ -4987,7 +4897,7 @@
     },
     {
       "expression": "at one’s fingertips",
-      "chinese": "唾手可 得的，随时可用的",
+      "chinese": "了如指掌的，精通的；近在手边的，随时可用的",
       "type": "句型/结构",
       "bookFreq": 3,
       "counts": {
@@ -5537,7 +5447,7 @@
     },
     {
       "expression": "be a tribute to",
-      "chinese": "是…的结果；是与…分不开的",
+      "chinese": "是…的证明/体现；是…的结果",
       "type": "be + 补语/介词",
       "bookFreq": 1,
       "counts": {
@@ -5559,7 +5469,7 @@
     },
     {
       "expression": "be affiliated with",
-      "chinese": "隶属于…",
+      "chinese": "隶属于；与…有关联",
       "type": "be + 补语/介词",
       "bookFreq": 1,
       "counts": {
@@ -5613,7 +5523,7 @@
     },
     {
       "expression": "be aware of",
-      "chinese": "意 识到",
+      "chinese": "知道；意识到；了解",
       "type": "be + 补语/介词",
       "bookFreq": 2,
       "counts": {
@@ -5921,7 +5831,7 @@
     },
     {
       "expression": "be designed for",
-      "chinese": "被设计来做…",
+      "chinese": "为…专门设计的；旨在满足…",
       "type": "be + 补语/介词",
       "bookFreq": 1,
       "counts": {
@@ -5986,7 +5896,7 @@
     },
     {
       "expression": "be eligible for",
-      "chinese": "有…资格",
+      "chinese": "有资格获得；符合…条件",
       "type": "be + 补语/介词",
       "bookFreq": 1,
       "counts": {
@@ -6107,7 +6017,7 @@
     },
     {
       "expression": "be expected to",
-      "chinese": "应该",
+      "chinese": "预计会；被期望",
       "type": "be + 补语/介词",
       "bookFreq": 1,
       "counts": {
@@ -6214,7 +6124,7 @@
     },
     {
       "expression": "be expected to do",
-      "chinese": "被期望做某事",
+      "chinese": "被期望做某事；预计会做某事",
       "type": "be + 补语/介词",
       "bookFreq": 3,
       "counts": {
@@ -6675,6 +6585,38 @@
       "id": "be-happy-to-do-sth"
     },
     {
+      "expression": "be honored to do",
+      "chinese": "以做某事为荣；感到荣幸做某事",
+      "type": "商务/名词词块",
+      "bookFreq": 1,
+      "counts": {
+        "5": 1,
+        "6": 0,
+        "7": 0
+      },
+      "bookletCount": 0,
+      "priority": "A",
+      "sourceType": "Vocabulary Check",
+      "sources": [
+        {
+          "testId": "reading-10",
+          "part": 7,
+          "questionNumber": 171
+        },
+        {
+          "testId": "reading-10",
+          "part": 7,
+          "questionNumber": 172
+        },
+        {
+          "testId": "reading-10",
+          "part": 7,
+          "questionNumber": 173
+        }
+      ],
+      "id": "be-honored-to-do"
+    },
+    {
       "expression": "be honored with",
       "chinese": "被授予…的荣誉",
       "type": "be + 补语/介词",
@@ -7123,7 +7065,7 @@
     },
     {
       "expression": "be okay with",
-      "chinese": "对…满意",
+      "chinese": "同意；接受；不介意；对…觉得没问题",
       "type": "be + 补语/介词",
       "bookFreq": 1,
       "counts": {
@@ -7353,7 +7295,7 @@
     },
     {
       "expression": "be requested to do",
-      "chinese": "被要求做某事 A",
+      "chinese": "被要求做某事；被请求做某事",
       "type": "be + 补语/介词",
       "bookFreq": 1,
       "counts": {
@@ -7781,7 +7723,7 @@
     },
     {
       "expression": "be set to",
-      "chinese": "决定；被设置成",
+      "chinese": "即将；准备好；确定会",
       "type": "be + 补语/介词",
       "bookFreq": 1,
       "counts": {
@@ -7910,7 +7852,7 @@
     },
     {
       "expression": "be subject to",
-      "chinese": "受支配，从属于",
+      "chinese": "受……支配/约束；取决于……；可能受……影响",
       "type": "be + 补语/介词",
       "bookFreq": 3,
       "counts": {
@@ -8008,7 +7950,7 @@
     },
     {
       "expression": "be supposed to do",
-      "chinese": "应该做某事",
+      "chinese": "应该（做某事）；据说",
       "type": "be + 补语/介词",
       "bookFreq": 1,
       "counts": {
@@ -8024,7 +7966,7 @@
     },
     {
       "expression": "be sure + clause",
-      "chinese": "确信……",
+      "chinese": "确信……；务必……（表提醒/要求）",
       "type": "句型/结构",
       "bookFreq": 1,
       "counts": {
@@ -8200,7 +8142,7 @@
     },
     {
       "expression": "be up for sth.",
-      "chinese": "为…做好 准备",
+      "chinese": "愿意做某事；待处理（如待续订）",
       "type": "句型/结构",
       "bookFreq": 1,
       "counts": {
@@ -8648,7 +8590,7 @@
     },
     {
       "expression": "bi-weekly",
-      "chinese": "两周一次的，双周的",
+      "chinese": "每两周一次的；每周两次的",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -8690,7 +8632,7 @@
     },
     {
       "expression": "bill of health",
-      "chinese": "身体健康",
+      "chinese": "健康证明；合格证明",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -8984,7 +8926,7 @@
     },
     {
       "expression": "Boxing Day",
-      "chinese": "节礼日(圣诞节后的第一个工作日，是英国的法定假日)",
+      "chinese": "节礼日（12月26日，英国及英联邦国家法定假日）",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -9075,7 +9017,7 @@
     },
     {
       "expression": "break down",
-      "chinese": "出毛病，损坏",
+      "chinese": "损坏；分解，细分；情绪崩溃",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -9475,7 +9417,7 @@
     },
     {
       "expression": "business-friendly",
-      "chinese": "利于经营的，利于商业运作的",
+      "chinese": "对商业友好的，有利于商务的",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -9675,7 +9617,7 @@
     },
     {
       "expression": "call on",
-      "chinese": "拜访；号召",
+      "chinese": "拜访；号召；求助于；请求",
       "type": "短语动词/动词+介词",
       "bookFreq": 1,
       "counts": {
@@ -9854,7 +9796,7 @@
     },
     {
       "expression": "cash dispenser",
-      "chinese": "自动提款机 苏菲之家 调查问卷 亲爱的顾客： 您长久以来的支持和光顾是我们最大的安慰。您真诚的评价是我们为 您提供更好的服务的动力。请完成这张表格让我们了解您的想法。非常感 谢。 ————————————————— 姓名：约翰·威廉斯 电话：755-2563 光顾日期：2018年11月28日 光顾时间：下午6:30 其他意见：我们等了一个多小时才上菜。食物味道很不错，但是我认 为餐厅需要更多人员为顾客服务。",
+      "chinese": "自动提款机",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -9945,7 +9887,7 @@
     },
     {
       "expression": "catch up on",
-      "chinese": "弥补；赶上",
+      "chinese": "补做；赶上；了解（最新消息）",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -10372,7 +10314,7 @@
     },
     {
       "expression": "check out",
-      "chinese": "结账离开",
+      "chinese": "结账离开；查看；检查",
       "type": "短语动词/动词+介词",
       "bookFreq": 2,
       "counts": {
@@ -10589,7 +10531,7 @@
     },
     {
       "expression": "check-in",
-      "chinese": "登记入住",
+      "chinese": "（酒店）入住登记；（机场）值机",
       "type": "短语动词/动词+介词",
       "bookFreq": 1,
       "counts": {
@@ -10869,7 +10811,7 @@
     },
     {
       "expression": "city slicker",
-      "chinese": "油头滑脑的城里人",
+      "chinese": "精于城市生活却不熟悉农村的人（常含贬义）",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -10882,43 +10824,6 @@
       "sourceType": "Vocabulary Check",
       "sources": [],
       "id": "city-slicker"
-    },
-    {
-      "expression": "cityofbuffalo.gov.us",
-      "chinese": "或者去当地社区服务中心，或者拨打电话755-9333了 解更多信息并提交意见表。",
-      "type": "商务/名词词块",
-      "bookFreq": 1,
-      "counts": {
-        "5": 0,
-        "6": 1,
-        "7": 0
-      },
-      "bookletCount": 1,
-      "priority": "A",
-      "sourceType": "Vocabulary Check",
-      "sources": [
-        {
-          "testId": "reading-01",
-          "part": 6,
-          "questionNumber": 139
-        },
-        {
-          "testId": "reading-01",
-          "part": 6,
-          "questionNumber": 140
-        },
-        {
-          "testId": "reading-01",
-          "part": 6,
-          "questionNumber": 141
-        },
-        {
-          "testId": "reading-01",
-          "part": 6,
-          "questionNumber": 142
-        }
-      ],
-      "id": "cityofbuffalo-gov-us"
     },
     {
       "expression": "classified ad",
@@ -10938,7 +10843,7 @@
     },
     {
       "expression": "climate control",
-      "chinese": "空调控制",
+      "chinese": "气候控制；温控系统",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -10954,7 +10859,7 @@
     },
     {
       "expression": "climate-controlled",
-      "chinese": "空调控制的",
+      "chinese": "温控的；恒温恒湿的",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -10991,7 +10896,7 @@
     },
     {
       "expression": "close to",
-      "chinese": "接近；与…关系密切",
+      "chinese": "接近；靠近；与…关系密切；（最高级）最近的",
       "type": "短语动词/动词+介词",
       "bookFreq": 1,
       "counts": {
@@ -11226,7 +11131,7 @@
     },
     {
       "expression": "come forward",
-      "chinese": "自告奋勇，自愿",
+      "chinese": "自告奋勇，主动站出来；自愿提供信息或帮助",
       "type": "动词搭配",
       "bookFreq": 1,
       "counts": {
@@ -11416,24 +11321,8 @@
       "id": "commensurate-with"
     },
     {
-      "expression": "committed。vow to do",
-      "chinese": "表示“发誓做某事”；be",
-      "type": "商务/名词词块",
-      "bookFreq": 1,
-      "counts": {
-        "5": 1,
-        "6": 0,
-        "7": 0
-      },
-      "bookletCount": 0,
-      "priority": "A",
-      "sourceType": "Vocabulary Check",
-      "sources": [],
-      "id": "committed-vow-to-do"
-    },
-    {
       "expression": "company guidelines",
-      "chinese": "公司制度",
+      "chinese": "公司行为准则；公司指导方针",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -11621,7 +11510,7 @@
     },
     {
       "expression": "complain of",
-      "chinese": "抱怨",
+      "chinese": "诉说（病痛等）；抱怨",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -12132,43 +12021,6 @@
       "id": "crash-course"
     },
     {
-      "expression": "Creative Suite 2(",
-      "chinese": "包括Indesign、Adobe",
-      "type": "商务/名词词块",
-      "bookFreq": 1,
-      "counts": {
-        "5": 0,
-        "6": 1,
-        "7": 0
-      },
-      "bookletCount": 0,
-      "priority": "B",
-      "sourceType": "Vocabulary Check",
-      "sources": [
-        {
-          "testId": "reading-02",
-          "part": 6,
-          "questionNumber": 135
-        },
-        {
-          "testId": "reading-02",
-          "part": 6,
-          "questionNumber": 136
-        },
-        {
-          "testId": "reading-02",
-          "part": 6,
-          "questionNumber": 137
-        },
-        {
-          "testId": "reading-02",
-          "part": 6,
-          "questionNumber": 138
-        }
-      ],
-      "id": "creative-suite-2"
-    },
-    {
       "expression": "credit card",
       "chinese": "信用卡",
       "type": "商务/名词词块",
@@ -12511,7 +12363,7 @@
     },
     {
       "expression": "days written notice",
-      "chinese": "提前30天递交的书面通知",
+      "chinese": "提前若干天递交的书面通知",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -12527,7 +12379,7 @@
     },
     {
       "expression": "deal with",
-      "chinese": "关于，涉及；处理",
+      "chinese": "处理；应对；涉及；与...打交道",
       "type": "短语动词/动词+介词",
       "bookFreq": 2,
       "counts": {
@@ -12783,7 +12635,7 @@
     },
     {
       "expression": "departure time",
-      "chinese": "起飞时间",
+      "chinese": "出发时间；起飞时间",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -12890,7 +12742,7 @@
     },
     {
       "expression": "dispose of",
-      "chinese": "处理；扔掉；解决 《今日体育》杂志社 布鲁瓦德大街365号 纽约市，纽约州 邮编：10032 年10月18日 杰茜卡·帕克 乔治街555号 洛杉矶，加利福尼亚州 邮编：90095 亲爱的帕克女士： 我们已收到您于9月28日寄出的关于未收到《今日体育》的询问信， 并对您的来信表示感谢。我们已经调查了这件事并发现您应该收到9月和 10月的杂志，因为您的订阅到2018年11月1日才到期。 在此我们对这个失误表示诚挚的歉意。我已经更正了这一错误，并将 于明天——2018年10月19日——为您寄出这两期未发给您的杂志。为了弥 补这个过失，我们同时用另一个包裹寄给您我们的另外两本畅销杂志 (《今日汽车》和《今日家庭》)。 我们也希望您知道我们把您视为《今日体育》的重要客户。我希望借 此机会邀请您继续订阅明年的杂志。为了方便您订阅，我们已经附上了邮 资已付的回邮信封和一份有七五折特别优惠的订阅表格。 我们再次为给您带来的不便表示歉意。如果您需要进一步的帮助或者 说明，请随时联系或者写邮件给我们。我们会随时为您服务。 汤姆·布里奇斯 客户服务部主管",
+      "chinese": "处理；扔掉；解决",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -13004,22 +12856,6 @@
       "sourceType": "Vocabulary Check",
       "sources": [],
       "id": "do-one-s-job"
-    },
-    {
-      "expression": "Door2Door",
-      "chinese": "王子公路343号 南考菲尔德 邮编：3005 年8月23日 亲爱的Door2Door公司负责人： 我和我的家人打算明年年初移居海外。我们有许多贵重的个人财产 ——乐器、电脑、音响设备等，想带到国外。 未来五年我们将住在法国(我要在那里从事教学工作)。我们对法国一 无所知，更不知道要怎样把东西运过去。我真的迫切需要一些好建议。我 要怎样与你们的咨询顾问商谈呢？ 你们能给我回电到934-1134或者发邮件至robsted@gomail.com吗？ 真诚的， 罗伯特·斯代顿",
-      "type": "商务/名词词块",
-      "bookFreq": 1,
-      "counts": {
-        "5": 0,
-        "6": 0,
-        "7": 1
-      },
-      "bookletCount": 11,
-      "priority": "S",
-      "sourceType": "Vocabulary Check",
-      "sources": [],
-      "id": "door2door"
     },
     {
       "expression": "down the street",
@@ -13155,7 +12991,7 @@
     },
     {
       "expression": "driving record",
-      "chinese": "行驶记录",
+      "chinese": "驾驶记录；驾驶档案",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -13274,7 +13110,7 @@
     },
     {
       "expression": "drop-off",
-      "chinese": "还 车",
+      "chinese": "下降；还车（处）",
       "type": "商务/名词词块",
       "bookFreq": 2,
       "counts": {
@@ -13355,38 +13191,6 @@
         }
       ],
       "id": "drug-related-murder-investigation"
-    },
-    {
-      "expression": "DSL / JKT",
-      "chinese": "客户服务部",
-      "type": "商务/名词词块",
-      "bookFreq": 1,
-      "counts": {
-        "5": 0,
-        "6": 0,
-        "7": 1
-      },
-      "bookletCount": 1,
-      "priority": "A",
-      "sourceType": "Vocabulary Check",
-      "sources": [
-        {
-          "testId": "reading-03",
-          "part": 7,
-          "questionNumber": 162
-        },
-        {
-          "testId": "reading-03",
-          "part": 7,
-          "questionNumber": 163
-        },
-        {
-          "testId": "reading-03",
-          "part": 7,
-          "questionNumber": 164
-        }
-      ],
-      "id": "dsl-jkt"
     },
     {
       "expression": "due date",
@@ -13795,8 +13599,8 @@
       "id": "e-commerce"
     },
     {
-      "expression": "e-mail.",
-      "chinese": "埃迪森体育用品 该市体育运动用品的顶级供应商",
+      "expression": "e-mail",
+      "chinese": "电子邮件",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -14393,7 +14197,7 @@
     },
     {
       "expression": "earn a salary",
-      "chinese": "挣钱",
+      "chinese": "挣工资；赚取薪水",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -14474,7 +14278,7 @@
     },
     {
       "expression": "eco-friendliness",
-      "chinese": "对环境有利",
+      "chinese": "环保性；环境友好性",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -14554,53 +14358,6 @@
       "id": "economic-growth-rates"
     },
     {
-      "expression": "either...or …",
-      "chinese": "或…",
-      "type": "并列/句型结构",
-      "bookFreq": 1,
-      "counts": {
-        "5": 0,
-        "6": 0,
-        "7": 1
-      },
-      "bookletCount": 0,
-      "priority": "B",
-      "sourceType": "Vocabulary Check",
-      "sources": [
-        {
-          "testId": "reading-04",
-          "part": 7,
-          "questionNumber": 160
-        },
-        {
-          "testId": "reading-04",
-          "part": 7,
-          "questionNumber": 161
-        },
-        {
-          "testId": "reading-04",
-          "part": 7,
-          "questionNumber": 162
-        },
-        {
-          "testId": "reading-04",
-          "part": 7,
-          "questionNumber": 163
-        },
-        {
-          "testId": "reading-06",
-          "part": 7,
-          "questionNumber": 172
-        },
-        {
-          "testId": "reading-06",
-          "part": 7,
-          "questionNumber": 173
-        }
-      ],
-      "id": "either-or"
-    },
-    {
       "expression": "either...or...",
       "chinese": "要么……要么……",
       "type": "并列/句型结构",
@@ -14645,11 +14402,11 @@
           "questionNumber": 173
         }
       ],
-      "id": "either-or-2"
+      "id": "either-or"
     },
     {
       "expression": "emerge from",
-      "chinese": "产生于，来自",
+      "chinese": "从…出现；从…显露；来自",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -14802,7 +14559,7 @@
     },
     {
       "expression": "empty spaces",
-      "chinese": "空位",
+      "chinese": "空白处；空隙；空余空间",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -15052,7 +14809,7 @@
     },
     {
       "expression": "even if",
-      "chinese": "即使，尽管 发件人：韦恩·托马斯［wayne@e-solutions.com］ 收件人：terry.gilbert@monavale.com 抄送：卡伦·拉塞尔［karen.russell@e-solutions.com］ 发送日期：2018年3月6日，星期二，下午14∶11 特里： 我想您应该已经收到了我们在上次会议中讨论过的我公司简介的复印 件。您可以在里面找到您需要的信息。如果您还未收到，请随时联系我。 不管怎样，为了推动合作的进程，我们的主席兰利先生希望在3月20 日至24日中的任意一天在底特律与拉塞尔女士和/或您见面，进一步商讨我 们之间继续合作的可能性。因为兰利先生3月和4月要频繁出差，所以只能 选定在这几天。不过，如果这几天拉塞尔女士不方便会面，请通知我们适 合您那边的会面日期。 祝好！ 韦恩",
+      "chinese": "即使，尽管",
       "type": "商务/名词词块",
       "bookFreq": 2,
       "counts": {
@@ -15267,113 +15024,6 @@
         }
       ],
       "id": "except-for"
-    },
-    {
-      "expression": "expected to do",
-      "chinese": "表示“被期望做某事”；be/feel",
-      "type": "商务/名词词块",
-      "bookFreq": 1,
-      "counts": {
-        "5": 1,
-        "6": 0,
-        "7": 0
-      },
-      "bookletCount": 0,
-      "priority": "A",
-      "sourceType": "Vocabulary Check",
-      "sources": [
-        {
-          "testId": "reading-03",
-          "part": 5,
-          "questionNumber": 127
-        },
-        {
-          "testId": "reading-03",
-          "part": 7,
-          "questionNumber": 165
-        },
-        {
-          "testId": "reading-03",
-          "part": 7,
-          "questionNumber": 166
-        },
-        {
-          "testId": "reading-03",
-          "part": 7,
-          "questionNumber": 167
-        },
-        {
-          "testId": "reading-04",
-          "part": 5,
-          "questionNumber": 128
-        },
-        {
-          "testId": "reading-05",
-          "part": 7,
-          "questionNumber": 191
-        },
-        {
-          "testId": "reading-05",
-          "part": 7,
-          "questionNumber": 192
-        },
-        {
-          "testId": "reading-05",
-          "part": 7,
-          "questionNumber": 193
-        },
-        {
-          "testId": "reading-05",
-          "part": 7,
-          "questionNumber": 194
-        },
-        {
-          "testId": "reading-05",
-          "part": 7,
-          "questionNumber": 195
-        },
-        {
-          "testId": "reading-06",
-          "part": 6,
-          "questionNumber": 143
-        },
-        {
-          "testId": "reading-06",
-          "part": 6,
-          "questionNumber": 144
-        },
-        {
-          "testId": "reading-06",
-          "part": 6,
-          "questionNumber": 145
-        },
-        {
-          "testId": "reading-06",
-          "part": 6,
-          "questionNumber": 146
-        },
-        {
-          "testId": "reading-06",
-          "part": 7,
-          "questionNumber": 163
-        },
-        {
-          "testId": "reading-06",
-          "part": 7,
-          "questionNumber": 164
-        },
-        {
-          "testId": "reading-06",
-          "part": 7,
-          "questionNumber": 165
-        },
-        {
-          "testId": "reading-07",
-          "part": 5,
-          "questionNumber": 111
-        }
-      ],
-      "id": "expected-to-do"
     },
     {
       "expression": "expense allowance",
@@ -15772,7 +15422,7 @@
     },
     {
       "expression": "feel free to",
-      "chinese": "随时",
+      "chinese": "随意（做某事）；尽管；别客气",
       "type": "动词搭配",
       "bookFreq": 1,
       "counts": {
@@ -15936,7 +15586,7 @@
     },
     {
       "expression": "figure out",
-      "chinese": "解决；计算出",
+      "chinese": "理解；弄明白；解决；计算出",
       "type": "商务/名词词块",
       "bookFreq": 3,
       "counts": {
@@ -16025,7 +15675,7 @@
     },
     {
       "expression": "fill in",
-      "chinese": "填写，填满",
+      "chinese": "填写；向…提供最新情况；临时顶替",
       "type": "短语动词/动词+介词",
       "bookFreq": 2,
       "counts": {
@@ -16458,7 +16108,7 @@
     },
     {
       "expression": "financial assistance",
-      "chinese": "经济支持",
+      "chinese": "经济援助；财政资助",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -16537,7 +16187,7 @@
     },
     {
       "expression": "find out",
-      "chinese": "发现；查明，弄清楚 年3月26日 塞缪尔·布朗先生 真星公司 财务部经理 主题：账户# 2958A 亲爱的布朗先生： 我想感谢您今天和我商讨并同意减少我的未清账目。正如我们谈好 的，我将每两周支付250美元，从3月31日(周五)开始生效。我保证在完全 付清前，我的银行账户会在每周五上午10点的付账时段自动划账给您。 我很感激您能谅解我目前的经济状况，如情况有好转我会联系您。 有任何问题请随时联系我。 祝好！ 贾森·查默斯 年9月3日 贾森·查默斯 瑞尔斯特大道21号 温哥华市，不列颠哥伦比亚省 亲爱的贾森： 我写信通知您与真星公司目前的账户状态(#2958A)。我们在今年3月 一起努力重新调整您的付款计划后，我很满意地通知您：您的账目已付 清。 通过我们的勤奋与合作，我们终于成功地解决了这一经济状况。 如果您日后有需求，我们将很荣幸再次为您提供服务。如果您有需求 请联系我们。 祝好，期待不久之后能与您再次合作。 塞缪尔·布朗 真星公司 财务部经理",
+      "chinese": "发现；查明，弄清楚",
       "type": "短语动词/动词+介词",
       "bookFreq": 1,
       "counts": {
@@ -16973,7 +16623,7 @@
     },
     {
       "expression": "follow up",
-      "chinese": "对…采取进一步行动，跟进",
+      "chinese": "跟进，对…采取进一步行动；后续行动；后续的",
       "type": "短语动词/动词+介词",
       "bookFreq": 1,
       "counts": {
@@ -17077,7 +16727,7 @@
     },
     {
       "expression": "for further information",
-      "chinese": "为了(了解)进一步的信息",
+      "chinese": "如需更多信息；欲了解更多详情",
       "type": "介词/连接短语",
       "bookFreq": 1,
       "counts": {
@@ -18201,7 +17851,7 @@
     },
     {
       "expression": "get ahead on",
-      "chinese": "从…中受益；获得成功",
+      "chinese": "在…上取得进展；提前做…",
       "type": "动词搭配",
       "bookFreq": 1,
       "counts": {
@@ -18620,7 +18270,7 @@
     },
     {
       "expression": "get on the path to",
-      "chinese": "通往…的道路",
+      "chinese": "开始走上…的道路；着手实现…",
       "type": "短语动词/动词+介词",
       "bookFreq": 1,
       "counts": {
@@ -18636,7 +18286,7 @@
     },
     {
       "expression": "get one’s hands on sth.",
-      "chinese": "某人将某物拿到手",
+      "chinese": "得到某物；找到某物；弄到手",
       "type": "句型/结构",
       "bookFreq": 1,
       "counts": {
@@ -18699,7 +18349,7 @@
     },
     {
       "expression": "get to...",
-      "chinese": "到达某地",
+      "chinese": "到达某地；开始做；有机会做",
       "type": "短语动词/动词+介词",
       "bookFreq": 1,
       "counts": {
@@ -19026,7 +18676,7 @@
     },
     {
       "expression": "get together",
-      "chinese": "聚会",
+      "chinese": "见面；碰头；聚会",
       "type": "动词搭配",
       "bookFreq": 1,
       "counts": {
@@ -19162,7 +18812,7 @@
     },
     {
       "expression": "gift certificate",
-      "chinese": "礼券 瑞奇蒙德 这套宽敞、装饰派艺术风格的公寓对于有眼力的买家来说是一个不可 多得的机会。公寓所在大楼建于1938年，它保留着许多原有的独特装饰特 征，而且大楼维护得很好。公寓包括三间卧室 (两个能看到河景的主卧) 、 一间很大的起居室和一间分隔出来的餐厅，还有视野开阔的阳台。厨房和 浴室在没有破坏原有风格的基础上重新装修得很优雅。这套公寓离繁华的 哈克斯巴瑞路不远；它将舒适、罕见的典雅和便捷融为一体。现在就来看 房吧！ · 三间卧室 · 餐厅 · 带阳台的、视野开阔的、宽敞正式的起居室 · 一楼停车位 · 许多原有的建筑特色 · 木质壁炉 请联系布雷恩·琼斯预约看房，电话：876-2288 / 555-2288。",
+      "chinese": "礼券",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -19184,7 +18834,7 @@
     },
     {
       "expression": "give an outline of",
-      "chinese": "概要说明；描绘…的轮廓",
+      "chinese": "概述；概要说明",
       "type": "动词搭配",
       "bookFreq": 1,
       "counts": {
@@ -19211,7 +18861,7 @@
     },
     {
       "expression": "give away",
-      "chinese": "发布；泄露；出卖；赠送",
+      "chinese": "赠送；泄露；出卖；分发",
       "type": "短语动词/动词+介词",
       "bookFreq": 2,
       "counts": {
@@ -19401,7 +19051,7 @@
     },
     {
       "expression": "go off",
-      "chinese": "发出响声",
+      "chinese": "发出响声；爆炸；离开；进展",
       "type": "短语动词/动词+介词",
       "bookFreq": 1,
       "counts": {
@@ -19738,22 +19388,6 @@
       "id": "great-wall"
     },
     {
-      "expression": "G＆G",
-      "chinese": "公司 杰纳勒尔和格林公司 第一安全车道 尼古拉斯威乐，肯塔基州 邮编：40356 内德· R·尤谐尔，副总裁兼总经理 年10月29日 尤利西斯有限公司 海湾中心大楼2层 底特律，密歇根州 邮编：70456 致：副总裁斯坦利·库珀先生 亲爱的库珀先生： 杰纳勒尔和格林公司将于2018年11月8日至15日来对我们的中层领导 进行年度培训，借此机会我想邀请您的职员出席这次活动。今年，我们邀 请了业界的顶级管理人士来分享他们的小秘密。 还要提醒一下，所有参加者需要在培训前一天到达肯塔基州的莱克星 顿。一旦您确定了参加者并把名单提交给我们后，我们会根据您提供的参 加培训的经理人数把培训日程和膳宿安排信息发给您。 期待您对这次重要培训邀请给予肯定的回复。 祝好！ 内德 ·R·尤谐尔",
-      "type": "商务/名词词块",
-      "bookFreq": 1,
-      "counts": {
-        "5": 0,
-        "6": 0,
-        "7": 1
-      },
-      "bookletCount": 0,
-      "priority": "B",
-      "sourceType": "Vocabulary Check",
-      "sources": [],
-      "id": "g-g"
-    },
-    {
       "expression": "hand in",
       "chinese": "上交，提交",
       "type": "商务/名词词块",
@@ -19900,7 +19534,7 @@
     },
     {
       "expression": "hard cost",
-      "chinese": "硬成本",
+      "chinese": "直接成本；硬成本",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -20023,7 +19657,7 @@
     },
     {
       "expression": "have a sale",
-      "chinese": "廉价出售",
+      "chinese": "举办促销活动；打折出售",
       "type": "动词搭配",
       "bookFreq": 1,
       "counts": {
@@ -20196,7 +19830,7 @@
     },
     {
       "expression": "have problems with",
-      "chinese": "对…有疑问",
+      "chinese": "在…方面有问题；对…有困难",
       "type": "动词搭配",
       "bookFreq": 1,
       "counts": {
@@ -20478,7 +20112,7 @@
     },
     {
       "expression": "high-profile",
-      "chinese": "备受瞩目的；高姿态的",
+      "chinese": "备受瞩目的；高调的；知名度高的",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -20500,7 +20134,7 @@
     },
     {
       "expression": "hip-hop",
-      "chinese": "嘻哈舞曲",
+      "chinese": "嘻哈音乐；嘻哈文化",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -20606,7 +20240,7 @@
     },
     {
       "expression": "holiday season",
-      "chinese": "休假旺季",
+      "chinese": "节日季；节假日高峰期（常指购物旺季）",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -20625,38 +20259,6 @@
         }
       ],
       "id": "holiday-season"
-    },
-    {
-      "expression": "honored to do",
-      "chinese": "表示“以 做某事为荣”。 词”和“whether + 主语+动词+",
-      "type": "商务/名词词块",
-      "bookFreq": 1,
-      "counts": {
-        "5": 1,
-        "6": 0,
-        "7": 0
-      },
-      "bookletCount": 0,
-      "priority": "A",
-      "sourceType": "Vocabulary Check",
-      "sources": [
-        {
-          "testId": "reading-10",
-          "part": 7,
-          "questionNumber": 171
-        },
-        {
-          "testId": "reading-10",
-          "part": 7,
-          "questionNumber": 172
-        },
-        {
-          "testId": "reading-10",
-          "part": 7,
-          "questionNumber": 173
-        }
-      ],
-      "id": "honored-to-do"
     },
     {
       "expression": "hook up with",
@@ -20697,7 +20299,7 @@
     },
     {
       "expression": "house-call",
-      "chinese": "上门服务的",
+      "chinese": "上门服务；出诊",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -20874,7 +20476,7 @@
     },
     {
       "expression": "immediate manager",
-      "chinese": "直 接上级 收件人：charles@danone.com 发件人：jgibson@kalpine.net 主题：即将到来的访问 亲爱的查尔斯： 这封信的目的是确认莎伦和我的旅行日期。我们在协调彼此的日程上 有些困难，但是我们最终商定我们行程的最佳时间是从2月14日到21日。 我们会搭乘法国航空的航班到法国，三天后我们会继续搭火车到瑞士，因 此我们有很多机会重温旧梦，然后回家。 请注意以下日程表的时间和日期： 旅游行程： 2月14日－法航出发地：纽约州纽约市 2月15日－法航抵达地：法国巴黎 2月17日－欧洲之星出发地：法国巴黎 2月18日－欧洲之星抵达地：瑞士苏黎世 2月20日－瑞士航空出发地：瑞士苏黎世 2月21日－西南航空抵达地：纽约州纽约市 你可以从我们的日程表里看出，我们将去两个目的地。在旅行期间， 我们希望能在每个城市租一辆车。如果你能在我们到达每个城市时让司机 把车开到机场，那就太感谢了。经过如此长的时间后我期待再次与你重 逢。 最美好的祝愿， 约翰",
+      "chinese": "直接上级",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -21012,7 +20614,7 @@
     },
     {
       "expression": "in a few minutes",
-      "chinese": "几分钟后",
+      "chinese": "几分钟后；在几分钟之内",
       "type": "介词/连接短语",
       "bookFreq": 1,
       "counts": {
@@ -21405,7 +21007,7 @@
     },
     {
       "expression": "in addition to",
-      "chinese": "除…之外 公共通知 谢拉顿学院为了开发和使用校园一卡通系统，计划和一个潜在的公司 签订一份咨询服务合同。这种识别卡能够使学院的所有人员无障碍地使用 校园设施。这个系统必须与目前的和未来的基于卡片的电脑系统结合使 用。 我们会考虑那些拥有相当或卓越的知识，并在一卡通评估、设计、安 装、产品和使用领域有成熟的咨询服务的个人或公司。 申请者需要签署一份宣誓书，上面声明他们目前不隶属于任何卡片系 统供应商、金融财团、供应商集团、卡片研究所或者银行，也没有从这些 机构获得补偿。 若需要信息或者投标申请书的复印件，请联系犹他州犹可里德大街 号，谢拉顿学院设备服务中心，贾斯廷·雷德，邮编是755-0000。 学院为了维护自身的最大利益，保留否决任何投标或者推迟考虑任何 详细说明或请求的权利。 投标申请将于2019年1月15日 (星期二) 下午2点截止，并在谢拉顿学院 设备中心 (犹他州犹可里德大街2478号，55号房间) 公开。",
+      "chinese": "除…之外（还），加之；另外",
       "type": "介词/连接短语",
       "bookFreq": 1,
       "counts": {
@@ -21487,7 +21089,7 @@
     },
     {
       "expression": "in advance",
-      "chinese": "提前",
+      "chinese": "提前；预付",
       "type": "介词/连接短语",
       "bookFreq": 4,
       "counts": {
@@ -21604,7 +21206,7 @@
     },
     {
       "expression": "in an effort to do",
-      "chinese": "努力做某事",
+      "chinese": "为了，试图做某事",
       "type": "介词/连接短语",
       "bookFreq": 1,
       "counts": {
@@ -21743,7 +21345,7 @@
     },
     {
       "expression": "in bulk",
-      "chinese": "大批，大量",
+      "chinese": "大批量地；散装地",
       "type": "介词/连接短语",
       "bookFreq": 2,
       "counts": {
@@ -22247,7 +21849,7 @@
     },
     {
       "expression": "in demand",
-      "chinese": "有需要；销路好 美国银行将增设110家新支行 美国银行是全国最大的银行之一，它计划增设110家新的国内支行。 康迪斯·施奈德是美国银行的首席运营官。他昨天在某个投资者会议 上概述了他们未来的计划。这使美国银行成为在最近几个月内透露美国扩 展计划的五家最大的银行中的最后一家。 有报道称施奈德跟美欧银行协会世界市场会议上的代表们谈及了一条 信息，他说：“我们会把主要精力放在洛杉矶市场上，而且我们计划在年 底前再开设近50家支行。” 上个月，竞争对手花旗银行确认将采取措施加强在国内的业务，花旗 银行将在加州、纽约州和伊利诺伊州的市区移设、扩建或新增70家分行。",
+      "chinese": "有需要；销路好",
       "type": "介词/连接短语",
       "bookFreq": 1,
       "counts": {
@@ -22269,7 +21871,7 @@
     },
     {
       "expression": "in full",
-      "chinese": "全额",
+      "chinese": "全额地；完整地；全部地",
       "type": "介词/连接短语",
       "bookFreq": 1,
       "counts": {
@@ -22419,7 +22021,7 @@
     },
     {
       "expression": "in line",
-      "chinese": "成一队；成一直线",
+      "chinese": "排队；排成一行",
       "type": "介词/连接短语",
       "bookFreq": 1,
       "counts": {
@@ -22862,7 +22464,7 @@
     },
     {
       "expression": "in relation to",
-      "chinese": "关于，涉及",
+      "chinese": "关于，涉及；与…相比",
       "type": "介词/连接短语",
       "bookFreq": 1,
       "counts": {
@@ -23006,7 +22608,7 @@
     },
     {
       "expression": "in the day",
-      "chinese": "白天；当天 富兰克林的莫尔斯展览 费城的富兰克林电报博物馆将举行莫尔斯码的发明人——塞缪尔·芬 利·布里斯·莫尔斯的发明和生活展。在那时，用简短的信号或者二进制码 传输信息是无法实现的。塞缪尔·莫尔斯的发明对电报的改进、二进制码 的进一步发展以及在传输技术中采用电磁学作出了贡献。 第一台电报机的模型和早期的电报会在展览中展示，同时还将展出塞 缪尔·莫尔斯在各个历史时期的肖像画和油画。我们将免费演示莫尔斯码 的传输过程并提供二进制码发展的完整解说。我们也将向孩子们发送关于 莫尔斯码的小册子，让他们通过一种有趣的方式了解莫尔斯码。 此外，我们还会提供一些电影剪辑和解说，让参观者进一步了解莫尔 斯的生活。这将在参观结束之前向观众展示，以使大家能完全领悟展览的 意义。 展览将于5月1日在富兰克林电报博物馆开展，直到7月30日结束。成 人门票为20美元，12岁以下儿童门票为10美元，10人或以上团体票为100 美元。5岁以下儿童免票。若有其他问题请发邮件至Morse@franklin.org与 我们联系。 收件人：morse@franklin.org 发件人：ben@yahoo.com 主 题：莫尔斯展览 亲爱的富兰克林博物馆： 包括我家人和朋友在内的一行12人正期待着参观莫尔斯展览。尽管如 此，我想知道本次展览是否设有方便残疾人的设施，为像我哥哥这样的以 轮椅代步的人提供方便。还有一位来我家探访的中国朋友将和我们一起来 参观。他不是很了解英语和美国文化。我想知道除了英文以外是否有其他 语言的小册子或者解说资料？在放电影剪辑和解说的过程中是否提供翻 译？ 谢谢， 本·霍金斯",
+      "chinese": "在白天；在一天之中",
       "type": "介词/连接短语",
       "bookFreq": 1,
       "counts": {
@@ -23375,7 +22977,7 @@
     },
     {
       "expression": "in the meantime",
-      "chinese": "与此同时",
+      "chinese": "在此期间；与此同时",
       "type": "介词/连接短语",
       "bookFreq": 2,
       "counts": {
@@ -23580,8 +23182,8 @@
       "id": "in-the-near-future"
     },
     {
-      "expression": "in the region of …",
-      "chinese": "左右；在…地区",
+      "expression": "in the region of",
+      "chinese": "左右；大约",
       "type": "介词/连接短语",
       "bookFreq": 1,
       "counts": {
@@ -23622,7 +23224,7 @@
       "id": "in-the-region-of"
     },
     {
-      "expression": "in the vicinity of …",
+      "expression": "in the vicinity of",
       "chinese": "左右，大约；在…附近",
       "type": "介词/连接短语",
       "bookFreq": 1,
@@ -23709,7 +23311,7 @@
     },
     {
       "expression": "in voluntary capacity",
-      "chinese": "在志愿者工作中",
+      "chinese": "以自愿身份；以志愿者身份（发挥作用）",
       "type": "介词/连接短语",
       "bookFreq": 1,
       "counts": {
@@ -23773,7 +23375,7 @@
     },
     {
       "expression": "inbound shipment",
-      "chinese": "内陆运输",
+      "chinese": "运入的货物；进港/到货的装运",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -24535,7 +24137,7 @@
     },
     {
       "expression": "investment portfolio",
-      "chinese": "投资业务，投资 组合",
+      "chinese": "投资组合",
       "type": "商务/名词词块",
       "bookFreq": 2,
       "counts": {
@@ -24908,7 +24510,7 @@
     },
     {
       "expression": "jot down",
-      "chinese": "草草记下 明良Quik",
+      "chinese": "草草记下；匆匆写下",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -24930,7 +24532,7 @@
     },
     {
       "expression": "jump on the wagon",
-      "chinese": "随波逐流",
+      "chinese": "跟风，赶潮流",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -25116,7 +24718,7 @@
     },
     {
       "expression": "keynote speaker",
-      "chinese": "主讲人",
+      "chinese": "主题演讲人；主旨发言人",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -25220,7 +24822,7 @@
     },
     {
       "expression": "kind of",
-      "chinese": "有点儿，有几分",
+      "chinese": "有点儿，有几分；种类，类型",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -25317,7 +24919,7 @@
     },
     {
       "expression": "lag on",
-      "chinese": "拖沓；滞后于",
+      "chinese": "拖沓；变缓；拖延",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -25354,7 +24956,7 @@
     },
     {
       "expression": "land jobs",
-      "chinese": "落实工作",
+      "chinese": "找到工作；获得职位",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -25481,7 +25083,7 @@
     },
     {
       "expression": "lay out",
-      "chinese": "制定；安排，布置，规划",
+      "chinese": "制定；布置，陈列；花费；详细说明",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -25539,7 +25141,7 @@
     },
     {
       "expression": "lead actor",
-      "chinese": "男主角",
+      "chinese": "主演；主角演员",
       "type": "动词搭配",
       "bookFreq": 1,
       "counts": {
@@ -25555,7 +25157,7 @@
     },
     {
       "expression": "leave behind",
-      "chinese": "落后；在后面",
+      "chinese": "留下；忘带；把...抛在后面；超过",
       "type": "动词搭配",
       "bookFreq": 1,
       "counts": {
@@ -25837,7 +25439,7 @@
     },
     {
       "expression": "less-qualified",
-      "chinese": "素质较低的；受教育水平较低的",
+      "chinese": "资格较差的；资历较浅的",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -26273,7 +25875,7 @@
     },
     {
       "expression": "let down",
-      "chinese": "使失望",
+      "chinese": "使失望；辜负",
       "type": "短语动词/动词+介词",
       "bookFreq": 1,
       "counts": {
@@ -26344,7 +25946,7 @@
     },
     {
       "expression": "line up",
-      "chinese": "排队",
+      "chinese": "排队；安排，组织",
       "type": "商务/名词词块",
       "bookFreq": 3,
       "counts": {
@@ -27273,7 +26875,7 @@
     },
     {
       "expression": "look into",
-      "chinese": "调查",
+      "chinese": "调查；研究",
       "type": "短语动词/动词+介词",
       "bookFreq": 1,
       "counts": {
@@ -27335,7 +26937,7 @@
     },
     {
       "expression": "look over",
-      "chinese": "翻阅",
+      "chinese": "浏览；检查；审阅",
       "type": "短语动词/动词+介词",
       "bookFreq": 1,
       "counts": {
@@ -27377,7 +26979,7 @@
     },
     {
       "expression": "look to",
-      "chinese": "寻找",
+      "chinese": "指望，依靠；展望，关注",
       "type": "短语动词/动词+介词",
       "bookFreq": 1,
       "counts": {
@@ -27755,7 +27357,7 @@
     },
     {
       "expression": "lose oneself in",
-      "chinese": "在…中迷失自己，对…入迷；在…中迷路",
+      "chinese": "沉浸于，专心致志于，对…入迷",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -27891,7 +27493,7 @@
     },
     {
       "expression": "luxury car",
-      "chinese": "豪华 轿车",
+      "chinese": "豪华汽车",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -27930,22 +27532,6 @@
         }
       ],
       "id": "luxury-car"
-    },
-    {
-      "expression": "M.H. 《",
-      "chinese": "红雨》 如果您喜欢那种油头滑脑的城里人无意中被困在险恶的乡村小镇之类 的恐怖片，那就一定要去看这部片子。《红雨》出自惊悚大师吉姆·米德 尔顿之手，制作效果极其精湛。虽然情节上并无新意，但是特技、装饰和 编剧非常出色；演员虽然没有什么名气，但是演技一流。3.5分 简·史蒂文 森",
-      "type": "商务/名词词块",
-      "bookFreq": 1,
-      "counts": {
-        "5": 0,
-        "6": 0,
-        "7": 1
-      },
-      "bookletCount": 0,
-      "priority": "B",
-      "sourceType": "Vocabulary Check",
-      "sources": [],
-      "id": "m-h"
     },
     {
       "expression": "majority vote standard",
@@ -28156,7 +27742,7 @@
     },
     {
       "expression": "make a move",
-      "chinese": "采取行动，开始行动",
+      "chinese": "采取行动；出发，动身",
       "type": "动词搭配",
       "bookFreq": 1,
       "counts": {
@@ -28311,7 +27897,7 @@
     },
     {
       "expression": "make it",
-      "chinese": "赶上",
+      "chinese": "成功做到；及时到达",
       "type": "动词搭配",
       "bookFreq": 2,
       "counts": {
@@ -28561,7 +28147,7 @@
     },
     {
       "expression": "make one’s mark",
-      "chinese": "成名",
+      "chinese": "成名，崭露头角，留下印记",
       "type": "句型/结构",
       "bookFreq": 1,
       "counts": {
@@ -28952,7 +28538,7 @@
     },
     {
       "expression": "make way for",
-      "chinese": "让路，为…开 路",
+      "chinese": "让路；为…腾出空间",
       "type": "动词搭配",
       "bookFreq": 1,
       "counts": {
@@ -29325,7 +28911,7 @@
     },
     {
       "expression": "mini bar",
-      "chinese": "小冰柜",
+      "chinese": "迷你吧；客房内提供收费饮料零食的小冰箱",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -29479,7 +29065,7 @@
     },
     {
       "expression": "modes of transportation",
-      "chinese": "交通工具",
+      "chinese": "交通方式；运输方式",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -29599,22 +29185,6 @@
         }
       ],
       "id": "morse-code"
-    },
-    {
-      "expression": "Motion QM-208",
-      "chinese": "安全指南 恭喜您购买了明良Quik",
-      "type": "商务/名词词块",
-      "bookFreq": 1,
-      "counts": {
-        "5": 0,
-        "6": 0,
-        "7": 1
-      },
-      "bookletCount": 0,
-      "priority": "B",
-      "sourceType": "Vocabulary Check",
-      "sources": [],
-      "id": "motion-qm-208"
     },
     {
       "expression": "multi-functional",
@@ -30613,7 +30183,7 @@
     },
     {
       "expression": "on an individual basis",
-      "chinese": "以个人身份",
+      "chinese": "单独地；逐个地",
       "type": "介词/连接短语",
       "bookFreq": 1,
       "counts": {
@@ -31267,7 +30837,7 @@
     },
     {
       "expression": "operating procedures",
-      "chinese": "操作步骤",
+      "chinese": "操作规程；工作程序",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -31310,40 +30880,8 @@
       "id": "operating-system"
     },
     {
-      "expression": "or not”",
-      "chinese": "的结构中。答案是 (A)",
-      "type": "商务/名词词块",
-      "bookFreq": 1,
-      "counts": {
-        "5": 1,
-        "6": 0,
-        "7": 0
-      },
-      "bookletCount": 0,
-      "priority": "A",
-      "sourceType": "Vocabulary Check",
-      "sources": [],
-      "id": "or-not"
-    },
-    {
-      "expression": "OS X",
-      "chinese": "平台上操作Adobe",
-      "type": "商务/名词词块",
-      "bookFreq": 1,
-      "counts": {
-        "5": 0,
-        "6": 1,
-        "7": 0
-      },
-      "bookletCount": 1,
-      "priority": "A",
-      "sourceType": "Vocabulary Check",
-      "sources": [],
-      "id": "os-x"
-    },
-    {
       "expression": "out in the open",
-      "chinese": "露天的",
+      "chinese": "在户外；公开地",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -31652,7 +31190,7 @@
     },
     {
       "expression": "part-time",
-      "chinese": "兼职的",
+      "chinese": "兼职的；部分时间的；兼职地",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -31909,7 +31447,7 @@
     },
     {
       "expression": "pass on",
-      "chinese": "传递",
+      "chinese": "传递，转交；转达（消息等）",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -32058,7 +31596,7 @@
     },
     {
       "expression": "pick up",
-      "chinese": "取，获得；捡 起",
+      "chinese": "取回；获得；学习；接人；外卖自取",
       "type": "商务/名词词块",
       "bookFreq": 4,
       "counts": {
@@ -32820,7 +32358,7 @@
     },
     {
       "expression": "pop-up",
-      "chinese": "有弹起装置的",
+      "chinese": "弹出式的；弹出窗口（广告）；弹出式展架",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -33049,7 +32587,7 @@
     },
     {
       "expression": "pride oneself on",
-      "chinese": "以…自豪；自夸…",
+      "chinese": "以…为荣；因…感到自豪",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -33225,7 +32763,7 @@
     },
     {
       "expression": "profit sharing",
-      "chinese": "分红",
+      "chinese": "利润分享；分红",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -33262,7 +32800,7 @@
     },
     {
       "expression": "property tax",
-      "chinese": "房产税",
+      "chinese": "财产税；房产税",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -33278,7 +32816,7 @@
     },
     {
       "expression": "property value",
-      "chinese": "房产价值",
+      "chinese": "财产价值；资产价值",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -33410,35 +32948,8 @@
       "id": "public-transportation"
     },
     {
-      "expression": "Pump It",
-      "chinese": "特价 这个夏季用我们最先进的设备以及由我们的高级个人教练为你量身打 造的训练课程展示你最好的形象 如果你无法调动积极性，那么，Pump",
-      "type": "商务/名词词块",
-      "bookFreq": 1,
-      "counts": {
-        "5": 0,
-        "6": 0,
-        "7": 1
-      },
-      "bookletCount": 2,
-      "priority": "A",
-      "sourceType": "Vocabulary Check",
-      "sources": [
-        {
-          "testId": "reading-01",
-          "part": 7,
-          "questionNumber": 157
-        },
-        {
-          "testId": "reading-01",
-          "part": 7,
-          "questionNumber": 158
-        }
-      ],
-      "id": "pump-it"
-    },
-    {
       "expression": "put through",
-      "chinese": "使通过；使经受",
+      "chinese": "使通过；使经受；接通（电话）",
       "type": "短语动词/动词+介词",
       "bookFreq": 1,
       "counts": {
@@ -33550,7 +33061,7 @@
     },
     {
       "expression": "raise one’s glass",
-      "chinese": "举杯",
+      "chinese": "举杯祝酒；举杯敬酒",
       "type": "句型/结构",
       "bookFreq": 1,
       "counts": {
@@ -33672,7 +33183,7 @@
     },
     {
       "expression": "read up on",
-      "chinese": "仔细研究，研读 年9月25日",
+      "chinese": "深入阅读；钻研；查阅资料以了解",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -33866,7 +33377,7 @@
     },
     {
       "expression": "recreational vehicle",
-      "chinese": "野营车；活动房屋旅游车；家庭旅游车",
+      "chinese": "房车；休闲车；野营车",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -33898,7 +33409,7 @@
     },
     {
       "expression": "regular price",
-      "chinese": "正常价格 年6月3日 苏珊娜·罗杰斯 超人体工学家具公司 销售和运输部门 莫里斯圈107号58室 摩拉宾，维多利亚 邮编：3206 亲爱的罗杰斯女士： 我相信您知道我们公司从事组织会议、节日活动和其他大型公司活动 已有15年了，事实上，我们是这个行业的龙头。我们在过去15年里一直从 超人体工学家具公司购买和租用高级家具。而且我们从来没有对你们的服 务有过任何投诉。 我现在以个人名义写信给您，请您帮个忙。我们最近在贵公司下了一 个租用家具的订单(订单号11-35698A)，包括车展需要的椅子、桌子、隔板 和讲台。不幸的是，这个订单里有一个严重的错误。事实上这个展览的起 始日期要比订单里写的时间早一个星期。展会的开始日期实际上是7月7 日。如果您能想办法把我们订的货在7号之前送到，我们将非常感激。如 果可能的话，我想在原订单的基础上增加20个易拉宝。 我知道这件事比较为难，但是鉴于我们长期合作的关系，我希望您能 帮我们这个忙。 不便之处深表歉意。请您尽快联系我。 真诚的， 迈克尔·鲁宾逊 物业经理",
+      "chinese": "正常价格",
       "type": "商务/名词词块",
       "bookFreq": 2,
       "counts": {
@@ -34183,7 +33694,7 @@
     },
     {
       "expression": "resort to",
-      "chinese": "诉诸于…，求助于… 把赠券放入这个盒子你就可能获奖！ 姓名：______________________ 电话号码：______________________ 地址： ____________________________________________ 有了这款浮特拉搅拌和榨汁机，你将走上更加健康的道路，头脑变得 更清醒，不用再为节食和严格运动训练而紧张。早上起来先喝一点新鲜水 果和蔬菜汁，这样就能赶走星期一早上的忧郁！浮特拉搅拌和榨汁机很容 易操作。它能自动给苹果、梨、猕猴桃、胡萝卜等众多蔬菜、水果削皮， 你只需清洗它们。它易于清洁，而且食物残渣能为你的花园提供极好的肥 料。浮特拉搅拌和榨汁机仅售99美元，并附送一本饮食指南及食谱，里面 介绍了50种美味、健康的果蔬饮品。",
+      "chinese": "诉诸于…，求助于…",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -34205,7 +33716,7 @@
     },
     {
       "expression": "respond to",
-      "chinese": "回答",
+      "chinese": "回答；回应；响应",
       "type": "短语动词/动词+介词",
       "bookFreq": 1,
       "counts": {
@@ -34657,7 +34168,7 @@
     },
     {
       "expression": "rule-breaking",
-      "chinese": "不守规矩的；违规的",
+      "chinese": "违反规则的；违规的；违规行为",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -34721,7 +34232,7 @@
     },
     {
       "expression": "run late",
-      "chinese": "逾期",
+      "chinese": "迟到；晚点；延误",
       "type": "动词搭配",
       "bookFreq": 1,
       "counts": {
@@ -34743,7 +34254,7 @@
     },
     {
       "expression": "run low (on sth.)",
-      "chinese": "某物短缺，将耗尽某物",
+      "chinese": "（某物）快用完，即将耗尽",
       "type": "句型/结构",
       "bookFreq": 1,
       "counts": {
@@ -34785,7 +34296,7 @@
     },
     {
       "expression": "run out of",
-      "chinese": "用完，耗尽 紧急疏散流程 如果遇到紧急情况，坐在舱门边的人会被要求执行以下任务： 1. 识别、找出并操作器械打开紧急舱门。 2. 迅速评估情况并做出决定，查看打开舱门是否会让乘客处于任何危 险中。 3. 将紧急舱门固定好，绞紧铰链，以确保乘客安全离开。 4. 当舱门打开时，充气滑梯会自动展开到地面。舱门旁边张贴的示意 图演示了这一过程。一旦滑梯充满气，通知其他乘客。要先出去查看外面 的情况是否安全。一旦确认安全，引导其他人从滑梯末端逃出飞机。 如果您的座位在紧急舱门旁边，但您认为自己不能胜任上述工作，或 者您不想承担这个责任，请在飞机起飞前告诉乘务员。您会被安排到另外 一个座位。",
+      "chinese": "用完，耗尽",
       "type": "短语动词/动词+介词",
       "bookFreq": 2,
       "counts": {
@@ -34897,7 +34408,7 @@
     },
     {
       "expression": "sale of bonds",
-      "chinese": "发行公债",
+      "chinese": "债券销售；出售债券",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -34961,7 +34472,7 @@
     },
     {
       "expression": "sales figures",
-      "chinese": "销售额",
+      "chinese": "销售数字；销售额",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -34983,7 +34494,7 @@
     },
     {
       "expression": "sales lead",
-      "chinese": "销售机会",
+      "chinese": "销售线索；潜在客户",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -35185,7 +34696,7 @@
     },
     {
       "expression": "security clearance",
-      "chinese": "安全调查；(对参加秘密工作人员等进行的) 忠诚调查",
+      "chinese": "安全许可；保密许可",
       "type": "商务/名词词块",
       "bookFreq": 2,
       "counts": {
@@ -35212,7 +34723,7 @@
     },
     {
       "expression": "security desk",
-      "chinese": "安检台",
+      "chinese": "保安服务台；前台安保接待处",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -35312,7 +34823,7 @@
     },
     {
       "expression": "see if",
-      "chinese": "看看",
+      "chinese": "看看是否；确认",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -35594,7 +35105,7 @@
     },
     {
       "expression": "set out",
-      "chinese": "出发",
+      "chinese": "出发；着手，开始",
       "type": "短语动词/动词+介词",
       "bookFreq": 1,
       "counts": {
@@ -35616,7 +35127,7 @@
     },
     {
       "expression": "set up",
-      "chinese": "创建；安 排",
+      "chinese": "创建；建立；安排；安装；设置",
       "type": "短语动词/动词+介词",
       "bookFreq": 7,
       "counts": {
@@ -35882,7 +35393,7 @@
     },
     {
       "expression": "settle a lawsuit",
-      "chinese": "结案",
+      "chinese": "和解诉讼；庭外解决诉讼",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -35898,7 +35409,7 @@
     },
     {
       "expression": "settle back",
-      "chinese": "仰靠在椅背上",
+      "chinese": "舒舒服服地坐好；松弛下来",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -35935,7 +35446,7 @@
     },
     {
       "expression": "settle down",
-      "chinese": "安顿下来",
+      "chinese": "安定下来；定居；安顿下来",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -35994,7 +35505,7 @@
     },
     {
       "expression": "sew up",
-      "chinese": "解决，安排",
+      "chinese": "敲定（交易）；垄断（市场）",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -36047,7 +35558,7 @@
     },
     {
       "expression": "share-market",
-      "chinese": "股票市场的",
+      "chinese": "股票市场；股市",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -36066,43 +35577,6 @@
         }
       ],
       "id": "share-market"
-    },
-    {
-      "expression": "Sharp Tongue",
-      "chinese": "组合终于向全世界公布了他们下一张专辑的名字。 乐队经纪人肖恩·莱温斯基表示，泰伦斯·泰隆和公司已经选定用《均 衡者》作为2018年音乐室成果《改革》的后续。 这张专辑将于11月17日在全国范围内上市。首支单曲《杀戮》将于两 周后在电台中播出。 《均衡者》由约翰·斯塔克制作。他曾得到The",
-      "type": "商务/名词词块",
-      "bookFreq": 1,
-      "counts": {
-        "5": 0,
-        "6": 1,
-        "7": 0
-      },
-      "bookletCount": 2,
-      "priority": "A",
-      "sourceType": "Vocabulary Check",
-      "sources": [
-        {
-          "testId": "reading-06",
-          "part": 6,
-          "questionNumber": 143
-        },
-        {
-          "testId": "reading-06",
-          "part": 6,
-          "questionNumber": 144
-        },
-        {
-          "testId": "reading-06",
-          "part": 6,
-          "questionNumber": 145
-        },
-        {
-          "testId": "reading-06",
-          "part": 6,
-          "questionNumber": 146
-        }
-      ],
-      "id": "sharp-tongue"
     },
     {
       "expression": "shock-absorbing",
@@ -36264,7 +35738,7 @@
     },
     {
       "expression": "show times",
-      "chinese": "上映时间",
+      "chinese": "放映时间；演出时间",
       "type": "动词搭配",
       "bookFreq": 1,
       "counts": {
@@ -36603,7 +36077,7 @@
     },
     {
       "expression": "sign up",
-      "chinese": "注册",
+      "chinese": "报名；注册；签约参加",
       "type": "短语动词/动词+介词",
       "bookFreq": 2,
       "counts": {
@@ -36819,7 +36293,7 @@
     },
     {
       "expression": "skeleton staff",
-      "chinese": "骨干人员",
+      "chinese": "最低限度留守人员；精简人员",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -37222,8 +36696,8 @@
       "id": "specialty-store"
     },
     {
-      "expression": "spic-and-span",
-      "chinese": "极干净整洁的；崭新的 自然中的艺术 召唤所有的艺术爱好者！国家艺术发展委员会将于今年8月带给您一 场前所未有的轰动性的艺术展！在自然中展示艺术。我们很高兴此次展览 的举办得到了当地企业、商业伙伴和曾对我们“自然中的艺术”作出过贡献 的其他四个国家的博物馆的慷慨支持。 此次展览的展品包括举世闻名的50多座雕塑，展览将在国家植物园的 开阔地带举办。这些精致的室外雕塑放在我们的公园和庭院中会和它们在 博物馆或者私人住宅内一样美丽，因为它们是被当作自然的一部分而创造 出来的。 还有什么比在这片“沉浸于艺术和自然”的地方散步，欣赏这些美丽的 艺术雕塑更好的休闲方式呢？在这个为期一个月的免门票活动中，快来跟 我们一起在这些雕塑旁放松放松，共同享用下午茶吧！欢迎任何年龄段的 孩子，但我们强烈建议您把宠物留在家中。 我们希望您来参观植物园！期待光临！",
+      "expression": "spick-and-span",
+      "chinese": "极干净整洁的；崭新的",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -37234,14 +36708,8 @@
       "bookletCount": 1,
       "priority": "A",
       "sourceType": "Vocabulary Check",
-      "sources": [
-        {
-          "testId": "reading-06",
-          "part": 7,
-          "questionNumber": 148
-        }
-      ],
-      "id": "spic-and-span"
+      "sources": [],
+      "id": "spick-and-span"
     },
     {
       "expression": "sports car",
@@ -37395,7 +36863,7 @@
     },
     {
       "expression": "stand-alone",
-      "chinese": "计算机的外围设备) 能 独立运行的",
+      "chinese": "独立的；独立运行的",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -37427,7 +36895,7 @@
     },
     {
       "expression": "stand-up",
-      "chinese": "喜剧节目) 单人表演的；直立的",
+      "chinese": "单口喜剧；单人喜剧表演的；直立的",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -37501,7 +36969,7 @@
     },
     {
       "expression": "state one’s opinion",
-      "chinese": "发表某人的意见",
+      "chinese": "陈述某人的观点；表达某人的看法",
       "type": "句型/结构",
       "bookFreq": 1,
       "counts": {
@@ -37741,7 +37209,7 @@
     },
     {
       "expression": "step down",
-      "chinese": "让位；下台；辞职",
+      "chinese": "辞职；让位；下台；（逐步）减少；降低",
       "type": "短语动词/动词+介词",
       "bookFreq": 2,
       "counts": {
@@ -37824,43 +37292,6 @@
       "id": "stock-market"
     },
     {
-      "expression": "Stone，Evolution，The Girls，Bryan Mcadams",
-      "chinese": "以及The",
-      "type": "商务/名词词块",
-      "bookFreq": 1,
-      "counts": {
-        "5": 0,
-        "6": 1,
-        "7": 0
-      },
-      "bookletCount": 0,
-      "priority": "B",
-      "sourceType": "Vocabulary Check",
-      "sources": [
-        {
-          "testId": "reading-06",
-          "part": 6,
-          "questionNumber": 143
-        },
-        {
-          "testId": "reading-06",
-          "part": 6,
-          "questionNumber": 144
-        },
-        {
-          "testId": "reading-06",
-          "part": 6,
-          "questionNumber": 145
-        },
-        {
-          "testId": "reading-06",
-          "part": 6,
-          "questionNumber": 146
-        }
-      ],
-      "id": "stone-evolution-the-girls-bryan-mcadams"
-    },
-    {
       "expression": "strategic plan",
       "chinese": "战略计划",
       "type": "商务/名词词块",
@@ -37921,7 +37352,7 @@
     },
     {
       "expression": "subject to",
-      "chinese": "可能受…影响的；易遭受…的",
+      "chinese": "受…约束的；取决于…的；可能受…影响的",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -38734,7 +38165,7 @@
     },
     {
       "expression": "take advantage of",
-      "chinese": "利用",
+      "chinese": "利用；占（某人）便宜",
       "type": "动词搭配",
       "bookFreq": 6,
       "counts": {
@@ -39088,7 +38519,7 @@
     },
     {
       "expression": "take care of",
-      "chinese": "照顾，照料",
+      "chinese": "照顾，照料；处理，负责",
       "type": "动词搭配",
       "bookFreq": 2,
       "counts": {
@@ -39254,7 +38685,7 @@
     },
     {
       "expression": "take off",
-      "chinese": "起飞",
+      "chinese": "起飞；脱下；突然成功；休假",
       "type": "短语动词/动词+介词",
       "bookFreq": 1,
       "counts": {
@@ -39502,7 +38933,7 @@
     },
     {
       "expression": "take place",
-      "chinese": "发生",
+      "chinese": "发生；举行",
       "type": "动词搭配",
       "bookFreq": 6,
       "counts": {
@@ -39764,7 +39195,7 @@
     },
     {
       "expression": "take up residence",
-      "chinese": "发生，进行",
+      "chinese": "定居；开始居住",
       "type": "短语动词/动词+介词",
       "bookFreq": 1,
       "counts": {
@@ -39855,7 +39286,7 @@
     },
     {
       "expression": "tax audit",
-      "chinese": "税务监察",
+      "chinese": "税务审计；税务稽查",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -40000,7 +39431,7 @@
     },
     {
       "expression": "tax-deductible",
-      "chinese": "可免税的",
+      "chinese": "可税前扣除的；可抵税的",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -40060,7 +39491,7 @@
     },
     {
       "expression": "test-drive",
-      "chinese": "试驾 亲爱的王先生： 今天是我从亚洲出差回来的第一天。我想马上给您发封短信以感谢您 在我访问期间对我的热情款待和帮助。您和您的员工充分展示了让人难以 置信的职业修养、亲切和才华。给领导小组作的报告无可挑剔。 过去三个月我两次到新加坡出差的经历更坚定了我的想法，我认为您 和您的小组无疑是我们下一个开创性项目的正确人选。我非常有信心地认 为您将会带领我们取得新方案的成功。 我会正式准备好提议细节然后提交给我的首席执行官，并建议我们继 续进入下一步，正式确定与您合作新项目的合同。一旦合同起草，我希望 您和您的高级职员能前往我们纽约的办事处和我们一起复议并最终确定细 节。一旦商议好时间，我们将做好所有必要的旅行安排。 我相信这对您和您的小组来说是一个好消息。其间若有任何问题，请 联系我。下周早些时候我将会联系您。 真诚的， 韦恩·福曼",
+      "chinese": "试驾；试用",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -40082,7 +39513,7 @@
     },
     {
       "expression": "text messaging",
-      "chinese": "发送(手机)短信",
+      "chinese": "手机短信；短信发送",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -40368,7 +39799,7 @@
     },
     {
       "expression": "the night of nights",
-      "chinese": "特别的一夜",
+      "chinese": "最盛大的夜晚；重要庆典之夜",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -40402,43 +39833,6 @@
         }
       ],
       "id": "the-night-of-nights"
-    },
-    {
-      "expression": "The Tongue",
-      "chinese": "目前已经有了几个通告安排，包括12月14日在本市大穹顶 举办的活动。",
-      "type": "商务/名词词块",
-      "bookFreq": 1,
-      "counts": {
-        "5": 0,
-        "6": 1,
-        "7": 0
-      },
-      "bookletCount": 1,
-      "priority": "A",
-      "sourceType": "Vocabulary Check",
-      "sources": [
-        {
-          "testId": "reading-06",
-          "part": 6,
-          "questionNumber": 143
-        },
-        {
-          "testId": "reading-06",
-          "part": 6,
-          "questionNumber": 144
-        },
-        {
-          "testId": "reading-06",
-          "part": 6,
-          "questionNumber": 145
-        },
-        {
-          "testId": "reading-06",
-          "part": 6,
-          "questionNumber": 146
-        }
-      ],
-      "id": "the-tongue"
     },
     {
       "expression": "tick off",
@@ -40479,7 +39873,7 @@
     },
     {
       "expression": "ticket booth",
-      "chinese": "售票厅",
+      "chinese": "售票亭；售票处",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -40695,7 +40089,7 @@
     },
     {
       "expression": "toll free",
-      "chinese": "免费的",
+      "chinese": "免费电话的；拨打免费的",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -40782,7 +40176,7 @@
     },
     {
       "expression": "toll-free",
-      "chinese": "免费的",
+      "chinese": "（电话）免费的；免长途费的",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -41128,7 +40522,7 @@
     },
     {
       "expression": "travel abroad",
-      "chinese": "出国旅行 申请爱迪生制造公司的工作吧 爱迪生制造公司在拜纳姆开办了一家工厂，需要数百名新员工。以下 是几个必须招聘人员的职位： 装配线工人(职位编号#4985)——无需工作经验。要求高中及以上文 化程度。上岗之前将接受为期两周的培训。享有4万美元的年薪以及全部 福利。 工厂经理(职位编号#2912)——需要有五年的管理经验。拥有大学及 以上学历。必须能很好地同时处理多个任务并具有良好的人际交往能力。 享有10.6万美元的年薪以及全部福利。 接待员(职位编号#5990)——需要有两年的工作经验。拥有四年制大 学学位。必须举止友好，并能与来自世界各地的人相处融洽。有外语知识 者优先。享有5万美元的年薪以及全部福利。 送货司机(职位编号#8443)——必须持有C级驾驶执照并且无不良驾驶 记录。必须拥有良好的时间概念，每天能够多次搬运重达40公斤的货物。 不需要文凭。全职工作。享有3.2万美元的年薪以及全部福利。 您可以登录www.edisonmanufacturing.com/jobs网站了解申请的职位。 点击此处进行在线申请。 收件人：凯利·斯图尔德<kstewart@personalmail.com> 发件人：梅尔文·哈伯德<mhubbard@edisonmanufacturing.com> 主题：申请书 日期：4月27日 亲爱的斯图尔德先生： 我方已收到您对拜纳姆工厂4985号职位的申请书。您被选中来参加面 试，面试时间是5月1日上午9点。请前往位于科珀路984号的拜纳姆工厂并 告知接待人员您已和范赫德先生约好了见面。在那里您将获得进一步的指 示。如果您通过了此次面试，您将在5月份的第二个星期参加下一轮面 试。 真诚的， 梅尔文·哈伯德 人力资源部 爱迪生制造公司 收件人：杰弗里·韦恩斯 发件人：梅尔文·哈伯德 主题：新员工 日期：5月15日 以下是获得爱迪生制造公司的职位并在后来接受职位的人员名单： 卡罗尔·艾迪生 大卫·贝尔韦代雷 罗杰·柯克纳 凯利·斯图尔德 西奥博尔德·范戴克 西尔维娅·韦恩 新员工岗前培训会议定于5月25日开展。明天我将发给你一份较长的 新员工名单。那些人也将参加25日的岗前培训。",
+      "chinese": "出国旅行",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -41266,7 +40660,7 @@
     },
     {
       "expression": "turn down",
-      "chinese": "拒绝",
+      "chinese": "拒绝；调低（音量、温度等）",
       "type": "短语动词/动词+介词",
       "bookFreq": 1,
       "counts": {
@@ -41419,7 +40813,7 @@
     },
     {
       "expression": "unemployment figures",
-      "chinese": "失业人数",
+      "chinese": "失业数字；失业统计数据",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -41495,7 +40889,7 @@
     },
     {
       "expression": "up to",
-      "chinese": "多达",
+      "chinese": "多达；直到；取决于",
       "type": "商务/名词词块",
       "bookFreq": 2,
       "counts": {
@@ -41730,7 +41124,7 @@
     },
     {
       "expression": "used goods",
-      "chinese": "用过的物品",
+      "chinese": "二手商品；旧货",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -41811,7 +41205,7 @@
     },
     {
       "expression": "volunteer one’s time",
-      "chinese": "自愿花时间做某事",
+      "chinese": "志愿贡献时间（常指无偿）",
       "type": "句型/结构",
       "bookFreq": 1,
       "counts": {
@@ -41826,8 +41220,24 @@
       "id": "volunteer-one-s-time"
     },
     {
+      "expression": "vow to do",
+      "chinese": "发誓做某事，郑重承诺做某事",
+      "type": "商务/名词词块",
+      "bookFreq": 1,
+      "counts": {
+        "5": 1,
+        "6": 0,
+        "7": 0
+      },
+      "bookletCount": 0,
+      "priority": "A",
+      "sourceType": "Vocabulary Check",
+      "sources": [],
+      "id": "vow-to-do"
+    },
+    {
       "expression": "walk through",
-      "chinese": "走过；敷衍了事",
+      "chinese": "走过；敷衍了事；逐步讲解/排练",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -42028,7 +41438,7 @@
     },
     {
       "expression": "well-established",
-      "chinese": "信誉卓著的；根深蒂固的",
+      "chinese": "老牌的；成熟的；根深蒂固的",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -42238,7 +41648,7 @@
     },
     {
       "expression": "with savings of up to",
-      "chinese": "节省到",
+      "chinese": "节省高达；最多可节省",
       "type": "介词/连接短语",
       "bookFreq": 1,
       "counts": {
@@ -42319,7 +41729,7 @@
     },
     {
       "expression": "work out",
-      "chinese": "解决",
+      "chinese": "锻炼；解决；制定出",
       "type": "短语动词/动词+介词",
       "bookFreq": 1,
       "counts": {
@@ -42503,7 +41913,7 @@
     },
     {
       "expression": "working knowledge",
-      "chinese": "工作知识",
+      "chinese": "实用知识；够用的知识",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -43048,7 +42458,7 @@
     },
     {
       "expression": "wrap up",
-      "chinese": "圆满) 完成；伪装；包起来",
+      "chinese": "完成；结束",
       "type": "商务/名词词块",
       "bookFreq": 2,
       "counts": {
@@ -43064,7 +42474,7 @@
     },
     {
       "expression": "write-up",
-      "chinese": "评介，评述",
+      "chinese": "书面报告；评述，报道",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {
@@ -43191,7 +42601,7 @@
     },
     {
       "expression": "yearly income",
-      "chinese": "年收入 布莱恩·考克斯",
+      "chinese": "年收入",
       "type": "商务/名词词块",
       "bookFreq": 1,
       "counts": {

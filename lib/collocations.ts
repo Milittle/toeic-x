@@ -56,6 +56,64 @@ export function partsOf(c: Collocation): CollocationPart[] {
   return ([5, 6, 7] as CollocationPart[]).filter((p) => c.counts[p] > 0);
 }
 
+// ---- list filtering/ordering: shared by the list page and the detail page's
+// prev/next navigation so both always walk the same ordered subset ---- //
+
+export interface CollocationListFilters {
+  part?: string;
+  priority?: string;
+  type?: string;
+  q?: string;
+  sort?: string;
+}
+
+/**
+ * Apply the same filters and ordering as the collocations list page. Keeping
+ * this in one place guarantees the detail page's 上一个/下一个 follow the exact
+ * list the user came from (filters + sort), not some unrelated global order.
+ */
+export function filterAndSortCollocations(
+  all: Collocation[],
+  f: CollocationListFilters,
+): Collocation[] {
+  const fPart = f.part;
+  const fPriority = f.priority;
+  const fType = f.type;
+  const fQ = (f.q ?? "").trim().toLowerCase();
+  const sort = f.sort === "alpha" ? "alpha" : "freq";
+
+  const items = all.filter((c) => {
+    if (fPart && c.counts[Number(fPart) as 5 | 6 | 7] <= 0) return false;
+    if (fPriority && c.priority !== fPriority) return false;
+    if (fType && c.type !== fType) return false;
+    if (fQ) {
+      const hay = `${c.expression} ${c.chinese}`.toLowerCase();
+      if (!hay.includes(fQ)) return false;
+    }
+    return true;
+  });
+
+  return items.sort((a, b) =>
+    sort === "alpha"
+      ? a.expression.localeCompare(b.expression)
+      : b.bookFreq - a.bookFreq || b.bookletCount - a.bookletCount,
+  );
+}
+
+/**
+ * Serialize the list filters into a query string (no leading "?"). Only
+ * carries params that affect the ordered subset; page/size stay on the list.
+ */
+export function collocationListQuery(f: CollocationListFilters): string {
+  const p = new URLSearchParams();
+  if (f.part) p.set("part", f.part);
+  if (f.priority) p.set("priority", f.priority);
+  if (f.type) p.set("type", f.type);
+  if (f.q) p.set("q", f.q);
+  if (f.sort === "alpha") p.set("sort", "alpha");
+  return p.toString();
+}
+
 // ---- learning card: lightweight source index (labels only, no question text) ---- //
 // The learning card never loads question content — only test title + status +
 // question numbers. Question numbers are safe to show (they don't reveal stems),

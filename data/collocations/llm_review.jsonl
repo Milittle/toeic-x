@@ -1,0 +1,880 @@
+{"ok": true, "gloss": "制造厂，生产厂", "reason": "ok", "id": "manufacturing-plant", "expression": "manufacturing plant", "current_gloss": "制造厂，生产厂", "model": "deepseek-v4-flash", "ts": 1787450188.395101}
+{"ok": false, "gloss": "有点儿；一会儿", "reason": "缺“一会儿”这一常用义项，例句中即为该用法。", "id": "a-bit", "expression": "a bit", "current_gloss": "有点儿", "model": "deepseek-v4-flash", "ts": 1787450287.373823}
+{"ok": true, "gloss": "几个，一些", "reason": "ok", "id": "a-couple-of", "expression": "a couple of", "current_gloss": "几个，一些", "model": "deepseek-v4-flash", "ts": 1787450287.9065797}
+{"ok": false, "gloss": "非标准表达；无固定释义", "reason": "'a clean seek' 在英语中无此固定搭配，释义'寻找；企图'属于生造。", "id": "a-clean-seek", "expression": "a clean seek", "current_gloss": "寻找；企图", "model": "deepseek-v4-flash", "ts": 1787450297.7305706}
+{"ok": true, "gloss": "不花钱，免费", "reason": "ok", "id": "at-no-cost", "expression": "at no cost", "current_gloss": "不花钱，免费", "model": "deepseek-v4-flash", "ts": 1787450331.3514264}
+{"ok": true, "gloss": "允许…做某事", "reason": "ok", "id": "allow-to-do", "expression": "allow... to do", "current_gloss": "允许…做某事", "model": "deepseek-v4-flash", "ts": 1787450331.4497607}
+{"ok": true, "gloss": "很多", "reason": "ok", "id": "a-great-deal-of", "expression": "a great deal of", "current_gloss": "很多", "model": "deepseek-v4-flash", "ts": 1787450331.6128235}
+{"ok": true, "gloss": "处置，处理", "reason": "ok", "id": "be-disposed-of", "expression": "be disposed of", "current_gloss": "处置，处理", "model": "deepseek-v4-flash", "ts": 1787450332.2142935}
+{"ok": true, "gloss": "很多，大量的", "reason": "ok", "id": "a-large-amount-of", "expression": "a large amount of", "current_gloss": "很多，大量的", "model": "deepseek-v4-flash", "ts": 1787450332.739434}
+{"ok": true, "gloss": "警报系统", "reason": "ok", "id": "alarm-system", "expression": "alarm system", "current_gloss": "警报系统", "model": "deepseek-v4-flash", "ts": 1787450332.9382024}
+{"ok": true, "gloss": "被鼓励做某事", "reason": "ok", "id": "be-encouraged-to-do", "expression": "be encouraged to do", "current_gloss": "被鼓励做某事", "model": "deepseek-v4-flash", "ts": 1787450333.0811615}
+{"ok": true, "gloss": "年薪", "reason": "ok", "id": "annual-salary", "expression": "annual salary", "current_gloss": "年薪", "model": "deepseek-v4-flash", "ts": 1787450333.3388824}
+{"ok": true, "gloss": "没有额外费用", "reason": "ok", "id": "at-no-additional-cost", "expression": "at no additional cost", "current_gloss": "没有额外费用", "model": "deepseek-v4-flash", "ts": 1787450333.3660955}
+{"ok": false, "gloss": "有资格获得；符合…条件", "reason": "原释义“有…资格”不够完整，漏掉了“符合…条件”这一在托业商务语境中更常见的义项。", "id": "be-eligible-for", "expression": "be eligible for", "current_gloss": "有…资格", "model": "deepseek-v4-flash", "ts": 1787450333.594426}
+{"ok": true, "gloss": "某 人不花一分钱", "reason": "ok", "id": "at-no-cost-to-sb", "expression": "at no cost to sb.", "current_gloss": "某 人不花一分钱", "model": "deepseek-v4-flash", "ts": 1787450334.0205357}
+{"ok": true, "gloss": "连同…一起", "reason": "ok", "id": "along-with", "expression": "along with", "current_gloss": "连同…一起", "model": "deepseek-v4-flash", "ts": 1787450334.1437635}
+{"ok": true, "gloss": "申请", "reason": "ok", "id": "apply-for", "expression": "apply for", "current_gloss": "申请", "model": "deepseek-v4-flash", "ts": 1787450334.4186623}
+{"ok": true, "gloss": "有…的资格(或权利)", "reason": "ok", "id": "be-entitled-to", "expression": "be entitled to", "current_gloss": "有…的资格(或权利)", "model": "deepseek-v4-flash", "ts": 1787450334.4346178}
+{"ok": true, "gloss": "若干，一些，许多", "reason": "ok", "id": "a-number-of", "expression": "a number of", "current_gloss": "若干，一些，许多", "model": "deepseek-v4-flash", "ts": 1787450334.802953}
+{"ok": true, "gloss": "任意地，随机", "reason": "ok", "id": "at-random", "expression": "at random", "current_gloss": "任意地，随机", "model": "deepseek-v4-flash", "ts": 1787450335.2605903}
+{"ok": false, "gloss": "了如指掌的，精通的；近在手边的，随时可用的", "reason": "缺少“了如指掌/精通”这一常用义项，在托业中常表示对某事掌握熟练。", "id": "at-one-s-fingertips", "expression": "at one’s fingertips", "current_gloss": "唾手可 得的，随时可用的", "model": "deepseek-v4-flash", "ts": 1787450335.429913}
+{"ok": false, "gloss": "预计会；被期望", "reason": "原释义“应该”过于主观，未能体现“预期/预计”的客观含义，在商务语境中易误导。", "id": "be-expected-to", "expression": "be expected to", "current_gloss": "应该", "model": "deepseek-v4-flash", "ts": 1787450335.521326}
+{"ok": false, "gloss": "一份…清单；名单", "reason": "current_gloss“一系列”过于宽泛，未体现“清单/名单”的核心含义。", "id": "a-list-of", "expression": "a list of", "current_gloss": "一 系列", "model": "deepseek-v4-flash", "ts": 1787450336.3582902}
+{"ok": true, "gloss": "面临…", "reason": "ok", "id": "be-faced-with", "expression": "be faced with", "current_gloss": "面临…", "model": "deepseek-v4-flash", "ts": 1787450336.5285475}
+{"ok": true, "gloss": "应某人的要求", "reason": "ok", "id": "at-sb-s-request", "expression": "at sb.’s request", "current_gloss": "应某人的要求", "model": "deepseek-v4-flash", "ts": 1787450336.836261}
+{"ok": true, "gloss": "各种各样的", "reason": "ok", "id": "a-variety-of", "expression": "a variety of", "current_gloss": "各种各样的", "model": "deepseek-v4-flash", "ts": 1787450337.509381}
+{"ok": true, "gloss": "在损害…的情况下；以…为代价", "reason": "ok", "id": "at-the-expense-of", "expression": "at the expense of", "current_gloss": "在损害…的情况下；以…为代价", "model": "deepseek-v4-flash", "ts": 1787450337.9965353}
+{"ok": false, "gloss": "被期望做某事；预计会做某事", "reason": "缺少“预计/预期”这一在商务语境中更常见的义项，导致释义不完整。", "id": "be-expected-to-do", "expression": "be expected to do", "current_gloss": "被期望做某事", "model": "deepseek-v4-flash", "ts": 1787450338.7910242}
+{"ok": true, "gloss": "没日没夜地", "reason": "ok", "id": "around-the-clock", "expression": "around the clock", "current_gloss": "没日没夜地", "model": "deepseek-v4-flash", "ts": 1787450338.8155003}
+{"ok": true, "gloss": "熟悉…", "reason": "ok", "id": "be-familiar-with", "expression": "be familiar with", "current_gloss": "熟悉…", "model": "deepseek-v4-flash", "ts": 1787450339.2740116}
+{"ok": true, "gloss": "最迟", "reason": "ok", "id": "at-the-latest", "expression": "at the latest", "current_gloss": "最迟", "model": "deepseek-v4-flash", "ts": 1787450339.3691044}
+{"ok": false, "gloss": "广泛的，各种各样的", "reason": "原释义误为‘一系列的’，实际指范围广、种类多。", "id": "a-wide-range-of", "expression": "a wide range of", "current_gloss": "一系列的，一连串的", "model": "deepseek-v4-flash", "ts": 1787450339.4484036}
+{"ok": true, "gloss": "全世界", "reason": "ok", "id": "around-the-globe", "expression": "around the globe", "current_gloss": "全世界", "model": "deepseek-v4-flash", "ts": 1787450339.7599475}
+{"ok": true, "gloss": "通晓某事，熟悉某事", "reason": "ok", "id": "be-familiar-with-sth", "expression": "be familiar with sth.", "current_gloss": "通晓某事，熟悉某事", "model": "deepseek-v4-flash", "ts": 1787450340.1426618}
+{"ok": true, "gloss": "承担…的责任", "reason": "ok", "id": "accept-responsibility-for", "expression": "accept responsibility for", "current_gloss": "承担…的责任", "model": "deepseek-v4-flash", "ts": 1787450340.5703042}
+{"ok": true, "gloss": "现在，此刻", "reason": "ok", "id": "at-the-moment", "expression": "at the moment", "current_gloss": "现在，此刻", "model": "deepseek-v4-flash", "ts": 1787450340.989038}
+{"ok": false, "gloss": "赞成，同意", "reason": "approve of 表示“赞成、同意”，并非正式“批准”；“批准”应用 approve（不带 of），故原释义有误导。", "id": "approve-of", "expression": "approve of", "current_gloss": "同意，批准", "model": "deepseek-v4-flash", "ts": 1787450341.1186347}
+{"ok": true, "gloss": "根据", "reason": "ok", "id": "according-to", "expression": "according to", "current_gloss": "根据", "model": "deepseek-v4-flash", "ts": 1787450341.7325187}
+{"ok": true, "gloss": "现在", "reason": "ok", "id": "at-the-present-time", "expression": "at the present time", "current_gloss": "现在", "model": "deepseek-v4-flash", "ts": 1787450341.740542}
+{"ok": true, "gloss": "安排面试", "reason": "ok", "id": "arrange-an-interview", "expression": "arrange an interview", "current_gloss": "安排面试", "model": "deepseek-v4-flash", "ts": 1787450341.906447}
+{"ok": false, "gloss": "近在咫尺；触手可及；唾手可得", "reason": "原释义'很近'过于字面，未体现'容易获得'的抽象含义，可能误导理解。", "id": "a-touch-away", "expression": "a touch away", "current_gloss": "很近", "model": "deepseek-v4-flash", "ts": 1787450342.3375747}
+{"ok": true, "gloss": "会计学学位", "reason": "ok", "id": "accounting-degree", "expression": "accounting degree", "current_gloss": "会计学学位", "model": "deepseek-v4-flash", "ts": 1787450342.7650533}
+{"ok": false, "gloss": "到达时间", "reason": "arrival time 在托业语境中泛指到达时间，如酒店入住，而非仅指飞机降落时间。", "id": "arrival-time", "expression": "arrival time", "current_gloss": "降落时间", "model": "deepseek-v4-flash", "ts": 1787450342.784295}
+{"ok": true, "gloss": "极其厌倦 的", "reason": "ok", "id": "be-fed-up", "expression": "be fed up", "current_gloss": "极其厌倦 的", "model": "deepseek-v4-flash", "ts": 1787450343.0691907}
+{"ok": true, "gloss": "喜欢，喜爱", "reason": "ok", "id": "be-fond-of", "expression": "be fond of", "current_gloss": "喜欢，喜爱", "model": "deepseek-v4-flash", "ts": 1787450343.2276127}
+{"ok": false, "gloss": "到达；达成，得出", "reason": "缺少商务英语中常用的“达成（协议、决定等）”义项，需补充。", "id": "arrive-at", "expression": "arrive at", "current_gloss": "到达，抵达", "model": "deepseek-v4-flash", "ts": 1787450343.7389305}
+{"ok": true, "gloss": "会计报表", "reason": "ok", "id": "accounting-statement", "expression": "accounting statement", "current_gloss": "会计报表", "model": "deepseek-v4-flash", "ts": 1787450344.1457775}
+{"ok": true, "gloss": "确认收到…；签收…", "reason": "ok", "id": "acknowledge-receipt-of", "expression": "acknowledge receipt of", "current_gloss": "确认收到…；签收…", "model": "deepseek-v4-flash", "ts": 1787450344.3161695}
+{"ok": false, "gloss": "适用于；向…申请", "reason": "缺少“申请”这一常用义项，且“适合”不如“适用于”精准。", "id": "apply-to", "expression": "apply to", "current_gloss": "适用，适 合", "model": "deepseek-v4-flash", "ts": 1787450344.4456522}
+{"ok": true, "gloss": "作为…的结果；由于", "reason": "ok", "id": "as-a-result-of", "expression": "as a result of", "current_gloss": "作为…的结果；由于", "model": "deepseek-v4-flash", "ts": 1787450345.1234112}
+{"ok": true, "gloss": "参加会议", "reason": "ok", "id": "attend-a-meeting", "expression": "attend a meeting", "current_gloss": "参加会议", "model": "deepseek-v4-flash", "ts": 1787450345.1983268}
+{"ok": true, "gloss": "全面地", "reason": "ok", "id": "across-the-board", "expression": "across the board", "current_gloss": "全面地", "model": "deepseek-v4-flash", "ts": 1787450345.3543472}
+{"ok": true, "gloss": "上学", "reason": "ok", "id": "attend-school", "expression": "attend school", "current_gloss": "上学", "model": "deepseek-v4-flash", "ts": 1787450345.7026865}
+{"ok": true, "gloss": "秋季时令食品", "reason": "ok", "id": "autumn-treats", "expression": "autumn treats", "current_gloss": "秋季时令食品", "model": "deepseek-v4-flash", "ts": 1787450345.7913866}
+{"ok": true, "gloss": "行李领取处", "reason": "ok", "id": "baggage-claim-area", "expression": "baggage claim area", "current_gloss": "行李领取处", "model": "deepseek-v4-flash", "ts": 1787450346.5107696}
+{"ok": true, "gloss": "关于，就…而言", "reason": "ok", "id": "as-for", "expression": "as for", "current_gloss": "关于，就…而言", "model": "deepseek-v4-flash", "ts": 1787450346.63934}
+{"ok": true, "gloss": "行动计划", "reason": "ok", "id": "action-plan", "expression": "action plan", "current_gloss": "行动计划", "model": "deepseek-v4-flash", "ts": 1787450346.75962}
+{"ok": true, "gloss": "糕饼义卖活动", "reason": "ok", "id": "bake-sale", "expression": "Bake Sale", "current_gloss": "糕饼义卖活动", "model": "deepseek-v4-flash", "ts": 1787450346.8355122}
+{"ok": true, "gloss": "只要", "reason": "ok", "id": "as-long-as", "expression": "as long as", "current_gloss": "只要", "model": "deepseek-v4-flash", "ts": 1787450347.384899}
+{"ok": true, "gloss": "有时，不时", "reason": "ok", "id": "at-times", "expression": "at times", "current_gloss": "有时，不时", "model": "deepseek-v4-flash", "ts": 1787450347.6781893}
+{"ok": false, "gloss": "把A加到B；增添，增加", "reason": "缺失“add to”表示“增添、增加”的常见义项，例句中使用的是该义项。", "id": "add-a-to-b", "expression": "add A to B", "current_gloss": "把A 加到B", "model": "deepseek-v4-flash", "ts": 1787450347.929399}
+{"ok": true, "gloss": "基点", "reason": "ok", "id": "basis-point", "expression": "basis point", "current_gloss": "基点", "model": "deepseek-v4-flash", "ts": 1787450348.5149806}
+{"ok": true, "gloss": "根据，按照", "reason": "ok", "id": "as-per", "expression": "as per", "current_gloss": "根据，按照", "model": "deepseek-v4-flash", "ts": 1787450348.7562401}
+{"ok": true, "gloss": "遵循；黏附； 坚持", "reason": "ok", "id": "adhere-to", "expression": "adhere to", "current_gloss": "遵循；黏附； 坚持", "model": "deepseek-v4-flash", "ts": 1787450348.9377377}
+{"ok": true, "gloss": "一…就…", "reason": "ok", "id": "as-soon-as", "expression": "as soon as", "current_gloss": "一…就…", "model": "deepseek-v4-flash", "ts": 1787450348.9427478}
+{"ok": true, "gloss": "工艺美术", "reason": "ok", "id": "arts-and-crafts", "expression": "arts and crafts", "current_gloss": "工艺美术", "model": "deepseek-v4-flash", "ts": 1787450349.2034357}
+{"ok": true, "gloss": "尽快", "reason": "ok", "id": "as-soon-as-possible", "expression": "as soon as possible", "current_gloss": "尽快", "model": "deepseek-v4-flash", "ts": 1787450349.7445195}
+{"ok": true, "gloss": "在工作了30年后", "reason": "ok", "id": "after-30-years-of-service", "expression": "after 30 years of service", "current_gloss": "在工作了30年后", "model": "deepseek-v4-flash", "ts": 1787450349.8700294}
+{"ok": true, "gloss": "……方面的进步", "reason": "ok", "id": "advances-in", "expression": "advances in", "current_gloss": "……方面的进步", "model": "deepseek-v4-flash", "ts": 1787450349.9252515}
+{"ok": true, "gloss": "旨在…；针对…", "reason": "ok", "id": "be-aimed-at-ing", "expression": "be aimed at ~ing", "current_gloss": "旨在…；针对…", "model": "deepseek-v4-flash", "ts": 1787450350.4994884}
+{"ok": false, "gloss": "负担得起；承受得起做某事的后果或代价", "reason": "原释义仅涵盖经济层面，遗漏了托业中常见的“承担风险/后果”的含义。", "id": "afford-to-do", "expression": "afford to do", "current_gloss": "负担得起做某事", "model": "deepseek-v4-flash", "ts": 1787450350.7692344}
+{"ok": true, "gloss": "也；同样", "reason": "ok", "id": "as-well", "expression": "as well", "current_gloss": "也；同样", "model": "deepseek-v4-flash", "ts": 1787450351.2672825}
+{"ok": true, "gloss": "售后热线服务", "reason": "ok", "id": "after-sales-hotline-service", "expression": "after-sales hotline service", "current_gloss": "售后热线服务", "model": "deepseek-v4-flash", "ts": 1787450351.441069}
+{"ok": true, "gloss": "有过失，应受责备", "reason": "ok", "id": "be-at-fault", "expression": "be at fault", "current_gloss": "有过失，应受责备", "model": "deepseek-v4-flash", "ts": 1787450351.7974293}
+{"ok": true, "gloss": "售后服务", "reason": "ok", "id": "after-sales-service", "expression": "after-sales service", "current_gloss": "售后服务", "model": "deepseek-v4-flash", "ts": 1787450352.211852}
+{"ok": true, "gloss": "装配线；流水线", "reason": "ok", "id": "assembly-line", "expression": "assembly line", "current_gloss": "装 配线；流水线", "model": "deepseek-v4-flash", "ts": 1787450352.6967335}
+{"ok": false, "gloss": "隶属于；与…有关联", "reason": "现释义缺“与…有关联”这一常见义项，在商务语境中不够完整。", "id": "be-affiliated-with", "expression": "be affiliated with", "current_gloss": "隶属于…", "model": "deepseek-v4-flash", "ts": 1787450353.0950089}
+{"ok": true, "gloss": "忙于做某事", "reason": "ok", "id": "be-busy-ing", "expression": "be busy ~ing", "current_gloss": "忙于做某事", "model": "deepseek-v4-flash", "ts": 1787450353.782274}
+{"ok": true, "gloss": "帮助，协助", "reason": "ok", "id": "assist-with", "expression": "assist with", "current_gloss": "帮助，协助", "model": "deepseek-v4-flash", "ts": 1787450353.827572}
+{"ok": false, "gloss": "是…的证明/体现；是…的结果", "reason": "现有释义缺少'是…的证明/体现'这一常见义项，且'是与…分不开的'表述不准确。", "id": "be-a-tribute-to", "expression": "be a tribute to", "current_gloss": "是…的结果；是与…分不开的", "model": "deepseek-v4-flash", "ts": 1787450354.3144863}
+{"ok": true, "gloss": "被要求做某事；被号召做某事", "reason": "ok", "id": "be-called-upon-to-do", "expression": "be called upon to do", "current_gloss": "被要求做某事；被号召做某事", "model": "deepseek-v4-flash", "ts": 1787450355.148201}
+{"ok": false, "gloss": "和；以及；除…之外（还）", "reason": "当前释义侧重递进，但托业中常见的是并列或补充关系，应改为“以及”等。", "id": "as-well-as-b", "expression": "as well as B", "current_gloss": "不仅A 而且B", "model": "deepseek-v4-flash", "ts": 1787450355.1618853}
+{"ok": true, "gloss": "与…有关；与…交往", "reason": "ok", "id": "associate-with", "expression": "associate with", "current_gloss": "与…有关；与…交往", "model": "deepseek-v4-flash", "ts": 1787450355.2782764}
+{"ok": true, "gloss": "同意做某事", "reason": "ok", "id": "agree-to-do", "expression": "agree to do", "current_gloss": "同意做某事", "model": "deepseek-v4-flash", "ts": 1787450355.4771116}
+{"ok": false, "gloss": "知道；意识到；了解", "reason": "释义偏重“意识到”，缺少常用的“知道；了解”义项，在商务语境中不完整。", "id": "be-aware-of", "expression": "be aware of", "current_gloss": "意 识到", "model": "deepseek-v4-flash", "ts": 1787450356.220212}
+{"ok": false, "gloss": "同意；与…相符，一致", "reason": "缺少“与…相符/一致”这一商务常见义项，需补充。", "id": "agree-with", "expression": "agree with", "current_gloss": "同意", "model": "deepseek-v4-flash", "ts": 1787450356.2994134}
+{"ok": true, "gloss": "提前", "reason": "ok", "id": "ahead-of-schedule", "expression": "ahead of schedule", "current_gloss": "提前", "model": "deepseek-v4-flash", "ts": 1787450356.4402156}
+{"ok": true, "gloss": "始终；一直", "reason": "ok", "id": "at-all-times", "expression": "at all times", "current_gloss": "始终；一直", "model": "deepseek-v4-flash", "ts": 1787450356.4434144}
+{"ok": true, "gloss": "有能力做某事", "reason": "ok", "id": "be-capable-of-ing", "expression": "be capable of ~ing", "current_gloss": "有能力做某事", "model": "deepseek-v4-flash", "ts": 1787450356.55799}
+{"ok": true, "gloss": "致力于…", "reason": "ok", "id": "be-committed-to", "expression": "be committed to", "current_gloss": "致力于…", "model": "deepseek-v4-flash", "ts": 1787450356.5815508}
+{"ok": true, "gloss": "初看上去，乍一看", "reason": "ok", "id": "at-first-sight", "expression": "at first sight", "current_gloss": "初看上去，乍一看", "model": "deepseek-v4-flash", "ts": 1787450357.4470878}
+{"ok": true, "gloss": "由…组成", "reason": "ok", "id": "be-comprised-of", "expression": "be comprised of", "current_gloss": "由…组成", "model": "deepseek-v4-flash", "ts": 1787450357.914032}
+{"ok": true, "gloss": "致力于做某事", "reason": "ok", "id": "be-committed-to-doing", "expression": "be committed to doing", "current_gloss": "致力于做某事", "model": "deepseek-v4-flash", "ts": 1787450358.119133}
+{"ok": true, "gloss": "提前", "reason": "ok", "id": "ahead-of-time", "expression": "ahead of time", "current_gloss": "提前", "model": "deepseek-v4-flash", "ts": 1787450358.15585}
+{"ok": true, "gloss": "目的在于，旨在", "reason": "ok", "id": "aim-to", "expression": "aim to", "current_gloss": "目的在于，旨在", "model": "deepseek-v4-flash", "ts": 1787450359.2022629}
+{"ok": true, "gloss": "通过电台播出", "reason": "ok", "id": "air-on-the-radio", "expression": "air on the radio", "current_gloss": "通过电台播出", "model": "deepseek-v4-flash", "ts": 1787450359.5650315}
+{"ok": true, "gloss": "至少；无论如何", "reason": "ok", "id": "at-least", "expression": "at least", "current_gloss": "至少；无论如何", "model": "deepseek-v4-flash", "ts": 1787450360.557594}
+{"ok": true, "gloss": "领先于…；在…之前", "reason": "ok", "id": "ahead-of", "expression": "ahead of", "current_gloss": "领先于…；在…之前", "model": "deepseek-v4-flash", "ts": 1787450360.5586438}
+{"ok": true, "gloss": "闹钟", "reason": "ok", "id": "alarm-clock", "expression": "alarm clock", "current_gloss": "闹钟", "model": "deepseek-v4-flash", "ts": 1787450360.744654}
+{"ok": true, "gloss": "旨在做某事；被设计做某事", "reason": "ok", "id": "be-designed-to-do", "expression": "be designed to do", "current_gloss": "旨在做某事；被设计做某事", "model": "deepseek-v4-flash", "ts": 1787450360.9688876}
+{"ok": false, "gloss": "为…专门设计的；旨在满足…", "reason": "释义过于字面，未体现“为特定目的/对象而设计”的商务常用义。", "id": "be-designed-for", "expression": "be designed for", "current_gloss": "被设计来做…", "model": "deepseek-v4-flash", "ts": 1787450361.2246842}
+{"ok": false, "gloss": "关于；至于", "reason": "“根据，按照”不是 as to 的常用义项，在托业语境中应避免误导。", "id": "as-to", "expression": "as to", "current_gloss": "根据，按照；关于，至于", "model": "deepseek-v4-flash", "ts": 1787450361.6399558}
+{"ok": false, "gloss": "起初；最初", "reason": "“首先”表顺序，而“at first”表时间上的起初，易误导，应改为“起初；最初”。", "id": "at-first", "expression": "at first", "current_gloss": "起初；首先", "model": "deepseek-v4-flash", "ts": 1787450362.4949079}
+{"ok": true, "gloss": "最后，最终，终于", "reason": "ok", "id": "at-last", "expression": "at last", "current_gloss": "最后，最终，终于", "model": "deepseek-v4-flash", "ts": 1787450364.4172952}
+{"ok": true, "gloss": "不能/不会 (做) …", "reason": "ok", "id": "be-unable-to-do", "expression": "be unable to do", "current_gloss": "不能/不会 (做) …", "model": "deepseek-v4-flash", "ts": 1787450365.8414965}
+{"ok": true, "gloss": "对某事有把握/确信", "reason": "ok", "id": "be-sure-of-about-sth", "expression": "be sure of/about sth.", "current_gloss": "对某事有把握/确信", "model": "deepseek-v4-flash", "ts": 1787450365.9882252}
+{"ok": true, "gloss": "商业伙伴关系", "reason": "ok", "id": "business-partnership", "expression": "business partnership", "current_gloss": "商业伙伴关系", "model": "deepseek-v4-flash", "ts": 1787450366.0969687}
+{"ok": true, "gloss": "分类广告", "reason": "ok", "id": "classified-ad", "expression": "classified ad", "current_gloss": "分类广告", "model": "deepseek-v4-flash", "ts": 1787450366.752652}
+{"ok": true, "gloss": "十分清楚；充分意识到", "reason": "ok", "id": "be-fully-aware-that", "expression": "be fully aware that", "current_gloss": "十分清楚；充分意识到", "model": "deepseek-v4-flash", "ts": 1787450367.330722}
+{"ok": false, "gloss": "精于城市生活却不熟悉农村的人（常含贬义）", "reason": "原译“油头滑脑”过于片面，且未体现“不熟悉农村生活”这一关键义项。", "id": "city-slicker", "expression": "city slicker", "current_gloss": "油头滑脑的城里人", "model": "deepseek-v4-flash", "ts": 1787450369.074605}
+{"ok": true, "gloss": "对…有把握，确信…", "reason": "ok", "id": "be-sure-of", "expression": "be sure of", "current_gloss": "对…有把握，确信…", "model": "deepseek-v4-flash", "ts": 1787450369.652383}
+{"ok": true, "gloss": "这时，到此刻为止", "reason": "ok", "id": "by-now", "expression": "by now", "current_gloss": "这时，到此刻为止", "model": "deepseek-v4-flash", "ts": 1787450369.7007422}
+{"ok": true, "gloss": "被发现…", "reason": "ok", "id": "be-found-to", "expression": "be found to", "current_gloss": "被发现…", "model": "deepseek-v4-flash", "ts": 1787450370.3256705}
+{"ok": true, "gloss": "很高兴做某事", "reason": "ok", "id": "be-happy-to-do-sth", "expression": "be happy to do sth.", "current_gloss": "很高兴做某事", "model": "deepseek-v4-flash", "ts": 1787450370.4183223}
+{"ok": false, "gloss": "愿意做某事；待处理（如待续订）", "reason": "原释义过于字面，未覆盖常见义项，如例句中的‘待续订’", "id": "be-up-for-sth", "expression": "be up for sth.", "current_gloss": "为…做好 准备", "model": "deepseek-v4-flash", "ts": 1787450370.6602125}
+{"ok": true, "gloss": "愿意", "reason": "ok", "id": "be-willing-to", "expression": "be willing to", "current_gloss": "愿意", "model": "deepseek-v4-flash", "ts": 1787450370.7364929}
+{"ok": false, "gloss": "温控的；恒温恒湿的", "reason": "原释义“空调控制的”过于字面，易误解为空调本身受控，实际指环境受控。", "id": "climate-controlled", "expression": "climate-controlled", "current_gloss": "空调控制的", "model": "deepseek-v4-flash", "ts": 1787450371.0872657}
+{"ok": true, "gloss": "到那时", "reason": "ok", "id": "by-then", "expression": "by then", "current_gloss": "到那时", "model": "deepseek-v4-flash", "ts": 1787450371.3879006}
+{"ok": true, "gloss": "以做某事为荣；感到荣幸做某事", "reason": "ok", "id": "be-honored-to-do", "expression": "be honored to do", "current_gloss": "以做某事为荣；感到荣幸做某事", "model": "deepseek-v4-flash", "ts": 1787450371.7043407}
+{"ok": false, "gloss": "气候控制；温控系统", "reason": "“空调控制”过于具体，误导为仅指空调，未涵盖湿度、通风等环境调节功能。", "id": "climate-control", "expression": "climate control", "current_gloss": "空调控制", "model": "deepseek-v4-flash", "ts": 1787450371.7664175}
+{"ok": true, "gloss": "墨守成规的，照章行事的", "reason": "ok", "id": "by-the-book", "expression": "by-the-book", "current_gloss": "墨守成规的，照章行事的", "model": "deepseek-v4-flash", "ts": 1787450371.8476872}
+{"ok": true, "gloss": "因为", "reason": "ok", "id": "because-of", "expression": "because of", "current_gloss": "因为", "model": "deepseek-v4-flash", "ts": 1787450372.065281}
+{"ok": true, "gloss": "服装店", "reason": "ok", "id": "clothing-store", "expression": "clothing store", "current_gloss": "服装店", "model": "deepseek-v4-flash", "ts": 1787450372.324976}
+{"ok": false, "gloss": "对商业友好的，有利于商务的", "reason": "‘利于经营的’易被误解为对企业内部管理有利，而实际含义是对商业活动或商务客户有利。", "id": "business-friendly", "expression": "business-friendly", "current_gloss": "利于经营的，利于商业运作的", "model": "deepseek-v4-flash", "ts": 1787450372.3891566}
+{"ok": true, "gloss": "共同研发；共同发展", "reason": "ok", "id": "co-develop", "expression": "co- develop", "current_gloss": "共同研发；共同发展", "model": "deepseek-v4-flash", "ts": 1787450373.716238}
+{"ok": true, "gloss": "弯腰， 俯身", "reason": "ok", "id": "bend-down", "expression": "bend down", "current_gloss": "弯腰， 俯身", "model": "deepseek-v4-flash", "ts": 1787450374.0636854}
+{"ok": true, "gloss": "对…印象深刻", "reason": "ok", "id": "be-impressed-with", "expression": "be impressed with", "current_gloss": "对…印象深刻", "model": "deepseek-v4-flash", "ts": 1787450374.623131}
+{"ok": true, "gloss": "同事", "reason": "ok", "id": "co-worker", "expression": "co-worker", "current_gloss": "同事", "model": "deepseek-v4-flash", "ts": 1787450374.8948786}
+{"ok": false, "gloss": "接近；靠近；与…关系密切；（最高级）最近的", "reason": "释义缺少形容词最高级“最近的”义项，且例句中明确使用closest表示最近。", "id": "close-to", "expression": "close to", "current_gloss": "接近；与…关系密切", "model": "deepseek-v4-flash", "ts": 1787450375.2744317}
+{"ok": true, "gloss": "需要；号召", "reason": "ok", "id": "call-for", "expression": "call for", "current_gloss": "需要；号召", "model": "deepseek-v4-flash", "ts": 1787450375.5320873}
+{"ok": true, "gloss": "属 于", "reason": "ok", "id": "belong-to", "expression": "belong to", "current_gloss": "属 于", "model": "deepseek-v4-flash", "ts": 1787450375.5556295}
+{"ok": true, "gloss": "受益于…", "reason": "ok", "id": "benefit-from", "expression": "benefit from", "current_gloss": "受益于…", "model": "deepseek-v4-flash", "ts": 1787450376.3884103}
+{"ok": false, "gloss": "拜访；号召；求助于；请求", "reason": "例句中意为'求助于'，当前释义缺少该常见商务义项。", "id": "call-on", "expression": "call on", "current_gloss": "拜访；号召", "model": "deepseek-v4-flash", "ts": 1787450376.4033978}
+{"ok": true, "gloss": "咖啡豆", "reason": "ok", "id": "coffee-beans", "expression": "coffee beans", "current_gloss": "咖啡豆", "model": "deepseek-v4-flash", "ts": 1787450376.4903407}
+{"ok": true, "gloss": "汽车制造商", "reason": "ok", "id": "car-manufacturer", "expression": "car-manufacturer", "current_gloss": "汽车制造商", "model": "deepseek-v4-flash", "ts": 1787450376.694555}
+{"ok": true, "gloss": "被授予…的荣誉", "reason": "ok", "id": "be-honored-with", "expression": "be honored with", "current_gloss": "被授予…的荣誉", "model": "deepseek-v4-flash", "ts": 1787450376.8846245}
+{"ok": true, "gloss": "寻找…", "reason": "ok", "id": "be-in-search-of", "expression": "be in search of", "current_gloss": "寻找…", "model": "deepseek-v4-flash", "ts": 1787450376.9312458}
+{"ok": true, "gloss": "食堂；自助餐厅", "reason": "ok", "id": "canteen-cafeteria", "expression": "canteen (= cafeteria)", "current_gloss": "食堂；自助餐厅", "model": "deepseek-v4-flash", "ts": 1787450377.0282671}
+{"ok": true, "gloss": "对…最有利", "reason": "ok", "id": "be-in-the-best-interests-of", "expression": "be in the best interests of", "current_gloss": "对…最有利", "model": "deepseek-v4-flash", "ts": 1787450377.5801804}
+{"ok": true, "gloss": "超出某人的控制能力", "reason": "ok", "id": "beyond-one-s-control", "expression": "beyond one’s control", "current_gloss": "超出某人的控制能力", "model": "deepseek-v4-flash", "ts": 1787450378.2188373}
+{"ok": true, "gloss": "做出决定", "reason": "ok", "id": "come-to-a-decision", "expression": "come to a decision", "current_gloss": "做出决定", "model": "deepseek-v4-flash", "ts": 1787450378.3627577}
+{"ok": true, "gloss": "在意，在乎", "reason": "ok", "id": "care-about", "expression": "care about", "current_gloss": "在意，在乎", "model": "deepseek-v4-flash", "ts": 1787450378.3908794}
+{"ok": true, "gloss": "对…有兴趣", "reason": "ok", "id": "be-interested-in", "expression": "be interested in", "current_gloss": "对…有兴趣", "model": "deepseek-v4-flash", "ts": 1787450378.5638397}
+{"ok": true, "gloss": "执行，完成", "reason": "ok", "id": "carry-out", "expression": "carry out", "current_gloss": "执行，完成", "model": "deepseek-v4-flash", "ts": 1787450378.9385352}
+{"ok": false, "gloss": "每两周一次的；每周两次的", "reason": "释义缺失“每周两次”的常见义项，在商务语境中可能造成歧义。", "id": "bi-weekly", "expression": "bi-weekly", "current_gloss": "两周一次的，双周的", "model": "deepseek-v4-flash", "ts": 1787450379.3463554}
+{"ok": true, "gloss": "二进制代码，二进制码", "reason": "ok", "id": "binary-code", "expression": "binary code", "current_gloss": "二进制代码，二进制码", "model": "deepseek-v4-flash", "ts": 1787450379.7850468}
+{"ok": false, "gloss": "健康证明；合格证明", "reason": "原释义过于字面，bill of health实为健康证明或合格证明，常用于clean bill of health。", "id": "bill-of-health", "expression": "bill of health", "current_gloss": "身体健康", "model": "deepseek-v4-flash", "ts": 1787450380.4031298}
+{"ok": true, "gloss": "被卷入，参与", "reason": "ok", "id": "be-involved-in", "expression": "be involved in", "current_gloss": "被卷入，参与", "model": "deepseek-v4-flash", "ts": 1787450380.417952}
+{"ok": true, "gloss": "有可能做某事", "reason": "ok", "id": "be-likely-to-do", "expression": "be likely to do", "current_gloss": "有可能做某事", "model": "deepseek-v4-flash", "ts": 1787450380.4679387}
+{"ok": true, "gloss": "自动提款机", "reason": "ok", "id": "cash-dispenser", "expression": "cash dispenser", "current_gloss": "自动提款机", "model": "deepseek-v4-flash", "ts": 1787450380.7970023}
+{"ok": true, "gloss": "在…的鼎盛时期", "reason": "ok", "id": "be-in-the-prime-of", "expression": "be in the prime of", "current_gloss": "在…的鼎盛时期", "model": "deepseek-v4-flash", "ts": 1787450380.9514234}
+{"ok": true, "gloss": "现金预付款", "reason": "ok", "id": "cash-advance", "expression": "cash advance", "current_gloss": "现金预付款", "model": "deepseek-v4-flash", "ts": 1787450381.7613068}
+{"ok": true, "gloss": "限于", "reason": "ok", "id": "be-limited-to", "expression": "be limited to", "current_gloss": "限于", "model": "deepseek-v4-flash", "ts": 1787450381.99059}
+{"ok": true, "gloss": "便服，休闲服", "reason": "ok", "id": "casual-wear", "expression": "casual wear", "current_gloss": "便服，休闲服", "model": "deepseek-v4-flash", "ts": 1787450382.0341651}
+{"ok": true, "gloss": "资金紧张的", "reason": "ok", "id": "cash-stricken", "expression": "cash-stricken", "current_gloss": "资金紧张的", "model": "deepseek-v4-flash", "ts": 1787450382.1212628}
+{"ok": false, "gloss": "自告奋勇，主动站出来；自愿提供信息或帮助", "reason": "原释义缺少“主动站出来”这层含义，在托业阅读中常用于站出来作证或提供信息，建议补充。", "id": "come-forward", "expression": "come forward", "current_gloss": "自告奋勇，自愿", "model": "deepseek-v4-flash", "ts": 1787450382.2606041}
+{"ok": true, "gloss": "血糖", "reason": "ok", "id": "blood-sugar", "expression": "blood sugar", "current_gloss": "血糖", "model": "deepseek-v4-flash", "ts": 1787450382.60453}
+{"ok": true, "gloss": "多伦多) 蓝鸟棒球队", "reason": "ok", "id": "blue-jays", "expression": "Blue Jays", "current_gloss": "多伦多) 蓝鸟棒球队", "model": "deepseek-v4-flash", "ts": 1787450382.82298}
+{"ok": true, "gloss": "登机牌", "reason": "ok", "id": "boarding-pass", "expression": "boarding pass", "current_gloss": "登机牌", "model": "deepseek-v4-flash", "ts": 1787450382.8546944}
+{"ok": false, "gloss": "同意；接受；不介意；对…觉得没问题", "reason": "释义欠完整，遗漏常见‘同意/接受/不介意’义项", "id": "be-okay-with", "expression": "be okay with", "current_gloss": "对…满意", "model": "deepseek-v4-flash", "ts": 1787450383.0648773}
+{"ok": true, "gloss": "启动 (计算机)", "reason": "ok", "id": "boot-up", "expression": "boot up", "current_gloss": "启动 (计算机)", "model": "deepseek-v4-flash", "ts": 1787450383.4096072}
+{"ok": true, "gloss": "记在某人的账上，某人请客", "reason": "ok", "id": "be-one-s-treat", "expression": "be one’s treat", "current_gloss": "记在某人的账上，某人请客", "model": "deepseek-v4-flash", "ts": 1787450384.0479474}
+{"ok": true, "gloss": "请病假", "reason": "ok", "id": "be-out-sick", "expression": "be out sick", "current_gloss": "请病假", "model": "deepseek-v4-flash", "ts": 1787450384.25248}
+{"ok": true, "gloss": "迎合", "reason": "ok", "id": "cater-to", "expression": "cater to", "current_gloss": "迎合", "model": "deepseek-v4-flash", "ts": 1787450384.667116}
+{"ok": true, "gloss": "植物园", "reason": "ok", "id": "botanical-garden", "expression": "botanical garden", "current_gloss": "植物园", "model": "deepseek-v4-flash", "ts": 1787450384.78669}
+{"ok": true, "gloss": "与…不相称，与…不成比例", "reason": "ok", "id": "be-out-of-proportion-with", "expression": "be out of proportion with", "current_gloss": "与…不相称，与…不成比例", "model": "deepseek-v4-flash", "ts": 1787450385.172505}
+{"ok": true, "gloss": "乐于做某事", "reason": "ok", "id": "be-pleased-to-do", "expression": "be pleased to do", "current_gloss": "乐于做某事", "model": "deepseek-v4-flash", "ts": 1787450385.75448}
+{"ok": true, "gloss": "庆祝晚宴", "reason": "ok", "id": "celebratory-dinner", "expression": "celebratory dinner", "current_gloss": "庆祝晚宴", "model": "deepseek-v4-flash", "ts": 1787450386.0368476}
+{"ok": true, "gloss": "两者都……", "reason": "ok", "id": "both-and", "expression": "both...and...", "current_gloss": "两者都……", "model": "deepseek-v4-flash", "ts": 1787450386.3927298}
+{"ok": true, "gloss": "……方面的变化", "reason": "ok", "id": "change-in", "expression": "change in", "current_gloss": "……方面的变化", "model": "deepseek-v4-flash", "ts": 1787450386.4115021}
+{"ok": true, "gloss": "被 提示做", "reason": "ok", "id": "be-prompted-to", "expression": "be prompted to", "current_gloss": "被 提示做", "model": "deepseek-v4-flash", "ts": 1787450386.4582443}
+{"ok": false, "gloss": "补做；赶上；了解（最新消息）", "reason": "“弥补”不准确，应强调补做落下的任务或了解近况。", "id": "catch-up-on", "expression": "catch up on", "current_gloss": "弥补；赶上", "model": "deepseek-v4-flash", "ts": 1787450386.9873195}
+{"ok": true, "gloss": "某人改变主意", "reason": "ok", "id": "change-one-s-mind", "expression": "change one’s mind", "current_gloss": "某人改 变主意", "model": "deepseek-v4-flash", "ts": 1787450387.7992432}
+{"ok": true, "gloss": "崭新的，全新的", "reason": "ok", "id": "brand-new", "expression": "brand new", "current_gloss": "崭新的，全新的", "model": "deepseek-v4-flash", "ts": 1787450388.2300131}
+{"ok": true, "gloss": "餐饮单位", "reason": "ok", "id": "catering-unit", "expression": "catering unit", "current_gloss": "餐饮单位", "model": "deepseek-v4-flash", "ts": 1787450388.335481}
+{"ok": true, "gloss": "脱离，摆脱", "reason": "ok", "id": "break-away", "expression": "break away", "current_gloss": "脱离，摆脱", "model": "deepseek-v4-flash", "ts": 1787450388.5792267}
+{"ok": true, "gloss": "被要求做某事", "reason": "ok", "id": "be-required-to", "expression": "be required to", "current_gloss": "被要求做某事", "model": "deepseek-v4-flash", "ts": 1787450389.5993783}
+{"ok": false, "gloss": "损坏；分解，细分；情绪崩溃", "reason": "当前释义只覆盖机器故障义项，缺少托业常见的“分解、拆解”和“情绪崩溃”含义。", "id": "break-down", "expression": "break down", "current_gloss": "出毛病，损坏", "model": "deepseek-v4-flash", "ts": 1787450390.2946718}
+{"ok": true, "gloss": "破冰，打破僵局", "reason": "ok", "id": "break-the-ice", "expression": "break the ice", "current_gloss": "破冰，打破僵局 Answer Sheet Test 09", "model": "deepseek-v4-flash", "ts": 1787450390.4895847}
+{"ok": true, "gloss": "慈善机构", "reason": "ok", "id": "charity-organization", "expression": "charity organization", "current_gloss": "慈善机构", "model": "deepseek-v4-flash", "ts": 1787450390.74898}
+{"ok": true, "gloss": "对…满意", "reason": "ok", "id": "be-satisfied-with", "expression": "be satisfied with", "current_gloss": "对…满意", "model": "deepseek-v4-flash", "ts": 1787450391.0626807}
+{"ok": true, "gloss": "带来，引起；使发生；致使", "reason": "ok", "id": "bring-about", "expression": "bring about", "current_gloss": "带来，引起；使发生；致使", "model": "deepseek-v4-flash", "ts": 1787450391.788782}
+{"ok": true, "gloss": "被要求做某事", "reason": "ok", "id": "be-required-to-do", "expression": "be required to do", "current_gloss": "被要求做某事", "model": "deepseek-v4-flash", "ts": 1787450391.887569}
+{"ok": true, "gloss": "赶走，驱逐", "reason": "ok", "id": "chase-away", "expression": "chase away", "current_gloss": "赶走，驱逐", "model": "deepseek-v4-flash", "ts": 1787450392.0226018}
+{"ok": true, "gloss": "把…记在…的账上", "reason": "ok", "id": "charge-to", "expression": "charge...to...", "current_gloss": "把…记在…的账上", "model": "deepseek-v4-flash", "ts": 1787450392.3415585}
+{"ok": true, "gloss": "位于…", "reason": "ok", "id": "be-situated-at", "expression": "be situated at", "current_gloss": "位于…", "model": "deepseek-v4-flash", "ts": 1787450393.325977}
+{"ok": false, "gloss": "节礼日（12月26日，英国及英联邦国家法定假日）", "reason": "原释义把节礼日说成圣诞节后第一个工作日，不准确，应为12月26日。", "id": "boxing-day", "expression": "Boxing Day", "current_gloss": "节礼日(圣诞节后的第一个工作日，是英国的法定假日)", "model": "deepseek-v4-flash", "ts": 1787450393.511483}
+{"ok": false, "gloss": "即将；准备好；确定会", "reason": "原释义“决定；被设置成”过于字面，未体现“be set to do”表“即将/准备/确定会”的常用义项。", "id": "be-set-to", "expression": "be set to", "current_gloss": "决定；被设置成", "model": "deepseek-v4-flash", "ts": 1787450394.2927468}
+{"ok": false, "gloss": "（酒店）入住登记；（机场）值机", "reason": "释义仅覆盖酒店入住，遗漏托业中更常见的机场值机义项。", "id": "check-in", "expression": "check-in", "current_gloss": "登记入住", "model": "deepseek-v4-flash", "ts": 1787450394.4402285}
+{"ok": true, "gloss": "支票账户", "reason": "ok", "id": "checking-account", "expression": "checking account", "current_gloss": "支票账户", "model": "deepseek-v4-flash", "ts": 1787450394.7050443}
+{"ok": true, "gloss": "使…引起某人的注意", "reason": "ok", "id": "bring-to-one-s-attention", "expression": "bring... to one’s attention", "current_gloss": "使…引起某人的注意", "model": "deepseek-v4-flash", "ts": 1787450395.0821476}
+{"ok": true, "gloss": "首席财务官", "reason": "ok", "id": "chief-financial-officer", "expression": "chief financial officer", "current_gloss": "首席财务官", "model": "deepseek-v4-flash", "ts": 1787450395.788385}
+{"ok": true, "gloss": "大宗订单", "reason": "ok", "id": "bulk-order", "expression": "bulk order", "current_gloss": "大宗订单", "model": "deepseek-v4-flash", "ts": 1787450396.050493}
+{"ok": true, "gloss": "公交车费", "reason": "ok", "id": "bus-fare", "expression": "bus fare", "current_gloss": "公交车费", "model": "deepseek-v4-flash", "ts": 1787450396.1269104}
+{"ok": false, "gloss": "被要求做某事；被请求做某事", "reason": "原释义中多余'A'造成歧义，且未体现正式请求的语义", "id": "be-requested-to-do", "expression": "be requested to do", "current_gloss": "被要求做某事 A", "model": "deepseek-v4-flash", "ts": 1787450396.8007329}
+{"ok": true, "gloss": "首席运营官", "reason": "ok", "id": "chief-operating-officer", "expression": "Chief Operating Officer", "current_gloss": "首席运营官", "model": "deepseek-v4-flash", "ts": 1787450397.3658273}
+{"ok": true, "gloss": "营业时间，上班时间", "reason": "ok", "id": "business-hours", "expression": "business hours", "current_gloss": "营业时间，上班时间", "model": "deepseek-v4-flash", "ts": 1787450397.5338485}
+{"ok": true, "gloss": "应该，应当", "reason": "ok", "id": "be-supposed-to", "expression": "be supposed to", "current_gloss": "应该，应当", "model": "deepseek-v4-flash", "ts": 1787450398.4725673}
+{"ok": true, "gloss": "内置的；嵌入的", "reason": "ok", "id": "built-in", "expression": "built-in", "current_gloss": "内置的；嵌入的", "model": "deepseek-v4-flash", "ts": 1787450399.938054}
+{"ok": true, "gloss": "放松；冷静", "reason": "ok", "id": "chill-out", "expression": "chill out", "current_gloss": "放松；冷静", "model": "deepseek-v4-flash", "ts": 1787450400.13115}
+{"ok": false, "gloss": "结账离开；查看；检查", "reason": "当前释义仅含“结账离开”，漏掉商务中常见的“查看/检查”义项，如“check out our website”。", "id": "check-out", "expression": "check out", "current_gloss": "结账离开", "model": "deepseek-v4-flash", "ts": 1787450400.852276}
+{"ok": false, "gloss": "受……支配/约束；取决于……；可能受……影响", "reason": "当前释义只涵盖“受支配”义项，遗漏了“取决于”和“可能受……影响”等托业常见用法。", "id": "be-subject-to", "expression": "be subject to", "current_gloss": "受支配，从属于", "model": "deepseek-v4-flash", "ts": 1787450401.6870816}
+{"ok": false, "gloss": "确信……；务必……（表提醒/要求）", "reason": "缺少‘务必/确保’的常见义项，在托业中常用于提醒或要求做某事。", "id": "be-sure-clause", "expression": "be sure + clause", "current_gloss": "确信……", "model": "deepseek-v4-flash", "ts": 1787450402.7484024}
+{"ok": false, "gloss": "应该（做某事）；据说", "reason": "缺少“据说”这一常见义项，在托业阅读中可能出现，需补充。", "id": "be-supposed-to-do", "expression": "be supposed to do", "current_gloss": "应该做某事", "model": "deepseek-v4-flash", "ts": 1787450403.5009985}
+{"ok": true, "gloss": "电子商务", "reason": "ok", "id": "e-commerce", "expression": "e-commerce", "current_gloss": "电子商务", "model": "deepseek-v4-flash", "ts": 1787450405.1668909}
+{"ok": true, "gloss": "白班", "reason": "ok", "id": "day-shift", "expression": "day shift", "current_gloss": "白班", "model": "deepseek-v4-flash", "ts": 1787450405.1914914}
+{"ok": true, "gloss": "达成一致", "reason": "ok", "id": "come-to-an-agreement", "expression": "come to an agreement", "current_gloss": "达成一致", "model": "deepseek-v4-flash", "ts": 1787450405.3605998}
+{"ok": true, "gloss": "顾客满意度调查", "reason": "ok", "id": "customer-satisfaction-survey", "expression": "customer satisfaction survey", "current_gloss": "顾客满意度调查", "model": "deepseek-v4-flash", "ts": 1787450405.3618088}
+{"ok": true, "gloss": "就…发表自己的意见", "reason": "ok", "id": "express-one-s-opinion-on", "expression": "express one’s opinion on", "current_gloss": "就…发表 自己的意见", "model": "deepseek-v4-flash", "ts": 1787450405.389418}
+{"ok": true, "gloss": "表达某人在…方面的兴趣", "reason": "ok", "id": "express-one-s-interest-in", "expression": "express one’s interest in", "current_gloss": "表达某人在…方面的兴趣", "model": "deepseek-v4-flash", "ts": 1787450405.4638357}
+{"ok": true, "gloss": "分机号码", "reason": "ok", "id": "ext-extension", "expression": "ext.(=extension)", "current_gloss": "分机号码", "model": "deepseek-v4-flash", "ts": 1787450406.8630843}
+{"ok": true, "gloss": "想出，提出", "reason": "ok", "id": "come-up-with", "expression": "come up with", "current_gloss": "想出，提出", "model": "deepseek-v4-flash", "ts": 1787450407.1979086}
+{"ok": false, "gloss": "电子邮件", "reason": "e-mail 意为电子邮件，当前释义与表达无关，属于完全错误。", "id": "e-mail", "expression": "e-mail.", "current_gloss": "埃迪森体育用品 该市体育运动用品的顶级供应商", "model": "deepseek-v4-flash", "ts": 1787450407.2295845}
+{"ok": true, "gloss": "由于…，归因于…", "reason": "ok", "id": "due-to", "expression": "due to", "current_gloss": "由于…，归因于…", "model": "deepseek-v4-flash", "ts": 1787450407.7337058}
+{"ok": true, "gloss": "表达某人的感激之情", "reason": "ok", "id": "extend-one-s-gratitude", "expression": "extend one’s gratitude", "current_gloss": "表达某人的感激之情", "model": "deepseek-v4-flash", "ts": 1787450408.3677225}
+{"ok": true, "gloss": "简历", "reason": "ok", "id": "cv-curriculum-vitae", "expression": "CV (=curriculum vitae)", "current_gloss": "简历", "model": "deepseek-v4-flash", "ts": 1787450408.9705954}
+{"ok": true, "gloss": "致以诚挚的哀悼", "reason": "ok", "id": "extend-one-s-sincere-condolence", "expression": "extend one’s sincere condolence", "current_gloss": "致以诚挚的哀悼", "model": "deepseek-v4-flash", "ts": 1787450409.4941332}
+{"ok": false, "gloss": "提前若干天递交的书面通知", "reason": "原释义无中生有“30天”，且未体现“days”的模糊量概念。", "id": "days-written-notice", "expression": "days written notice", "current_gloss": "提前30天递交的书面通知", "model": "deepseek-v4-flash", "ts": 1787450409.5255208}
+{"ok": true, "gloss": "环保的", "reason": "ok", "id": "earth-friendly", "expression": "earth-friendly", "current_gloss": "环保的", "model": "deepseek-v4-flash", "ts": 1787450410.242549}
+{"ok": true, "gloss": "……方面的减少", "reason": "ok", "id": "decrease-in", "expression": "decrease in", "current_gloss": "……方面的减少", "model": "deepseek-v4-flash", "ts": 1787450411.0618079}
+{"ok": false, "gloss": "挣工资；赚取薪水", "reason": "“挣钱”过于宽泛，未体现 salary（固定工资）的特定含义，托业商务语境下应明确为挣工资。", "id": "earn-a-salary", "expression": "earn a salary", "current_gloss": "挣钱", "model": "deepseek-v4-flash", "ts": 1787450411.064724}
+{"ok": false, "gloss": "处理；应对；涉及；与...打交道", "reason": "遗漏了常见义项'与…打交道'，在托业商务语境中常用。", "id": "deal-with", "expression": "deal with", "current_gloss": "关于，涉及；处理", "model": "deepseek-v4-flash", "ts": 1787450411.3671718}
+{"ok": true, "gloss": "变得活跃；苏醒", "reason": "ok", "id": "come-to-life", "expression": "come to life", "current_gloss": "变得活跃；苏醒", "model": "deepseek-v4-flash", "ts": 1787450411.7225125}
+{"ok": true, "gloss": "未能做某事，没能做某事", "reason": "ok", "id": "fail-to-do", "expression": "fail to do", "current_gloss": "未能做某事，没能做某事", "model": "deepseek-v4-flash", "ts": 1787450412.8617957}
+{"ok": true, "gloss": "大家庭", "reason": "ok", "id": "extended-family", "expression": "extended family", "current_gloss": "大家庭", "model": "deepseek-v4-flash", "ts": 1787450412.9523485}
+{"ok": true, "gloss": "全公司的", "reason": "ok", "id": "company-wide", "expression": "company-wide", "current_gloss": "全公司的", "model": "deepseek-v4-flash", "ts": 1787450413.4593737}
+{"ok": false, "gloss": "公司行为准则；公司指导方针", "reason": "公司制度偏正式规章，guidelines更强调指导性准则，建议译为“公司行为准则/指导方针”。", "id": "company-guidelines", "expression": "company guidelines", "current_gloss": "公司制度", "model": "deepseek-v4-flash", "ts": 1787450413.8970437}
+{"ok": true, "gloss": "奉献某人的时间和精力", "reason": "ok", "id": "dedicate-one-s-time-and-effort", "expression": "dedicate one’s time and effort", "current_gloss": "奉献某人的时间和精力", "model": "deepseek-v4-flash", "ts": 1787450414.6343231}
+{"ok": true, "gloss": "脱落；下降", "reason": "ok", "id": "fall-off", "expression": "fall off", "current_gloss": "脱落；下降", "model": "deepseek-v4-flash", "ts": 1787450415.2149613}
+{"ok": true, "gloss": "国防部长", "reason": "ok", "id": "defense-secretary", "expression": "Defense Secretary", "current_gloss": "国防部长", "model": "deepseek-v4-flash", "ts": 1787450415.361502}
+{"ok": true, "gloss": "出去吃", "reason": "ok", "id": "eat-out", "expression": "eat out", "current_gloss": "出去吃", "model": "deepseek-v4-flash", "ts": 1787450415.7527118}
+{"ok": true, "gloss": "与…相应的；相称的；同量的", "reason": "ok", "id": "commensurate-with", "expression": "commensurate with", "current_gloss": "与…相应的；相称的；同量的", "model": "deepseek-v4-flash", "ts": 1787450416.2877743}
+{"ok": true, "gloss": "经济繁荣", "reason": "ok", "id": "economic-boom", "expression": "economic boom", "current_gloss": "经济繁荣", "model": "deepseek-v4-flash", "ts": 1787450416.389907}
+{"ok": false, "gloss": "环保性；环境友好性", "reason": "原释义过于字面，不够专业，在托业语境中常指环保性/环境友好性。", "id": "eco-friendliness", "expression": "eco-friendliness", "current_gloss": "对环境有利", "model": "deepseek-v4-flash", "ts": 1787450417.1448374}
+{"ok": true, "gloss": "与…相比", "reason": "ok", "id": "compare-to", "expression": "compare to", "current_gloss": "与…相比", "model": "deepseek-v4-flash", "ts": 1787450417.2334714}
+{"ok": true, "gloss": "与…相比", "reason": "ok", "id": "compared-to", "expression": "compared to", "current_gloss": "与…相比", "model": "deepseek-v4-flash", "ts": 1787450417.2688425}
+{"ok": true, "gloss": "经济增长率", "reason": "ok", "id": "economic-growth-rates", "expression": "economic growth rates", "current_gloss": "经济增长率", "model": "deepseek-v4-flash", "ts": 1787450418.090206}
+{"ok": true, "gloss": "部门负责人", "reason": "ok", "id": "department-head", "expression": "department head", "current_gloss": "部门负责人", "model": "deepseek-v4-flash", "ts": 1787450418.5454464}
+{"ok": false, "gloss": "随意（做某事）；尽管；别客气", "reason": "仅译“随时”不准确，遗漏了“不要拘束、尽管”的核心含义，易产生误导。", "id": "feel-free-to", "expression": "feel free to", "current_gloss": "随时", "model": "deepseek-v4-flash", "ts": 1787450418.6761174}
+{"ok": true, "gloss": "百货商店", "reason": "ok", "id": "department-store", "expression": "department store", "current_gloss": "百货商店", "model": "deepseek-v4-flash", "ts": 1787450419.559156}
+{"ok": true, "gloss": "要么……要么……", "reason": "ok", "id": "either-or", "expression": "either...or...", "current_gloss": "要么……要么……", "model": "deepseek-v4-flash", "ts": 1787450420.0132902}
+{"ok": false, "gloss": "诉说（病痛等）；抱怨", "reason": "“complain of”在医疗语境中常指诉说症状，仅译作“抱怨”不准确且不完整。", "id": "complain-of", "expression": "complain of", "current_gloss": "抱怨", "model": "deepseek-v4-flash", "ts": 1787450420.2264793}
+{"ok": true, "gloss": "感到宾至如归", "reason": "ok", "id": "feel-right-at-home", "expression": "feel right at home", "current_gloss": "感到宾至如归", "model": "deepseek-v4-flash", "ts": 1787450420.6661901}
+{"ok": false, "gloss": "理解；弄明白；解决；计算出", "reason": "释义缺少“理解/弄明白”这一常见义项，不够完整", "id": "figure-out", "expression": "figure out", "current_gloss": "解决；计算出", "model": "deepseek-v4-flash", "ts": 1787450420.9831254}
+{"ok": true, "gloss": "进行一项研究", "reason": "ok", "id": "conduct-a-study", "expression": "conduct a study", "current_gloss": "进行一项研究", "model": "deepseek-v4-flash", "ts": 1787450422.0025175}
+{"ok": true, "gloss": "备有；连同，以及", "reason": "ok", "id": "complete-with", "expression": "complete with", "current_gloss": "备有；连同，以及", "model": "deepseek-v4-flash", "ts": 1787450422.1603935}
+{"ok": true, "gloss": "紧急疏散", "reason": "ok", "id": "emergency-evacuation", "expression": "emergency evacuation", "current_gloss": "紧急疏散", "model": "deepseek-v4-flash", "ts": 1787450422.2131448}
+{"ok": false, "gloss": "从…出现；从…显露；来自", "reason": "原释义“产生于”偏重起源，而emerge from在托业中常指从某处出现或摆脱某种状态，需补充常见义项。", "id": "emerge-from", "expression": "emerge from", "current_gloss": "产生于，来自", "model": "deepseek-v4-flash", "ts": 1787450422.4851766}
+{"ok": true, "gloss": "紧急出口；太平门", "reason": "ok", "id": "emergency-exit", "expression": "emergency exit", "current_gloss": "紧急出口；太平门", "model": "deepseek-v4-flash", "ts": 1787450423.9711626}
+{"ok": true, "gloss": "发展计划", "reason": "ok", "id": "development-plan", "expression": "development plan", "current_gloss": "发展计划", "model": "deepseek-v4-flash", "ts": 1787450424.2939463}
+{"ok": true, "gloss": "拨号上网的", "reason": "ok", "id": "dial-up", "expression": "dial-up", "current_gloss": "拨号上网的", "model": "deepseek-v4-flash", "ts": 1787450424.493926}
+{"ok": true, "gloss": "会议室", "reason": "ok", "id": "conference-room", "expression": "conference room", "current_gloss": "会议室", "model": "deepseek-v4-flash", "ts": 1787450424.5745554}
+{"ok": true, "gloss": "紧急情况", "reason": "ok", "id": "emergency-situation", "expression": "emergency situation", "current_gloss": "紧急情况", "model": "deepseek-v4-flash", "ts": 1787450424.6123827}
+{"ok": true, "gloss": "确认电话", "reason": "ok", "id": "confirmation-call", "expression": "confirmation call", "current_gloss": "确认电话", "model": "deepseek-v4-flash", "ts": 1787450426.3322496}
+{"ok": true, "gloss": "运输费", "reason": "ok", "id": "delivery-rates", "expression": "delivery rates", "current_gloss": "运输费", "model": "deepseek-v4-flash", "ts": 1787450426.981264}
+{"ok": false, "gloss": "出发时间；起飞时间", "reason": "释义过于具体，只指航班，未涵盖火车、巴士等其他交通工具的出发时间。", "id": "departure-time", "expression": "departure time", "current_gloss": "起飞时间", "model": "deepseek-v4-flash", "ts": 1787450427.208958}
+{"ok": false, "gloss": "空白处；空隙；空余空间", "reason": "“空位”过于具体，商务语境中常指空白处或空余空间，应补充常见义项。", "id": "empty-spaces", "expression": "empty spaces", "current_gloss": "空位", "model": "deepseek-v4-flash", "ts": 1787450427.650356}
+{"ok": true, "gloss": "处理；扔掉；解决", "reason": "ok", "id": "dispose-of", "expression": "dispose of", "current_gloss": "处理；扔掉；解决", "model": "deepseek-v4-flash", "ts": 1787450427.8426073}
+{"ok": true, "gloss": "鼓励某人做某事", "reason": "ok", "id": "encourage-sb-to-do", "expression": "encourage sb. to do", "current_gloss": "鼓励某人做某事", "model": "deepseek-v4-flash", "ts": 1787450428.220452}
+{"ok": true, "gloss": "由…组成", "reason": "ok", "id": "consist-of", "expression": "consist of", "current_gloss": "由…组成", "model": "deepseek-v4-flash", "ts": 1787450429.4809191}
+{"ok": true, "gloss": "做调查", "reason": "ok", "id": "conduct-a-survey", "expression": "conduct a survey", "current_gloss": "做调查", "model": "deepseek-v4-flash", "ts": 1787450429.6957762}
+{"ok": true, "gloss": "做背景调查", "reason": "ok", "id": "do-a-background-check", "expression": "do a background check", "current_gloss": "做背景调查", "model": "deepseek-v4-flash", "ts": 1787450429.7517745}
+{"ok": true, "gloss": "餐厅，食堂", "reason": "ok", "id": "dining-hall", "expression": "dining hall", "current_gloss": "餐厅，食堂", "model": "deepseek-v4-flash", "ts": 1787450430.0033245}
+{"ok": true, "gloss": "把…认为是…", "reason": "ok", "id": "consider-as", "expression": "consider...as...", "current_gloss": "把…认为是…", "model": "deepseek-v4-flash", "ts": 1787450430.365272}
+{"ok": true, "gloss": "继续做某事", "reason": "ok", "id": "continue-to-do", "expression": "continue to do", "current_gloss": "继续做某事", "model": "deepseek-v4-flash", "ts": 1787450430.669985}
+{"ok": true, "gloss": "鼓励…做某事", "reason": "ok", "id": "encourage-to-do", "expression": "encourage... to do", "current_gloss": "鼓励…做某事", "model": "deepseek-v4-flash", "ts": 1787450431.448701}
+{"ok": true, "gloss": "签订合同", "reason": "ok", "id": "enter-into-a-contract", "expression": "enter into a contract", "current_gloss": "签订合同", "model": "deepseek-v4-flash", "ts": 1787450431.6693265}
+{"ok": true, "gloss": "与…做生意", "reason": "ok", "id": "do-business-with", "expression": "do business with", "current_gloss": "与…做生意", "model": "deepseek-v4-flash", "ts": 1787450431.9235418}
+{"ok": true, "gloss": "股市", "reason": "ok", "id": "equity-markets", "expression": "equity markets", "current_gloss": "股市", "model": "deepseek-v4-flash", "ts": 1787450432.0691915}
+{"ok": true, "gloss": "成本估算", "reason": "ok", "id": "cost-estimate", "expression": "cost estimate", "current_gloss": "成本估算", "model": "deepseek-v4-flash", "ts": 1787450433.315758}
+{"ok": true, "gloss": "快递服务", "reason": "ok", "id": "courier-service", "expression": "courier service", "current_gloss": "快递服务", "model": "deepseek-v4-flash", "ts": 1787450434.01031}
+{"ok": true, "gloss": "运作；做好自己的工作", "reason": "ok", "id": "do-one-s-job", "expression": "do one’s job", "current_gloss": "运作；做好自己的工作", "model": "deepseek-v4-flash", "ts": 1787450434.0464706}
+{"ok": true, "gloss": "沿街", "reason": "ok", "id": "down-the-street", "expression": "down the street", "current_gloss": "沿街", "model": "deepseek-v4-flash", "ts": 1787450434.10052}
+{"ok": true, "gloss": "即使，尽管，纵然", "reason": "ok", "id": "even-though", "expression": "even though", "current_gloss": "即使，尽管，纵然", "model": "deepseek-v4-flash", "ts": 1787450435.3652108}
+{"ok": true, "gloss": "每隔一天", "reason": "ok", "id": "every-other-day", "expression": "every other day", "current_gloss": "每隔一天", "model": "deepseek-v4-flash", "ts": 1787450436.188191}
+{"ok": true, "gloss": "速成班", "reason": "ok", "id": "crash-course", "expression": "crash course", "current_gloss": "速成班", "model": "deepseek-v4-flash", "ts": 1787450437.577471}
+{"ok": true, "gloss": "公司的晋升制度", "reason": "ok", "id": "corporate-ladder", "expression": "corporate ladder", "current_gloss": "公司的晋升制度", "model": "deepseek-v4-flash", "ts": 1787450437.6349053}
+{"ok": true, "gloss": "拖延", "reason": "ok", "id": "drag-out", "expression": "drag out", "current_gloss": "拖延", "model": "deepseek-v4-flash", "ts": 1787450438.4192505}
+{"ok": true, "gloss": "务实的，实际的；脚踏实地的", "reason": "ok", "id": "down-to-earth", "expression": "down-to-earth", "current_gloss": "务实的，实际的；脚踏实地的", "model": "deepseek-v4-flash", "ts": 1787450438.6699529}
+{"ok": true, "gloss": "信用卡", "reason": "ok", "id": "credit-card", "expression": "credit card", "current_gloss": "信用卡", "model": "deepseek-v4-flash", "ts": 1787450439.1103127}
+{"ok": true, "gloss": "法院诉讼案", "reason": "ok", "id": "court-case", "expression": "court case", "current_gloss": "法院诉讼案", "model": "deepseek-v4-flash", "ts": 1787450439.1354141}
+{"ok": true, "gloss": "汽车)驾驶执照", "reason": "ok", "id": "driver-s-license", "expression": "driver’s license", "current_gloss": "汽车)驾驶执照", "model": "deepseek-v4-flash", "ts": 1787450440.3286145}
+{"ok": true, "gloss": "即使，尽管", "reason": "ok", "id": "even-if", "expression": "even if", "current_gloss": "即使，尽管", "model": "deepseek-v4-flash", "ts": 1787450440.359044}
+{"ok": true, "gloss": "费用津贴", "reason": "ok", "id": "expense-allowance", "expression": "expense allowance", "current_gloss": "费用津贴", "model": "deepseek-v4-flash", "ts": 1787450440.3865485}
+{"ok": true, "gloss": "除…以外", "reason": "ok", "id": "except-for", "expression": "except for", "current_gloss": "除…以外", "model": "deepseek-v4-flash", "ts": 1787450441.2949142}
+{"ok": true, "gloss": "信用额度", "reason": "ok", "id": "credit-line", "expression": "credit line", "current_gloss": "信用额度", "model": "deepseek-v4-flash", "ts": 1787450441.3151798}
+{"ok": false, "gloss": "驾驶记录；驾驶档案", "reason": "“行驶记录”易被理解为车辆行驶数据，而driving record在商务场景中指个人驾驶历史，故需改为“驾驶记录”。", "id": "driving-record", "expression": "driving record", "current_gloss": "行驶记录", "model": "deepseek-v4-flash", "ts": 1787450441.820384}
+{"ok": true, "gloss": "使…暴露在任何危险中", "reason": "ok", "id": "expose-to-any-hazards", "expression": "expose...to any hazards", "current_gloss": "使…暴露在任何危险中", "model": "deepseek-v4-flash", "ts": 1787450441.9249253}
+{"ok": true, "gloss": "顺便拜访", "reason": "ok", "id": "drop-by", "expression": "drop by", "current_gloss": "顺便拜访", "model": "deepseek-v4-flash", "ts": 1787450442.0371237}
+{"ok": true, "gloss": "贷项凭单 (退货时发给的凭证，可换取等值的商品)", "reason": "ok", "id": "credit-notice-credit-note", "expression": "credit notice (= credit note)", "current_gloss": "贷项凭单 (退货时发给的凭证，可换取等值的商品)", "model": "deepseek-v4-flash", "ts": 1787450442.057462}
+{"ok": true, "gloss": "特快货运", "reason": "ok", "id": "express-cargo", "expression": "express cargo", "current_gloss": "特快货运", "model": "deepseek-v4-flash", "ts": 1787450442.5938654}
+{"ok": true, "gloss": "使自身杰出", "reason": "ok", "id": "distinguish-oneself", "expression": "distinguish oneself", "current_gloss": "使自身杰出", "model": "deepseek-v4-flash", "ts": 1787450442.7603648}
+{"ok": true, "gloss": "特快专递", "reason": "ok", "id": "express-courier", "expression": "express courier", "current_gloss": "特快专递", "model": "deepseek-v4-flash", "ts": 1787450443.186891}
+{"ok": true, "gloss": "与毒品有关的谋杀案的调查", "reason": "ok", "id": "drug-related-murder-investigation", "expression": "drug-related murder investigation", "current_gloss": "与毒品有关的谋杀案的调查", "model": "deepseek-v4-flash", "ts": 1787450443.492145}
+{"ok": true, "gloss": "币值", "reason": "ok", "id": "currency-value", "expression": "currency value", "current_gloss": "币值", "model": "deepseek-v4-flash", "ts": 1787450443.5809293}
+{"ok": true, "gloss": "客户关系", "reason": "ok", "id": "customer-relations", "expression": "customer relations", "current_gloss": "客户关系", "model": "deepseek-v4-flash", "ts": 1787450444.543953}
+{"ok": false, "gloss": "下降；还车（处）", "reason": "漏掉了商务语境中常见的“下降”义项，且“还车”未涵盖drop-off作为名词点的含义。", "id": "drop-off", "expression": "drop-off", "current_gloss": "还 车", "model": "deepseek-v4-flash", "ts": 1787450444.96387}
+{"ok": true, "gloss": "客户满意度", "reason": "ok", "id": "customer-satisfaction", "expression": "customer satisfaction", "current_gloss": "客户满意度", "model": "deepseek-v4-flash", "ts": 1787450445.0420084}
+{"ok": true, "gloss": "相互持股", "reason": "ok", "id": "cross-share-holding", "expression": "cross-share holding", "current_gloss": "相互持股", "model": "deepseek-v4-flash", "ts": 1787450445.5531926}
+{"ok": true, "gloss": "快件，快递", "reason": "ok", "id": "express-mail", "expression": "express mail", "current_gloss": "快件，快递", "model": "deepseek-v4-flash", "ts": 1787450445.578666}
+{"ok": false, "gloss": "DSL/JKT（公司内部代码，非客户服务部）", "reason": "该表达并非“客户服务部”的通用说法，原释义误导；应理解为特定部门或地区代码。", "id": "dsl-jkt", "expression": "DSL / JKT", "current_gloss": "客户服务部", "model": "deepseek-v4-flash", "ts": 1787450445.9118297}
+{"ok": true, "gloss": "截 止日期，到期日", "reason": "ok", "id": "due-date", "expression": "due date", "current_gloss": "截 止日期，到期日", "model": "deepseek-v4-flash", "ts": 1787450445.9537542}
+{"ok": true, "gloss": "表达某人对…的信任", "reason": "ok", "id": "express-one-s-faith-in", "expression": "express one’s faith in", "current_gloss": "表达某人对…的信任", "model": "deepseek-v4-flash", "ts": 1787450446.3613236}
+{"ok": true, "gloss": "表达对…的失望", "reason": "ok", "id": "express-disappointment-in", "expression": "express disappointment in", "current_gloss": "表达对…的失望", "model": "deepseek-v4-flash", "ts": 1787450446.6782694}
+{"ok": true, "gloss": "申请破产", "reason": "ok", "id": "file-for-bankruptcy", "expression": "file for bankruptcy", "current_gloss": "申请破产", "model": "deepseek-v4-flash", "ts": 1787450448.2469528}
+{"ok": true, "gloss": "直接上级", "reason": "ok", "id": "immediate-manager", "expression": "immediate manager", "current_gloss": "直接上级", "model": "deepseek-v4-flash", "ts": 1787450448.4712303}
+{"ok": true, "gloss": "与…取得联系", "reason": "ok", "id": "get-in-contact-with", "expression": "get in contact with", "current_gloss": "与…取得联系", "model": "deepseek-v4-flash", "ts": 1787450448.605533}
+{"ok": true, "gloss": "与…联系", "reason": "ok", "id": "get-in-touch-with", "expression": "get in touch with", "current_gloss": "与…联系", "model": "deepseek-v4-flash", "ts": 1787450448.707544}
+{"ok": true, "gloss": "参加，参与", "reason": "ok", "id": "get-in-on", "expression": "get in on", "current_gloss": "参加，参与", "model": "deepseek-v4-flash", "ts": 1787450449.0436459}
+{"ok": true, "gloss": "直接上级，直接领导", "reason": "ok", "id": "immediate-supervisor", "expression": "immediate supervisor", "current_gloss": "直接上级，直接领导", "model": "deepseek-v4-flash", "ts": 1787450449.2209275}
+{"ok": true, "gloss": "专人递 送，亲手递送", "reason": "ok", "id": "hand-deliver", "expression": "hand-deliver", "current_gloss": "专人递 送，亲手递送", "model": "deepseek-v4-flash", "ts": 1787450449.3083413}
+{"ok": true, "gloss": "与某人取得联系", "reason": "ok", "id": "get-in-touch-with-sb", "expression": "get in touch with sb.", "current_gloss": "与某人取得联系", "model": "deepseek-v4-flash", "ts": 1787450449.9627}
+{"ok": true, "gloss": "分发；分给", "reason": "ok", "id": "hand-out", "expression": "hand out", "current_gloss": "分发；分给", "model": "deepseek-v4-flash", "ts": 1787450450.0978103}
+{"ok": true, "gloss": "填写", "reason": "ok", "id": "fill-out", "expression": "fill out", "current_gloss": "填写", "model": "deepseek-v4-flash", "ts": 1787450450.6671522}
+{"ok": true, "gloss": "……方面的改善", "reason": "ok", "id": "improvement-in", "expression": "improvement in", "current_gloss": "……方面的改善", "model": "deepseek-v4-flash", "ts": 1787450450.9589472}
+{"ok": true, "gloss": "以……的方式", "reason": "ok", "id": "in-a-manner", "expression": "in a ... manner", "current_gloss": "以……的方式", "model": "deepseek-v4-flash", "ts": 1787450451.0254986}
+{"ok": false, "gloss": "填写；向…提供最新情况；临时顶替", "reason": "释义遗漏了‘告知最新情况’和‘临时顶替’等托业常见义项。", "id": "fill-in", "expression": "fill in", "current_gloss": "填写，填满", "model": "deepseek-v4-flash", "ts": 1787450451.7377713}
+{"ok": true, "gloss": "下班", "reason": "ok", "id": "get-off-work", "expression": "get off work", "current_gloss": "下班", "model": "deepseek-v4-flash", "ts": 1787450451.8112357}
+{"ok": true, "gloss": "与某人聊天", "reason": "ok", "id": "have-a-chat-with-sb", "expression": "have a chat with sb.", "current_gloss": "与某人聊天", "model": "deepseek-v4-flash", "ts": 1787450453.0545661}
+{"ok": true, "gloss": "辛苦得到的", "reason": "ok", "id": "hard-earned", "expression": "hard-earned", "current_gloss": "辛苦得到的", "model": "deepseek-v4-flash", "ts": 1787450453.438856}
+{"ok": true, "gloss": "填表", "reason": "ok", "id": "fill-out-the-form", "expression": "fill out the form", "current_gloss": "填表", "model": "deepseek-v4-flash", "ts": 1787450453.8988361}
+{"ok": false, "gloss": "开始走上…的道路；着手实现…", "reason": "原释义过于字面，未体现“开始”的动作，在托业语境中不完整。", "id": "get-on-the-path-to", "expression": "get on the path to", "current_gloss": "通往…的道路", "model": "deepseek-v4-flash", "ts": 1787450454.3984988}
+{"ok": true, "gloss": "进一步讨论…", "reason": "ok", "id": "have-a-further-discussion-on", "expression": "have a further discussion on", "current_gloss": "进一步讨论…", "model": "deepseek-v4-flash", "ts": 1787450454.6366498}
+{"ok": true, "gloss": "向某人提供最新信息", "reason": "ok", "id": "fill-sb-in", "expression": "fill sb. in", "current_gloss": "向某 人提供最新信息", "model": "deepseek-v4-flash", "ts": 1787450455.2894306}
+{"ok": false, "gloss": "得到某物；找到某物；弄到手", "reason": "原释义过于字面，未体现常见引申义“得到/找到”。", "id": "get-one-s-hands-on-sth", "expression": "get one’s hands on sth.", "current_gloss": "某人将某物拿到手", "model": "deepseek-v4-flash", "ts": 1787450455.5949857}
+{"ok": true, "gloss": "立刻，不久", "reason": "ok", "id": "in-a-moment", "expression": "in a moment", "current_gloss": "立刻，不久", "model": "deepseek-v4-flash", "ts": 1787450455.9193454}
+{"ok": false, "gloss": "直接成本；硬成本", "reason": "“硬成本”过于字面，未体现其指代项目直接费用的商务含义，建议补充“直接成本”。", "id": "hard-cost", "expression": "hard cost", "current_gloss": "硬成本", "model": "deepseek-v4-flash", "ts": 1787450456.139006}
+{"ok": true, "gloss": "摆脱；除掉", "reason": "ok", "id": "get-rid-of", "expression": "get rid of", "current_gloss": "摆脱；除掉", "model": "deepseek-v4-flash", "ts": 1787450457.2290487}
+{"ok": true, "gloss": "财务目标", "reason": "ok", "id": "financial-goals", "expression": "financial goals", "current_gloss": "财务目标", "model": "deepseek-v4-flash", "ts": 1787450457.7356286}
+{"ok": true, "gloss": "与…会面", "reason": "ok", "id": "have-a-meeting-with", "expression": "have a meeting with", "current_gloss": "与…会面", "model": "deepseek-v4-flash", "ts": 1787450458.0639071}
+{"ok": false, "gloss": "经济援助；财政资助", "reason": "原释义“经济支持”偏口语，商务语境下更常用“经济援助”或“财政资助”。", "id": "financial-assistance", "expression": "financial assistance", "current_gloss": "经济支持", "model": "deepseek-v4-flash", "ts": 1787450458.7533507}
+{"ok": true, "gloss": "以专业的态度", "reason": "ok", "id": "in-a-professional-manner", "expression": "in a professional manner", "current_gloss": "以专业的态度", "model": "deepseek-v4-flash", "ts": 1787450459.0066228}
+{"ok": true, "gloss": "发现；查明，弄清楚", "reason": "ok", "id": "find-out", "expression": "find out", "current_gloss": "发现；查明，弄清楚", "model": "deepseek-v4-flash", "ts": 1787450459.8070278}
+{"ok": true, "gloss": "可以进入；可以获得", "reason": "ok", "id": "have-access-to", "expression": "have access to", "current_gloss": "可以进入；可以获得", "model": "deepseek-v4-flash", "ts": 1787450459.8759913}
+{"ok": true, "gloss": "匆忙", "reason": "ok", "id": "in-a-hurry", "expression": "in a hurry", "current_gloss": "匆忙", "model": "deepseek-v4-flash", "ts": 1787450460.3191924}
+{"ok": true, "gloss": "以…方式", "reason": "ok", "id": "in-a-n-fashion", "expression": "in a(n) ... fashion", "current_gloss": "以…方式", "model": "deepseek-v4-flash", "ts": 1787450460.6105387}
+{"ok": false, "gloss": "几分钟后；在几分钟之内", "reason": "仅译“几分钟后”未覆盖“在几分钟内”的用法，托业中常用于请求完成等场景。", "id": "in-a-few-minutes", "expression": "in a few minutes", "current_gloss": "几分钟后", "model": "deepseek-v4-flash", "ts": 1787450460.9912066}
+{"ok": true, "gloss": "与…一致，依照…", "reason": "ok", "id": "in-accordance-with", "expression": "in accordance with", "current_gloss": "与…一致，依照…", "model": "deepseek-v4-flash", "ts": 1787450461.0775402}
+{"ok": true, "gloss": "先到先得", "reason": "ok", "id": "first-come-first-served", "expression": "first-come, first-served", "current_gloss": "先 到先得", "model": "deepseek-v4-flash", "ts": 1787450461.3339763}
+{"ok": true, "gloss": "第一流的，优秀的", "reason": "ok", "id": "first-rate", "expression": "first-rate", "current_gloss": "第一流的，优秀的", "model": "deepseek-v4-flash", "ts": 1787450462.3554983}
+{"ok": true, "gloss": "开始进行", "reason": "ok", "id": "get-underway", "expression": "get underway", "current_gloss": "开始进行", "model": "deepseek-v4-flash", "ts": 1787450462.4207115}
+{"ok": true, "gloss": "对…有信心，相信…", "reason": "ok", "id": "have-faith-in", "expression": "have faith in", "current_gloss": "对…有信心，相信…", "model": "deepseek-v4-flash", "ts": 1787450462.492592}
+{"ok": false, "gloss": "举办促销活动；打折出售", "reason": "原释义未体现'举行促销'的商务含义，例句中均指商家举办打折活动。", "id": "have-a-sale", "expression": "have a sale", "current_gloss": "廉价出售", "model": "deepseek-v4-flash", "ts": 1787450462.9344118}
+{"ok": true, "gloss": "对……有信心/信任", "reason": "ok", "id": "have-faith-in-sth", "expression": "have faith in sth.", "current_gloss": "对……有信心/信任", "model": "deepseek-v4-flash", "ts": 1787450463.109183}
+{"ok": true, "gloss": "礼品卡，代金卡", "reason": "ok", "id": "gift-card", "expression": "gift card", "current_gloss": "礼品卡，代金卡", "model": "deepseek-v4-flash", "ts": 1787450463.6124063}
+{"ok": true, "gloss": "健身中心", "reason": "ok", "id": "fitness-center", "expression": "fitness center", "current_gloss": "健身中心", "model": "deepseek-v4-flash", "ts": 1787450463.813071}
+{"ok": false, "gloss": "见面；碰头；聚会", "reason": "在托业商务语境中，get together多指安排会面、碰头，'聚会'偏社交活动，不够准确。", "id": "get-together", "expression": "get together", "current_gloss": "聚会", "model": "deepseek-v4-flash", "ts": 1787450464.0412455}
+{"ok": true, "gloss": "乘务员", "reason": "ok", "id": "flight-attendant", "expression": "flight attendant", "current_gloss": "乘务员", "model": "deepseek-v4-flash", "ts": 1787450464.1776164}
+{"ok": false, "gloss": "在…方面有问题；对…有困难", "reason": "have problems with 表示遇到困难或问题，而非有疑问。", "id": "have-problems-with", "expression": "have problems with", "current_gloss": "对…有疑问", "model": "deepseek-v4-flash", "ts": 1787450464.3001127}
+{"ok": true, "gloss": "礼券", "reason": "ok", "id": "gift-certificate", "expression": "gift certificate", "current_gloss": "礼券", "model": "deepseek-v4-flash", "ts": 1787450465.1432278}
+{"ok": false, "gloss": "到达某地；开始做；有机会做", "reason": "缺少‘开始做’和‘有机会做’等常见商务义项。", "id": "get-to", "expression": "get to...", "current_gloss": "到达某地", "model": "deepseek-v4-flash", "ts": 1787450465.6158118}
+{"ok": true, "gloss": "仍然没", "reason": "ok", "id": "have-yet-to", "expression": "have yet to", "current_gloss": "仍然没", "model": "deepseek-v4-flash", "ts": 1787450465.746351}
+{"ok": true, "gloss": "人事部主任", "reason": "ok", "id": "head-of-personnel", "expression": "head of personnel", "current_gloss": "人事部主任", "model": "deepseek-v4-flash", "ts": 1787450467.2273128}
+{"ok": true, "gloss": "屈服于…", "reason": "ok", "id": "give-in-to", "expression": "give in to", "current_gloss": "屈服于…", "model": "deepseek-v4-flash", "ts": 1787450467.5664651}
+{"ok": true, "gloss": "集中于", "reason": "ok", "id": "focus-on", "expression": "focus on", "current_gloss": "集中于", "model": "deepseek-v4-flash", "ts": 1787450467.9843962}
+{"ok": true, "gloss": "除此之外", "reason": "ok", "id": "in-addition", "expression": "in addition", "current_gloss": "除此之外", "model": "deepseek-v4-flash", "ts": 1787450468.0091925}
+{"ok": true, "gloss": "为…干杯", "reason": "ok", "id": "here-s-to", "expression": "here’s to...", "current_gloss": "为…干杯", "model": "deepseek-v4-flash", "ts": 1787450469.36507}
+{"ok": true, "gloss": "后续行动，后续事物", "reason": "ok", "id": "follow-up-2", "expression": "follow-up", "current_gloss": "后续行动，后续事物", "model": "deepseek-v4-flash", "ts": 1787450469.6295745}
+{"ok": true, "gloss": "放弃做某事", "reason": "ok", "id": "give-up-ing", "expression": "give up ~ing", "current_gloss": "放弃做某事", "model": "deepseek-v4-flash", "ts": 1787450469.8936822}
+{"ok": false, "gloss": "如需更多信息；欲了解更多详情", "reason": "当前释义过于字面，不符合商务惯用译法。", "id": "for-further-information", "expression": "for further information", "current_gloss": "为了(了解)进一步的信息", "model": "deepseek-v4-flash", "ts": 1787450470.641091}
+{"ok": false, "gloss": "跟进，对…采取进一步行动；后续行动；后续的", "reason": "原释义仅覆盖动词义，缺少名词‘后续行动’和形容词‘后续的’等商务常用义项。", "id": "follow-up", "expression": "follow up", "current_gloss": "对…采取进一步行动，跟进", "model": "deepseek-v4-flash", "ts": 1787450470.869726}
+{"ok": false, "gloss": "赠送；泄露；出卖；分发", "reason": "“发布”非give away常用义，商务语境常见“赠送/泄露/分发”，修正后更准确。", "id": "give-away", "expression": "give away", "current_gloss": "发布；泄露；出卖；赠送", "model": "deepseek-v4-flash", "ts": 1787450471.014066}
+{"ok": true, "gloss": "犹豫做某事", "reason": "ok", "id": "hesitate-to-do", "expression": "hesitate to do", "current_gloss": "犹豫做某事", "model": "deepseek-v4-flash", "ts": 1787450471.1687515}
+{"ok": true, "gloss": "给…一个机会", "reason": "ok", "id": "give-a-chance", "expression": "give...a chance", "current_gloss": "给…一个机会", "model": "deepseek-v4-flash", "ts": 1787450471.307329}
+{"ok": true, "gloss": "卫生诊所", "reason": "ok", "id": "health-clinic", "expression": "health clinic", "current_gloss": "卫生诊所", "model": "deepseek-v4-flash", "ts": 1787450472.8480914}
+{"ok": true, "gloss": "不知什么原因；由于某种原因", "reason": "ok", "id": "for-some-reason", "expression": "for some reason", "current_gloss": "不知什么原因；由于某种原因", "model": "deepseek-v4-flash", "ts": 1787450472.9458594}
+{"ok": true, "gloss": "走失；误入歧途", "reason": "ok", "id": "go-astray", "expression": "go astray", "current_gloss": "走失；误入歧途", "model": "deepseek-v4-flash", "ts": 1787450472.9762151}
+{"ok": true, "gloss": "出售", "reason": "ok", "id": "for-sale", "expression": "for sale", "current_gloss": "出售", "model": "deepseek-v4-flash", "ts": 1787450473.3405783}
+{"ok": false, "gloss": "概述；概要说明", "reason": "原释义中‘描绘…的轮廓’在商务语境下不常用，应侧重‘概述’义。", "id": "give-an-outline-of", "expression": "give an outline of", "current_gloss": "概要说明；描绘…的轮廓", "model": "deepseek-v4-flash", "ts": 1787450474.0233328}
+{"ok": true, "gloss": "上市", "reason": "ok", "id": "hit-stores", "expression": "hit stores", "current_gloss": "上市", "model": "deepseek-v4-flash", "ts": 1787450474.8275535}
+{"ok": true, "gloss": "正装", "reason": "ok", "id": "formal-attire", "expression": "formal attire", "current_gloss": "正装", "model": "deepseek-v4-flash", "ts": 1787450475.0169773}
+{"ok": false, "gloss": "嘻哈音乐；嘻哈文化", "reason": "“嘻哈舞曲”仅指舞蹈音乐，未能覆盖hip-hop作为音乐风格和文化形态的主要义项，在商务/阅读语境中易误导。", "id": "hip-hop", "expression": "hip-hop", "current_gloss": "嘻哈舞曲", "model": "deepseek-v4-flash", "ts": 1787450475.2983475}
+{"ok": false, "gloss": "备受瞩目的；高调的；知名度高的", "reason": "“高姿态”在中文中常含贬义或歧义，易与英文原意混淆，改为“高调、知名”更贴切。", "id": "high-profile", "expression": "high-profile", "current_gloss": "备受瞩目的；高姿态的", "model": "deepseek-v4-flash", "ts": 1787450475.4669042}
+{"ok": true, "gloss": "为了…", "reason": "ok", "id": "for-the-purpose-of-doing", "expression": "for the purpose of doing", "current_gloss": "为了…", "model": "deepseek-v4-flash", "ts": 1787450475.8167727}
+{"ok": true, "gloss": "稍等", "reason": "ok", "id": "hold-on-a-second", "expression": "hold on a second", "current_gloss": "稍等", "model": "deepseek-v4-flash", "ts": 1787450476.2274985}
+{"ok": true, "gloss": "尽心尽力地，不怕麻烦地", "reason": "ok", "id": "go-out-of-one-s-way", "expression": "go out of one’s way", "current_gloss": "尽心尽力地，不怕麻烦地", "model": "deepseek-v4-flash", "ts": 1787450476.3524654}
+{"ok": true, "gloss": "去观光", "reason": "ok", "id": "go-sightseeing", "expression": "go sightseeing", "current_gloss": "去观光", "model": "deepseek-v4-flash", "ts": 1787450476.9200523}
+{"ok": true, "gloss": "免费", "reason": "ok", "id": "free-of-charge", "expression": "free of charge", "current_gloss": "免费", "model": "deepseek-v4-flash", "ts": 1787450477.3733048}
+{"ok": false, "gloss": "发出响声；爆炸；离开；进展", "reason": "缺常见义项，如爆炸、离开等", "id": "go-off", "expression": "go off", "current_gloss": "发出响声", "model": "deepseek-v4-flash", "ts": 1787450477.7398036}
+{"ok": true, "gloss": "从现在开始", "reason": "ok", "id": "from-now-on", "expression": "from now on", "current_gloss": "从现在开始", "model": "deepseek-v4-flash", "ts": 1787450477.7982893}
+{"ok": true, "gloss": "不遗余力地做某事；竭尽全力地做某事", "reason": "ok", "id": "go-to-extravagant-lengths-to-do", "expression": "go to extravagant lengths to do", "current_gloss": "不遗 余力地做某事；竭尽全力地做某事", "model": "deepseek-v4-flash", "ts": 1787450478.4778023}
+{"ok": true, "gloss": "政府政策", "reason": "ok", "id": "government-policy", "expression": "government policy", "current_gloss": "政府政策", "model": "deepseek-v4-flash", "ts": 1787450479.7844827}
+{"ok": false, "gloss": "节日季；节假日高峰期（常指购物旺季）", "reason": "“休假旺季”侧重休假，而holiday season在商务语境中常指零售业的节日购物季，易误导。", "id": "holiday-season", "expression": "holiday season", "current_gloss": "休假旺季", "model": "deepseek-v4-flash", "ts": 1787450479.8053575}
+{"ok": true, "gloss": "从…到…", "reason": "ok", "id": "from-to", "expression": "from... to...", "current_gloss": "从…到…", "model": "deepseek-v4-flash", "ts": 1787450480.3878922}
+{"ok": true, "gloss": "全职的", "reason": "ok", "id": "full-time", "expression": "full- time", "current_gloss": "全职的", "model": "deepseek-v4-flash", "ts": 1787450480.4729884}
+{"ok": false, "gloss": "上门服务；出诊", "reason": "原释义为形容词性，而house-call是名词，且缺少'出诊'等常见商务义项。", "id": "house-call", "expression": "house-call", "current_gloss": "上门服务的", "model": "deepseek-v4-flash", "ts": 1787450480.9810734}
+{"ok": true, "gloss": "与…搭档工作；与…有联系", "reason": "ok", "id": "hook-up-with", "expression": "hook up with", "current_gloss": "与…搭档工作；与…有联系", "model": "deepseek-v4-flash", "ts": 1787450481.6557786}
+{"ok": true, "gloss": "政府法规", "reason": "ok", "id": "government-regulations", "expression": "government regulations", "current_gloss": "政府法规", "model": "deepseek-v4-flash", "ts": 1787450481.7290578}
+{"ok": true, "gloss": "上升", "reason": "ok", "id": "go-up", "expression": "go up", "current_gloss": "上升", "model": "deepseek-v4-flash", "ts": 1787450481.9641151}
+{"ok": true, "gloss": "全职的", "reason": "ok", "id": "full-time-2", "expression": "full-time", "current_gloss": "全职的", "model": "deepseek-v4-flash", "ts": 1787450483.057764}
+{"ok": true, "gloss": "因某事对某人 怀恨在心", "reason": "ok", "id": "hold-sth-against-sb", "expression": "hold sth. against sb.", "current_gloss": "因某事对某人 怀恨在心", "model": "deepseek-v4-flash", "ts": 1787450483.0863702}
+{"ok": true, "gloss": "从B获得A", "reason": "ok", "id": "gain-a-from-b", "expression": "gain A from B", "current_gloss": "从B获得A", "model": "deepseek-v4-flash", "ts": 1787450483.122706}
+{"ok": true, "gloss": "从…毕业", "reason": "ok", "id": "graduate-from", "expression": "graduate from", "current_gloss": "从…毕业", "model": "deepseek-v4-flash", "ts": 1787450483.3522947}
+{"ok": true, "gloss": "综合医院；总医院", "reason": "ok", "id": "general-hospital", "expression": "general hospital", "current_gloss": "综合医院；总医院", "model": "deepseek-v4-flash", "ts": 1787450483.8895257}
+{"ok": true, "gloss": "隆重开业", "reason": "ok", "id": "grand-opening", "expression": "grand opening", "current_gloss": "隆重开业", "model": "deepseek-v4-flash", "ts": 1787450484.156159}
+{"ok": true, "gloss": "识别卡；身份证", "reason": "ok", "id": "identification-card", "expression": "identification card", "current_gloss": "识别卡；身份证", "model": "deepseek-v4-flash", "ts": 1787450485.0177333}
+{"ok": true, "gloss": "家务", "reason": "ok", "id": "household-chores", "expression": "household chores", "current_gloss": "家务", "model": "deepseek-v4-flash", "ts": 1787450485.5795813}
+{"ok": true, "gloss": "长城", "reason": "ok", "id": "great-wall", "expression": "Great Wall", "current_gloss": "长城", "model": "deepseek-v4-flash", "ts": 1787450485.8620737}
+{"ok": true, "gloss": "熟悉…", "reason": "ok", "id": "get-familiar-with", "expression": "get familiar with", "current_gloss": "熟悉…", "model": "deepseek-v4-flash", "ts": 1787450485.9249752}
+{"ok": true, "gloss": "房产热", "reason": "ok", "id": "housing-boom", "expression": "housing boom", "current_gloss": "房产热", "model": "deepseek-v4-flash", "ts": 1787450486.0367625}
+{"ok": true, "gloss": "上交，提交", "reason": "ok", "id": "hand-in", "expression": "hand in", "current_gloss": "上交，提交", "model": "deepseek-v4-flash", "ts": 1787450486.3862193}
+{"ok": false, "gloss": "在…上取得进展；提前做…", "reason": "原释义“从…中受益”不准确，该短语通常表示在某个方面领先或提前推进任务。", "id": "get-ahead-on", "expression": "get ahead on", "current_gloss": "从…中受益；获得成功", "model": "deepseek-v4-flash", "ts": 1787450486.790965}
+{"ok": true, "gloss": "多久", "reason": "ok", "id": "how-soon", "expression": "how soon", "current_gloss": "多久", "model": "deepseek-v4-flash", "ts": 1787450488.0003138}
+{"ok": true, "gloss": "直系亲属", "reason": "ok", "id": "immediate-family", "expression": "immediate family", "current_gloss": "直系亲属", "model": "deepseek-v4-flash", "ts": 1787450488.773802}
+{"ok": true, "gloss": "邀请…做某事", "reason": "ok", "id": "invite-to", "expression": "invite... to...", "current_gloss": "邀请…做某事", "model": "deepseek-v4-flash", "ts": 1787450490.3662224}
+{"ok": true, "gloss": "未来，将来", "reason": "ok", "id": "in-the-future", "expression": "in the future", "current_gloss": "未来，将来", "model": "deepseek-v4-flash", "ts": 1787450490.4818106}
+{"ok": true, "gloss": "让A知道B", "reason": "ok", "id": "let-a-in-on-b", "expression": "let A in on B", "current_gloss": "让A知道B", "model": "deepseek-v4-flash", "ts": 1787450491.3123019}
+{"ok": true, "gloss": "在可以预见的未来，在不久的将来", "reason": "ok", "id": "in-the-foreseeable-future-in-the-near-future", "expression": "in the foreseeable future(=in the near future)", "current_gloss": "在可以预见的未来，在不久 的将来", "model": "deepseek-v4-flash", "ts": 1787450491.4995172}
+{"ok": true, "gloss": "有时差反应的", "reason": "ok", "id": "jet-lagged", "expression": "jet-lagged", "current_gloss": "有时差反应的", "model": "deepseek-v4-flash", "ts": 1787450491.6087544}
+{"ok": false, "gloss": "资格较差的；资历较浅的", "reason": "原释义“素质较低”有误导，此处指资质或资历不足，而非道德或素养层面。", "id": "less-qualified", "expression": "less-qualified", "current_gloss": "素质较低的；受教育水平较低的", "model": "deepseek-v4-flash", "ts": 1787450492.2086644}
+{"ok": true, "gloss": "让A知道B", "reason": "释义准确，符合托业语境", "id": "let-a-know-b", "expression": "let A know B", "current_gloss": "让A知道B", "model": "deepseek-v4-flash", "ts": 1787450493.088845}
+{"ok": true, "gloss": "求职者", "reason": "ok", "id": "job-applicant", "expression": "job applicant", "current_gloss": "求职者", "model": "deepseek-v4-flash", "ts": 1787450493.0961633}
+{"ok": false, "gloss": "除…之外（还），加之；另外", "reason": "原译有歧义，易与“except”混淆；应明确表示追加附加。", "id": "in-addition-to", "expression": "in addition to", "current_gloss": "除…之外", "model": "deepseek-v4-flash", "ts": 1787450493.5596926}
+{"ok": false, "gloss": "为了，试图做某事", "reason": "该短语在例句中表目的，意为‘为了’，而非单纯‘努力做某事’，原释义不准确。", "id": "in-an-effort-to-do", "expression": "in an effort to do", "current_gloss": "努力做某事", "model": "deepseek-v4-flash", "ts": 1787450494.3270524}
+{"ok": true, "gloss": "岗位轮换，工作轮换", "reason": "ok", "id": "job-rotation", "expression": "job rotation", "current_gloss": "岗位轮换，工作轮换", "model": "deepseek-v4-flash", "ts": 1787450494.4940853}
+{"ok": true, "gloss": "推荐信", "reason": "ok", "id": "letter-of-recommendation", "expression": "letter of recommendation", "current_gloss": "推荐信", "model": "deepseek-v4-flash", "ts": 1787450495.0350423}
+{"ok": true, "gloss": "为…起见，为了…的利益", "reason": "ok", "id": "in-the-interests-of", "expression": "in the interests of", "current_gloss": "为…起见，为了…的利益", "model": "deepseek-v4-flash", "ts": 1787450495.6837094}
+{"ok": true, "gloss": "好恶", "reason": "ok", "id": "likes-and-dislikes", "expression": "likes and dislikes", "current_gloss": "好恶", "model": "deepseek-v4-flash", "ts": 1787450497.3497212}
+{"ok": true, "gloss": "如果；万一", "reason": "ok", "id": "in-the-event", "expression": "in the event", "current_gloss": "如果；万一", "model": "deepseek-v4-flash", "ts": 1787450498.1758094}
+{"ok": false, "gloss": "使失望；辜负", "reason": "缺少“辜负”义项，在托业中常用于失望或辜负期望。", "id": "let-down", "expression": "let down", "current_gloss": "使失望", "model": "deepseek-v4-flash", "ts": 1787450499.1058204}
+{"ok": false, "gloss": "在此期间；与此同时", "reason": "当前释义“与此同时”未能体现“在此期间”的常用义项，在托业商务语境中易误导。", "id": "in-the-meantime", "expression": "in the meantime", "current_gloss": "与此同时", "model": "deepseek-v4-flash", "ts": 1787450499.552679}
+{"ok": true, "gloss": "出席", "reason": "ok", "id": "in-attendance", "expression": "in attendance", "current_gloss": "出席", "model": "deepseek-v4-flash", "ts": 1787450499.679658}
+{"ok": false, "gloss": "草草记下；匆匆写下", "reason": "原释义中杂有无关字符“明良Quik”，且未标明常用动词用法，需修正。", "id": "jot-down", "expression": "jot down", "current_gloss": "草草记下 明良Quik", "model": "deepseek-v4-flash", "ts": 1787450499.7964268}
+{"ok": true, "gloss": "在不久的未来", "reason": "ok", "id": "in-the-near-future", "expression": "in the near future", "current_gloss": "在不久的未来", "model": "deepseek-v4-flash", "ts": 1787450500.906224}
+{"ok": true, "gloss": "对细节的敏锐洞察力", "reason": "ok", "id": "keen-eye-for-detail", "expression": "keen eye for detail", "current_gloss": "对细节的敏锐洞察力", "model": "deepseek-v4-flash", "ts": 1787450501.09942}
+{"ok": false, "gloss": "大批量地；散装地", "reason": "缺少“散装”这一常见商务义项，释义不够完整。", "id": "in-bulk", "expression": "in bulk", "current_gloss": "大批，大量", "model": "deepseek-v4-flash", "ts": 1787450501.4958904}
+{"ok": false, "gloss": "排队；安排，组织", "reason": "例句中line up意为“安排/准备”，而非“排队”，当前释义遗漏常见商务义项。", "id": "line-up", "expression": "line up", "current_gloss": "排队", "model": "deepseek-v4-flash", "ts": 1787450501.7806966}
+{"ok": false, "gloss": "提前；预付", "reason": "缺失商务场景中常见的“预付”义项", "id": "in-advance", "expression": "in advance", "current_gloss": "提前", "model": "deepseek-v4-flash", "ts": 1787450502.281078}
+{"ok": true, "gloss": "以防；万一；假如", "reason": "ok", "id": "in-case", "expression": "in case", "current_gloss": "以防；万一；假如", "model": "deepseek-v4-flash", "ts": 1787450502.479356}
+{"ok": true, "gloss": "大量，许多", "reason": "ok", "id": "loads-of-a-load-of", "expression": "loads of (=a load of)", "current_gloss": "大量，许多", "model": "deepseek-v4-flash", "ts": 1787450502.7475777}
+{"ok": true, "gloss": "记住，牢记", "reason": "ok", "id": "keep-in-mind", "expression": "keep in mind", "current_gloss": "记住，牢记", "model": "deepseek-v4-flash", "ts": 1787450502.8873296}
+{"ok": true, "gloss": "左右；大约", "reason": "ok", "id": "in-the-region-of", "expression": "in the region of", "current_gloss": "左右；大约", "model": "deepseek-v4-flash", "ts": 1787450503.98328}
+{"ok": true, "gloss": "左右，大约；在…附近", "reason": "ok", "id": "in-the-vicinity-of", "expression": "in the vicinity of", "current_gloss": "左右，大约；在…附近", "model": "deepseek-v4-flash", "ts": 1787450504.3624983}
+{"ok": true, "gloss": "万一，如果发生", "reason": "ok", "id": "in-case-of", "expression": "in case of", "current_gloss": "万一，如果发生", "model": "deepseek-v4-flash", "ts": 1787450504.4536636}
+{"ok": true, "gloss": "继续某事", "reason": "ok", "id": "keep-the-ball-rolling", "expression": "keep the ball rolling", "current_gloss": "继续某事", "model": "deepseek-v4-flash", "ts": 1787450504.9644573}
+{"ok": true, "gloss": "一式三份", "reason": "ok", "id": "in-triplicate", "expression": "in triplicate", "current_gloss": "一式三份", "model": "deepseek-v4-flash", "ts": 1787450505.20119}
+{"ok": false, "gloss": "跟风，赶潮流", "reason": "原释义'随波逐流'偏贬义且不够贴切，常见商务义为'跟风、赶潮流'。", "id": "jump-on-the-wagon", "expression": "jump on the wagon", "current_gloss": "随波逐流", "model": "deepseek-v4-flash", "ts": 1787450505.5263698}
+{"ok": true, "gloss": "为庆祝…", "reason": "ok", "id": "in-celebration-of", "expression": "in celebration of", "current_gloss": "为庆祝…", "model": "deepseek-v4-flash", "ts": 1787450505.7174778}
+{"ok": true, "gloss": "期待，盼望", "reason": "ok", "id": "look-forward-to", "expression": "look forward to", "current_gloss": "期待，盼望", "model": "deepseek-v4-flash", "ts": 1787450506.319413}
+{"ok": true, "gloss": "保持生意正常运营", "reason": "ok", "id": "keep-the-business-running", "expression": "keep the business running", "current_gloss": "保持生意正常运营", "model": "deepseek-v4-flash", "ts": 1787450506.7259722}
+{"ok": true, "gloss": "转而；相应地；依次地，轮流地", "reason": "ok", "id": "in-turn", "expression": "in turn", "current_gloss": "转而；相应地；依次地，轮流地", "model": "deepseek-v4-flash", "ts": 1787450506.9041462}
+{"ok": true, "gloss": "期待做某事", "reason": "ok", "id": "look-forward-to-doing-sth", "expression": "look forward to doing sth.", "current_gloss": "期待做某事", "model": "deepseek-v4-flash", "ts": 1787450506.9553823}
+{"ok": true, "gloss": "负责，管理，掌管", "reason": "ok", "id": "in-charge-of", "expression": "in charge of", "current_gloss": "负责，管理，掌管", "model": "deepseek-v4-flash", "ts": 1787450507.3542597}
+{"ok": true, "gloss": "在中短期", "reason": "ok", "id": "in-the-near-and-medium-term", "expression": "in the near and medium term", "current_gloss": "在中短期", "model": "deepseek-v4-flash", "ts": 1787450508.0311594}
+{"ok": true, "gloss": "用现金付账", "reason": "ok", "id": "in-cash", "expression": "in cash", "current_gloss": "用现金付账", "model": "deepseek-v4-flash", "ts": 1787450508.242939}
+{"ok": true, "gloss": "寻找", "reason": "ok", "id": "look-for", "expression": "look for", "current_gloss": "寻找", "model": "deepseek-v4-flash", "ts": 1787450508.864896}
+{"ok": true, "gloss": "极其接近", "reason": "ok", "id": "in-close-proximity", "expression": "in close proximity", "current_gloss": "极其接近", "model": "deepseek-v4-flash", "ts": 1787450509.244159}
+{"ok": true, "gloss": "无钥匙出入系统", "reason": "ok", "id": "keyless-entry-system", "expression": "keyless entry system", "current_gloss": "无钥匙出入系统", "model": "deepseek-v4-flash", "ts": 1787450509.3582041}
+{"ok": true, "gloss": "与…一起", "reason": "ok", "id": "in-conjunction-with", "expression": "in conjunction with", "current_gloss": "与…一起", "model": "deepseek-v4-flash", "ts": 1787450509.9612467}
+{"ok": false, "gloss": "以自愿身份；以志愿者身份（发挥作用）", "reason": "释义不够准确，原意强调‘以自愿/志愿者身份’，而非具体‘志愿者工作’。", "id": "in-voluntary-capacity", "expression": "in voluntary capacity", "current_gloss": "在志愿者工作中", "model": "deepseek-v4-flash", "ts": 1787450511.3321095}
+{"ok": true, "gloss": "所得税", "reason": "ok", "id": "income-tax", "expression": "income tax", "current_gloss": "所得税", "model": "deepseek-v4-flash", "ts": 1787450511.3867877}
+{"ok": true, "gloss": "主题演讲", "reason": "ok", "id": "keynote-speech", "expression": "keynote speech", "current_gloss": "主题演讲", "model": "deepseek-v4-flash", "ts": 1787450512.0504553}
+{"ok": true, "gloss": "有需要；销路好", "reason": "ok", "id": "in-demand", "expression": "in demand", "current_gloss": "有需要；销路好", "model": "deepseek-v4-flash", "ts": 1787450512.5730128}
+{"ok": false, "gloss": "主题演讲人；主旨发言人", "reason": "“主讲人”过于笼统，未体现会议主旨演讲的特指含义。", "id": "keynote-speaker", "expression": "keynote speaker", "current_gloss": "主讲人", "model": "deepseek-v4-flash", "ts": 1787450512.8394787}
+{"ok": true, "gloss": "在飞机上的；在飞行中的", "reason": "ok", "id": "in-flight", "expression": "in-flight", "current_gloss": "在飞机上的；在飞行中的", "model": "deepseek-v4-flash", "ts": 1787450513.1370053}
+{"ok": false, "gloss": "运入的货物；进港/到货的装运", "reason": "inbound shipment 指进入的货物或装运，而非内陆运输；当前释义属字面误译。", "id": "inbound-shipment", "expression": "inbound shipment", "current_gloss": "内陆运输", "model": "deepseek-v4-flash", "ts": 1787450513.223008}
+{"ok": true, "gloss": "概括地，笼统地", "reason": "ok", "id": "in-general-terms", "expression": "in general terms", "current_gloss": "概括地，笼统地", "model": "deepseek-v4-flash", "ts": 1787450513.8958302}
+{"ok": true, "gloss": "对……守信/失信", "reason": "ok", "id": "keep-break-faith-with-sth", "expression": "keep/break faith with sth.", "current_gloss": "对……守信/失信", "model": "deepseek-v4-flash", "ts": 1787450514.6644096}
+{"ok": true, "gloss": "完整地", "reason": "ok", "id": "in-its-entirety", "expression": "in its entirety", "current_gloss": "完整地", "model": "deepseek-v4-flash", "ts": 1787450514.9311552}
+{"ok": true, "gloss": "告知某人某事", "reason": "ok", "id": "inform-sb-of-sth", "expression": "inform sb. of sth.", "current_gloss": "告知某人某事", "model": "deepseek-v4-flash", "ts": 1787450514.9355862}
+{"ok": true, "gloss": "在…方面增加", "reason": "ok", "id": "increase-in", "expression": "increase in", "current_gloss": "在…方面增加", "model": "deepseek-v4-flash", "ts": 1787450515.5474818}
+{"ok": true, "gloss": "语言能力", "reason": "ok", "id": "language-skills", "expression": "language skills", "current_gloss": "语言能力", "model": "deepseek-v4-flash", "ts": 1787450516.8225787}
+{"ok": true, "gloss": "即开型彩票", "reason": "ok", "id": "instant-game", "expression": "instant game", "current_gloss": "即开型彩票", "model": "deepseek-v4-flash", "ts": 1787450517.222793}
+{"ok": false, "gloss": "全额地；完整地；全部地", "reason": "释义过于名词化且缺少'完整地'义项，不够准确完整。", "id": "in-full", "expression": "in full", "current_gloss": "全额", "model": "deepseek-v4-flash", "ts": 1787450517.233003}
+{"ok": false, "gloss": "拖沓；变缓；拖延", "reason": "lag on在例句中意为“变得拖沓”，而非“滞后于”，原释义有误导。", "id": "lag-on", "expression": "lag on", "current_gloss": "拖沓；滞后于", "model": "deepseek-v4-flash", "ts": 1787450517.5002203}
+{"ok": true, "gloss": "大规模的，大型的", "reason": "ok", "id": "large-scale", "expression": "large-scale", "current_gloss": "大规模的，大型的", "model": "deepseek-v4-flash", "ts": 1787450518.49691}
+{"ok": false, "gloss": "找到工作；获得职位", "reason": "“落实工作”未体现“land”表示“成功获得”的常见含义，应译为“找到/获得工作”。", "id": "land-jobs", "expression": "land jobs", "current_gloss": "落实工作", "model": "deepseek-v4-flash", "ts": 1787450518.7593765}
+{"ok": true, "gloss": "为了做（某事）", "reason": "ok", "id": "in-order-to-do", "expression": "in order to do", "current_gloss": "为了做（某事）", "model": "deepseek-v4-flash", "ts": 1787450519.0611634}
+{"ok": true, "gloss": "为某人辩护", "reason": "ok", "id": "in-one-s-defense", "expression": "in one’s defense", "current_gloss": "为某人辩护", "model": "deepseek-v4-flash", "ts": 1787450519.5701706}
+{"ok": false, "gloss": "排队；排成一行", "reason": "原释义“成一直线”过于字面，且缺少托业中常见的“排队”义项，易误导。", "id": "in-line", "expression": "in line", "current_gloss": "成一队；成一直线", "model": "deepseek-v4-flash", "ts": 1787450520.3071477}
+{"ok": true, "gloss": "代替，而不是…", "reason": "ok", "id": "instead-of", "expression": "instead of", "current_gloss": "代替，而不是…", "model": "deepseek-v4-flash", "ts": 1787450520.316784}
+{"ok": true, "gloss": "在…范围内", "reason": "ok", "id": "insofar-as", "expression": "insofar as", "current_gloss": "在…范围内", "model": "deepseek-v4-flash", "ts": 1787450520.3355455}
+{"ok": true, "gloss": "特别，尤其", "reason": "ok", "id": "in-particular", "expression": "in particular", "current_gloss": "特别，尤其", "model": "deepseek-v4-flash", "ts": 1787450520.7727377}
+{"ok": true, "gloss": "亲自", "reason": "ok", "id": "in-person", "expression": "in person", "current_gloss": "亲自", "model": "deepseek-v4-flash", "ts": 1787450522.3452616}
+{"ok": true, "gloss": "财务主管", "reason": "ok", "id": "lead-accountant", "expression": "lead accountant", "current_gloss": "财务主管", "model": "deepseek-v4-flash", "ts": 1787450522.5354536}
+{"ok": true, "gloss": "解雇", "reason": "ok", "id": "lay-off", "expression": "lay off", "current_gloss": "解雇", "model": "deepseek-v4-flash", "ts": 1787450523.0621536}
+{"ok": true, "gloss": "打算", "reason": "ok", "id": "intend-to", "expression": "intend to", "current_gloss": "打算", "model": "deepseek-v4-flash", "ts": 1787450523.7606144}
+{"ok": true, "gloss": "打算；专心于", "reason": "ok", "id": "intent-on", "expression": "intent on", "current_gloss": "打算；专心于", "model": "deepseek-v4-flash", "ts": 1787450524.2808542}
+{"ok": true, "gloss": "利率", "reason": "ok", "id": "interest-rate", "expression": "interest rate", "current_gloss": "利率", "model": "deepseek-v4-flash", "ts": 1787450524.4280357}
+{"ok": false, "gloss": "有点儿，有几分；种类，类型", "reason": "current_gloss只涵盖副词义项，缺少“种类”义项，在例句中实际指“某种/哪种”，不够完整。", "id": "kind-of", "expression": "kind of", "current_gloss": "有点儿，有几分", "model": "deepseek-v4-flash", "ts": 1787450524.4728386}
+{"ok": false, "gloss": "制定；布置，陈列；花费；详细说明", "reason": "缺少商务常用义项'花费'和'展示/陈列'，故不完整。", "id": "lay-out", "expression": "lay out", "current_gloss": "制定；安排，布置，规划", "model": "deepseek-v4-flash", "ts": 1787450525.2145307}
+{"ok": true, "gloss": "关于", "reason": "ok", "id": "in-regard-to", "expression": "in regard to", "current_gloss": "关于", "model": "deepseek-v4-flash", "ts": 1787450525.6304042}
+{"ok": false, "gloss": "主演；主角演员", "reason": "原释义“男主角”限定了性别，而 lead actor 通常泛指主演或主角，不分男女。", "id": "lead-actor", "expression": "lead actor", "current_gloss": "男主角", "model": "deepseek-v4-flash", "ts": 1787450526.2039738}
+{"ok": true, "gloss": "律政人员，法务官", "reason": "ok", "id": "legal-officer", "expression": "legal officer", "current_gloss": "律政人员，法务官", "model": "deepseek-v4-flash", "ts": 1787450526.610597}
+{"ok": true, "gloss": "代替", "reason": "ok", "id": "in-place-of", "expression": "in place of", "current_gloss": "代替", "model": "deepseek-v4-flash", "ts": 1787450527.081625}
+{"ok": true, "gloss": "室内装潢师", "reason": "ok", "id": "interior-decorator", "expression": "interior decorator", "current_gloss": "室内装潢师", "model": "deepseek-v4-flash", "ts": 1787450528.4916966}
+{"ok": true, "gloss": "即开型彩票玩家", "reason": "ok", "id": "instant-player", "expression": "instant player", "current_gloss": "即开型彩票玩家", "model": "deepseek-v4-flash", "ts": 1787450528.5827215}
+{"ok": true, "gloss": "回答，作为对…的答复；响应", "reason": "ok", "id": "in-response-to", "expression": "in response to", "current_gloss": "回答，作为对…的答复；响应", "model": "deepseek-v4-flash", "ts": 1787450528.7190964}
+{"ok": true, "gloss": "国际银行法", "reason": "ok", "id": "international-banking-law", "expression": "international banking law", "current_gloss": "国际银行法", "model": "deepseek-v4-flash", "ts": 1787450528.899297}
+{"ok": true, "gloss": "国际政治局势", "reason": "ok", "id": "international-political-landscape", "expression": "international political landscape", "current_gloss": "国际政治局势", "model": "deepseek-v4-flash", "ts": 1787450529.9720192}
+{"ok": true, "gloss": "法定代理人", "reason": "ok", "id": "legal-representative", "expression": "legal representative", "current_gloss": "法定代理人", "model": "deepseek-v4-flash", "ts": 1787450530.0669124}
+{"ok": false, "gloss": "留下；忘带；把...抛在后面；超过", "reason": "原释义'落后；在后面'过于字面且不准确，'leave behind'主动意为'留下'或'超过'，缺少常见义项。", "id": "leave-behind", "expression": "leave behind", "current_gloss": "落后；在后面", "model": "deepseek-v4-flash", "ts": 1787450530.3207905}
+{"ok": true, "gloss": "尽管…，不管…", "reason": "ok", "id": "in-spite-of", "expression": "in spite of", "current_gloss": "尽管…，不管…", "model": "deepseek-v4-flash", "ts": 1787450530.8065035}
+{"ok": true, "gloss": "向…伸出援助之手", "reason": "ok", "id": "lend-a-helping-hand-to", "expression": "lend a helping hand to", "current_gloss": "向…伸出援助之手", "model": "deepseek-v4-flash", "ts": 1787450531.5188422}
+{"ok": true, "gloss": "空闲时间", "reason": "ok", "id": "leisure-time", "expression": "leisure time", "current_gloss": "空闲时间", "model": "deepseek-v4-flash", "ts": 1787450531.9662538}
+{"ok": true, "gloss": "为了…的最大利益", "reason": "ok", "id": "in-the-best-interests-of", "expression": "in the best interests of", "current_gloss": "为了…的最大利益", "model": "deepseek-v4-flash", "ts": 1787450532.0601208}
+{"ok": true, "gloss": "室内装修", "reason": "ok", "id": "interior-fitting", "expression": "interior fitting", "current_gloss": "室内装修", "model": "deepseek-v4-flash", "ts": 1787450532.16799}
+{"ok": true, "gloss": "在那种情况下", "reason": "ok", "id": "in-that-case", "expression": "in that case", "current_gloss": "在那种情况下", "model": "deepseek-v4-flash", "ts": 1787450532.3223221}
+{"ok": true, "gloss": "帮助某人", "reason": "ok", "id": "lend-sb-a-hand", "expression": "lend sb. a hand", "current_gloss": "帮助某人", "model": "deepseek-v4-flash", "ts": 1787450532.6202672}
+{"ok": true, "gloss": "投资技术", "reason": "ok", "id": "investing-technique", "expression": "investing technique", "current_gloss": "投资技术", "model": "deepseek-v4-flash", "ts": 1787450532.6232758}
+{"ok": false, "gloss": "投资组合", "reason": "“投资业务”有误导，portfolio 意为组合，释义应仅保留“投资组合”。", "id": "investment-portfolio", "expression": "investment portfolio", "current_gloss": "投资业务，投资 组合", "model": "deepseek-v4-flash", "ts": 1787450533.9031577}
+{"ok": true, "gloss": "比…少", "reason": "ok", "id": "less-than", "expression": "less than", "current_gloss": "比…少", "model": "deepseek-v4-flash", "ts": 1787450534.1952786}
+{"ok": false, "gloss": "关于，涉及；与…相比", "reason": "缺少常用的“与…相比”义项，在托业比较类语境中会理解不足。", "id": "in-relation-to", "expression": "in relation to", "current_gloss": "关于，涉及", "model": "deepseek-v4-flash", "ts": 1787450535.4094307}
+{"ok": false, "gloss": "在白天；在一天之中", "reason": "“当天”易与on that day混淆，in the day更常表示“在白天”或“在一天内”。", "id": "in-the-day", "expression": "in the day", "current_gloss": "白天；当天", "model": "deepseek-v4-flash", "ts": 1787450539.4554014}
+{"ok": true, "gloss": "现场检查", "reason": "ok", "id": "onsite-inspection", "expression": "onsite inspection", "current_gloss": "现场检查", "model": "deepseek-v4-flash", "ts": 1787450541.1183321}
+{"ok": true, "gloss": "预订", "reason": "ok", "id": "make-reservations", "expression": "make reservations", "current_gloss": "预订", "model": "deepseek-v4-flash", "ts": 1787450541.1798975}
+{"ok": true, "gloss": "净收益", "reason": "ok", "id": "net-income", "expression": "net income", "current_gloss": "净收益", "model": "deepseek-v4-flash", "ts": 1787450541.7641664}
+{"ok": true, "gloss": "充分利用", "reason": "ok", "id": "make-the-most-of", "expression": "make the most of", "current_gloss": "充分利用", "model": "deepseek-v4-flash", "ts": 1787450542.419505}
+{"ok": true, "gloss": "既不……也不……", "reason": "ok", "id": "neither-nor", "expression": "neither...nor...", "current_gloss": "既不……也不……", "model": "deepseek-v4-flash", "ts": 1787450542.4230773}
+{"ok": true, "gloss": "持续的；正在进行的", "reason": "ok", "id": "on-going", "expression": "on-going", "current_gloss": "持续的；正在进行的", "model": "deepseek-v4-flash", "ts": 1787450542.6651726}
+{"ok": true, "gloss": "确保；查明", "reason": "ok", "id": "make-sure", "expression": "make sure", "current_gloss": "确保；查明", "model": "deepseek-v4-flash", "ts": 1787450542.6982453}
+{"ok": true, "gloss": "几乎不可能", "reason": "ok", "id": "next-to-impossible-almost-impossible", "expression": "next to impossible(= almost impossible)", "current_gloss": "几乎不可能", "model": "deepseek-v4-flash", "ts": 1787450543.3153534}
+{"ok": false, "gloss": "浏览；检查；审阅", "reason": "“翻阅”仅侧重快速浏览，缺少商务语境中“仔细检查、审阅”的核心义项，不够完整。", "id": "look-over", "expression": "look over", "current_gloss": "翻阅", "model": "deepseek-v4-flash", "ts": 1787450543.6446962}
+{"ok": true, "gloss": "开始营业", "reason": "ok", "id": "open-for-business", "expression": "open for business", "current_gloss": "开始营业", "model": "deepseek-v4-flash", "ts": 1787450543.9218345}
+{"ok": true, "gloss": "下定决心", "reason": "ok", "id": "make-up-one-s-mind", "expression": "make up one’s mind", "current_gloss": "下定决心", "model": "deepseek-v4-flash", "ts": 1787450544.7547793}
+{"ok": true, "gloss": "无疑，毋庸置疑", "reason": "ok", "id": "no-doubt", "expression": "no doubt", "current_gloss": "无疑，毋庸置疑", "model": "deepseek-v4-flash", "ts": 1787450544.80237}
+{"ok": true, "gloss": "露天的", "reason": "ok", "id": "open-air", "expression": "open-air", "current_gloss": "露天的", "model": "deepseek-v4-flash", "ts": 1787450544.926247}
+{"ok": false, "gloss": "指望，依靠；展望，关注", "reason": "“look to”常见义项为“指望/依靠”或“展望/关注”，而非“寻找”。", "id": "look-to", "expression": "look to", "current_gloss": "寻找", "model": "deepseek-v4-flash", "ts": 1787450544.9644341}
+{"ok": true, "gloss": "无附带条件", "reason": "ok", "id": "no-strings-attached", "expression": "no strings attached", "current_gloss": "无附带条件", "model": "deepseek-v4-flash", "ts": 1787450545.9485075}
+{"ok": true, "gloss": "设法做成某事", "reason": "ok", "id": "manage-to-do", "expression": "manage to do", "current_gloss": "设法做成某事", "model": "deepseek-v4-flash", "ts": 1787450547.006807}
+{"ok": false, "gloss": "让路；为…腾出空间", "reason": "原释义偏字面，缺少商务场景下‘腾出空间’的常见用法", "id": "make-way-for", "expression": "make way for", "current_gloss": "让路，为…开 路", "model": "deepseek-v4-flash", "ts": 1787450547.3719978}
+{"ok": true, "gloss": "不失时机，抓紧时间", "reason": "ok", "id": "lose-no-time", "expression": "lose no time", "current_gloss": "不失时机，抓紧时间", "model": "deepseek-v4-flash", "ts": 1787450547.6271582}
+{"ok": true, "gloss": "开场白", "reason": "ok", "id": "opening-remark", "expression": "opening remark", "current_gloss": "开场白", "model": "deepseek-v4-flash", "ts": 1787450548.2679358}
+{"ok": true, "gloss": "总经理；常务董事", "reason": "ok", "id": "managing-director", "expression": "managing director", "current_gloss": "总经理；常务董事", "model": "deepseek-v4-flash", "ts": 1787450548.4148397}
+{"ok": true, "gloss": "亏损的", "reason": "ok", "id": "loss-making", "expression": "loss-making", "current_gloss": "亏损的", "model": "deepseek-v4-flash", "ts": 1787450549.2780743}
+{"ok": true, "gloss": "操作方法", "reason": "ok", "id": "operating-method", "expression": "operating method", "current_gloss": "操作方法", "model": "deepseek-v4-flash", "ts": 1787450549.4279852}
+{"ok": true, "gloss": "非技术性的", "reason": "ok", "id": "non-technical", "expression": "non-technical", "current_gloss": "非技术性的", "model": "deepseek-v4-flash", "ts": 1787450549.5821805}
+{"ok": true, "gloss": "不仅…，而且…", "reason": "ok", "id": "not-only-but-also", "expression": "not only... but also...", "current_gloss": "不仅…，而且…", "model": "deepseek-v4-flash", "ts": 1787450549.7144704}
+{"ok": true, "gloss": "失物招领处", "reason": "ok", "id": "lost-and-found-office", "expression": "lost and found office", "current_gloss": "失物招领处", "model": "deepseek-v4-flash", "ts": 1787450550.5871735}
+{"ok": false, "gloss": "调查；研究", "reason": "缺少'研究'这一常用义项，需补充。", "id": "look-into", "expression": "look into", "current_gloss": "调查", "model": "deepseek-v4-flash", "ts": 1787450550.7132545}
+{"ok": true, "gloss": "不仅……而且……", "reason": "ok", "id": "not-only-but-also-2", "expression": "not only...but also...", "current_gloss": "不仅……而且……", "model": "deepseek-v4-flash", "ts": 1787450550.7901497}
+{"ok": true, "gloss": "电源总开关", "reason": "ok", "id": "master-power-switch", "expression": "master power switch", "current_gloss": "电源总开关", "model": "deepseek-v4-flash", "ts": 1787450551.34424}
+{"ok": true, "gloss": "操作系统", "reason": "ok", "id": "operating-system", "expression": "operating system", "current_gloss": "操作系统", "model": "deepseek-v4-flash", "ts": 1787450551.8876135}
+{"ok": true, "gloss": "媒体批评", "reason": "ok", "id": "media-criticism", "expression": "media criticism", "current_gloss": "媒体批评", "model": "deepseek-v4-flash", "ts": 1787450551.9237604}
+{"ok": false, "gloss": "操作规程；工作程序", "reason": "“操作步骤”侧重具体步骤，而 procedures 在商务语境中更强调正式规程，建议译为“操作规程”以覆盖完整。", "id": "operating-procedures", "expression": "operating procedures", "current_gloss": "操作步骤", "model": "deepseek-v4-flash", "ts": 1787450551.9298182}
+{"ok": true, "gloss": "直到…才", "reason": "ok", "id": "not-until", "expression": "not...until", "current_gloss": "直到…才", "model": "deepseek-v4-flash", "ts": 1787450552.1341643}
+{"ok": true, "gloss": "工资低的", "reason": "ok", "id": "low-paying", "expression": "low-paying", "current_gloss": "工资低的", "model": "deepseek-v4-flash", "ts": 1787450553.4321582}
+{"ok": true, "gloss": "低收入的", "reason": "ok", "id": "low-income", "expression": "low-income", "current_gloss": "低收入的", "model": "deepseek-v4-flash", "ts": 1787450553.7251008}
+{"ok": false, "gloss": "苹果公司的操作系统，macOS的前身", "reason": "原释义与OS X实际含义完全不符，无法用于托业商务语境。", "id": "os-x", "expression": "OS X", "current_gloss": "平台上操作Adobe", "model": "deepseek-v4-flash", "ts": 1787450553.7329884}
+{"ok": true, "gloss": "符合标准", "reason": "ok", "id": "meet-the-criteria", "expression": "meet the criteria", "current_gloss": "符合标准", "model": "deepseek-v4-flash", "ts": 1787450553.734052}
+{"ok": true, "gloss": "达到某人的目标", "reason": "ok", "id": "meet-one-s-goal", "expression": "meet one’s goal", "current_gloss": "达到某人的目标", "model": "deepseek-v4-flash", "ts": 1787450553.8746445}
+{"ok": true, "gloss": "有很高的价值，宝贵的", "reason": "ok", "id": "of-great-value", "expression": "of great value", "current_gloss": "有很高的价值，宝贵的", "model": "deepseek-v4-flash", "ts": 1787450554.6043625}
+{"ok": true, "gloss": "露天场所，空地", "reason": "ok", "id": "open-space", "expression": "open space", "current_gloss": "露天场所，空地", "model": "deepseek-v4-flash", "ts": 1787450555.1127322}
+{"ok": false, "gloss": "豪华汽车", "reason": "luxury car不仅指轿车，还包括豪华SUV等，应译为‘豪华汽车’更准确。", "id": "luxury-car", "expression": "luxury car", "current_gloss": "豪华 轿车", "model": "deepseek-v4-flash", "ts": 1787450555.8761904}
+{"ok": true, "gloss": "有价值的", "reason": "ok", "id": "of-value", "expression": "of value", "current_gloss": "有价值的", "model": "deepseek-v4-flash", "ts": 1787450555.9554071}
+{"ok": true, "gloss": "满足严格的要求", "reason": "ok", "id": "meet-the-strict-requirements", "expression": "meet the strict requirements", "current_gloss": "满足严格的要求", "model": "deepseek-v4-flash", "ts": 1787450555.9670029}
+{"ok": true, "gloss": "禁止入内", "reason": "ok", "id": "off-limits", "expression": "off limits", "current_gloss": "禁止入内", "model": "deepseek-v4-flash", "ts": 1787450556.1073203}
+{"ok": false, "gloss": "在户外；公开地", "reason": "释义仅保留“露天”义项，缺少商务阅读中更常见的“公开地/公开”义项。", "id": "out-in-the-open", "expression": "out in the open", "current_gloss": "露天的", "model": "deepseek-v4-flash", "ts": 1787450556.205258}
+{"ok": true, "gloss": "忠实客户", "reason": "ok", "id": "loyal-customer", "expression": "loyal customer", "current_gloss": "忠实客户", "model": "deepseek-v4-flash", "ts": 1787450556.2644854}
+{"ok": true, "gloss": "会议室", "reason": "ok", "id": "meeting-room", "expression": "meeting room", "current_gloss": "会议室", "model": "deepseek-v4-flash", "ts": 1787450556.2781463}
+{"ok": true, "gloss": "向B提及A", "reason": "ok", "id": "mention-a-to-b", "expression": "mention A to B", "current_gloss": "向B提及A", "model": "deepseek-v4-flash", "ts": 1787450557.842467}
+{"ok": true, "gloss": "违反；冒犯", "reason": "ok", "id": "offence-against", "expression": "offence against", "current_gloss": "违反；冒犯", "model": "deepseek-v4-flash", "ts": 1787450558.1211326}
+{"ok": true, "gloss": "出差", "reason": "ok", "id": "make-a-business-trip", "expression": "make a business trip", "current_gloss": "出差", "model": "deepseek-v4-flash", "ts": 1787450558.2890303}
+{"ok": true, "gloss": "提到/说明……", "reason": "ok", "id": "mention-that-clause", "expression": "mention + that-clause", "current_gloss": "提到/说明……", "model": "deepseek-v4-flash", "ts": 1787450558.562991}
+{"ok": true, "gloss": "出价，投标", "reason": "ok", "id": "make-a-bid", "expression": "make a bid", "current_gloss": "出价，投标", "model": "deepseek-v4-flash", "ts": 1787450558.7646866}
+{"ok": true, "gloss": "多数票决标准", "reason": "ok", "id": "majority-vote-standard", "expression": "majority vote standard", "current_gloss": "多数票决标准", "model": "deepseek-v4-flash", "ts": 1787450559.1186073}
+{"ok": true, "gloss": "中等收入者", "reason": "ok", "id": "middle-income-earners", "expression": "middle-income earners", "current_gloss": "中等收入者", "model": "deepseek-v4-flash", "ts": 1787450559.3474352}
+{"ok": true, "gloss": "做决定；下决心", "reason": "ok", "id": "make-a-decision", "expression": "make a decision", "current_gloss": "做决定；下决心", "model": "deepseek-v4-flash", "ts": 1787450559.6368885}
+{"ok": true, "gloss": "把A提供给B", "reason": "ok", "id": "offer-a-to-b", "expression": "offer A to B", "current_gloss": "把A提供给B", "model": "deepseek-v4-flash", "ts": 1787450560.1453924}
+{"ok": true, "gloss": "办公时间", "reason": "ok", "id": "office-hours", "expression": "office hours", "current_gloss": "办公时间", "model": "deepseek-v4-flash", "ts": 1787450560.249778}
+{"ok": true, "gloss": "捐赠", "reason": "ok", "id": "make-a-donation", "expression": "make a donation", "current_gloss": "捐赠", "model": "deepseek-v4-flash", "ts": 1787450560.691753}
+{"ok": true, "gloss": "旧式的；传统的", "reason": "ok", "id": "old-fashioned", "expression": "old-fashioned", "current_gloss": "旧式的；传统的", "model": "deepseek-v4-flash", "ts": 1787450560.9372227}
+{"ok": true, "gloss": "给B提供A", "reason": "ok", "id": "offer-b-a", "expression": "offer B A", "current_gloss": "给B提供A", "model": "deepseek-v4-flash", "ts": 1787450561.1516864}
+{"ok": true, "gloss": "最低余额", "reason": "ok", "id": "minimum-balance", "expression": "minimum balance", "current_gloss": "最低余额", "model": "deepseek-v4-flash", "ts": 1787450561.1833613}
+{"ok": true, "gloss": "为…做出了巨大的贡献", "reason": "ok", "id": "make-a-great-contribution-to", "expression": "make a great contribution to", "current_gloss": "为…做出了巨大的贡献", "model": "deepseek-v4-flash", "ts": 1787450561.8920732}
+{"ok": true, "gloss": "错失良机", "reason": "ok", "id": "miss-the-boat-bus", "expression": "miss the boat/bus", "current_gloss": "错失良机", "model": "deepseek-v4-flash", "ts": 1787450562.663181}
+{"ok": true, "gloss": "每天", "reason": "ok", "id": "on-a-daily-basis", "expression": "on a daily basis", "current_gloss": "每天", "model": "deepseek-v4-flash", "ts": 1787450562.6932724}
+{"ok": true, "gloss": "移动通信", "reason": "ok", "id": "mobile-communications", "expression": "mobile communications", "current_gloss": "移动通信", "model": "deepseek-v4-flash", "ts": 1787450563.7309787}
+{"ok": true, "gloss": "定期地", "reason": "ok", "id": "on-a-regular-basis", "expression": "on a regular basis", "current_gloss": "定期地", "model": "deepseek-v4-flash", "ts": 1787450564.1737938}
+{"ok": false, "gloss": "迷你吧；客房内提供收费饮料零食的小冰箱", "reason": "“小冰柜”过于字面且未体现付费消费与饮料零食含义，托业场景中常指酒店迷你吧。", "id": "mini-bar", "expression": "mini bar", "current_gloss": "小冰柜", "model": "deepseek-v4-flash", "ts": 1787450564.9391856}
+{"ok": true, "gloss": "混乱，错误", "reason": "ok", "id": "mix-up", "expression": "mix-up", "current_gloss": "混乱，错误", "model": "deepseek-v4-flash", "ts": 1787450566.2893527}
+{"ok": true, "gloss": "考察，巡游，周游", "reason": "ok", "id": "make-a-tour-of", "expression": "make a tour of", "current_gloss": "考察，巡游，周游", "model": "deepseek-v4-flash", "ts": 1787450566.3101277}
+{"ok": false, "gloss": "交通方式；运输方式", "reason": "“modes”指方式而非工具，原释义字面化，应译作“交通方式”。", "id": "modes-of-transportation", "expression": "modes of transportation", "current_gloss": "交通工具", "model": "deepseek-v4-flash", "ts": 1787450567.9544263}
+{"ok": true, "gloss": "由于，因 为", "reason": "ok", "id": "on-account-of", "expression": "on account of", "current_gloss": "由于，因 为", "model": "deepseek-v4-flash", "ts": 1787450568.6500497}
+{"ok": true, "gloss": "奥运会规格的", "reason": "ok", "id": "olympic-sized", "expression": "Olympic-sized", "current_gloss": "奥运会规格的", "model": "deepseek-v4-flash", "ts": 1787450569.276751}
+{"ok": true, "gloss": "提出要求", "reason": "ok", "id": "make-a-request", "expression": "make a request", "current_gloss": "提出要求", "model": "deepseek-v4-flash", "ts": 1787450569.4149036}
+{"ok": false, "gloss": "单独地；逐个地", "reason": "原释义“以个人身份”不准确，该短语在商务场景中常表“逐个别地/分别地”，且例句与短语不匹配。", "id": "on-an-individual-basis", "expression": "on an individual basis", "current_gloss": "以个人身份", "model": "deepseek-v4-flash", "ts": 1787450569.6252615}
+{"ok": true, "gloss": "做改变", "reason": "ok", "id": "make-alterations", "expression": "make alterations", "current_gloss": "做改变", "model": "deepseek-v4-flash", "ts": 1787450570.8549857}
+{"ok": true, "gloss": "更有经验的", "reason": "ok", "id": "more-experienced", "expression": "more-experienced", "current_gloss": "更有经验的", "model": "deepseek-v4-flash", "ts": 1787450571.3272038}
+{"ok": false, "gloss": "沉浸于，专心致志于，对…入迷", "reason": "在…中迷路非托业常用义，易误导；应为沉浸/专注义", "id": "lose-oneself-in", "expression": "lose oneself in", "current_gloss": "在…中迷失自己，对…入迷；在…中迷路", "model": "deepseek-v4-flash", "ts": 1787450571.8741}
+{"ok": true, "gloss": "对…作出贡献", "reason": "ok", "id": "make-contributions-to", "expression": "make contributions to", "current_gloss": "对…作出贡献", "model": "deepseek-v4-flash", "ts": 1787450572.332209}
+{"ok": true, "gloss": "莫尔斯码", "reason": "ok", "id": "morse-code", "expression": "Morse code", "current_gloss": "莫尔斯码", "model": "deepseek-v4-flash", "ts": 1787450572.6847985}
+{"ok": true, "gloss": "代表…", "reason": "ok", "id": "on-behalf-of", "expression": "on behalf of", "current_gloss": "代表…", "model": "deepseek-v4-flash", "ts": 1787450573.1067743}
+{"ok": true, "gloss": "存档，归档", "reason": "ok", "id": "on-file", "expression": "on file", "current_gloss": "存档，归档", "model": "deepseek-v4-flash", "ts": 1787450573.5159037}
+{"ok": true, "gloss": "独立地，独自地", "reason": "ok", "id": "on-one-s-own", "expression": "on one’s own", "current_gloss": "独立地，独自地", "model": "deepseek-v4-flash", "ts": 1787450573.959973}
+{"ok": true, "gloss": "发表意见", "reason": "ok", "id": "make-comments", "expression": "make comments", "current_gloss": "发表意见", "model": "deepseek-v4-flash", "ts": 1787450574.043132}
+{"ok": true, "gloss": "另一方面", "reason": "ok", "id": "on-the-other-hand", "expression": "on the other hand", "current_gloss": "另一方面", "model": "deepseek-v4-flash", "ts": 1787450575.047564}
+{"ok": true, "gloss": "飞黄腾达，发财致富；获得成功", "reason": "ok", "id": "make-it-big", "expression": "make it big", "current_gloss": "飞黄腾达，发财致富；获得成功", "model": "deepseek-v4-flash", "ts": 1787450575.4017873}
+{"ok": true, "gloss": "某人首次亮相", "reason": "ok", "id": "make-one-s-debut", "expression": "make one’s debut", "current_gloss": "某人首次亮相", "model": "deepseek-v4-flash", "ts": 1787450575.7991562}
+{"ok": true, "gloss": "多功能的", "reason": "ok", "id": "multi-functional", "expression": "multi-functional", "current_gloss": "多功能的", "model": "deepseek-v4-flash", "ts": 1787450576.5227728}
+{"ok": false, "gloss": "采取行动；出发，动身", "reason": "缺少‘出发，动身’这一在商务旅行/对话中常见的义项", "id": "make-a-move", "expression": "make a move", "current_gloss": "采取行动，开始行动", "model": "deepseek-v4-flash", "ts": 1787450577.052701}
+{"ok": true, "gloss": "汇票", "reason": "ok", "id": "money-order", "expression": "money order", "current_gloss": "汇票", "model": "deepseek-v4-flash", "ts": 1787450577.1304715}
+{"ok": false, "gloss": "成功做到；及时到达", "reason": "原释义'赶上'只覆盖了'及时到达'义项，缺少'成功做到'这一更常见的商务用法。", "id": "make-it", "expression": "make it", "current_gloss": "赶上", "model": "deepseek-v4-flash", "ts": 1787450577.6650143}
+{"ok": true, "gloss": "多才多艺的；有多元化才能的", "reason": "ok", "id": "multi-skilled", "expression": "multi-skilled", "current_gloss": "多才多艺的；有多元化才能的", "model": "deepseek-v4-flash", "ts": 1787450577.7039883}
+{"ok": true, "gloss": "接近于，濒临于", "reason": "ok", "id": "on-the-verge-of", "expression": "on the verge of", "current_gloss": "接近于，濒临于", "model": "deepseek-v4-flash", "ts": 1787450578.5575845}
+{"ok": false, "gloss": "成名，崭露头角，留下印记", "reason": "“成名”未能涵盖“取得成功、产生影响”等常见义项，过于窄化。", "id": "make-one-s-mark", "expression": "make one’s mark", "current_gloss": "成名", "model": "deepseek-v4-flash", "ts": 1787450578.9652338}
+{"ok": true, "gloss": "按时", "reason": "ok", "id": "on-time", "expression": "on time", "current_gloss": "按时", "model": "deepseek-v4-flash", "ts": 1787450579.0513883}
+{"ok": true, "gloss": "姓名标签；名牌", "reason": "ok", "id": "name-tag", "expression": "name tag", "current_gloss": "姓名标签；名牌", "model": "deepseek-v4-flash", "ts": 1787450579.0664146}
+{"ok": true, "gloss": "公开；发表，发布", "reason": "ok", "id": "make-public", "expression": "make public", "current_gloss": "公开；发表，发布", "model": "deepseek-v4-flash", "ts": 1787450579.9326348}
+{"ok": true, "gloss": "共同基金", "reason": "ok", "id": "mutual-fund", "expression": "mutual fund", "current_gloss": "共同基金", "model": "deepseek-v4-flash", "ts": 1787450580.8797202}
+{"ok": true, "gloss": "去；前往；前进", "reason": "ok", "id": "make-one-s-way-to", "expression": "make one’s way to", "current_gloss": "去；前往；前进", "model": "deepseek-v4-flash", "ts": 1787450582.3202145}
+{"ok": true, "gloss": "除…外；在…之上", "reason": "ok", "id": "on-top-of", "expression": "on top of", "current_gloss": "除…外；在…之上", "model": "deepseek-v4-flash", "ts": 1787450585.0339613}
+{"ok": true, "gloss": "当场", "reason": "ok", "id": "on-the-spot", "expression": "on the spot", "current_gloss": "当场", "model": "deepseek-v4-flash", "ts": 1787450592.1103919}
+{"ok": false, "gloss": "动议；运动（QM-208为编号）", "reason": "当前释义与表达式无关，Motion常见义为动议/运动。", "id": "motion-qm-208", "expression": "Motion QM-208", "current_gloss": "安全指南 恭喜您购买了明良Quik", "model": "deepseek-v4-flash", "ts": 1787450592.4067743}
+{"ok": true, "gloss": "未偿贷款", "reason": "ok", "id": "outstanding-loan", "expression": "outstanding loan", "current_gloss": "未偿贷款", "model": "deepseek-v4-flash", "ts": 1787450593.9832482}
+{"ok": true, "gloss": "邮政编码", "reason": "ok", "id": "postal-code", "expression": "postal code", "current_gloss": "邮政编码", "model": "deepseek-v4-flash", "ts": 1787450594.0456343}
+{"ok": true, "gloss": "阅览室", "reason": "ok", "id": "reading-room", "expression": "reading room", "current_gloss": "阅览室", "model": "deepseek-v4-flash", "ts": 1787450594.3135571}
+{"ok": true, "gloss": "房地产", "reason": "ok", "id": "real-estate", "expression": "real estate", "current_gloss": "房地产", "model": "deepseek-v4-flash", "ts": 1787450594.3907154}
+{"ok": true, "gloss": "销售活动，促销活动", "reason": "ok", "id": "sales-campaign", "expression": "sales campaign", "current_gloss": "销售活动，促销活动", "model": "deepseek-v4-flash", "ts": 1787450594.6753025}
+{"ok": true, "gloss": "邮局", "reason": "ok", "id": "post-office", "expression": "post office", "current_gloss": "邮局", "model": "deepseek-v4-flash", "ts": 1787450595.3328052}
+{"ok": true, "gloss": "预付费的", "reason": "ok", "id": "pre-paid", "expression": "pre-paid", "current_gloss": "预付费的", "model": "deepseek-v4-flash", "ts": 1787450596.0717733}
+{"ok": true, "gloss": "电源", "reason": "ok", "id": "power-source", "expression": "power source", "current_gloss": "电源", "model": "deepseek-v4-flash", "ts": 1787450596.4206264}
+{"ok": true, "gloss": "受到好评，受到极力赞美", "reason": "ok", "id": "receive-rave-reviews", "expression": "receive rave reviews", "current_gloss": "受到好评，受到极力赞美", "model": "deepseek-v4-flash", "ts": 1787450596.4904814}
+{"ok": true, "gloss": "在过去半年里", "reason": "ok", "id": "over-the-last-6-months", "expression": "over the last 6 months", "current_gloss": "在过去半年里", "model": "deepseek-v4-flash", "ts": 1787450596.6903164}
+{"ok": false, "gloss": "债券销售；出售债券", "reason": "sale of bonds 指债券的销售或出售，并非特指公债，且'发行'与'sale'含义有偏差。", "id": "sale-of-bonds", "expression": "sale of bonds", "current_gloss": "发行公债", "model": "deepseek-v4-flash", "ts": 1787450596.7620597}
+{"ok": true, "gloss": "管理费用；间接费用", "reason": "ok", "id": "overhead-cost", "expression": "overhead cost", "current_gloss": "管理费用；间接费用", "model": "deepseek-v4-flash", "ts": 1787450596.7933965}
+{"ok": true, "gloss": "接种疫苗", "reason": "ok", "id": "receive-vaccinations", "expression": "receive vaccinations", "current_gloss": "接种疫苗", "model": "deepseek-v4-flash", "ts": 1787450597.505533}
+{"ok": true, "gloss": "促销", "reason": "ok", "id": "sales-promotion", "expression": "sales promotion", "current_gloss": "促销", "model": "deepseek-v4-flash", "ts": 1787450598.05067}
+{"ok": true, "gloss": "记者招待会，新闻发布会", "reason": "ok", "id": "press-conference", "expression": "press conference", "current_gloss": "记者招待会，新闻发布会", "model": "deepseek-v4-flash", "ts": 1787450598.0647268}
+{"ok": true, "gloss": "新闻 (发布) 稿", "reason": "ok", "id": "press-release", "expression": "press release", "current_gloss": "新闻 (发布) 稿", "model": "deepseek-v4-flash", "ts": 1787450598.3963315}
+{"ok": true, "gloss": "调整自己的节奏，为自己定好速度", "reason": "ok", "id": "pace-oneself", "expression": "pace oneself", "current_gloss": "调整自己的节奏，为自己定好速度", "model": "deepseek-v4-flash", "ts": 1787450598.507888}
+{"ok": false, "gloss": "销售线索；潜在客户", "reason": "“sales lead”在商务英语中常指潜在客户或销售线索，而非单纯的机会，原释义不够准确。", "id": "sales-lead", "expression": "sales lead", "current_gloss": "销售机会", "model": "deepseek-v4-flash", "ts": 1787450598.6607327}
+{"ok": true, "gloss": "销售凭据，购物小票", "reason": "ok", "id": "sales-receipt", "expression": "sales receipt", "current_gloss": "销售凭据，购物小票", "model": "deepseek-v4-flash", "ts": 1787450599.10366}
+{"ok": true, "gloss": "带薪假 期", "reason": "ok", "id": "paid-vacation", "expression": "paid vacation", "current_gloss": "带薪假 期", "model": "deepseek-v4-flash", "ts": 1787450600.1996963}
+{"ok": true, "gloss": "销售代表", "reason": "ok", "id": "sales-representatives", "expression": "sales representatives", "current_gloss": "销售代表", "model": "deepseek-v4-flash", "ts": 1787450600.245217}
+{"ok": false, "gloss": "销售数字；销售额", "reason": "sales figures 通常指销售数据，不仅限于销售额，需补充数字义项。", "id": "sales-figures", "expression": "sales figures", "current_gloss": "销售额", "model": "deepseek-v4-flash", "ts": 1787450600.5944266}
+{"ok": true, "gloss": "常客，老主顾", "reason": "ok", "id": "regular-client", "expression": "regular client", "current_gloss": "常客，老主顾", "model": "deepseek-v4-flash", "ts": 1787450601.183544}
+{"ok": true, "gloss": "储蓄账户", "reason": "ok", "id": "savings-account", "expression": "savings account", "current_gloss": "储蓄账户", "model": "deepseek-v4-flash", "ts": 1787450601.6980333}
+{"ok": true, "gloss": "停车场", "reason": "ok", "id": "parking-lot", "expression": "parking lot", "current_gloss": "停车场", "model": "deepseek-v4-flash", "ts": 1787450602.463692}
+{"ok": true, "gloss": "正常价格", "reason": "ok", "id": "regular-price", "expression": "regular price", "current_gloss": "正常价格", "model": "deepseek-v4-flash", "ts": 1787450602.4869316}
+{"ok": false, "gloss": "房车；休闲车；野营车", "reason": "缺少最常用译名“房车”，且“家庭旅游车”易误导", "id": "recreational-vehicle", "expression": "recreational vehicle", "current_gloss": "野营车；活动房屋旅游车；家庭旅游车", "model": "deepseek-v4-flash", "ts": 1787450603.039767}
+{"ok": true, "gloss": "生产成本", "reason": "ok", "id": "production-cost", "expression": "production cost", "current_gloss": "生产成本", "model": "deepseek-v4-flash", "ts": 1787450603.6363156}
+{"ok": true, "gloss": "在某事之前", "reason": "ok", "id": "prior-to-sth", "expression": "prior to sth.", "current_gloss": "在某事之前", "model": "deepseek-v4-flash", "ts": 1787450604.1540594}
+{"ok": true, "gloss": "对B讲述A；把A与B关联", "reason": "ok", "id": "relate-a-to-b", "expression": "relate A to B", "current_gloss": "对B讲述A；把A与B关联", "model": "deepseek-v4-flash", "ts": 1787450604.1571898}
+{"ok": true, "gloss": "停车通行证", "reason": "ok", "id": "parking-pass", "expression": "parking pass", "current_gloss": "停车通行证", "model": "deepseek-v4-flash", "ts": 1787450604.853416}
+{"ok": true, "gloss": "生产线", "reason": "ok", "id": "production-line", "expression": "production line", "current_gloss": "生产线", "model": "deepseek-v4-flash", "ts": 1787450605.336955}
+{"ok": true, "gloss": "座位分配", "reason": "ok", "id": "seating-allocation", "expression": "seating allocation", "current_gloss": "座位分配", "model": "deepseek-v4-flash", "ts": 1787450605.65215}
+{"ok": false, "gloss": "以…为荣；因…感到自豪", "reason": "原释义中“自夸”带有贬义，而该短语主要表示“引以为豪”，在商务语境中易产生误导。", "id": "pride-oneself-on", "expression": "pride oneself on", "current_gloss": "以…自豪；自夸…", "model": "deepseek-v4-flash", "ts": 1787450606.3134654}
+{"ok": true, "gloss": "停车许可证贴纸", "reason": "ok", "id": "parking-permit-sticker", "expression": "parking permit sticker", "current_gloss": "停车许可证贴纸", "model": "deepseek-v4-flash", "ts": 1787450606.355}
+{"ok": true, "gloss": "将…租给", "reason": "ok", "id": "rent-to", "expression": "rent...to", "current_gloss": "将…租给", "model": "deepseek-v4-flash", "ts": 1787450606.5081983}
+{"ok": true, "gloss": "座位安排", "reason": "ok", "id": "seating-arrangement", "expression": "seating arrangement", "current_gloss": "座位安排", "model": "deepseek-v4-flash", "ts": 1787450606.612849}
+{"ok": true, "gloss": "生产线工人", "reason": "ok", "id": "production-line-worker", "expression": "production line worker", "current_gloss": "生产线工人", "model": "deepseek-v4-flash", "ts": 1787450607.8499365}
+{"ok": true, "gloss": "停 车库", "reason": "ok", "id": "parking-garage", "expression": "parking garage", "current_gloss": "停 车库", "model": "deepseek-v4-flash", "ts": 1787450608.1364427}
+{"ok": true, "gloss": "研究和开发", "reason": "ok", "id": "research-and-development", "expression": "research and development", "current_gloss": "研究和开发", "model": "deepseek-v4-flash", "ts": 1787450608.1973095}
+{"ok": true, "gloss": "生产流程", "reason": "ok", "id": "production-process", "expression": "production process", "current_gloss": "生产流程", "model": "deepseek-v4-flash", "ts": 1787450608.910806}
+{"ok": true, "gloss": "保留做某事的权利", "reason": "ok", "id": "reserve-the-right-to", "expression": "reserve the right to", "current_gloss": "保留做某事的权利", "model": "deepseek-v4-flash", "ts": 1787450608.9727752}
+{"ok": true, "gloss": "研究型职位", "reason": "ok", "id": "research-position", "expression": "research position", "current_gloss": "研究型职位", "model": "deepseek-v4-flash", "ts": 1787450609.4227486}
+{"ok": true, "gloss": "利润增长", "reason": "ok", "id": "profit-growth", "expression": "profit growth", "current_gloss": "利润增长", "model": "deepseek-v4-flash", "ts": 1787450609.5467455}
+{"ok": true, "gloss": "非全日制学生", "reason": "ok", "id": "part-time-student", "expression": "part-time student", "current_gloss": "非全日制学生", "model": "deepseek-v4-flash", "ts": 1787450610.0352788}
+{"ok": true, "gloss": "停车费", "reason": "ok", "id": "parking-rates", "expression": "parking rates", "current_gloss": "停车费", "model": "deepseek-v4-flash", "ts": 1787450610.881918}
+{"ok": false, "gloss": "安全许可；保密许可", "reason": "原释义只指调查过程，而 security clearance 在托业中常指获得的许可资格，应译为安全许可。", "id": "security-clearance", "expression": "security clearance", "current_gloss": "安全调查；(对参加秘密工作人员等进行的) 忠诚调查", "model": "deepseek-v4-flash", "ts": 1787450610.910617}
+{"ok": true, "gloss": "参加，参与", "reason": "ok", "id": "participate-in", "expression": "participate in", "current_gloss": "参加，参与", "model": "deepseek-v4-flash", "ts": 1787450610.9674227}
+{"ok": true, "gloss": "导致，引起", "reason": "ok", "id": "result-in", "expression": "result in", "current_gloss": "导致，引起", "model": "deepseek-v4-flash", "ts": 1787450611.9989955}
+{"ok": true, "gloss": "去世", "reason": "ok", "id": "pass-away", "expression": "pass away", "current_gloss": "去世", "model": "deepseek-v4-flash", "ts": 1787450612.085898}
+{"ok": true, "gloss": "诉诸于…，求助于…", "reason": "ok", "id": "resort-to", "expression": "resort to", "current_gloss": "诉诸于…，求助于…", "model": "deepseek-v4-flash", "ts": 1787450612.962421}
+{"ok": false, "gloss": "财产价值；资产价值", "reason": "property在商务语境中多指财产或资产，不局限于房产。", "id": "property-value", "expression": "property value", "current_gloss": "房产价值", "model": "deepseek-v4-flash", "ts": 1787450613.077597}
+{"ok": true, "gloss": "公关；公共关系", "reason": "ok", "id": "public-relations", "expression": "public relations", "current_gloss": "公关；公共关系", "model": "deepseek-v4-flash", "ts": 1787450614.1678011}
+{"ok": true, "gloss": "错过", "reason": "ok", "id": "pass-up", "expression": "pass up", "current_gloss": "错过", "model": "deepseek-v4-flash", "ts": 1787450614.6293645}
+{"ok": true, "gloss": "导致/使得…被…", "reason": "ok", "id": "result-in-being-p-p", "expression": "result in... being p.p.", "current_gloss": "导致/使得…被…", "model": "deepseek-v4-flash", "ts": 1787450614.8362632}
+{"ok": false, "gloss": "财产税；房产税", "reason": "property tax 指对房地产等财产征收的税，仅译作房产税涵盖不全，易误导，宜译为财产税。", "id": "property-tax", "expression": "property tax", "current_gloss": "房产税", "model": "deepseek-v4-flash", "ts": 1787450615.636501}
+{"ok": true, "gloss": "公共部门", "reason": "ok", "id": "public-sector", "expression": "public sector", "current_gloss": "公共部门", "model": "deepseek-v4-flash", "ts": 1787450615.6600587}
+{"ok": false, "gloss": "回答；回应；响应", "reason": "“respond to”在托业中常见义项为“回答/回应/对…作出反应”，仅“回答”不完整", "id": "respond-to", "expression": "respond to", "current_gloss": "回答", "model": "deepseek-v4-flash", "ts": 1787450615.6958125}
+{"ok": false, "gloss": "利润分享；分红", "reason": "“分红”多指股东分红，而profit sharing在托业中常指员工利润分享，需补充。", "id": "profit-sharing", "expression": "profit sharing", "current_gloss": "分红", "model": "deepseek-v4-flash", "ts": 1787450616.2795503}
+{"ok": true, "gloss": "人事处", "reason": "ok", "id": "personnel-section", "expression": "personnel section", "current_gloss": "人事处", "model": "deepseek-v4-flash", "ts": 1787450616.4680798}
+{"ok": true, "gloss": "退休金，退休福利", "reason": "ok", "id": "retirement-packages", "expression": "retirement packages", "current_gloss": "退休金，退休福利", "model": "deepseek-v4-flash", "ts": 1787450617.7271926}
+{"ok": false, "gloss": "转达，转达（消息等）；传递，转交", "reason": "例句中表'转达'，仅'传递'不够准确且不完整", "id": "pass-on", "expression": "pass on", "current_gloss": "传递", "model": "deepseek-v4-flash", "ts": 1787450618.4748857}
+{"ok": true, "gloss": "的上升，…的增加", "reason": "ok", "id": "rise-in", "expression": "rise in...", "current_gloss": "的上升，…的增加", "model": "deepseek-v4-flash", "ts": 1787450618.7589889}
+{"ok": false, "gloss": "使通过；使经受；接通（电话）", "reason": "缺少商务英语中常见的“接通电话”义项，释义不完整。", "id": "put-through", "expression": "put through", "current_gloss": "使通过；使经受", "model": "deepseek-v4-flash", "ts": 1787450619.2191572}
+{"ok": true, "gloss": "特别讨厌的事物", "reason": "ok", "id": "pet-dislike", "expression": "pet dislike", "current_gloss": "特别讨厌的事物", "model": "deepseek-v4-flash", "ts": 1787450619.5976644}
+{"ok": true, "gloss": "酒店按每日计算的房费", "reason": "ok", "id": "room-rate", "expression": "room rate", "current_gloss": "酒店按每日计算的房费", "model": "deepseek-v4-flash", "ts": 1787450619.704315}
+{"ok": false, "gloss": "兼职的；部分时间的；兼职地", "reason": "缺少副词义项，阅读中常见 work part-time", "id": "part-time", "expression": "part-time", "current_gloss": "兼职的", "model": "deepseek-v4-flash", "ts": 1787450620.2719872}
+{"ok": true, "gloss": "将…充分应用", "reason": "ok", "id": "put-to-good-use", "expression": "put...to good use", "current_gloss": "将…充分应用", "model": "deepseek-v4-flash", "ts": 1787450620.409565}
+{"ok": true, "gloss": "回头客", "reason": "ok", "id": "returning-customers", "expression": "returning customers", "current_gloss": "回头客", "model": "deepseek-v4-flash", "ts": 1787450620.4710295}
+{"ok": true, "gloss": "儿童可以触摸动物的) 爱畜动物园", "reason": "ok", "id": "petting-zoo", "expression": "petting zoo", "current_gloss": "儿童可以触摸动物的) 爱畜动物园", "model": "deepseek-v4-flash", "ts": 1787450620.6320856}
+{"ok": true, "gloss": "研发", "reason": "ok", "id": "r-d", "expression": "R&D", "current_gloss": "研发", "model": "deepseek-v4-flash", "ts": 1787450621.2229502}
+{"ok": true, "gloss": "强调，将重点放在…上", "reason": "ok", "id": "place-an-emphasis-on", "expression": "place an emphasis on", "current_gloss": "强调，将重点放在…上", "model": "deepseek-v4-flash", "ts": 1787450621.8923283}
+{"ok": true, "gloss": "圆桌讨论", "reason": "ok", "id": "roundtable-discussion", "expression": "roundtable discussion", "current_gloss": "圆桌讨论", "model": "deepseek-v4-flash", "ts": 1787450622.0717673}
+{"ok": true, "gloss": "研发部门", "reason": "ok", "id": "r-d-department", "expression": "R&D Department", "current_gloss": "研发部门", "model": "deepseek-v4-flash", "ts": 1787450622.080471}
+{"ok": true, "gloss": "公共 交通", "reason": "ok", "id": "public-transportation", "expression": "public transportation", "current_gloss": "公共 交通", "model": "deepseek-v4-flash", "ts": 1787450622.6093261}
+{"ok": true, "gloss": "办事，跑腿", "reason": "ok", "id": "run-errands", "expression": "run errands", "current_gloss": "办事，跑腿", "model": "deepseek-v4-flash", "ts": 1787450623.2184887}
+{"ok": true, "gloss": "订购", "reason": "ok", "id": "place-an-order", "expression": "place an order", "current_gloss": "订购", "model": "deepseek-v4-flash", "ts": 1787450623.3786526}
+{"ok": true, "gloss": "研发部", "reason": "ok", "id": "r-d-department-research-and-development-department", "expression": "R&D Department (Research and Development Department)", "current_gloss": "研发部", "model": "deepseek-v4-flash", "ts": 1787450623.451096}
+{"ok": true, "gloss": "计划做某事", "reason": "ok", "id": "plan-to-do", "expression": "plan to do", "current_gloss": "计划做某事", "model": "deepseek-v4-flash", "ts": 1787450624.370535}
+{"ok": true, "gloss": "竖起眉毛 (表示惊讶或不满)", "reason": "ok", "id": "raise-the-eyebrow", "expression": "raise the eyebrow", "current_gloss": "竖起眉毛 (表示惊讶或不满)", "model": "deepseek-v4-flash", "ts": 1787450625.604605}
+{"ok": true, "gloss": "刊登广告", "reason": "ok", "id": "place-ads", "expression": "place ads", "current_gloss": "刊登广告", "model": "deepseek-v4-flash", "ts": 1787450625.6107903}
+{"ok": false, "gloss": "迟到；晚点；延误", "reason": "run late 意为迟到或晚点，而非逾期。", "id": "run-late", "expression": "run late", "current_gloss": "逾期", "model": "deepseek-v4-flash", "ts": 1787450626.6460304}
+{"ok": true, "gloss": "计划委员会", "reason": "ok", "id": "planning-committee", "expression": "planning committee", "current_gloss": "计划委员会", "model": "deepseek-v4-flash", "ts": 1787450626.7547104}
+{"ok": true, "gloss": "请 回复", "reason": "ok", "id": "rsvp-respondez-s-il-vous-plait", "expression": "RSVP(Respondez s’il vous plait)", "current_gloss": "请 回复", "model": "deepseek-v4-flash", "ts": 1787450627.5387957}
+{"ok": true, "gloss": "规划会议", "reason": "ok", "id": "planning-meeting", "expression": "planning meeting", "current_gloss": "规划会议", "model": "deepseek-v4-flash", "ts": 1787450627.9472916}
+{"ok": true, "gloss": "用完，耗尽", "reason": "ok", "id": "run-out-of", "expression": "run out of", "current_gloss": "用完，耗尽", "model": "deepseek-v4-flash", "ts": 1787450628.1005716}
+{"ok": true, "gloss": "原始数据", "reason": "ok", "id": "raw-data", "expression": "raw data", "current_gloss": "原始数据", "model": "deepseek-v4-flash", "ts": 1787450628.7712188}
+{"ok": false, "gloss": "举杯祝酒；举杯敬酒", "reason": "“举杯”未点明祝酒含义，宜补充“祝酒”以适配托业语境。", "id": "raise-one-s-glass", "expression": "raise one’s glass", "current_gloss": "举杯", "model": "deepseek-v4-flash", "ts": 1787450629.0117414}
+{"ok": true, "gloss": "许多，大量", "reason": "ok", "id": "plenty-of", "expression": "plenty of", "current_gloss": "许多，大 量", "model": "deepseek-v4-flash", "ts": 1787450629.0494313}
+{"ok": false, "gloss": "违反规则的；违规的；违规行为", "reason": "缺少名词义项'违规行为'，在托业商务语境中常见。", "id": "rule-breaking", "expression": "rule-breaking", "current_gloss": "不守规矩的；违规的", "model": "deepseek-v4-flash", "ts": 1787450629.0885296}
+{"ok": true, "gloss": "缺少/快用完", "reason": "ok", "id": "run-short-of", "expression": "run short of", "current_gloss": "缺少/快用完", "model": "deepseek-v4-flash", "ts": 1787450630.4701953}
+{"ok": true, "gloss": "得出结论；告一段落", "reason": "ok", "id": "reach-a-conclusion", "expression": "reach a conclusion", "current_gloss": "得出结论；告一段落", "model": "deepseek-v4-flash", "ts": 1787450630.8653584}
+{"ok": true, "gloss": "聚集点；号召力", "reason": "准确涵盖了该词在商务语境中的基本和引申义。", "id": "rallying-point", "expression": "rallying point", "current_gloss": "聚集点；号召力", "model": "deepseek-v4-flash", "ts": 1787450631.564746}
+{"ok": true, "gloss": "安全指南", "reason": "ok", "id": "safety-guidelines", "expression": "safety guidelines", "current_gloss": "安全指南", "model": "deepseek-v4-flash", "ts": 1787450631.9511356}
+{"ok": false, "gloss": "弹出式的；弹出窗口（广告）；弹出式展架", "reason": "原释义过于字面，未涵盖商务场景常见的弹出窗口、弹出式广告和展示架等义项。", "id": "pop-up", "expression": "pop-up", "current_gloss": "有弹起装置的", "model": "deepseek-v4-flash", "ts": 1787450633.048627}
+{"ok": true, "gloss": "亚军", "reason": "ok", "id": "runner-up", "expression": "runner-up", "current_gloss": "亚军", "model": "deepseek-v4-flash", "ts": 1787450633.128586}
+{"ok": false, "gloss": "深入阅读；钻研；查阅资料以了解", "reason": "释义基本正确，但混入了无关日期“年9月25日”，需修正。", "id": "read-up-on", "expression": "read up on", "current_gloss": "仔细研究，研读 年9月25日", "model": "deepseek-v4-flash", "ts": 1787450633.3344676}
+{"ok": true, "gloss": "指明；说出", "reason": "ok", "id": "point-out", "expression": "point out", "current_gloss": "指明；说出", "model": "deepseek-v4-flash", "ts": 1787450637.2956483}
+{"ok": false, "gloss": "取回；获得；学习；接人；外卖自取", "reason": "缺少托业常见的“接人”、“学会”、“外卖自取”等义项，且“捡起”过于字面", "id": "pick-up", "expression": "pick up", "current_gloss": "取，获得；捡 起", "model": "deepseek-v4-flash", "ts": 1787450638.000811}
+{"ok": false, "gloss": "（某物）快用完，即将耗尽", "reason": "原释义'将耗尽某物'表述不当且易误解，应更自然地说'某物快用完'。", "id": "run-low-on-sth", "expression": "run low (on sth.)", "current_gloss": "某物短缺，将耗尽某物", "model": "deepseek-v4-flash", "ts": 1787450641.0093825}
+{"ok": true, "gloss": "签合同", "reason": "ok", "id": "sign-a-contract", "expression": "sign a contract", "current_gloss": "签合同", "model": "deepseek-v4-flash", "ts": 1787450642.5892131}
+{"ok": true, "gloss": "股票市场", "reason": "ok", "id": "stock-market", "expression": "stock market", "current_gloss": "股票市场", "model": "deepseek-v4-flash", "ts": 1787450642.7466912}
+{"ok": true, "gloss": "战略计划", "reason": "ok", "id": "strategic-plan", "expression": "strategic plan", "current_gloss": "战略计划", "model": "deepseek-v4-flash", "ts": 1787450642.9157095}
+{"ok": true, "gloss": "签署一份宣誓书", "reason": "ok", "id": "sign-an-affidavit", "expression": "sign an affidavit", "current_gloss": "签署一份宣誓书", "model": "deepseek-v4-flash", "ts": 1787450643.5017867}
+{"ok": true, "gloss": "试吃，品尝", "reason": "ok", "id": "taste-testing", "expression": "taste-testing", "current_gloss": "试吃，品尝", "model": "deepseek-v4-flash", "ts": 1787450643.6353292}
+{"ok": true, "gloss": "签收", "reason": "ok", "id": "sign-for", "expression": "sign for", "current_gloss": "签收", "model": "deepseek-v4-flash", "ts": 1787450644.3357139}
+{"ok": true, "gloss": "保安", "reason": "ok", "id": "security-guard", "expression": "security guard", "current_gloss": "保安", "model": "deepseek-v4-flash", "ts": 1787450644.383585}
+{"ok": true, "gloss": "减税，税额优惠", "reason": "ok", "id": "tax-breaks", "expression": "tax breaks", "current_gloss": "减税，税额优惠", "model": "deepseek-v4-flash", "ts": 1787450644.8023558}
+{"ok": false, "gloss": "税务审计；税务稽查", "reason": "'税务监察'偏向行政监督，而tax audit指对税务账目的审查，常用释义为'税务审计'或'税务稽查'。", "id": "tax-audit", "expression": "tax audit", "current_gloss": "税务监察", "model": "deepseek-v4-flash", "ts": 1787450645.265244}
+{"ok": true, "gloss": "安全系统", "reason": "ok", "id": "security-system", "expression": "security system", "current_gloss": "安全系统", "model": "deepseek-v4-flash", "ts": 1787450645.4711092}
+{"ok": true, "gloss": "类似于…，与…相似", "reason": "ok", "id": "similar-to", "expression": "similar to", "current_gloss": "类似于…，与…相似", "model": "deepseek-v4-flash", "ts": 1787450646.051573}
+{"ok": true, "gloss": "减税", "reason": "ok", "id": "tax-cut", "expression": "tax cut", "current_gloss": "减税", "model": "deepseek-v4-flash", "ts": 1787450646.7021503}
+{"ok": true, "gloss": "星探；猎头；人才发掘者", "reason": "ok", "id": "talent-spotter", "expression": "talent spotter", "current_gloss": "星探；猎头；人才发掘者", "model": "deepseek-v4-flash", "ts": 1787450646.7844586}
+{"ok": false, "gloss": "报名；注册；签约参加", "reason": "“注册”未涵盖托业中常见的“报名参加”义项，不够完整。", "id": "sign-up", "expression": "sign up", "current_gloss": "注册", "model": "deepseek-v4-flash", "ts": 1787450646.8739684}
+{"ok": true, "gloss": "街头警察", "reason": "ok", "id": "street-cop", "expression": "street cop", "current_gloss": "街头警察", "model": "deepseek-v4-flash", "ts": 1787450647.1724916}
+{"ok": true, "gloss": "减税", "reason": "ok", "id": "tax-cuts", "expression": "tax cuts", "current_gloss": "减税", "model": "deepseek-v4-flash", "ts": 1787450648.2107441}
+{"ok": true, "gloss": "例如", "reason": "ok", "id": "such-as", "expression": "such as", "current_gloss": "例如", "model": "deepseek-v4-flash", "ts": 1787450648.5809352}
+{"ok": true, "gloss": "符合某人的需求", "reason": "ok", "id": "suit-one-s-needs", "expression": "suit one’s needs", "current_gloss": "符合某人的需求", "model": "deepseek-v4-flash", "ts": 1787450648.7342644}
+{"ok": true, "gloss": "单独挑出；特别选出", "reason": "ok", "id": "single-out", "expression": "single out", "current_gloss": "单独挑 出；特别选出", "model": "deepseek-v4-flash", "ts": 1787450648.949116}
+{"ok": false, "gloss": "受…约束的；取决于…的；可能受…影响的", "reason": "缺少“取决于/需经”的商务义项，如 subject to availability。", "id": "subject-to", "expression": "subject to", "current_gloss": "可能受…影响的；易遭受…的", "model": "deepseek-v4-flash", "ts": 1787450648.978046}
+{"ok": true, "gloss": "逃税，漏税", "reason": "ok", "id": "tax-evasion", "expression": "tax evasion", "current_gloss": "逃税，漏税", "model": "deepseek-v4-flash", "ts": 1787450649.9715412}
+{"ok": true, "gloss": "在…方面的激增", "reason": "ok", "id": "surge-in", "expression": "surge in", "current_gloss": "在…方面的激增", "model": "deepseek-v4-flash", "ts": 1787450650.281873}
+{"ok": true, "gloss": "回邮的", "reason": "ok", "id": "self-addressed", "expression": "self- addressed", "current_gloss": "回邮的", "model": "deepseek-v4-flash", "ts": 1787450650.429782}
+{"ok": true, "gloss": "做事主动的人", "reason": "ok", "id": "self-starter", "expression": "self-starter", "current_gloss": "做事主动的人", "model": "deepseek-v4-flash", "ts": 1787450650.7206986}
+{"ok": false, "gloss": "最低限度留守人员；精简人员", "reason": "skeleton staff指维持运转所需的最少人员，非'骨干人员'，属误译。", "id": "skeleton-staff", "expression": "skeleton staff", "current_gloss": "骨干人员", "model": "deepseek-v4-flash", "ts": 1787450651.0117695}
+{"ok": true, "gloss": "松懈，偷懒；放松", "reason": "ok", "id": "slack-off", "expression": "slack off", "current_gloss": "松懈，偷懒；放松", "model": "deepseek-v4-flash", "ts": 1787450651.8183033}
+{"ok": true, "gloss": "半圆的", "reason": "ok", "id": "semi-circular", "expression": "semi-circular", "current_gloss": "半圆的", "model": "deepseek-v4-flash", "ts": 1787450651.9269755}
+{"ok": true, "gloss": "游泳池", "reason": "ok", "id": "swimming-pool", "expression": "swimming pool", "current_gloss": "游泳池", "model": "deepseek-v4-flash", "ts": 1787450652.8957422}
+{"ok": false, "gloss": "可税前扣除的；可抵税的", "reason": "“可免税的”易误导为完全免税，实际指可从应税收入中扣除，应更准确。", "id": "tax-deductible", "expression": "tax-deductible", "current_gloss": "可免税的", "model": "deepseek-v4-flash", "ts": 1787450653.2659369}
+{"ok": true, "gloss": "高层管理人员", "reason": "ok", "id": "senior-management", "expression": "senior management", "current_gloss": "高层管理人员", "model": "deepseek-v4-flash", "ts": 1787450653.744764}
+{"ok": true, "gloss": "社会正义", "reason": "ok", "id": "social-justice", "expression": "social justice", "current_gloss": "社会正义", "model": "deepseek-v4-flash", "ts": 1787450654.3430727}
+{"ok": true, "gloss": "税收收入", "reason": "ok", "id": "tax-receipts", "expression": "tax receipts", "current_gloss": "税收收入", "model": "deepseek-v4-flash", "ts": 1787450654.373392}
+{"ok": true, "gloss": "减税", "reason": "ok", "id": "tax-reduction", "expression": "tax-reduction", "current_gloss": "减税", "model": "deepseek-v4-flash", "ts": 1787450654.4045823}
+{"ok": true, "gloss": "野外用的) 睡袋", "reason": "ok", "id": "sleeping-bag", "expression": "sleeping bag", "current_gloss": "野外用的) 睡袋", "model": "deepseek-v4-flash", "ts": 1787450654.7879937}
+{"ok": true, "gloss": "转换，转向", "reason": "ok", "id": "switch-over", "expression": "switch over", "current_gloss": "转换，转向", "model": "deepseek-v4-flash", "ts": 1787450656.1450436}
+{"ok": true, "gloss": "手术治疗", "reason": "ok", "id": "surgical-procedures", "expression": "surgical procedures", "current_gloss": "手术治疗", "model": "deepseek-v4-flash", "ts": 1787450656.1562314}
+{"ok": true, "gloss": "终止雇佣关系", "reason": "ok", "id": "terminate-one-s-employment", "expression": "terminate one’s employment", "current_gloss": "终止雇佣关系", "model": "deepseek-v4-flash", "ts": 1787450656.1761055}
+{"ok": true, "gloss": "很吃香的，广受欢迎的", "reason": "ok", "id": "sought-after", "expression": "sought-after", "current_gloss": "很吃香的，广受欢迎的", "model": "deepseek-v4-flash", "ts": 1787450656.4083545}
+{"ok": true, "gloss": "空闲时间", "reason": "ok", "id": "spare-time", "expression": "spare time", "current_gloss": "空闲时 间", "model": "deepseek-v4-flash", "ts": 1787450657.5025687}
+{"ok": false, "gloss": "出发；着手，开始", "reason": "原释义仅含“出发”，但托业中“set out”也常表“着手，开始”，缺常见义项。", "id": "set-out", "expression": "set out", "current_gloss": "出发", "model": "deepseek-v4-flash", "ts": 1787450657.8591733}
+{"ok": true, "gloss": "踏进，进入", "reason": "ok", "id": "set-foot-in", "expression": "set foot in", "current_gloss": "踏进，进入", "model": "deepseek-v4-flash", "ts": 1787450658.0747929}
+{"ok": true, "gloss": "特别优惠", "reason": "ok", "id": "special-offer", "expression": "special offer", "current_gloss": "特别优惠", "model": "deepseek-v4-flash", "ts": 1787450658.7576778}
+{"ok": true, "gloss": "定做的", "reason": "ok", "id": "tailor-made", "expression": "tailor-made", "current_gloss": "定做的", "model": "deepseek-v4-flash", "ts": 1787450659.0060332}
+{"ok": true, "gloss": "遭受重击", "reason": "ok", "id": "take-a-pounding", "expression": "take a pounding", "current_gloss": "遭受重击", "model": "deepseek-v4-flash", "ts": 1787450659.6667247}
+{"ok": true, "gloss": "特价优惠", "reason": "ok", "id": "special-rates", "expression": "special rates", "current_gloss": "特价优惠", "model": "deepseek-v4-flash", "ts": 1787450660.3992527}
+{"ok": false, "gloss": "创建；建立；安排；安装；设置。", "reason": "义项不完整，缺少‘安装/设置’这一常用义项。", "id": "set-up", "expression": "set up", "current_gloss": "创建；安 排", "model": "deepseek-v4-flash", "ts": 1787450660.470743}
+{"ok": true, "gloss": "解决冲突", "reason": "ok", "id": "settle-a-conflict", "expression": "settle a conflict", "current_gloss": "解决冲突", "model": "deepseek-v4-flash", "ts": 1787450660.5845697}
+{"ok": false, "gloss": "保安服务台；前台安保接待处", "reason": "‘安检台’过于字面，偏指安检设备处，未能体现商务楼宇中前台安保服务岗的常用义。", "id": "security-desk", "expression": "security desk", "current_gloss": "安检台", "model": "deepseek-v4-flash", "ts": 1787450660.649458}
+{"ok": true, "gloss": "解决争端", "reason": "ok", "id": "settle-a-dispute", "expression": "settle a dispute", "current_gloss": "解决争端", "model": "deepseek-v4-flash", "ts": 1787450661.5563529}
+{"ok": true, "gloss": "把A带到B", "reason": "ok", "id": "take-a-to-b", "expression": "take A to B", "current_gloss": "把A带到B", "model": "deepseek-v4-flash", "ts": 1787450661.5951111}
+{"ok": true, "gloss": "建立，创立", "reason": "ok", "id": "setting-up", "expression": "setting up", "current_gloss": "建立，创立", "model": "deepseek-v4-flash", "ts": 1787450661.8771474}
+{"ok": true, "gloss": "专卖店；专门商店", "reason": "ok", "id": "specialty-store", "expression": "specialty store", "current_gloss": "专卖店；专门商店", "model": "deepseek-v4-flash", "ts": 1787450662.3443587}
+{"ok": true, "gloss": "采取行动", "reason": "ok", "id": "take-action", "expression": "take action", "current_gloss": "采取行动", "model": "deepseek-v4-flash", "ts": 1787450662.4121673}
+{"ok": true, "gloss": "量身定做的", "reason": "ok", "id": "tailored-made", "expression": "tailored-made", "current_gloss": "量身定做的", "model": "deepseek-v4-flash", "ts": 1787450662.6061163}
+{"ok": true, "gloss": "极干净整洁的；崭新的", "reason": "ok", "id": "spick-and-span", "expression": "spick-and-span", "current_gloss": "极干净整洁的；崭新的", "model": "deepseek-v4-flash", "ts": 1787450663.477059}
+{"ok": true, "gloss": "专门从事，专门经营", "reason": "ok", "id": "specialize-in", "expression": "specialize in", "current_gloss": "专门从事，专门经营", "model": "deepseek-v4-flash", "ts": 1787450663.803301}
+{"ok": true, "gloss": "跑车", "reason": "ok", "id": "sports-car", "expression": "sports car", "current_gloss": "跑车", "model": "deepseek-v4-flash", "ts": 1787450664.1153197}
+{"ok": false, "gloss": "和解诉讼；庭外解决诉讼", "reason": "settle a lawsuit 指双方和解解决纠纷，而非法院结案，原释义有误导。", "id": "settle-a-lawsuit", "expression": "settle a lawsuit", "current_gloss": "结案", "model": "deepseek-v4-flash", "ts": 1787450664.2594547}
+{"ok": false, "gloss": "舒舒服服地坐好；松弛下来", "reason": "原释义过于具体字面，遗漏了泛指的放松义，在例句语境中不贴切。", "id": "settle-back", "expression": "settle back", "current_gloss": "仰靠在椅背上", "model": "deepseek-v4-flash", "ts": 1787450664.7080798}
+{"ok": true, "gloss": "体育中心", "reason": "ok", "id": "sports-complex", "expression": "sports complex", "current_gloss": "体育中心", "model": "deepseek-v4-flash", "ts": 1787450665.221484}
+{"ok": false, "gloss": "看看是否；确认", "reason": "当前释义'看看'过于口语化且未体现'if'的含义，在托业阅读中常表示'确认/查明是否'。", "id": "see-if", "expression": "see if", "current_gloss": "看看", "model": "deepseek-v4-flash", "ts": 1787450665.8081431}
+{"ok": false, "gloss": "照顾，照料；处理，负责", "reason": "缺少商务英语中常用的“处理、负责”义项", "id": "take-care-of", "expression": "take care of", "current_gloss": "照顾，照料", "model": "deepseek-v4-flash", "ts": 1787450665.8104005}
+{"ok": false, "gloss": "利用；占（某人）便宜", "reason": "漏译常见义项\"占某人便宜\"，在商务语境中亦常出现。", "id": "take-advantage-of", "expression": "take advantage of", "current_gloss": "利用", "model": "deepseek-v4-flash", "ts": 1787450666.0265102}
+{"ok": true, "gloss": "安顿下来，适应(新环境)", "reason": "ok", "id": "settle-in", "expression": "settle in", "current_gloss": "安顿下来，适应(新环境)", "model": "deepseek-v4-flash", "ts": 1787450666.2238219}
+{"ok": true, "gloss": "看到或注意到某人正在做某事", "reason": "ok", "id": "spot-sb-ing", "expression": "spot sb. ~ing", "current_gloss": "看到或注意到某人正在做某事", "model": "deepseek-v4-flash", "ts": 1787450666.8424392}
+{"ok": true, "gloss": "做笔记", "reason": "ok", "id": "take-notes", "expression": "take notes", "current_gloss": "做笔记", "model": "deepseek-v4-flash", "ts": 1787450667.0630205}
+{"ok": true, "gloss": "装饰，打扮", "reason": "ok", "id": "spruce-up", "expression": "spruce up", "current_gloss": "装饰，打扮", "model": "deepseek-v4-flash", "ts": 1787450667.919311}
+{"ok": true, "gloss": "重大调整，重组", "reason": "ok", "id": "shake-up", "expression": "shake up", "current_gloss": "重大调整，重组", "model": "deepseek-v4-flash", "ts": 1787450667.9713433}
+{"ok": true, "gloss": "平方英尺", "reason": "ok", "id": "square-foot", "expression": "square foot", "current_gloss": "平方英尺", "model": "deepseek-v4-flash", "ts": 1787450668.351576}
+{"ok": true, "gloss": "利用某物", "reason": "ok", "id": "take-advantage-of-sth", "expression": "take advantage of sth.", "current_gloss": "利用某物", "model": "deepseek-v4-flash", "ts": 1787450668.5433092}
+{"ok": true, "gloss": "承担责任", "reason": "ok", "id": "take-on-the-responsibility", "expression": "take on the responsibility", "current_gloss": "承担责任", "model": "deepseek-v4-flash", "ts": 1787450669.2808208}
+{"ok": true, "gloss": "掌握；掌管，负责", "reason": "ok", "id": "take-charge", "expression": "take charge", "current_gloss": "掌握；掌管，负责", "model": "deepseek-v4-flash", "ts": 1787450669.3625674}
+{"ok": true, "gloss": "减震的", "reason": "ok", "id": "shock-absorbing", "expression": "shock-absorbing", "current_gloss": "减震的", "model": "deepseek-v4-flash", "ts": 1787450670.1683693}
+{"ok": false, "gloss": "安定下来；定居；安顿下来", "reason": "原释义过于字面，未体现托业中常见的‘开始稳定生活’含义。", "id": "settle-down", "expression": "settle down", "current_gloss": "安顿下来", "model": "deepseek-v4-flash", "ts": 1787450671.1867304}
+{"ok": true, "gloss": "接管，接替", "reason": "ok", "id": "take-over", "expression": "take over", "current_gloss": "接管，接替", "model": "deepseek-v4-flash", "ts": 1787450671.3332262}
+{"ok": false, "gloss": "起飞；脱下；突然成功；休假", "reason": "原释义仅含'起飞'，缺少托业常考的'脱下''休假''突然成功'等义项，不完整。", "id": "take-off", "expression": "take off", "current_gloss": "起飞", "model": "deepseek-v4-flash", "ts": 1787450671.775043}
+{"ok": false, "gloss": "独立的；独立运行的", "reason": "原释义仅限计算机外围设备，过窄且不准确，stand-alone在商务英语中泛指独立的事物或系统。", "id": "stand-alone", "expression": "stand-alone", "current_gloss": "计算机的外围设备) 能 独立运行的", "model": "deepseek-v4-flash", "ts": 1787450671.912429}
+{"ok": false, "gloss": "股票市场；股市", "reason": "share-market 是名词词块，指股票市场/股市，而非形容词“股票市场的”。", "id": "share-market", "expression": "share-market", "current_gloss": "股票市场的", "model": "deepseek-v4-flash", "ts": 1787450672.9937823}
+{"ok": true, "gloss": "参与，参加", "reason": "ok", "id": "take-part-in", "expression": "take part in", "current_gloss": "参与，参加", "model": "deepseek-v4-flash", "ts": 1787450673.6912386}
+{"ok": true, "gloss": "利益相关者", "reason": "ok", "id": "stake-holder", "expression": "stake-holder", "current_gloss": "利益相关者", "model": "deepseek-v4-flash", "ts": 1787450673.768588}
+{"ok": true, "gloss": "列入候选名单；候选名单", "reason": "ok", "id": "short-list", "expression": "short-list", "current_gloss": "列入候选名单；候选名单", "model": "deepseek-v4-flash", "ts": 1787450674.217394}
+{"ok": true, "gloss": "标准尺寸的", "reason": "ok", "id": "standard-sized", "expression": "standard-sized", "current_gloss": "标准尺寸的", "model": "deepseek-v4-flash", "ts": 1787450674.4340513}
+{"ok": true, "gloss": "采取步骤，采取措施", "reason": "ok", "id": "take-steps", "expression": "take steps", "current_gloss": "采取步骤，采取措施", "model": "deepseek-v4-flash", "ts": 1787450675.1141512}
+{"ok": true, "gloss": "对…表现出兴趣", "reason": "ok", "id": "show-interest-in", "expression": "show interest in", "current_gloss": "对…表现出兴趣", "model": "deepseek-v4-flash", "ts": 1787450675.4591389}
+{"ok": false, "gloss": "发生；举行", "reason": "缺少“举行”这一常见义项，在会议/活动语境中不够准确。", "id": "take-place", "expression": "take place", "current_gloss": "发生", "model": "deepseek-v4-flash", "ts": 1787450675.6932795}
+{"ok": false, "gloss": "陈述某人的观点；表达某人的看法", "reason": "原义'发表某人的意见'过于生硬，'发表'偏向公开正式，未能准确传达state的'陈述'含义。", "id": "state-one-s-opinion", "expression": "state one’s opinion", "current_gloss": "发表某人的意见", "model": "deepseek-v4-flash", "ts": 1787450676.937688}
+{"ok": true, "gloss": "最先进的", "reason": "ok", "id": "state-of-the-art", "expression": "state-of-the- art", "current_gloss": "最先进的", "model": "deepseek-v4-flash", "ts": 1787450677.1028569}
+{"ok": true, "gloss": "服用治糖尿病的药片", "reason": "ok", "id": "take-tablets-for-diabetes", "expression": "take tablets for diabetes", "current_gloss": "服用治糖尿病的药片", "model": "deepseek-v4-flash", "ts": 1787450677.4500473}
+{"ok": true, "gloss": "出 现，露面", "reason": "ok", "id": "show-up", "expression": "show up", "current_gloss": "出 现，露面", "model": "deepseek-v4-flash", "ts": 1787450677.8330638}
+{"ok": true, "gloss": "最先进的", "reason": "ok", "id": "state-of-the-art-2", "expression": "state-of-the-art", "current_gloss": "最先进的", "model": "deepseek-v4-flash", "ts": 1787450678.5587769}
+{"ok": false, "gloss": "放映时间；演出时间", "reason": "上映时间易被误解为上映日期，托业中多指具体场次时刻。", "id": "show-times", "expression": "show times", "current_gloss": "上映时间", "model": "deepseek-v4-flash", "ts": 1787450679.2408047}
+{"ok": false, "gloss": "定居；开始居住", "reason": "释义错误，'take up residence'意为'定居/开始居住'，不是'发生，进行'。", "id": "take-up-residence", "expression": "take up residence", "current_gloss": "发生，进行", "model": "deepseek-v4-flash", "ts": 1787450679.541936}
+{"ok": true, "gloss": "休假，请假", "reason": "ok", "id": "take-time-off", "expression": "take time off", "current_gloss": "休假，请假", "model": "deepseek-v4-flash", "ts": 1787450679.8421419}
+{"ok": true, "gloss": "上班", "reason": "ok", "id": "show-up-to-work", "expression": "show up to work", "current_gloss": "上班", "model": "deepseek-v4-flash", "ts": 1787450680.2834396}
+{"ok": true, "gloss": "关闭", "reason": "ok", "id": "shut-down", "expression": "shut down", "current_gloss": "关闭", "model": "deepseek-v4-flash", "ts": 1787450681.1964426}
+{"ok": true, "gloss": "考虑到…", "reason": "ok", "id": "take-into-consideration", "expression": "take... into consideration", "current_gloss": "考虑到…", "model": "deepseek-v4-flash", "ts": 1787450681.532582}
+{"ok": true, "gloss": "临时通知", "reason": "ok", "id": "short-notice", "expression": "short notice", "current_gloss": "临时通知", "model": "deepseek-v4-flash", "ts": 1787450681.7620041}
+{"ok": false, "gloss": "单口喜剧；单人喜剧表演的；直立的", "reason": "例句中 stand-up 作名词，指一种表演类型，现有释义缺少名词义项", "id": "stand-up", "expression": "stand-up", "current_gloss": "喜剧节目) 单人表演的；直立的", "model": "deepseek-v4-flash", "ts": 1787450688.778903}
+{"ok": false, "gloss": "敲定（交易）；垄断（市场）", "reason": "原释义‘安排’不准确，且缺少商务常用的‘垄断’等义项。", "id": "sew-up", "expression": "sew up", "current_gloss": "解决，安排", "model": "deepseek-v4-flash", "ts": 1787450693.9263735}
+{"ok": false, "gloss": "辞职；让位；下台；（逐步）减少；降低", "reason": "缺少“减少/降低”这一在商务语境中也常用的义项", "id": "step-down", "expression": "step down", "current_gloss": "让位；下台；辞职", "model": "deepseek-v4-flash", "ts": 1787450696.4863002}
+{"ok": true, "gloss": "书面计划", "reason": "ok", "id": "written-plan", "expression": "written plan", "current_gloss": "书面计划", "model": "deepseek-v4-flash", "ts": 1787450698.041393}
+{"ok": true, "gloss": "关于…，对于…", "reason": "ok", "id": "with-regard-to", "expression": "with regard to", "current_gloss": "关于…，对于…", "model": "deepseek-v4-flash", "ts": 1787450698.4120948}
+{"ok": true, "gloss": "节省时间的", "reason": "ok", "id": "time-saving", "expression": "time-saving", "current_gloss": "节省时间的", "model": "deepseek-v4-flash", "ts": 1787450698.4251447}
+{"ok": true, "gloss": "旅行社代理人", "reason": "ok", "id": "travel-agent", "expression": "travel agent", "current_gloss": "旅行社代理人", "model": "deepseek-v4-flash", "ts": 1787450698.4378183}
+{"ok": true, "gloss": "举世闻名的，名扬海内外的", "reason": "ok", "id": "world-renowned", "expression": "world-renowned", "current_gloss": "举世闻名的，名扬海内外的", "model": "deepseek-v4-flash", "ts": 1787450699.630813}
+{"ok": true, "gloss": "老地方", "reason": "ok", "id": "usual-place", "expression": "usual place", "current_gloss": "老地方", "model": "deepseek-v4-flash", "ts": 1787450699.966766}
+{"ok": true, "gloss": "重量减轻，减肥", "reason": "ok", "id": "weight-loss", "expression": "weight loss", "current_gloss": "重量减轻，减肥", "model": "deepseek-v4-flash", "ts": 1787450700.3693364}
+{"ok": true, "gloss": "少报(收入、人口等)", "reason": "ok", "id": "under-report", "expression": "under-report", "current_gloss": "少报(收入、人口等)", "model": "deepseek-v4-flash", "ts": 1787450700.4688888}
+{"ok": true, "gloss": "在很大程度上", "reason": "ok", "id": "to-a-great-extent", "expression": "to a great extent", "current_gloss": "在很大程度上", "model": "deepseek-v4-flash", "ts": 1787450701.1962721}
+{"ok": true, "gloss": "行程安排", "reason": "ok", "id": "travel-arrangements", "expression": "travel arrangements", "current_gloss": "行程安排", "model": "deepseek-v4-flash", "ts": 1787450701.3204873}
+{"ok": false, "gloss": "二手商品；旧货", "reason": "释义过于字面，托业常用译法为‘二手商品’，需补充义项。", "id": "used-goods", "expression": "used goods", "current_gloss": "用过的物品", "model": "deepseek-v4-flash", "ts": 1787450701.5209253}
+{"ok": true, "gloss": "跟踪系统", "reason": "ok", "id": "tracking-system", "expression": "tracking system", "current_gloss": "跟踪系统", "model": "deepseek-v4-flash", "ts": 1787450701.6649485}
+{"ok": false, "gloss": "节省高达；最多可节省", "reason": "原释义“节省到”未体现“up to”的上限含义，易误读为具体数值。", "id": "with-savings-of-up-to", "expression": "with savings of up to", "current_gloss": "节省到", "model": "deepseek-v4-flash", "ts": 1787450702.465504}
+{"ok": false, "gloss": "年收入", "reason": "原释义混入了无关人名，应仅保留“年收入”这一核心含义。", "id": "yearly-income", "expression": "yearly income", "current_gloss": "年收入 布莱恩·考克斯", "model": "deepseek-v4-flash", "ts": 1787450702.770108}
+{"ok": true, "gloss": "老人", "reason": "ok", "id": "the-elderly", "expression": "the elderly", "current_gloss": "老人", "model": "deepseek-v4-flash", "ts": 1787450702.8663836}
+{"ok": false, "gloss": "失业数字；失业统计数据", "reason": "原释义“失业人数”过于狭窄，figures 侧重统计数据而非仅人数，易误导。", "id": "unemployment-figures", "expression": "unemployment figures", "current_gloss": "失业人数", "model": "deepseek-v4-flash", "ts": 1787450703.6093073}
+{"ok": true, "gloss": "反之亦然", "reason": "ok", "id": "vice-versa", "expression": "vice versa", "current_gloss": "反之亦然", "model": "deepseek-v4-flash", "ts": 1787450703.8455696}
+{"ok": true, "gloss": "干 得好", "reason": "ok", "id": "well-done", "expression": "well done", "current_gloss": "干 得好", "model": "deepseek-v4-flash", "ts": 1787450703.9113972}
+{"ok": true, "gloss": "为…担心", "reason": "ok", "id": "worry-about", "expression": "worry about", "current_gloss": "为…担心", "model": "deepseek-v4-flash", "ts": 1787450704.2768867}
+{"ok": true, "gloss": "试用期", "reason": "ok", "id": "trial-period", "expression": "trial period", "current_gloss": "试用期", "model": "deepseek-v4-flash", "ts": 1787450704.6553226}
+{"ok": true, "gloss": "通晓…，精通…", "reason": "ok", "id": "well-versed-in", "expression": "well versed in", "current_gloss": "通晓…，精通…", "model": "deepseek-v4-flash", "ts": 1787450705.6518207}
+{"ok": true, "gloss": "失业率", "reason": "ok", "id": "unemployment-rate", "expression": "unemployment rate", "current_gloss": "失业率", "model": "deepseek-v4-flash", "ts": 1787450705.8950498}
+{"ok": true, "gloss": "王中之王", "reason": "ok", "id": "the-king-of-kings", "expression": "the king of kings", "current_gloss": "王中之王", "model": "deepseek-v4-flash", "ts": 1787450706.4040616}
+{"ok": true, "gloss": "交通事故，车祸", "reason": "ok", "id": "traffic-accident", "expression": "traffic accident", "current_gloss": "交通事故，车祸", "model": "deepseek-v4-flash", "ts": 1787450706.8141816}
+{"ok": false, "gloss": "试驾；试用", "reason": "仅译“试驾”过于字面，缺少商务中常用的“试用”义项。", "id": "test-drive", "expression": "test-drive", "current_gloss": "试驾", "model": "deepseek-v4-flash", "ts": 1787450706.9378638}
+{"ok": true, "gloss": "取款单", "reason": "ok", "id": "withdrawal-form", "expression": "withdrawal form", "current_gloss": "取款单", "model": "deepseek-v4-flash", "ts": 1787450707.1870508}
+{"ok": true, "gloss": "举些例子", "reason": "ok", "id": "to-name-just-a-few", "expression": "to name just a few", "current_gloss": "举些例子", "model": "deepseek-v4-flash", "ts": 1787450708.7181613}
+{"ok": false, "gloss": "手机短信；短信发送", "reason": "原释义为动词性，用于名词词块不够准确，应补充名词义项。", "id": "text-messaging", "expression": "text messaging", "current_gloss": "发送(手机)短信", "model": "deepseek-v4-flash", "ts": 1787450708.8717504}
+{"ok": true, "gloss": "贫民", "reason": "ok", "id": "the-needy", "expression": "the needy", "current_gloss": "贫民", "model": "deepseek-v4-flash", "ts": 1787450708.9296772}
+{"ok": false, "gloss": "拒绝；调低（音量、温度等）", "reason": "缺少'调低'这一常见托业义项，释义不完整。", "id": "turn-down", "expression": "turn down", "current_gloss": "拒绝", "model": "deepseek-v4-flash", "ts": 1787450709.6637776}
+{"ok": true, "gloss": "入职培训", "reason": "ok", "id": "work-orientation", "expression": "work orientation", "current_gloss": "入职培训", "model": "deepseek-v4-flash", "ts": 1787450710.5410028}
+{"ok": true, "gloss": "最 充分地", "reason": "ok", "id": "to-the-fullest", "expression": "to the fullest", "current_gloss": "最 充分地", "model": "deepseek-v4-flash", "ts": 1787450710.6254652}
+{"ok": true, "gloss": "工会代表", "reason": "ok", "id": "union-representative", "expression": "union representative", "current_gloss": "工会代表", "model": "deepseek-v4-flash", "ts": 1787450710.7058423}
+{"ok": true, "gloss": "交通堵塞", "reason": "ok", "id": "traffic-congestion", "expression": "traffic congestion", "current_gloss": "交通堵塞", "model": "deepseek-v4-flash", "ts": 1787450711.6469252}
+{"ok": true, "gloss": "愿意/意欲做某事", "reason": "ok", "id": "would-like-to-do", "expression": "would like to do", "current_gloss": "愿意/意欲做某事", "model": "deepseek-v4-flash", "ts": 1787450712.4559917}
+{"ok": false, "gloss": "老牌的；成熟的；根深蒂固的", "reason": "well-established 在商务语境中常指公司或机构成立已久、地位稳固，并非强调信誉，原释义'信誉卓著'有偏差。", "id": "well-established", "expression": "well-established", "current_gloss": "信誉卓著的；根深蒂固的", "model": "deepseek-v4-flash", "ts": 1787450712.8698375}
+{"ok": true, "gloss": "幸亏，多亏；由于", "reason": "ok", "id": "thanks-to", "expression": "thanks to", "current_gloss": "幸亏，多亏；由于", "model": "deepseek-v4-flash", "ts": 1787450713.218775}
+{"ok": false, "gloss": "志愿贡献时间（常指无偿）", "reason": "原释义未体现'无偿贡献'的常见商务用法。", "id": "volunteer-one-s-time", "expression": "volunteer one’s time", "current_gloss": "自愿花时间做某事", "model": "deepseek-v4-flash", "ts": 1787450713.2841415}
+{"ok": true, "gloss": "会计部门", "reason": "ok", "id": "the-accounting-department", "expression": "the Accounting Department", "current_gloss": "会计部门", "model": "deepseek-v4-flash", "ts": 1787450714.9186344}
+{"ok": false, "gloss": "最盛大的夜晚；重要庆典之夜", "reason": "原释义未体现最高级'最'的强调，在商务阅读中不够完整。", "id": "the-night-of-nights", "expression": "the night of nights", "current_gloss": "特别的一夜", "model": "deepseek-v4-flash", "ts": 1787450715.0287354}
+{"ok": true, "gloss": "发誓做某事，郑重承诺做某事", "reason": "ok", "id": "vow-to-do", "expression": "vow to do", "current_gloss": "发誓做某事，郑重承诺做某事", "model": "deepseek-v4-flash", "ts": 1787450715.4463336}
+{"ok": true, "gloss": "贸易惯例和公平交易法案", "reason": "ok", "id": "trade-practices-and-fair-trade-act", "expression": "Trade Practices and Fair Trade Act", "current_gloss": "贸易惯例和公平交易法案", "model": "deepseek-v4-flash", "ts": 1787450715.8849328}
+{"ok": false, "gloss": "完成；结束", "reason": "“伪装”非托业商务常见义项，且“包起来”偏字面，原释义有误导。", "id": "wrap-up", "expression": "wrap up", "current_gloss": "圆满) 完成；伪装；包起来", "model": "deepseek-v4-flash", "ts": 1787450716.3730674}
+{"ok": true, "gloss": "上交；交还", "reason": "ok", "id": "turn-in", "expression": "turn in", "current_gloss": "上交；交还", "model": "deepseek-v4-flash", "ts": 1787450716.4300647}
+{"ok": false, "gloss": "免费电话的；拨打免费的", "reason": "释义过于宽泛，未体现电话拨打场景，易误导。", "id": "toll-free", "expression": "toll free", "current_gloss": "免费的", "model": "deepseek-v4-flash", "ts": 1787450716.4644735}
+{"ok": true, "gloss": "世界著名的", "reason": "ok", "id": "world-famous", "expression": "world- famous", "current_gloss": "世界著名的", "model": "deepseek-v4-flash", "ts": 1787450716.5872018}
+{"ok": true, "gloss": "对某人进行…方面的培训", "reason": "ok", "id": "train-sb-in", "expression": "train sb. in...", "current_gloss": "对某人进行…方面的培训", "model": "deepseek-v4-flash", "ts": 1787450717.3798866}
+{"ok": true, "gloss": "结果是…，证明是…", "reason": "ok", "id": "turn-out-to-be", "expression": "turn out to be", "current_gloss": "结果是…，证明是…", "model": "deepseek-v4-flash", "ts": 1787450717.9920778}
+{"ok": true, "gloss": "用记号勾出；列举", "reason": "ok", "id": "tick-off", "expression": "tick off", "current_gloss": "用记号勾出；列举", "model": "deepseek-v4-flash", "ts": 1787450718.602559}
+{"ok": true, "gloss": "行李认领处", "reason": "ok", "id": "the-baggage-claim-area", "expression": "the baggage claim area", "current_gloss": "行李认领处", "model": "deepseek-v4-flash", "ts": 1787450719.3772488}
+{"ok": false, "gloss": "书面报告；评述，报道", "reason": "现有释义偏窄，未体现“书面报告”常用义。", "id": "write-up", "expression": "write-up", "current_gloss": "评介，评述", "model": "deepseek-v4-flash", "ts": 1787450719.6157222}
+{"ok": true, "gloss": "工作条件", "reason": "ok", "id": "working-conditions", "expression": "working conditions", "current_gloss": "工作条件", "model": "deepseek-v4-flash", "ts": 1787450719.8741107}
+{"ok": true, "gloss": "熟 知的，通晓的", "reason": "ok", "id": "well-versed", "expression": "well-versed", "current_gloss": "熟 知的，通晓的", "model": "deepseek-v4-flash", "ts": 1787450719.9599059}
+{"ok": false, "gloss": "锻炼；解决；制定出", "reason": "例句中work out表示锻炼身体，当前释义'解决'不完整，且漏掉常用义项", "id": "work-out", "expression": "work out", "current_gloss": "解决", "model": "deepseek-v4-flash", "ts": 1787450720.228666}
+{"ok": false, "gloss": "走过；敷衍了事；逐步讲解/排练", "reason": "缺常用义项“逐步讲解/排练”，商务阅读常见。", "id": "walk-through", "expression": "walk through", "current_gloss": "走过；敷衍了事", "model": "deepseek-v4-flash", "ts": 1787450720.8418145}
+{"ok": true, "gloss": "即将来临的，即将发生的", "reason": "ok", "id": "upcoming-forthcoming", "expression": "upcoming (= forthcoming)", "current_gloss": "即将来临的，即将发生的", "model": "deepseek-v4-flash", "ts": 1787450721.04286}
+{"ok": true, "gloss": "运输成本", "reason": "ok", "id": "transportation-cost", "expression": "transportation cost", "current_gloss": "运输成本", "model": "deepseek-v4-flash", "ts": 1787450721.1528301}
+{"ok": true, "gloss": "坐轮椅的，靠轮椅代步的", "reason": "ok", "id": "wheelchair-bound", "expression": "wheelchair-bound", "current_gloss": "坐轮椅的，靠轮椅代步的", "model": "deepseek-v4-flash", "ts": 1787450721.2084336}
+{"ok": true, "gloss": "写作技巧", "reason": "ok", "id": "writing-skill", "expression": "writing skill", "current_gloss": "写作技巧", "model": "deepseek-v4-flash", "ts": 1787450721.616689}
+{"ok": false, "gloss": "（电话）免费的；免长途费的", "reason": "原释义过于宽泛，未指明toll-free特指电话通话免费，在商务语境中易生误解。", "id": "toll-free-2", "expression": "toll-free", "current_gloss": "免费的", "model": "deepseek-v4-flash", "ts": 1787450721.7270248}
+{"ok": true, "gloss": "许多的", "reason": "ok", "id": "tons-of", "expression": "tons of", "current_gloss": "许多的", "model": "deepseek-v4-flash", "ts": 1787450722.0483012}
+{"ok": true, "gloss": "没有义务做某事", "reason": "ok", "id": "under-no-obligation-to-do", "expression": "under no obligation to do", "current_gloss": "没有义务做某事", "model": "deepseek-v4-flash", "ts": 1787450722.102532}
+{"ok": true, "gloss": "董事会", "reason": "ok", "id": "the-board-of-directors", "expression": "the board of directors", "current_gloss": "董事会", "model": "deepseek-v4-flash", "ts": 1787450722.2695735}
+{"ok": true, "gloss": "一谈到…；就…而论", "reason": "ok", "id": "when-it-comes-to-ing", "expression": "when it comes to ~ing", "current_gloss": "一谈到…；就…而论", "model": "deepseek-v4-flash", "ts": 1787450722.9731915}
+{"ok": true, "gloss": "休假", "reason": "ok", "id": "time-off", "expression": "time off", "current_gloss": "休假", "model": "deepseek-v4-flash", "ts": 1787450723.672994}
+{"ok": false, "gloss": "售票亭；售票处", "reason": "英文\"ticket booth\"指小型的售票亭/窗口，译为\"售票厅\"容易误以为是大厅，不够精确。", "id": "ticket-booth", "expression": "ticket booth", "current_gloss": "售票厅", "model": "deepseek-v4-flash", "ts": 1787450723.944846}
+{"ok": false, "gloss": "实用知识；够用的知识", "reason": "过于字面，商务语境下应指‘实用知识’，而非‘工作知识’。", "id": "working-knowledge", "expression": "working knowledge", "current_gloss": "工作知识", "model": "deepseek-v4-flash", "ts": 1787450724.076213}
+{"ok": true, "gloss": "书面授权书；核准书", "reason": "ok", "id": "written-authorization", "expression": "written authorization", "current_gloss": "书面授权书；核准书", "model": "deepseek-v4-flash", "ts": 1787450725.1159966}
+{"ok": true, "gloss": "出国旅行", "reason": "ok", "id": "travel-abroad", "expression": "travel abroad", "current_gloss": "出国旅行", "model": "deepseek-v4-flash", "ts": 1787450725.1477008}
+{"ok": true, "gloss": "在某人的管理下；在某人的监督下", "reason": "ok", "id": "under-one-s-supervision", "expression": "under one’s supervision", "current_gloss": "在某人的管理下；在某人的监督下", "model": "deepseek-v4-flash", "ts": 1787450725.521591}
+{"ok": true, "gloss": "有效期", "reason": "ok", "id": "use-by-date", "expression": "use-by date", "current_gloss": "有效期", "model": "deepseek-v4-flash", "ts": 1787450725.7479322}
+{"ok": true, "gloss": "征聘广告", "reason": "ok", "id": "want-ad", "expression": "want ad", "current_gloss": "征聘广告", "model": "deepseek-v4-flash", "ts": 1787450726.296936}
+{"ok": true, "gloss": "行动方针", "reason": "ok", "id": "the-course-of-action", "expression": "the course of action", "current_gloss": "行动方针", "model": "deepseek-v4-flash", "ts": 1787450726.6124039}
+{"ok": true, "gloss": "防水衣", "reason": "ok", "id": "waterproof-clothing", "expression": "waterproof clothing", "current_gloss": "防水衣", "model": "deepseek-v4-flash", "ts": 1787450726.9329174}
+{"ok": true, "gloss": "自上而下的", "reason": "ok", "id": "top-down", "expression": "top-down", "current_gloss": "自上而下的", "model": "deepseek-v4-flash", "ts": 1787450727.4198902}
+{"ok": false, "gloss": "多达；直到；取决于", "reason": "只译出'多达'，缺少托业中常见的'直到'和'取决于'义项。", "id": "up-to", "expression": "up to", "current_gloss": "多达", "model": "deepseek-v4-flash", "ts": 1787450755.3362598}

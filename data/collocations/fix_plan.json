@@ -1,0 +1,41 @@
+{
+  "note": "结构性修复计划（人工确认版）——垃圾行删除 + 释义截断 + 表达纠错。LLM 审查结果通过 --from-llm 生成后另行合并。",
+  "ops": [
+    { "op": "delete", "expression": "Acrobat、Photoshop" },
+    { "op": "delete", "expression": "Apex/HKG" },
+    { "op": "delete", "expression": "cityofbuffalo.gov.us" },
+    { "op": "delete", "expression": "Creative Suite 2(" },
+    { "op": "delete", "expression": "Door2Door" },
+    { "op": "delete", "expression": "either...or …" },
+    { "op": "delete", "expression": "expected to do" },
+    { "op": "delete", "expression": "G＆G" },
+    { "op": "delete", "expression": "M.H. 《" },
+    { "op": "delete", "expression": "or not”" },
+    { "op": "delete", "expression": "Pump It" },
+    { "op": "delete", "expression": "Sharp Tongue" },
+    { "op": "delete", "expression": "Stone，Evolution，The Girls，Bryan Mcadams" },
+    { "op": "delete", "expression": "The Tongue" },
+
+    { "op": "set_gloss", "expression": "cash dispenser", "gloss": "自动提款机" },
+    { "op": "set_gloss", "expression": "dispose of", "gloss": "处理；扔掉；解决" },
+    { "op": "set_gloss", "expression": "even if", "gloss": "即使，尽管" },
+    { "op": "set_gloss", "expression": "find out", "gloss": "发现；查明，弄清楚" },
+    { "op": "set_gloss", "expression": "gift certificate", "gloss": "礼券" },
+    { "op": "set_gloss", "expression": "immediate manager", "gloss": "直接上级" },
+    { "op": "set_gloss", "expression": "in addition to", "gloss": "除…之外" },
+    { "op": "set_gloss", "expression": "in demand", "gloss": "有需要；销路好" },
+    { "op": "set_gloss", "expression": "in the day", "gloss": "白天；当天" },
+    { "op": "set_gloss", "expression": "regular price", "gloss": "正常价格" },
+    { "op": "set_gloss", "expression": "resort to", "gloss": "诉诸于…，求助于…" },
+    { "op": "set_gloss", "expression": "run out of", "gloss": "用完，耗尽" },
+    { "op": "set_gloss", "expression": "test-drive", "gloss": "试驾" },
+    { "op": "set_gloss", "expression": "travel abroad", "gloss": "出国旅行" },
+    { "op": "set_gloss", "expression": "as well", "gloss": "也；同样" },
+
+    { "op": "set", "expression": "committed。vow to do", "expression_new": "vow to do", "gloss": "发誓做某事，郑重承诺做某事" },
+    { "op": "set", "expression": "honored to do", "expression_new": "be honored to do", "gloss": "以做某事为荣；感到荣幸做某事" },
+    { "op": "set", "expression": "in the region of …", "expression_new": "in the region of", "gloss": "左右；大约" },
+    { "op": "set", "expression": "in the vicinity of …", "expression_new": "in the vicinity of", "gloss": "左右，大约；在…附近" },
+    { "op": "set", "expression": "spic-and-span", "expression_new": "spick-and-span", "gloss": "极干净整洁的；崭新的" }
+  ]
+}

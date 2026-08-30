@@ -1,6 +1,13 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getCollocation, collocationSourceIndex, partsOf } from "@/lib/collocations";
+import {
+  getCollocation,
+  loadCollocations,
+  collocationSourceIndex,
+  partsOf,
+  filterAndSortCollocations,
+  collocationListQuery,
+} from "@/lib/collocations";
 import { isInNotebook } from "@/lib/notebook";
 import { NotebookButton } from "@/components/NotebookButton";
 import type { TestStatus } from "@/lib/types";
@@ -19,9 +26,43 @@ const STATUS_LABEL: Record<TestStatus, string> = {
   first_attempted: "已首次模拟",
 };
 
-export default async function CollocationDetailPage({ params }: { params: { id: string } }) {
+const NAV_BTN =
+  "rounded-lg border border-slate-200 bg-white px-3 py-1.5 text-sm text-slate-600 transition hover:border-slate-300";
+const NAV_BTN_DISABLED =
+  "cursor-not-allowed rounded-lg border border-slate-100 bg-slate-50 px-3 py-1.5 text-sm text-slate-300";
+
+export default async function CollocationDetailPage({
+  params,
+  searchParams,
+}: {
+  params: { id: string };
+  searchParams: { [k: string]: string | string[] | undefined };
+}) {
   const c = await getCollocation(params.id);
   if (!c) notFound();
+
+  // Walk the same ordered subset as the list page so 上一个/下一个 follow the
+  // filters + sort the user was browsing (falls back to the default freq order).
+  const get = (k: string) =>
+    typeof searchParams[k] === "string" ? (searchParams[k] as string) : "";
+  const filters = {
+    part: get("part"),
+    priority: get("priority"),
+    type: get("type"),
+    q: get("q"),
+    sort: get("sort"),
+  };
+  const ordered = filterAndSortCollocations(await loadCollocations(), filters);
+  const currentIndex = ordered.findIndex((x) => x.id === c.id);
+  const prev = currentIndex > 0 ? ordered[currentIndex - 1] : null;
+  const next =
+    currentIndex >= 0 && currentIndex < ordered.length - 1
+      ? ordered[currentIndex + 1]
+      : null;
+  const listQuery = collocationListQuery(filters);
+  const detailHref = (id: string) =>
+    `/collocations/${id}${listQuery ? `?${listQuery}` : ""}`;
+
   const index = await collocationSourceIndex(c);
   const revealedTests = index.filter((e) => e.revealed).length;
   const revealedQuestions = index
@@ -31,9 +72,18 @@ export default async function CollocationDetailPage({ params }: { params: { id: 
 
   return (
     <main className="mx-auto max-w-2xl px-4 py-8">
-      <Link href="/collocations" className="text-sm text-slate-500 hover:text-slate-700">
-        ← 返回搭配库
-      </Link>
+      <nav className="flex flex-wrap items-center justify-between gap-3">
+        <Link href="/collocations" className="text-sm text-slate-500 hover:text-slate-700">
+          ← 返回搭配库
+        </Link>
+        <PrevNextNav
+          prevId={prev?.id ?? null}
+          nextId={next?.id ?? null}
+          position={currentIndex}
+          total={ordered.length}
+          hrefFor={detailHref}
+        />
+      </nav>
 
       <header className="mt-3 mb-6">
         <div className="flex flex-wrap items-center gap-2">
@@ -98,6 +148,52 @@ export default async function CollocationDetailPage({ params }: { params: { id: 
           查看真题 →
         </Link>
       </section>
+
+      <nav className="mt-8 flex items-center justify-center">
+        <PrevNextNav
+          prevId={prev?.id ?? null}
+          nextId={next?.id ?? null}
+          position={currentIndex}
+          total={ordered.length}
+          hrefFor={detailHref}
+        />
+      </nav>
     </main>
+  );
+}
+
+function PrevNextNav({
+  prevId,
+  nextId,
+  position,
+  total,
+  hrefFor,
+}: {
+  prevId: string | null;
+  nextId: string | null;
+  position: number;
+  total: number;
+  hrefFor: (id: string) => string;
+}) {
+  return (
+    <div className="flex items-center gap-2">
+      {prevId ? (
+        <Link href={hrefFor(prevId)} className={NAV_BTN} rel="prev">
+          ← 上一个
+        </Link>
+      ) : (
+        <span className={NAV_BTN_DISABLED}>← 上一个</span>
+      )}
+      <span className="text-xs text-slate-400">
+        {position >= 0 ? position + 1 : "-"} / {total}
+      </span>
+      {nextId ? (
+        <Link href={hrefFor(nextId)} className={NAV_BTN} rel="next">
+          下一个 →
+        </Link>
+      ) : (
+        <span className={NAV_BTN_DISABLED}>下一个 →</span>
+      )}
+    </div>
   );
 }

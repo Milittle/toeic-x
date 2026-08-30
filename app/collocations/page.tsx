@@ -1,5 +1,10 @@
 import Link from "next/link";
-import { loadCollocations, partsOf } from "@/lib/collocations";
+import {
+  loadCollocations,
+  partsOf,
+  filterAndSortCollocations,
+  collocationListQuery,
+} from "@/lib/collocations";
 import { notebookIds } from "@/lib/notebook";
 import { NotebookButton } from "@/components/NotebookButton";
 import { Pagination, PAGE_SIZE_OPTIONS, DEFAULT_PAGE_SIZE } from "@/components/Pagination";
@@ -33,21 +38,24 @@ export default async function CollocationsPage({
   const fQ = get("q").trim().toLowerCase();
   const sort = get("sort") === "alpha" ? "alpha" : "freq";
 
-  let items = all.filter((c) => {
-    if (fPart && c.counts[Number(fPart) as 5 | 6 | 7] <= 0) return false;
-    if (fPriority && c.priority !== fPriority) return false;
-    if (fType && c.type !== fType) return false;
-    if (fQ) {
-      const hay = `${c.expression} ${c.chinese}`.toLowerCase();
-      if (!hay.includes(fQ)) return false;
-    }
-    return true;
+  const items = filterAndSortCollocations(all, {
+    part: fPart,
+    priority: fPriority,
+    type: fType,
+    q: get("q"),
+    sort,
   });
-  items = items.sort((a, b) =>
-    sort === "alpha"
-      ? a.expression.localeCompare(b.expression)
-      : b.bookFreq - a.bookFreq || b.bookletCount - a.bookletCount,
-  );
+  // Detail links carry the same filters/sort so prev/next inside a detail page
+  // walk this exact ordered subset rather than the whole library.
+  const detailQuery = collocationListQuery({
+    part: fPart,
+    priority: fPriority,
+    type: fType,
+    q: get("q"),
+    sort,
+  });
+  const detailHref = (id: string) =>
+    `/collocations/${id}${detailQuery ? `?${detailQuery}` : ""}`;
 
   const rawSize = Number(get("size")) || DEFAULT_PAGE_SIZE;
   const size = PAGE_SIZE_OPTIONS_NUM.includes(rawSize) ? rawSize : DEFAULT_PAGE_SIZE;
@@ -154,7 +162,7 @@ export default async function CollocationsPage({
                 className="rounded-xl border border-slate-200 bg-white p-3 transition hover:border-slate-300 hover:shadow-sm"
               >
                 <div className="flex items-start justify-between gap-2">
-                  <Link href={`/collocations/${c.id}`} className="min-w-0">
+                  <Link href={detailHref(c.id)} className="min-w-0">
                     <div className="flex items-baseline justify-between gap-2">
                       <span className="font-semibold">{c.expression}</span>
                       <span className="shrink-0 text-xs text-slate-400">频次 {c.bookFreq}</span>

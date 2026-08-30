@@ -1,0 +1,912 @@
+{
+  "note": "合并：LLM 语义修复(177) + 删除垃圾(4) + 表达修正(1)",
+  "ops": [
+    {
+      "op": "set_gloss",
+      "expression": "a bit",
+      "gloss": "有点儿；一会儿"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "be eligible for",
+      "gloss": "有资格获得；符合…条件"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "at one’s fingertips",
+      "gloss": "了如指掌的，精通的；近在手边的，随时可用的"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "be expected to",
+      "gloss": "预计会；被期望"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "a list of",
+      "gloss": "一份…清单；名单"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "be expected to do",
+      "gloss": "被期望做某事；预计会做某事"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "a wide range of",
+      "gloss": "广泛的，各种各样的"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "approve of",
+      "gloss": "赞成，同意"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "a touch away",
+      "gloss": "近在咫尺；触手可及；唾手可得"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "arrival time",
+      "gloss": "到达时间"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "arrive at",
+      "gloss": "到达；达成，得出"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "apply to",
+      "gloss": "适用于；向…申请"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "add A to B",
+      "gloss": "把A加到B；增添，增加"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "afford to do",
+      "gloss": "负担得起；承受得起做某事的后果或代价"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "be affiliated with",
+      "gloss": "隶属于；与…有关联"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "be a tribute to",
+      "gloss": "是…的证明/体现；是…的结果"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "as well as B",
+      "gloss": "和；以及；除…之外（还）"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "be aware of",
+      "gloss": "知道；意识到；了解"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "agree with",
+      "gloss": "同意；与…相符，一致"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "be designed for",
+      "gloss": "为…专门设计的；旨在满足…"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "as to",
+      "gloss": "关于；至于"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "at first",
+      "gloss": "起初；最初"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "city slicker",
+      "gloss": "精于城市生活却不熟悉农村的人（常含贬义）"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "be up for sth.",
+      "gloss": "愿意做某事；待处理（如待续订）"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "climate-controlled",
+      "gloss": "温控的；恒温恒湿的"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "climate control",
+      "gloss": "气候控制；温控系统"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "business-friendly",
+      "gloss": "对商业友好的，有利于商务的"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "close to",
+      "gloss": "接近；靠近；与…关系密切；（最高级）最近的"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "call on",
+      "gloss": "拜访；号召；求助于；请求"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "bi-weekly",
+      "gloss": "每两周一次的；每周两次的"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "bill of health",
+      "gloss": "健康证明；合格证明"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "come forward",
+      "gloss": "自告奋勇，主动站出来；自愿提供信息或帮助"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "be okay with",
+      "gloss": "同意；接受；不介意；对…觉得没问题"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "catch up on",
+      "gloss": "补做；赶上；了解（最新消息）"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "break down",
+      "gloss": "损坏；分解，细分；情绪崩溃"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "Boxing Day",
+      "gloss": "节礼日（12月26日，英国及英联邦国家法定假日）"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "be set to",
+      "gloss": "即将；准备好；确定会"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "check-in",
+      "gloss": "（酒店）入住登记；（机场）值机"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "be requested to do",
+      "gloss": "被要求做某事；被请求做某事"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "check out",
+      "gloss": "结账离开；查看；检查"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "be subject to",
+      "gloss": "受……支配/约束；取决于……；可能受……影响"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "be sure + clause",
+      "gloss": "确信……；务必……（表提醒/要求）"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "be supposed to do",
+      "gloss": "应该（做某事）；据说"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "days written notice",
+      "gloss": "提前若干天递交的书面通知"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "earn a salary",
+      "gloss": "挣工资；赚取薪水"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "deal with",
+      "gloss": "处理；应对；涉及；与...打交道"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "company guidelines",
+      "gloss": "公司行为准则；公司指导方针"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "eco-friendliness",
+      "gloss": "环保性；环境友好性"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "feel free to",
+      "gloss": "随意（做某事）；尽管；别客气"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "complain of",
+      "gloss": "诉说（病痛等）；抱怨"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "figure out",
+      "gloss": "理解；弄明白；解决；计算出"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "emerge from",
+      "gloss": "从…出现；从…显露；来自"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "departure time",
+      "gloss": "出发时间；起飞时间"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "empty spaces",
+      "gloss": "空白处；空隙；空余空间"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "driving record",
+      "gloss": "驾驶记录；驾驶档案"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "drop-off",
+      "gloss": "下降；还车（处）"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "fill in",
+      "gloss": "填写；向…提供最新情况；临时顶替"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "get on the path to",
+      "gloss": "开始走上…的道路；着手实现…"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "get one’s hands on sth.",
+      "gloss": "得到某物；找到某物；弄到手"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "hard cost",
+      "gloss": "直接成本；硬成本"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "financial assistance",
+      "gloss": "经济援助；财政资助"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "in a few minutes",
+      "gloss": "几分钟后；在几分钟之内"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "have a sale",
+      "gloss": "举办促销活动；打折出售"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "get together",
+      "gloss": "见面；碰头；聚会"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "have problems with",
+      "gloss": "在…方面有问题；对…有困难"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "get to...",
+      "gloss": "到达某地；开始做；有机会做"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "for further information",
+      "gloss": "如需更多信息；欲了解更多详情"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "follow up",
+      "gloss": "跟进，对…采取进一步行动；后续行动；后续的"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "give away",
+      "gloss": "赠送；泄露；出卖；分发"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "give an outline of",
+      "gloss": "概述；概要说明"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "hip-hop",
+      "gloss": "嘻哈音乐；嘻哈文化"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "high-profile",
+      "gloss": "备受瞩目的；高调的；知名度高的"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "go off",
+      "gloss": "发出响声；爆炸；离开；进展"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "holiday season",
+      "gloss": "节日季；节假日高峰期（常指购物旺季）"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "house-call",
+      "gloss": "上门服务；出诊"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "get ahead on",
+      "gloss": "在…上取得进展；提前做…"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "less-qualified",
+      "gloss": "资格较差的；资历较浅的"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "in addition to",
+      "gloss": "除…之外（还），加之；另外"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "in an effort to do",
+      "gloss": "为了，试图做某事"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "let down",
+      "gloss": "使失望；辜负"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "in the meantime",
+      "gloss": "在此期间；与此同时"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "jot down",
+      "gloss": "草草记下；匆匆写下"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "in bulk",
+      "gloss": "大批量地；散装地"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "line up",
+      "gloss": "排队；安排，组织"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "in advance",
+      "gloss": "提前；预付"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "jump on the wagon",
+      "gloss": "跟风，赶潮流"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "in voluntary capacity",
+      "gloss": "以自愿身份；以志愿者身份（发挥作用）"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "keynote speaker",
+      "gloss": "主题演讲人；主旨发言人"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "inbound shipment",
+      "gloss": "运入的货物；进港/到货的装运"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "in full",
+      "gloss": "全额地；完整地；全部地"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "lag on",
+      "gloss": "拖沓；变缓；拖延"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "land jobs",
+      "gloss": "找到工作；获得职位"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "in line",
+      "gloss": "排队；排成一行"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "kind of",
+      "gloss": "有点儿，有几分；种类，类型"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "lay out",
+      "gloss": "制定；布置，陈列；花费；详细说明"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "lead actor",
+      "gloss": "主演；主角演员"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "leave behind",
+      "gloss": "留下；忘带；把...抛在后面；超过"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "investment portfolio",
+      "gloss": "投资组合"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "in relation to",
+      "gloss": "关于，涉及；与…相比"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "in the day",
+      "gloss": "在白天；在一天之中"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "look over",
+      "gloss": "浏览；检查；审阅"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "look to",
+      "gloss": "指望，依靠；展望，关注"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "make way for",
+      "gloss": "让路；为…腾出空间"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "look into",
+      "gloss": "调查；研究"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "operating procedures",
+      "gloss": "操作规程；工作程序"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "luxury car",
+      "gloss": "豪华汽车"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "out in the open",
+      "gloss": "在户外；公开地"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "mini bar",
+      "gloss": "迷你吧；客房内提供收费饮料零食的小冰箱"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "modes of transportation",
+      "gloss": "交通方式；运输方式"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "on an individual basis",
+      "gloss": "单独地；逐个地"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "lose oneself in",
+      "gloss": "沉浸于，专心致志于，对…入迷"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "make a move",
+      "gloss": "采取行动；出发，动身"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "make it",
+      "gloss": "成功做到；及时到达"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "make one’s mark",
+      "gloss": "成名，崭露头角，留下印记"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "sale of bonds",
+      "gloss": "债券销售；出售债券"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "sales lead",
+      "gloss": "销售线索；潜在客户"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "sales figures",
+      "gloss": "销售数字；销售额"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "recreational vehicle",
+      "gloss": "房车；休闲车；野营车"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "pride oneself on",
+      "gloss": "以…为荣；因…感到自豪"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "security clearance",
+      "gloss": "安全许可；保密许可"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "property value",
+      "gloss": "财产价值；资产价值"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "property tax",
+      "gloss": "财产税；房产税"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "respond to",
+      "gloss": "回答；回应；响应"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "profit sharing",
+      "gloss": "利润分享；分红"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "pass on",
+      "gloss": "传递，转交；转达（消息等）"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "put through",
+      "gloss": "使通过；使经受；接通（电话）"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "part-time",
+      "gloss": "兼职的；部分时间的；兼职地"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "run late",
+      "gloss": "迟到；晚点；延误"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "raise one’s glass",
+      "gloss": "举杯祝酒；举杯敬酒"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "rule-breaking",
+      "gloss": "违反规则的；违规的；违规行为"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "pop-up",
+      "gloss": "弹出式的；弹出窗口（广告）；弹出式展架"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "read up on",
+      "gloss": "深入阅读；钻研；查阅资料以了解"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "pick up",
+      "gloss": "取回；获得；学习；接人；外卖自取"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "run low (on sth.)",
+      "gloss": "（某物）快用完，即将耗尽"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "tax audit",
+      "gloss": "税务审计；税务稽查"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "sign up",
+      "gloss": "报名；注册；签约参加"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "subject to",
+      "gloss": "受…约束的；取决于…的；可能受…影响的"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "skeleton staff",
+      "gloss": "最低限度留守人员；精简人员"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "tax-deductible",
+      "gloss": "可税前扣除的；可抵税的"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "set out",
+      "gloss": "出发；着手，开始"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "set up",
+      "gloss": "创建；建立；安排；安装；设置"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "security desk",
+      "gloss": "保安服务台；前台安保接待处"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "settle a lawsuit",
+      "gloss": "和解诉讼；庭外解决诉讼"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "settle back",
+      "gloss": "舒舒服服地坐好；松弛下来"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "see if",
+      "gloss": "看看是否；确认"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "take care of",
+      "gloss": "照顾，照料；处理，负责"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "take advantage of",
+      "gloss": "利用；占（某人）便宜"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "settle down",
+      "gloss": "安定下来；定居；安顿下来"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "take off",
+      "gloss": "起飞；脱下；突然成功；休假"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "stand-alone",
+      "gloss": "独立的；独立运行的"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "share-market",
+      "gloss": "股票市场；股市"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "take place",
+      "gloss": "发生；举行"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "state one’s opinion",
+      "gloss": "陈述某人的观点；表达某人的看法"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "show times",
+      "gloss": "放映时间；演出时间"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "take up residence",
+      "gloss": "定居；开始居住"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "stand-up",
+      "gloss": "单口喜剧；单人喜剧表演的；直立的"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "sew up",
+      "gloss": "敲定（交易）；垄断（市场）"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "step down",
+      "gloss": "辞职；让位；下台；（逐步）减少；降低"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "used goods",
+      "gloss": "二手商品；旧货"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "with savings of up to",
+      "gloss": "节省高达；最多可节省"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "yearly income",
+      "gloss": "年收入"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "unemployment figures",
+      "gloss": "失业数字；失业统计数据"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "test-drive",
+      "gloss": "试驾；试用"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "text messaging",
+      "gloss": "手机短信；短信发送"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "turn down",
+      "gloss": "拒绝；调低（音量、温度等）"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "well-established",
+      "gloss": "老牌的；成熟的；根深蒂固的"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "volunteer one’s time",
+      "gloss": "志愿贡献时间（常指无偿）"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "the night of nights",
+      "gloss": "最盛大的夜晚；重要庆典之夜"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "wrap up",
+      "gloss": "完成；结束"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "toll free",
+      "gloss": "免费电话的；拨打免费的"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "write-up",
+      "gloss": "书面报告；评述，报道"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "work out",
+      "gloss": "锻炼；解决；制定出"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "walk through",
+      "gloss": "走过；敷衍了事；逐步讲解/排练"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "toll-free",
+      "gloss": "（电话）免费的；免长途费的"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "ticket booth",
+      "gloss": "售票亭；售票处"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "working knowledge",
+      "gloss": "实用知识；够用的知识"
+    },
+    {
+      "op": "set_gloss",
+      "expression": "up to",
+      "gloss": "多达；直到；取决于"
+    },
+    {
+      "op": "delete",
+      "expression": "a clean seek"
+    },
+    {
+      "op": "delete",
+      "expression": "DSL / JKT"
+    },
+    {
+      "op": "delete",
+      "expression": "OS X"
+    },
+    {
+      "op": "delete",
+      "expression": "Motion QM-208"
+    },
+    {
+      "op": "set",
+      "expression": "e-mail.",
+      "expression_new": "e-mail",
+      "gloss": "电子邮件"
+    }
+  ]
+}
