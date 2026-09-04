@@ -3,7 +3,7 @@
 // (ADR-0004); this user state lives in the SQLite dynamic layer (ADR-0002),
 // parallel to test_status / retest_schedule.
 
-import { getDb } from "./db";
+import { getDb } from "../adapters/sqlite/db";
 
 export interface NotebookRow {
   collocationId: string;

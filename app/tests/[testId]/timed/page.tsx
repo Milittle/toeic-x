@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation";
-import { loadTest } from "@/lib/loaders";
-import { toClientTest } from "@/lib/questions";
-import { createAttempt } from "@/lib/attempts";
+import { loadTest } from "@/lib/content/question-bank";
+import { toTimedTest } from "@/lib/domain/questions";
+import { startTimedAttempt } from "@/lib/application/attempts";
 import { TimedClient } from "@/components/TimedClient";
 
 export const dynamic = "force-dynamic";
@@ -12,10 +12,10 @@ export const dynamic = "force-dynamic";
 export default async function TimedPage({ params }: { params: { testId: string } }) {
   const test = await loadTest(params.testId);
   if (!test) notFound();
-  const attempt = createAttempt("timed", test.testId);
+  const attempt = startTimedAttempt(test.testId);
   return (
     <TimedClient
-      test={toClientTest(test, false)}
+      test={toTimedTest(test)}
       attemptId={attempt.id}
       startedAt={attempt.startedAt}
       isUnseenSample={attempt.isUnseenSample}

@@ -7,10 +7,10 @@ import {
   partsOf,
   filterAndSortCollocations,
   collocationListQuery,
-} from "@/lib/collocations";
-import { isInNotebook } from "@/lib/notebook";
+} from "@/lib/content/collocations";
+import { isInNotebook } from "@/lib/application/notebook";
 import { NotebookButton } from "@/components/NotebookButton";
-import type { TestStatus } from "@/lib/types";
+import type { TestStatus } from "@/lib/domain/types";
 
 export const dynamic = "force-dynamic"; // index reflects live test status
 

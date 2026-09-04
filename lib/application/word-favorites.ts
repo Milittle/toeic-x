@@ -1,12 +1,12 @@
 // Word favorites — the user's saved words for later review (mirrors
-// lib/notebook.ts for collocations). The static word library
+// application/notebook.ts for collocations). The static word library
 // (data/words/words.json) is read-only (ADR-0005); this user state lives in the
 // SQLite dynamic layer, parallel to collocation_notebook (ADR-0006).
 //
 // Dedup: the table keys on word_id, so a word favorited under one word-list tab
 // is favorited across all tabs (ADR-0006).
 
-import { getDb } from "./db";
+import { getDb } from "../adapters/sqlite/db";
 
 export interface WordFavoriteRow {
   wordId: string;

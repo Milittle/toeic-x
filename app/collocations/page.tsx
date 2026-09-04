@@ -4,8 +4,8 @@ import {
   partsOf,
   filterAndSortCollocations,
   collocationListQuery,
-} from "@/lib/collocations";
-import { notebookIds } from "@/lib/notebook";
+} from "@/lib/content/collocations";
+import { notebookIds } from "@/lib/application/notebook";
 import { NotebookButton } from "@/components/NotebookButton";
 import { Pagination, PAGE_SIZE_OPTIONS, DEFAULT_PAGE_SIZE } from "@/components/Pagination";
 

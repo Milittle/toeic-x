@@ -5,7 +5,7 @@
 # ///
 """全量结构自检搭配库，生成人工核对清单。
 
-只读，不修改 ``data/collocations/collocations.json`` 或 Excel。它把 894 条
+只读，不修改 ``data/collocations/collocations.json`` 或 Excel。它把当前搭配库条目
 搭配按七类可疑问题归类，输出 ``data/collocations/VERIFICATION.md``，供人
 对照纸质书 / Excel 逐条核对。
 

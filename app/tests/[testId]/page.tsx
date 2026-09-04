@@ -1,9 +1,8 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { loadTest } from "@/lib/loaders";
-import { getStatuses } from "@/lib/db";
-import { firstTimedAttempt } from "@/lib/attempts";
-import type { TestStatus } from "@/lib/types";
+import { loadTest } from "@/lib/content/question-bank";
+import { firstTimedAttempt, statusOf } from "@/lib/application/attempts";
+import type { TestStatus } from "@/lib/domain/types";
 
 export const dynamic = "force-dynamic";
 
@@ -23,7 +22,7 @@ export default async function TestDetailPage({ params }: { params: { testId: str
   const test = await loadTest(params.testId);
   if (!test) notFound();
 
-  const status = getStatuses()[test.testId] ?? "not_started";
+  const status = statusOf(test.testId);
   const first = firstTimedAttempt(test.testId);
 
   const counts = { 5: 0, 6: 0, 7: 0 };

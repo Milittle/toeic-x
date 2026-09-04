@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { addToNotebook, removeFromNotebook } from "@/lib/notebook";
+import { addToNotebook, removeFromNotebook } from "@/lib/application/notebook";
 
 interface Body {
   collocationId: string;

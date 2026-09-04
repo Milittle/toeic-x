@@ -1,6 +1,6 @@
 import Link from "next/link";
-import { loadCollocations, partsOf } from "@/lib/collocations";
-import { listNotebook } from "@/lib/notebook";
+import { loadCollocations, partsOf } from "@/lib/content/collocations";
+import { listNotebook } from "@/lib/application/notebook";
 import { CollocationFavoritesList } from "@/components/CollocationFavoritesList";
 import type { CollocationFavoriteItem } from "@/components/CollocationFavoritesList";
 

@@ -6,7 +6,7 @@ import {
   nextSlot,
   orderForDisplay,
   type DueItem,
-} from "../scheduling";
+} from "./scheduling";
 
 const from = (iso: string) => new Date(iso + "T00:00:00Z");
 

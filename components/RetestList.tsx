@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useState } from "react";
-import type { ScheduleRow } from "@/lib/retest";
+import type { ScheduleRow } from "@/lib/application/retest";
 
 export function RetestList({ rows, today }: { rows: ScheduleRow[]; today: string }) {
   const [state, setState] = useState(rows);

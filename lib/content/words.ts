@@ -1,6 +1,6 @@
 // Server-only vocabulary loader (read data/words/words.json).
 // Must never be imported from a client component (uses node:fs, ADR-0005).
-// Parallel to lib/loaders.ts and lib/collocations.ts.
+// Parallel to content/question-bank.ts and content/collocations.ts.
 
 import { promises as fs } from "fs";
 import path from "path";

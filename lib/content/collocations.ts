@@ -1,12 +1,12 @@
 // Server-only collocations loader (read data/collocations/collocations.json).
 // Must never be imported from a client component (uses node:fs + the SQLite
-// layer for status gating, ADR-0004). Parallel to lib/loaders.ts.
+// layer for status gating, ADR-0004). Parallel to content/question-bank.ts.
 
 import { promises as fs } from "fs";
 import path from "path";
-import { loadTest, loadTests } from "./loaders";
-import { getStatuses } from "./db";
-import type { Letter, ReadingTest, TestStatus } from "./types";
+import { loadTest, loadTests } from "./question-bank";
+import { getStatuses } from "../adapters/sqlite/db";
+import type { Letter, ReadingTest, TestStatus } from "../domain/types";
 
 export type CollocationPart = 5 | 6 | 7;
 

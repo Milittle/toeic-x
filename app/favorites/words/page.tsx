@@ -1,7 +1,7 @@
 import Link from "next/link";
-import { loadWords } from "@/lib/words";
-import type { Word } from "@/lib/words";
-import { listWordFavorites } from "@/lib/word-favorites";
+import { loadWords } from "@/lib/content/words";
+import type { Word } from "@/lib/content/words";
+import { listWordFavorites } from "@/lib/application/word-favorites";
 import { WordFavoritesList } from "@/components/WordFavoritesList";
 import type { WordFavoriteItem } from "@/components/WordFavoritesList";
 

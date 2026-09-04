@@ -1,8 +1,8 @@
 import { notFound } from "next/navigation";
-import { loadTest } from "@/lib/loaders";
-import { toClientTest, flattenClientTest } from "@/lib/questions";
-import { getAnswers, getMarks } from "@/lib/review";
-import { firstTimedAttempt } from "@/lib/attempts";
+import { loadTest } from "@/lib/content/question-bank";
+import { toPracticeTest, flattenClientTest } from "@/lib/domain/questions";
+import { getAnswers, getMarks } from "@/lib/application/review";
+import { completedTimedAttemptForTest, firstTimedAttempt } from "@/lib/application/attempts";
 import { ReviewClient, type ReviewItem } from "@/components/ReviewClient";
 
 export const dynamic = "force-dynamic";
@@ -17,9 +17,12 @@ export default async function ReviewPage({
   const test = await loadTest(params.testId);
   if (!test) notFound();
 
-  const attemptId = searchParams.from
-    ? Number(searchParams.from)
-    : firstTimedAttempt(test.testId)?.id;
+  const requestedAttemptId = searchParams.from ? Number(searchParams.from) : undefined;
+  const requestedAttempt =
+    requestedAttemptId && Number.isInteger(requestedAttemptId) && requestedAttemptId > 0
+      ? completedTimedAttemptForTest(test.testId, requestedAttemptId)
+      : undefined;
+  const attemptId = requestedAttempt?.id ?? firstTimedAttempt(test.testId)?.id;
   if (!attemptId) {
     return (
       <main className="mx-auto max-w-2xl px-4 py-8 text-sm text-slate-500">
@@ -31,7 +34,7 @@ export default async function ReviewPage({
   const answers = new Map(getAnswers(attemptId).map((a) => [a.questionNumber, a]));
   const marks = getMarks(attemptId);
 
-  const items: ReviewItem[] = flattenClientTest(toClientTest(test, true)).map((it) => {
+  const items: ReviewItem[] = flattenClientTest(toPracticeTest(test)).map((it) => {
     const ans = answers.get(it.question.number);
     return {
       number: it.question.number,

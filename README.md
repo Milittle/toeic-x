@@ -10,7 +10,7 @@
 - 首次成绩锁定，并标记是否为未见题样本；
 - 复盘：标记 G/V/S/E/T/A/L/K 主错因和备注；
 - 复测：错题按 D+2 / D+7 / D+21 排期；
-- 搭配库：894 条固定搭配，可按 Part、类型、优先级和频次筛选；
+- 搭配库：876 条固定搭配，可按 Part、类型、优先级和频次筛选；
 - 词库：重点 1500、TSL1250、NGSL2809 三份词表，单词支持收藏；
 - 每周汇总：从 SQLite 读取做题数据，供人工查看；
 - 局域网部署：监听 `0.0.0.0`，不对公网开放。
@@ -113,7 +113,10 @@ npm run py-test
 ```text
 app/                 Next.js 页面和 API
 components/          客户端交互组件
-lib/                 题库加载、判分、复盘、复测和收藏逻辑
+lib/domain/          纯领域模型与判分/排期/题目投影
+lib/application/     作答、复盘、复测和收藏用例
+lib/content/         静态题库、搭配库和词库读取
+lib/adapters/sqlite/ SQLite 动态数据持久化适配层
 data/questions/      阅读题库 JSON，只读
 data/collocations/   搭配库 JSON，只读
 data/words/          词库 JSON，只读

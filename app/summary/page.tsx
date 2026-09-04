@@ -1,11 +1,11 @@
 import Link from "next/link";
-import { loadTests } from "@/lib/loaders";
+import { loadTests } from "@/lib/content/question-bank";
 import {
   testStats,
   errorPatternCounts,
   retestStats,
-} from "@/lib/summary";
-import { ERROR_PATTERNS, type ErrorPattern } from "@/lib/types";
+} from "@/lib/application/summary";
+import { ERROR_PATTERNS, type ErrorPattern } from "@/lib/domain/types";
 
 export const dynamic = "force-dynamic";
 

@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
-import { scoreQuestions, toScored, type ScoredQuestion } from "../scoring";
-import type { Letter } from "../types";
+import { scoreQuestions, toScored, type ScoredQuestion } from "./scoring";
+import type { Letter } from "./types";
 
 const Q = (number: number, answer: Letter, part: 5 | 6 | 7): ScoredQuestion => ({
   number,

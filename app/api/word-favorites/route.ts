@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { addWordFavorite, removeWordFavorite } from "@/lib/word-favorites";
+import { addWordFavorite, removeWordFavorite } from "@/lib/application/word-favorites";
 
 interface Body {
   wordId: string;

@@ -1,8 +1,8 @@
 import Link from "next/link";
-import { loadTests } from "@/lib/loaders";
-import { summarise } from "@/lib/questions";
-import { testStats } from "@/lib/summary";
-import type { TestStatus } from "@/lib/types";
+import { loadTests } from "@/lib/content/question-bank";
+import { summarise } from "@/lib/domain/questions";
+import { testStats } from "@/lib/application/summary";
+import type { TestStatus } from "@/lib/domain/types";
 
 export const dynamic = "force-dynamic";
 

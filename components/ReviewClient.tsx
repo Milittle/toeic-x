@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import { ERROR_PATTERNS, type ErrorPattern, type Letter } from "@/lib/types";
+import { ERROR_PATTERNS, type ErrorPattern, type Letter } from "@/lib/domain/types";
 
 const PATTERNS = Object.keys(ERROR_PATTERNS) as ErrorPattern[];
 

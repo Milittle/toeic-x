@@ -2,9 +2,9 @@
 
 import { useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
-import { flattenClientTest, type ClientTest } from "@/lib/questions";
-import type { Letter } from "@/lib/types";
-import type { ScoreResult } from "@/lib/scoring";
+import { flattenClientTest, type ClientTest } from "@/lib/domain/questions";
+import type { Letter } from "@/lib/domain/types";
+import type { ScoreResult } from "@/lib/domain/scoring";
 
 const LETTERS: Letter[] = ["A", "B", "C", "D"];
 const DURATION_SEC = 75 * 60;
@@ -44,7 +44,7 @@ export function TimedClient({ test, attemptId, startedAt, isUnseenSample }: Prop
     const res = await fetch("/api/timed/submit", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ attemptId, testId: test.testId, startedAt, selections: answers }),
+      body: JSON.stringify({ attemptId, selections: answers }),
     });
     const data = (await res.json()) as { scored: ScoreResult; isFirst: boolean };
     setResult(data);

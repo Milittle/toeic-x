@@ -1,15 +1,22 @@
 import Link from "next/link";
-import { loadTests } from "@/lib/loaders";
-import { testStats } from "@/lib/summary";
-import { listSchedule } from "@/lib/retest";
-import { notebookCount } from "@/lib/notebook";
-import { wordFavoriteCount } from "@/lib/word-favorites";
-import { toISODate } from "@/lib/scheduling";
+import { loadTests } from "@/lib/content/question-bank";
+import { loadCollocations } from "@/lib/content/collocations";
+import { loadWordLists } from "@/lib/content/words";
+import { testStats } from "@/lib/application/summary";
+import { listSchedule } from "@/lib/application/retest";
+import { notebookCount } from "@/lib/application/notebook";
+import { wordFavoriteCount } from "@/lib/application/word-favorites";
+import { toISODate } from "@/lib/domain/scheduling";
 
 export const dynamic = "force-dynamic";
 
 export default async function HomePage() {
-  const tests = await loadTests();
+  const [tests, collocations, wordLists] = await Promise.all([
+    loadTests(),
+    loadCollocations(),
+    loadWordLists(),
+  ]);
+  const wordCount = Object.values(wordLists).reduce((sum, list) => sum + list.count, 0);
   const stats = testStats(tests.map((t) => t.testId));
   const firstAttempted = stats.filter((s) => s.status === "first_attempted").length;
   const seen = stats.filter((s) => s.status === "seen").length;
@@ -82,7 +89,7 @@ export default async function HomePage() {
           <div className="text-2xl">📖</div>
           <h2 className="mt-2 text-lg font-semibold">学搭配</h2>
           <p className="mt-1 text-sm text-slate-500">
-            全真模拟书 Vocabulary Check 的全部固定搭配（894 条），按频次/优先级筛选，
+            全真模拟书 Vocabulary Check 的全部固定搭配（{collocations.length} 条），按频次/优先级筛选，
             点击查看本书真题。把想记的收藏起来集中回顾。
           </p>
         </Link>
@@ -93,7 +100,7 @@ export default async function HomePage() {
           <div className="text-2xl">🔤</div>
           <h2 className="mt-2 text-lg font-semibold">背单词</h2>
           <p className="mt-1 text-sm text-slate-500">
-            TOEIC 阅读词汇库（NGSL 2809 + TSL 1250，共 4059 词）。按词表浏览，带音标、释义、
+            TOEIC 阅读词汇库（重点 1500 + NGSL 2809 + TSL 1250，共 {wordCount} 行）。按词表浏览，带音标、释义、
             本书词频与推荐级别；关联固定搭配可跳到学搭配页。
           </p>
         </Link>

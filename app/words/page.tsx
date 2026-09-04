@@ -1,7 +1,7 @@
 import Link from "next/link";
-import { loadWords, loadWordLists } from "@/lib/words";
-import type { Word, WordLevel, WordList } from "@/lib/words";
-import { wordFavoriteIds } from "@/lib/word-favorites";
+import { loadWords, loadWordLists } from "@/lib/content/words";
+import type { Word, WordLevel, WordList } from "@/lib/content/words";
+import { wordFavoriteIds } from "@/lib/application/word-favorites";
 import { WordFavoriteButton } from "@/components/WordFavoriteButton";
 import { Pagination, PAGE_SIZE_OPTIONS, DEFAULT_PAGE_SIZE } from "@/components/Pagination";
 

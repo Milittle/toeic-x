@@ -3,7 +3,7 @@
 
 import { promises as fs } from "fs";
 import path from "path";
-import type { ReadingTest } from "./types";
+import type { ReadingTest } from "../domain/types";
 
 const QUESTIONS_DIR = path.join(process.cwd(), "data", "questions");
 

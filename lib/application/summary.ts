@@ -2,8 +2,8 @@
 // SQLite layer; the web app never writes PROGRESS.md (ADR-0003) — it only
 // presents numbers for the human to back-fill manually.
 
-import { getDb } from "./db";
-import type { ErrorPattern } from "./types";
+import { getDb } from "../adapters/sqlite/db";
+import type { ErrorPattern } from "../domain/types";
 
 export interface TestSummaryStat {
   testId: string;

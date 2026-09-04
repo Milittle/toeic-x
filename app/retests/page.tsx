@@ -1,6 +1,6 @@
 import Link from "next/link";
-import { listSchedule } from "@/lib/retest";
-import { toISODate } from "@/lib/scheduling";
+import { listSchedule } from "@/lib/application/retest";
+import { toISODate } from "@/lib/domain/scheduling";
 import { RetestList } from "@/components/RetestList";
 
 export const dynamic = "force-dynamic";

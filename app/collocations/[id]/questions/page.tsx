@@ -5,8 +5,8 @@ import {
   collocationSourceGroups,
   type CollocationQuestion,
   type CollocationSourceGroup,
-} from "@/lib/collocations";
-import type { Letter, TestStatus } from "@/lib/types";
+} from "@/lib/content/collocations";
+import type { Letter, TestStatus } from "@/lib/domain/types";
 
 export const dynamic = "force-dynamic"; // question reveal depends on live test status
 

@@ -2,12 +2,12 @@
 
 import { useMemo, useState } from "react";
 import Link from "next/link";
-import { flattenClientTest, type ClientTest } from "@/lib/questions";
-import type { Letter } from "@/lib/types";
+import { flattenClientTest, type ClientTest } from "@/lib/domain/questions";
+import type { Letter } from "@/lib/domain/types";
 
 const LETTERS: Letter[] = ["A", "B", "C", "D"];
 
-export function PracticeClient({ test }: { test: ClientTest }) {
+export function PracticeClient({ test, attemptId }: { test: ClientTest; attemptId: number }) {
   const items = useMemo(() => flattenClientTest(test), [test]);
   const [current, setCurrent] = useState(0);
   const [answers, setAnswers] = useState<Record<number, Letter>>({});
@@ -25,10 +25,10 @@ export function PracticeClient({ test }: { test: ClientTest }) {
 
   async function finish() {
     const payload = {
-      testId: test.testId,
+      attemptId,
       answers: Object.entries(answers).map(([n, sel]) => {
         const question = items.find((it) => it.question.number === Number(n))!.question;
-        return { questionNumber: Number(n), selected: sel, isCorrect: sel === question.answer };
+        return { questionNumber: Number(n), selected: sel };
       }),
     };
     await fetch("/api/practice", {
