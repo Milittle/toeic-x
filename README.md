@@ -10,7 +10,7 @@
 - 首次成绩锁定，并标记是否为未见题样本；
 - 复盘：标记 G/V/S/E/T/A/L/K 主错因和备注；
 - 复测：错题按 D+2 / D+7 / D+21 排期；
-- 搭配库：876 条固定搭配，可按 Part、类型、优先级和频次筛选；
+- 搭配库：901 条固定搭配，可按 Part、类型、优先级和频次筛选；
 - 词库：重点 1500、TSL1250、NGSL2809 三份词表，单词支持收藏；
 - 每周汇总：从 SQLite 读取做题数据，供人工查看；
 - 局域网部署：监听 `0.0.0.0`，不对公网开放。
@@ -155,9 +155,42 @@ python3 scripts/verify_question_bank.py --apply
 ```bash
 npm run collocations
 npm run words
+npm run verify-words   # 词库结构自检，生成 data/words/VERIFICATION.md
 ```
 
 搭配库的真题关联来自题库扫描，不直接信任 Excel 中的旧题号；因此更新搭配库时应同时保留题库 JSON 和生成脚本。
+
+`npm run verify-words` 只读，按九类问题（词条碎片、同形重复、释义域标签、释义过长、释义缺失、字段缺失、题库词频列、级别一致性、关联搭配）列出可疑条目，供人工对照 `单词本.xlsx` 逐条核对；它不提供 `--apply`，也不会修改任何数据。词频列的复算只是线索：`单词本.xlsx` 的 `题库总次数` 等列没有随仓库保留生成脚本。
+
+词库释义的深度审查（对齐搭配库那次审计）分三步，前两步只读：
+
+```bash
+# 1. 结构自检 -> data/words/VERIFICATION.md
+npm run verify-words
+
+# 2. LLM 释义审查 -> data/words/llm_review.jsonl + data/words/LLM_REVIEW.md
+#    需要 DEEPSEEK_API_KEY；按单词去重后审 4059 个唯一单词，可断点续跑
+DEEPSEEK_API_KEY=... uv run scripts/review_words_llm.py --limit 20   # 试跑
+DEEPSEEK_API_KEY=... uv run scripts/review_words_llm.py              # 全量
+
+# 3. 人工确认 LLM_REVIEW.md 后回写 Excel（写入前自动备份）
+uv run scripts/apply_word_fixes.py --from-llm
+uv run scripts/apply_word_fixes.py --plan data/words/fix_plan.json --dry-run
+uv run scripts/apply_word_fixes.py --plan data/words/fix_plan.json
+npm run words
+```
+
+`review_words_llm.py` 会把每条单词的当前释义、英文简释和题库真实例句一起发给模型，结果只作建议；`apply_word_fixes.py` 只有在计划经人工确认后才会改 Excel，且每次写入都会先备份成 `单词本.bak-*.xlsx`，并把这一次改了什么追加到 `data/words/FIX_LOG.md`。
+
+补齐缺字段（音标 / 英文简释）走同一条管线：
+
+```bash
+DEEPSEEK_API_KEY=... uv run scripts/fill_word_gaps.py     # -> gap_fill.jsonl + gap_fix_plan.json
+uv run scripts/apply_word_fixes.py --plan data/words/gap_fix_plan.json
+npm run words
+```
+
+注意两点：写回 Excel 用的是**直接改写 xlsx 包内 sheet XML**，不是 openpyxl 保存——`单词本.xlsx` 的 `序号` / `综合分` / `推荐级别` 是公式，openpyxl 重新保存会丢掉公式缓存值，`level` 和 `compositeScore` 会整列变空。另外词库的 `id` 由 `extract_words.py` 的 `assign_ids()` 统一分配：先做 ASCII 折叠（`résumé → resume-2`），再保证同一词表内唯一、同一单词跨词表一致。
 
 如果同时更新了原始 PDF、题库或 Excel，建议按以下顺序重建：
 
@@ -171,6 +204,7 @@ python3 scripts/verify_question_bank.py
 python3 scripts/verify_question_bank.py --apply
 npm run collocations
 npm run words
+npm run verify-words
 ```
 
 重新生成会覆盖静态 JSON，开始前应确认已有数据已备份，并避免在有其他人使用 Web 应用时更新题库。

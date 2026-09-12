@@ -28,6 +28,7 @@ from __future__ import annotations
 import json
 import re
 import sys
+import unicodedata
 from pathlib import Path
 
 import openpyxl
@@ -57,8 +58,36 @@ def to_str(value) -> str:
 
 
 def slugify(word: str) -> str:
-    slug = re.sub(r"[^a-z0-9]+", "-", word.lower()).strip("-")
+    """ASCII-folded slug: ``résumé`` -> ``resume``, ``café`` -> ``cafe``.
+
+    Accents are kept in the displayed headword but must not leak into the id —
+    ``r-sum`` / ``caf`` are neither readable nor stable as favourite keys.
+    """
+    folded = unicodedata.normalize("NFKD", word).encode("ascii", "ignore").decode("ascii")
+    slug = re.sub(r"[^a-z0-9]+", "-", folded.lower()).strip("-")
     return slug or "word"
+
+
+def assign_ids(items: list[dict]) -> None:
+    """Give every headword one stable id, unique inside each word list.
+
+    The same headword keeps the same id across lists (ADR-0006: a favourite is
+    keyed on the word, not on a list row). Collisions after folding (``resume``
+    vs ``résumé``) are resolved in alphabetical order of the raw headword, so
+    the numbering does not shift when frequencies or scores change.
+    """
+    id_by_word: dict[str, str] = {}
+    used: set[str] = set()
+    for word in sorted({it["word"] for it in items}):
+        base = slugify(word)
+        candidate, n = base, 1
+        while candidate in used:
+            n += 1
+            candidate = f"{base}-{n}"
+        used.add(candidate)
+        id_by_word[word] = candidate
+    for it in items:
+        it["id"] = id_by_word[it["word"]]
 
 
 def norm_expr(value: str) -> str:
@@ -176,6 +205,8 @@ def main(argv=None) -> int:
         items.sort(key=lambda r: (-r["compositeScore"], r["word"].lower()))
         all_items.extend(items)
         lists_meta[key] = {"label": label, "count": len(items)}
+
+    assign_ids(all_items)
 
     out_dir.mkdir(parents=True, exist_ok=True)
     payload = {

@@ -11,6 +11,7 @@
     "extract": "python3 scripts/extract_question_bank.py",
     "collocations": "uv run scripts/extract_collocations.py",
     "words": "uv run scripts/extract_words.py",
+    "verify-words": "uv run scripts/verify_words.py",
     "verify": "python3 scripts/verify_question_bank.py",
     "py-test": "python3 -m pytest scripts/test_extract_question_bank.py -q"
   },

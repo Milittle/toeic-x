@@ -1,0 +1,1199 @@
+[
+  {
+    "word": "mineral",
+    "ok": false,
+    "gloss": "n. 矿物，矿物质，矿产；a. 矿物的",
+    "reason": "释义基本正确，但缺少托业阅读中常见的“矿物质”义项（如营养成分），应补充。"
+  },
+  {
+    "word": "studio",
+    "ok": true,
+    "gloss": "n. 工作室；画室；录音室；演播室；电影制片厂",
+    "reason": "ok"
+  },
+  {
+    "word": "website",
+    "ok": true,
+    "gloss": "n. 网站",
+    "reason": "ok"
+  },
+  {
+    "word": "nail",
+    "ok": null,
+    "reason": "RemoteProtocolError"
+  },
+  {
+    "word": "oval",
+    "ok": true,
+    "gloss": "n. 椭圆形；a. 卵形的, 椭圆形的",
+    "reason": "ok"
+  },
+  {
+    "word": "questionnaire",
+    "ok": true,
+    "gloss": "n. 调查表, 问卷",
+    "reason": "ok"
+  },
+  {
+    "word": "land",
+    "ok": false,
+    "gloss": "n. 陆地, 土地, 地产, 国土；vi. 降落, 着陆, 登陆, 到达；vt. 使降落, 使登陆, 成功获得(工作/合同)",
+    "reason": "原释义动词缺少飞机/旅行语境常用的“降落、着陆”，补充后更完整；其余义项保留。"
+  },
+  {
+    "word": "thin",
+    "ok": null,
+    "reason": "RemoteProtocolError"
+  },
+  {
+    "word": "ready",
+    "ok": true,
+    "gloss": "a. 准备好的；愿意的；现成的，可用的",
+    "reason": "ok"
+  },
+  {
+    "word": "shoe",
+    "ok": true,
+    "gloss": "n. 鞋",
+    "reason": "ok"
+  },
+  {
+    "word": "objective",
+    "ok": true,
+    "gloss": "n. 目的, 目标, 宗旨；a. 客观的, 如实的, 无偏见的",
+    "reason": "ok"
+  },
+  {
+    "word": "reward",
+    "ok": true,
+    "gloss": "n. 报酬, 酬谢, 赏金；vt. 奖赏, 酬谢",
+    "reason": "ok"
+  },
+  {
+    "word": "upper",
+    "ok": true,
+    "gloss": "a. 上面的, 较高的, 上级的；n. 鞋帮",
+    "reason": "ok"
+  },
+  {
+    "word": "cheese",
+    "ok": true,
+    "gloss": "n. 奶酪；乳酪",
+    "reason": "ok"
+  },
+  {
+    "word": "singer",
+    "ok": true,
+    "gloss": "n. 歌手",
+    "reason": "ok"
+  },
+  {
+    "word": "potentially",
+    "ok": true,
+    "gloss": "adv. 可能地, 潜在地",
+    "reason": "ok"
+  },
+  {
+    "word": "category",
+    "ok": true,
+    "gloss": "n. 种类，类别；范畴",
+    "reason": "ok"
+  },
+  {
+    "word": "classify",
+    "ok": true,
+    "gloss": "vt. 分类；归类；分等",
+    "reason": "ok"
+  },
+  {
+    "word": "mask",
+    "ok": true,
+    "gloss": "n. 面具；面罩；口罩；掩饰；vt. 掩饰，遮盖",
+    "reason": "ok"
+  },
+  {
+    "word": "pollution",
+    "ok": true,
+    "gloss": "n. 污染",
+    "reason": "ok"
+  },
+  {
+    "word": "furnish",
+    "ok": true,
+    "gloss": "vt. 提供，供给；为…配备家具",
+    "reason": "ok"
+  },
+  {
+    "word": "outline",
+    "ok": true,
+    "gloss": "n. 大纲, 概要, 轮廓；vt. 概述, 勾勒轮廓",
+    "reason": "ok"
+  },
+  {
+    "word": "budget",
+    "ok": false,
+    "gloss": "n. 预算；v. 编预算，编入预算，安排；a. 廉价的，经济实惠的",
+    "reason": "缺少 budget 作形容词“廉价的/经济实惠的”这一托业商务常见义项（如 budget hotel/airline）。"
+  },
+  {
+    "word": "completely",
+    "ok": true,
+    "gloss": "adv. 完全地；彻底地；十分地",
+    "reason": "ok"
+  },
+  {
+    "word": "independence",
+    "ok": true,
+    "gloss": "n. 独立, 自立, 自主",
+    "reason": "ok"
+  },
+  {
+    "word": "besides",
+    "ok": true,
+    "gloss": "prep. 除...之外；adv. 而且, 此外",
+    "reason": "ok"
+  },
+  {
+    "word": "appliance",
+    "ok": true,
+    "gloss": "n. 器具，用具；家用电器",
+    "reason": "ok"
+  },
+  {
+    "word": "teach",
+    "ok": true,
+    "gloss": "vt. 教, 讲授, 教导, 教育；vi. 教书, 教学, 可以教",
+    "reason": "ok"
+  },
+  {
+    "word": "union",
+    "ok": true,
+    "gloss": "n. 联盟；联合；结合；工会",
+    "reason": "ok"
+  },
+  {
+    "word": "overtime",
+    "ok": true,
+    "gloss": "n. 超时, 加班, 延长时间；a. 超时的, 加班的；adv. 加班地",
+    "reason": "ok"
+  },
+  {
+    "word": "become",
+    "ok": true,
+    "gloss": "vi. 变成，变得；成为",
+    "reason": "ok"
+  },
+  {
+    "word": "survive",
+    "ok": true,
+    "gloss": "vt. 比...活得长, 生存, 生还, 幸免于；vi. 活下来, 幸存",
+    "reason": "ok"
+  },
+  {
+    "word": "grab",
+    "ok": false,
+    "gloss": "vt. 抓取, 抢夺, 攫取; vi. 抓取; n. 抓握",
+    "reason": "删去与托业考试无关的“grab bag 摸彩袋”，并控制释义长度。"
+  },
+  {
+    "word": "unclear",
+    "ok": true,
+    "gloss": "a. 不易了解的, 不清楚的, 含混的",
+    "reason": "ok"
+  },
+  {
+    "word": "cycle",
+    "ok": true,
+    "gloss": "n. 周期；循环；自行车；vi. 循环；骑自行车",
+    "reason": "ok"
+  },
+  {
+    "word": "themselves",
+    "ok": true,
+    "gloss": "pron. 他们自己, 她们自己, 它们自己",
+    "reason": "ok"
+  },
+  {
+    "word": "ancient",
+    "ok": false,
+    "gloss": "a. 古代的, 古老的",
+    "reason": "“年老的、旧的”属于低频/易误解义项，托业中 ancient 主要指“古代的、古老的”，应精简。"
+  },
+  {
+    "word": "terminate",
+    "ok": true,
+    "gloss": "vi. 结束, 终止, 期满；vt. 使停止, 使结束, 使终止(合同、雇佣等)",
+    "reason": "ok"
+  },
+  {
+    "word": "arrangement",
+    "ok": true,
+    "gloss": "n. 安排；筹备；排列；布置",
+    "reason": "ok"
+  },
+  {
+    "word": "yeah",
+    "ok": true,
+    "gloss": "adv. (非正式)是, 是的",
+    "reason": "ok"
+  },
+  {
+    "word": "virus",
+    "ok": true,
+    "gloss": "n. 病毒；计算机病毒",
+    "reason": "ok"
+  },
+  {
+    "word": "hell",
+    "ok": true,
+    "gloss": "n. 地狱；苦境，苦难；阴间",
+    "reason": "ok"
+  },
+  {
+    "word": "play",
+    "ok": true,
+    "gloss": "n. 游戏, 游玩, 比赛, 戏剧；v. 玩, 演奏, 扮演, 播放",
+    "reason": "ok"
+  },
+  {
+    "word": "lawn",
+    "ok": true,
+    "gloss": "n. 草地，草坪",
+    "reason": "ok"
+  },
+  {
+    "word": "past",
+    "ok": true,
+    "gloss": "n. 过去；a. 过去的，结束的，卸任的；prep. 经过，晚于，超过",
+    "reason": "ok"
+  },
+  {
+    "word": "assistance",
+    "ok": true,
+    "gloss": "n. 协助, 援助；帮助",
+    "reason": "ok"
+  },
+  {
+    "word": "cleaner",
+    "ok": true,
+    "gloss": "n. 清洁工人；清洁剂；干洗商；a. 更清洁的",
+    "reason": "ok"
+  },
+  {
+    "word": "ample",
+    "ok": true,
+    "gloss": "a. 大量的, 充足的, 丰富的",
+    "reason": "ok"
+  },
+  {
+    "word": "deluxe",
+    "ok": true,
+    "gloss": "a. 高级的，豪华的",
+    "reason": "ok"
+  },
+  {
+    "word": "seeker",
+    "ok": null,
+    "reason": "RemoteProtocolError"
+  },
+  {
+    "word": "beauty",
+    "ok": true,
+    "gloss": "n. 美, 美人",
+    "reason": "ok"
+  },
+  {
+    "word": "offer",
+    "ok": true,
+    "gloss": "n. 提供, 提议, 报价；vt. 提供, 出价, 提议",
+    "reason": "ok"
+  },
+  {
+    "word": "drawback",
+    "ok": true,
+    "gloss": "n. 缺点；不利条件",
+    "reason": "ok"
+  },
+  {
+    "word": "evacuate",
+    "ok": true,
+    "gloss": "v. 疏散；撤离，撤出",
+    "reason": "ok"
+  },
+  {
+    "word": "interfere",
+    "ok": true,
+    "gloss": "vi. 干涉，干扰，妨碍",
+    "reason": "ok"
+  },
+  {
+    "word": "retrieve",
+    "ok": true,
+    "gloss": "vt. 取回，挽回，恢复，检索；n. 取回，恢复",
+    "reason": "ok"
+  },
+  {
+    "word": "nature",
+    "ok": true,
+    "gloss": "n. 自然, 大自然；本性, 性格, 性质",
+    "reason": "ok"
+  },
+  {
+    "word": "purser",
+    "ok": true,
+    "gloss": "n. 事务长；会计员",
+    "reason": "ok"
+  },
+  {
+    "word": "grateful",
+    "ok": true,
+    "gloss": "a. 感谢的；感激的",
+    "reason": "ok"
+  },
+  {
+    "word": "graphic",
+    "ok": true,
+    "gloss": "a. 图形的, 图解的, 生动的；n. 图形, 图像",
+    "reason": "ok"
+  },
+  {
+    "word": "bone",
+    "ok": true,
+    "gloss": "n. 骨头，骨；vt. 剔骨",
+    "reason": "ok"
+  },
+  {
+    "word": "intern",
+    "ok": true,
+    "gloss": "n. 实习生；vi. 做实习生（实习医师）",
+    "reason": "ok"
+  },
+  {
+    "word": "widely",
+    "ok": true,
+    "gloss": "adv. 广泛地",
+    "reason": "ok"
+  },
+  {
+    "word": "polite",
+    "ok": true,
+    "gloss": "a. 有礼貌的, 文雅的, 客气的, 有教养的",
+    "reason": "ok"
+  },
+  {
+    "word": "fulfill",
+    "ok": true,
+    "gloss": "vt. 履行，实践；完成，实现；满足",
+    "reason": "ok"
+  },
+  {
+    "word": "harmful",
+    "ok": true,
+    "gloss": "a. 有害的, 伤害的",
+    "reason": "ok"
+  },
+  {
+    "word": "dimension",
+    "ok": false,
+    "gloss": "n. 尺寸；方面，层面；维度",
+    "reason": "删去考试不常用的动词义项“标出尺寸”，保留名词核心义项。"
+  },
+  {
+    "word": "bird",
+    "ok": true,
+    "gloss": "n. 鸟",
+    "reason": "ok"
+  },
+  {
+    "word": "vision",
+    "ok": true,
+    "gloss": "n. 视觉；视力；愿景，远见；想象",
+    "reason": "ok"
+  },
+  {
+    "word": "figure",
+    "ok": true,
+    "gloss": "n. 数字，金额，图形；v. 计算，认为；figure out 弄清楚，解决",
+    "reason": "ok"
+  },
+  {
+    "word": "juice",
+    "ok": true,
+    "gloss": "n. 果汁；汁",
+    "reason": "ok"
+  },
+  {
+    "word": "contrary",
+    "ok": true,
+    "gloss": "a. 相反的, 矛盾的, 对立的；n. 相反, 对立面；prep. 与…相反",
+    "reason": "ok"
+  },
+  {
+    "word": "microwave",
+    "ok": true,
+    "gloss": "n. 微波；微波炉",
+    "reason": "ok"
+  },
+  {
+    "word": "annually",
+    "ok": true,
+    "gloss": "adv. 每年；一年一次",
+    "reason": "ok"
+  },
+  {
+    "word": "patron",
+    "ok": true,
+    "gloss": "n. 顾客，主顾；赞助人，资助人",
+    "reason": "ok"
+  },
+  {
+    "word": "embed",
+    "ok": true,
+    "gloss": "vt. 使嵌入；使插入；使深留脑中",
+    "reason": "ok"
+  },
+  {
+    "word": "plate",
+    "ok": false,
+    "gloss": "n. 盘子，碟；金属板，车牌",
+    "reason": "删除专业义项 vt. 电镀，保留托业常见的名词义项。"
+  },
+  {
+    "word": "foundation",
+    "ok": true,
+    "gloss": "n. 基金会；基础，根据；建立；地基",
+    "reason": "ok"
+  },
+  {
+    "word": "animal",
+    "ok": true,
+    "gloss": "n. 动物",
+    "reason": "ok"
+  },
+  {
+    "word": "periodically",
+    "ok": true,
+    "gloss": "adv. 定期地；周期性地；间歇地",
+    "reason": "ok"
+  },
+  {
+    "word": "pass",
+    "ok": true,
+    "gloss": "vt. 通过；经过；传递；度过；vi. 通过；经过；传递；n. 通行证；及格",
+    "reason": "ok"
+  },
+  {
+    "word": "maintain",
+    "ok": true,
+    "gloss": "vt. 维持, 保持, 维修, 保养, 坚持, 供养, 主张",
+    "reason": "ok"
+  },
+  {
+    "word": "caution",
+    "ok": true,
+    "gloss": "n. 小心，慎重，警示；vt. 警告",
+    "reason": "ok"
+  },
+  {
+    "word": "regular",
+    "ok": false,
+    "gloss": "a. 规则的, 定期的, 经常的, 常规的, 正常的；n. 常客",
+    "reason": "删去托业无关的“正规军”和非常用副词义“经常地”，保留形容词常用义及名词“常客”。"
+  },
+  {
+    "word": "remodel",
+    "ok": true,
+    "gloss": "vt. 改造；翻新；重新装修",
+    "reason": "ok"
+  },
+  {
+    "word": "earth",
+    "ok": true,
+    "gloss": "n. 地球；泥土；大地；世界",
+    "reason": "ok"
+  },
+  {
+    "word": "directory",
+    "ok": true,
+    "gloss": "n. 名录；目录；工商名录",
+    "reason": "ok"
+  },
+  {
+    "word": "human",
+    "ok": true,
+    "gloss": "n. 人，人类；a. 人的，人类的，人性的",
+    "reason": "ok"
+  },
+  {
+    "word": "carefully",
+    "ok": true,
+    "gloss": "adv. 小心地；谨慎地；仔细地",
+    "reason": "ok"
+  },
+  {
+    "word": "suitcase",
+    "ok": true,
+    "gloss": "n. 手提箱",
+    "reason": "ok"
+  },
+  {
+    "word": "pedestrian",
+    "ok": true,
+    "gloss": "n. 行人, 步行者；a. 人行的, 徒步的, 呆板的, 平淡无奇的",
+    "reason": "ok"
+  },
+  {
+    "word": "difficulty",
+    "ok": true,
+    "gloss": "n. 困难, 难点",
+    "reason": "ok"
+  },
+  {
+    "word": "ago",
+    "ok": true,
+    "gloss": "adv. 以前",
+    "reason": "ok"
+  },
+  {
+    "word": "touch",
+    "ok": true,
+    "gloss": "n. 接触, 触摸, 联系；vt. 触摸, 感动, 涉及, 提到",
+    "reason": "ok"
+  },
+  {
+    "word": "auditorium",
+    "ok": true,
+    "gloss": "n. 礼堂；听众席",
+    "reason": "ok"
+  },
+  {
+    "word": "please",
+    "ok": true,
+    "gloss": "adv. 请；vt. 使高兴，使满意，取悦；vi. 令人满意",
+    "reason": "ok"
+  },
+  {
+    "word": "rat",
+    "ok": true,
+    "gloss": "n. 鼠；卑鄙的人；变节者；vi. 变节，告密",
+    "reason": "ok"
+  },
+  {
+    "word": "formally",
+    "ok": false,
+    "gloss": "adv. 正式地",
+    "reason": "形式上不是托业常用义，建议删除，只保留正式地。"
+  },
+  {
+    "word": "officially",
+    "ok": true,
+    "gloss": "adv. 官方地；正式地",
+    "reason": "ok"
+  },
+  {
+    "word": "fixture",
+    "ok": true,
+    "gloss": "n. 固定(状态)；固定物；固定装置；设备",
+    "reason": "ok"
+  },
+  {
+    "word": "overlook",
+    "ok": true,
+    "gloss": "vt. 俯瞰，远眺；忽视，没注意到",
+    "reason": "ok"
+  },
+  {
+    "word": "flexibility",
+    "ok": true,
+    "gloss": "n. 弹性；灵活性；适应性",
+    "reason": "ok"
+  },
+  {
+    "word": "pursue",
+    "ok": true,
+    "gloss": "vt. 追求；从事；追赶；继续",
+    "reason": "ok"
+  },
+  {
+    "word": "necessity",
+    "ok": true,
+    "gloss": "n. 需要, 必需品, 必然性",
+    "reason": "ok"
+  },
+  {
+    "word": "yellow",
+    "ok": true,
+    "gloss": "n. 黄色；a. 黄色的",
+    "reason": "ok"
+  },
+  {
+    "word": "addition",
+    "ok": false,
+    "gloss": "n. 增加，添加；增加的人(或物)；此外；除…之外(还)",
+    "reason": "缺少 in addition to（除…之外）这一托业高频搭配义，且“加法”非托业常用义。"
+  },
+  {
+    "word": "accomplish",
+    "ok": true,
+    "gloss": "vt. 完成；达到；实现",
+    "reason": "ok"
+  },
+  {
+    "word": "subscriber",
+    "ok": true,
+    "gloss": "n. 订户，订阅者；用户",
+    "reason": "ok"
+  },
+  {
+    "word": "whenever",
+    "ok": true,
+    "gloss": "conj. 每当；adv. 不论何时, 每逢",
+    "reason": "ok"
+  },
+  {
+    "word": "embrace",
+    "ok": true,
+    "gloss": "n. 拥抱；vt. 拥抱；欣然接受，采纳；包含",
+    "reason": "ok"
+  },
+  {
+    "word": "baggage",
+    "ok": true,
+    "gloss": "n. 行李",
+    "reason": "ok"
+  },
+  {
+    "word": "never",
+    "ok": true,
+    "gloss": "adv. 从不，决不，不曾",
+    "reason": "ok"
+  },
+  {
+    "word": "secondary",
+    "ok": true,
+    "gloss": "a. 次要的, 第二的, 从属的, 辅助的, 中等教育的",
+    "reason": "ok"
+  },
+  {
+    "word": "occasionally",
+    "ok": true,
+    "gloss": "adv. 有时候；偶尔",
+    "reason": "ok"
+  },
+  {
+    "word": "drug",
+    "ok": true,
+    "gloss": "n. 药，药物；麻醉药；毒品",
+    "reason": "ok"
+  },
+  {
+    "word": "coach",
+    "ok": true,
+    "gloss": "n. 教练，长途汽车；vt. 训练，指导；vi. 作指导",
+    "reason": "ok"
+  },
+  {
+    "word": "organization",
+    "ok": true,
+    "gloss": "n. 组织, 团体, 机构, 结构, 体制",
+    "reason": "ok"
+  },
+  {
+    "word": "remove",
+    "ok": true,
+    "gloss": "vt. 移开，除去，去掉；开除，撤职；vi. 迁移，搬家",
+    "reason": "ok"
+  },
+  {
+    "word": "consult",
+    "ok": true,
+    "gloss": "vi. 商讨, 商量, 协商；vt. 向...请教, 查阅, 咨询",
+    "reason": "ok"
+  },
+  {
+    "word": "declare",
+    "ok": true,
+    "gloss": "v. 宣布, 声明, 申报, 断言",
+    "reason": "ok"
+  },
+  {
+    "word": "retire",
+    "ok": true,
+    "gloss": "vi. 退休, 退役, 引退；vt. 使退休, 辞退",
+    "reason": "ok"
+  },
+  {
+    "word": "knock",
+    "ok": true,
+    "gloss": "n. 敲击声, 敲门声；v. 敲, 敲打, 碰撞",
+    "reason": "ok"
+  },
+  {
+    "word": "insufficient",
+    "ok": true,
+    "gloss": "a. 不足的, 不够的, 不充足的",
+    "reason": "ok"
+  },
+  {
+    "word": "advance",
+    "ok": true,
+    "gloss": "n. 前进；进展；预付款；v. 前进；促进；提出；提前；预付；a. 预先的",
+    "reason": "ok"
+  },
+  {
+    "word": "key",
+    "ok": false,
+    "gloss": "n. 钥匙；键；关键，要害；答案，解答；a. 关键的",
+    "reason": "删去了与托业无关的“调音、锁上”等专业/生僻动词义项，保留常用名词和形容词义项。"
+  },
+  {
+    "word": "clue",
+    "ok": true,
+    "gloss": "n. 线索，提示；vt. 为…提供线索",
+    "reason": "ok"
+  },
+  {
+    "word": "plenty",
+    "ok": true,
+    "gloss": "n. 大量, 充足, 丰富；a. 很多的, 足够的",
+    "reason": "ok"
+  },
+  {
+    "word": "biography",
+    "ok": true,
+    "gloss": "n. 传记",
+    "reason": "ok"
+  },
+  {
+    "word": "will",
+    "ok": true,
+    "gloss": "aux. 将，会；愿意；n. 意志，决心，意愿；遗嘱",
+    "reason": "ok"
+  },
+  {
+    "word": "sidewalk",
+    "ok": true,
+    "gloss": "n. 人行道",
+    "reason": "ok"
+  },
+  {
+    "word": "producer",
+    "ok": true,
+    "gloss": "n. 生产者，制造者；制作人",
+    "reason": "ok"
+  },
+  {
+    "word": "something",
+    "ok": true,
+    "gloss": "pron. 某事, 某物",
+    "reason": "ok"
+  },
+  {
+    "word": "accident",
+    "ok": true,
+    "gloss": "n. 事故；意外，意外事件",
+    "reason": "ok"
+  },
+  {
+    "word": "cough",
+    "ok": true,
+    "gloss": "n. 咳嗽；vi. 咳嗽；vt. 咳出",
+    "reason": "ok"
+  },
+  {
+    "word": "dig",
+    "ok": true,
+    "gloss": "vt. 挖, 翻土, 发掘；vi. 挖掘；n. 挖掘",
+    "reason": "ok"
+  },
+  {
+    "word": "statue",
+    "ok": true,
+    "gloss": "n. 雕像；雕塑",
+    "reason": "ok"
+  },
+  {
+    "word": "response",
+    "ok": true,
+    "gloss": "n. 反应；回答，答复；响应",
+    "reason": "ok"
+  },
+  {
+    "word": "first",
+    "ok": true,
+    "gloss": "adv. 首先, 第一, 优先；a. 第一的；num. 第一",
+    "reason": "ok"
+  },
+  {
+    "word": "horrible",
+    "ok": true,
+    "gloss": "a. 可怕的；糟糕的；极讨厌的",
+    "reason": "ok"
+  },
+  {
+    "word": "unite",
+    "ok": true,
+    "gloss": "vi. 联合，团结；vt. 使联合，统一，使团结",
+    "reason": "ok"
+  },
+  {
+    "word": "turn",
+    "ok": true,
+    "gloss": "n. 转弯；轮到；变化；v. 转动；转向；变成；求助于；（in turn）反过来",
+    "reason": "ok"
+  },
+  {
+    "word": "shortly",
+    "ok": true,
+    "gloss": "adv. 不久；很快",
+    "reason": "ok"
+  },
+  {
+    "word": "must",
+    "ok": true,
+    "gloss": "aux. 必须；n. 绝对必要的事物，必需品",
+    "reason": "ok"
+  },
+  {
+    "word": "alcohol",
+    "ok": true,
+    "gloss": "n. 酒精；酒",
+    "reason": "ok"
+  },
+  {
+    "word": "food",
+    "ok": true,
+    "gloss": "n. 食物, 食品；养料",
+    "reason": "ok"
+  },
+  {
+    "word": "nearby",
+    "ok": true,
+    "gloss": "a. 附近的, 近旁的；adv. 在附近, 近旁地",
+    "reason": "ok"
+  },
+  {
+    "word": "promise",
+    "ok": true,
+    "gloss": "n. 诺言, 约定, 有指望；vt. 允诺, 约定, 预示；vi. 允诺, 有前途",
+    "reason": "ok"
+  },
+  {
+    "word": "come",
+    "ok": true,
+    "gloss": "vi. 过来, 来, 到达, 出现, 开始, 发生, 来自",
+    "reason": "ok"
+  },
+  {
+    "word": "subsidize",
+    "ok": true,
+    "gloss": "vt. 补助；资助；给…发津贴",
+    "reason": "ok"
+  },
+  {
+    "word": "zoo",
+    "ok": true,
+    "gloss": "n. 动物园",
+    "reason": "ok"
+  },
+  {
+    "word": "field",
+    "ok": true,
+    "gloss": "n. 领域；田地；场地；现场；a. 实地的；vt. 回答（问题）",
+    "reason": "ok"
+  },
+  {
+    "word": "smoothly",
+    "ok": true,
+    "gloss": "adv. 顺利地；平稳地；流畅地",
+    "reason": "ok"
+  },
+  {
+    "word": "particular",
+    "ok": true,
+    "gloss": "n. 细节, 详情；a. 特定的, 特别的, 挑剔的；尤其, 特别是",
+    "reason": "ok"
+  },
+  {
+    "word": "extreme",
+    "ok": true,
+    "gloss": "n. 极端, 末端；a. 极端的, 尽头的, 极度的, 偏激的",
+    "reason": "ok"
+  },
+  {
+    "word": "feedback",
+    "ok": true,
+    "gloss": "n. 反馈；反应",
+    "reason": "ok"
+  },
+  {
+    "word": "demand",
+    "ok": true,
+    "gloss": "n. 要求；需求；需要；v. 要求；需要",
+    "reason": "ok"
+  },
+  {
+    "word": "quick",
+    "ok": true,
+    "gloss": "a. 快的, 迅速的, 敏捷的, 灵敏的；adv. 快地",
+    "reason": "ok"
+  },
+  {
+    "word": "record",
+    "ok": true,
+    "gloss": "n.记录,履历,档案,最高纪录；a.创纪录的；vt.记录,记载,录音",
+    "reason": "ok"
+  },
+  {
+    "word": "bulk",
+    "ok": true,
+    "gloss": "n. 大部分，大多数；体积，大块；大批量，散装",
+    "reason": "ok"
+  },
+  {
+    "word": "observe",
+    "ok": true,
+    "gloss": "vt. 观察，注意到，遵守，庆祝",
+    "reason": "ok"
+  },
+  {
+    "word": "revise",
+    "ok": true,
+    "gloss": "vt. 修订, 修正, 修改；vi. 复习(英)",
+    "reason": "ok"
+  },
+  {
+    "word": "president",
+    "ok": true,
+    "gloss": "n. 总统；总裁；董事长；总经理；校长；会长；主席",
+    "reason": "ok"
+  },
+  {
+    "word": "confusion",
+    "ok": true,
+    "gloss": "n. 混乱；混淆；困惑",
+    "reason": "ok"
+  },
+  {
+    "word": "pension",
+    "ok": true,
+    "gloss": "n. 养老金；退休金；年金；vt. 发给退休金",
+    "reason": "ok"
+  },
+  {
+    "word": "adjacent",
+    "ok": true,
+    "gloss": "a. 毗连的, 邻近的, 相邻的",
+    "reason": "ok"
+  },
+  {
+    "word": "create",
+    "ok": true,
+    "gloss": "vt. 创造；创建；制作；引起；产生",
+    "reason": "ok"
+  },
+  {
+    "word": "hero",
+    "ok": true,
+    "gloss": "n. 英雄；男主角；主人公",
+    "reason": "ok"
+  },
+  {
+    "word": "drama",
+    "ok": false,
+    "gloss": "n. 戏剧；戏剧艺术；戏剧性场面",
+    "reason": "现有释义缺少常用义项「戏剧性场面/戏剧性事件」（对应英文简释中 highly emotional 一义），建议补上，其余保留。"
+  },
+  {
+    "word": "signify",
+    "ok": true,
+    "gloss": "vt. 表示，意味着；象征",
+    "reason": "ok"
+  },
+  {
+    "word": "considerate",
+    "ok": true,
+    "gloss": "a. 体贴的, 体谅的, 考虑周到的",
+    "reason": "ok"
+  },
+  {
+    "word": "display",
+    "ok": true,
+    "gloss": "n. 显示；陈列；展示；显示器；vt. 展示；显示；表现",
+    "reason": "ok"
+  },
+  {
+    "word": "statistic",
+    "ok": true,
+    "gloss": "n. 统计数字；统计资料",
+    "reason": "ok"
+  },
+  {
+    "word": "wooden",
+    "ok": false,
+    "gloss": "a. 木制的；呆板的，僵硬的；木然的",
+    "reason": "“呆笨的”偏离原义，wooden 的引申义为呆板/僵硬/木然，应修正并统一用分号分隔义项。"
+  },
+  {
+    "word": "kid",
+    "ok": true,
+    "gloss": "n. 小孩，儿童；v. 开玩笑，取笑",
+    "reason": "ok"
+  },
+  {
+    "word": "slope",
+    "ok": true,
+    "gloss": "n. 斜坡, 坡度, 倾斜；vt. 使倾斜；vi. 倾斜",
+    "reason": "ok"
+  },
+  {
+    "word": "pan",
+    "ok": true,
+    "gloss": "n. 平底锅，浅盘；v. 摇镜头，上下左右移动",
+    "reason": "ok"
+  },
+  {
+    "word": "accessory",
+    "ok": true,
+    "gloss": "n. 附件，配件，配饰；a. 附属的，补充的",
+    "reason": "ok"
+  },
+  {
+    "word": "quiet",
+    "ok": true,
+    "gloss": "a. 安静的, 寂静的, 平静的；n. 安静, 平静；vi. 平静下来",
+    "reason": "ok"
+  },
+  {
+    "word": "trash",
+    "ok": true,
+    "gloss": "n. 垃圾, 废物；vt. 丢弃",
+    "reason": "ok"
+  },
+  {
+    "word": "electrician",
+    "ok": true,
+    "gloss": "n. 电工；电气技师",
+    "reason": "ok"
+  },
+  {
+    "word": "impossible",
+    "ok": false,
+    "gloss": "a. 不可能的；难以置信的",
+    "reason": "删去托业少见的“令人无法忍受的”义项，保留核心常用义。"
+  },
+  {
+    "word": "signature",
+    "ok": true,
+    "gloss": "n. 签名，签字；特征，识别标志",
+    "reason": "ok"
+  },
+  {
+    "word": "prestigious",
+    "ok": true,
+    "gloss": "a. 享有声望的",
+    "reason": "ok"
+  },
+  {
+    "word": "reschedule",
+    "ok": true,
+    "gloss": "v. 重新安排；改期；重新排定（时间）",
+    "reason": "ok"
+  },
+  {
+    "word": "elderly",
+    "ok": true,
+    "gloss": "a. 年长的，上了年纪的；n. 老年人（the elderly）",
+    "reason": "ok"
+  },
+  {
+    "word": "communicate",
+    "ok": true,
+    "gloss": "vt. 传达；vi. 沟通，交流；通讯",
+    "reason": "ok"
+  },
+  {
+    "word": "permission",
+    "ok": true,
+    "gloss": "n. 许可, 允许",
+    "reason": "ok"
+  },
+  {
+    "word": "container",
+    "ok": true,
+    "gloss": "n. 容器；集装箱",
+    "reason": "ok"
+  },
+  {
+    "word": "next",
+    "ok": true,
+    "gloss": "a.下一个的；紧接的；adv.接下来；下次；n.下一个；next to几乎；紧邻",
+    "reason": "ok"
+  },
+  {
+    "word": "arise",
+    "ok": true,
+    "gloss": "vi. 出现；发生；产生",
+    "reason": "ok"
+  },
+  {
+    "word": "applicable",
+    "ok": true,
+    "gloss": "a. 适用的, 合适的；可应用的",
+    "reason": "ok"
+  },
+  {
+    "word": "popularity",
+    "ok": true,
+    "gloss": "n. 受欢迎，流行，普及",
+    "reason": "ok"
+  },
+  {
+    "word": "lecture",
+    "ok": true,
+    "gloss": "n. 讲座, 演讲, 训斥；v. 演讲, 讲课, 训斥",
+    "reason": "ok"
+  },
+  {
+    "word": "cow",
+    "ok": false,
+    "gloss": "n. 母牛；奶牛",
+    "reason": "“母兽”在托业中不常用，且缺少常用义“奶牛”。"
+  },
+  {
+    "word": "examine",
+    "ok": true,
+    "gloss": "v. 检查；审查；调查",
+    "reason": "ok"
+  },
+  {
+    "word": "actually",
+    "ok": true,
+    "gloss": "adv. 实际上；事实上；其实；竟然",
+    "reason": "ok"
+  },
+  {
+    "word": "lie",
+    "ok": false,
+    "gloss": "n. 谎言；vi. 躺, 说谎, 位于, 在于",
+    "reason": "名词义项“位置”在托业中非常用且易误导，应删去，保留谎言及动词躺、说谎、位于、在于等常用义。"
+  },
+  {
+    "word": "loyal",
+    "ok": true,
+    "gloss": "a. 忠诚的, 忠实的, 忠贞的",
+    "reason": "ok"
+  },
+  {
+    "word": "imagination",
+    "ok": true,
+    "gloss": "n. 想像；想像力",
+    "reason": "ok"
+  },
+  {
+    "word": "chief",
+    "ok": true,
+    "gloss": "n. 首领, 长官, 主管；a. 主要的, 首位的",
+    "reason": "ok"
+  }
+]

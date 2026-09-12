@@ -1,0 +1,395 @@
+{
+  "note": "filling 缺失音标/英文简释（LLM 建议值，见 gap_fill.jsonl），人工确认后再 --plan 应用。",
+  "ops": [
+    {
+      "op": "set_phonetic",
+      "word": "smartphone",
+      "phonetic": "'smɑ:tʃәun"
+    },
+    {
+      "op": "set_endef",
+      "word": "smartphone",
+      "endef": "n. a mobile phone that can run apps and access the internet"
+    },
+    {
+      "op": "set_note",
+      "word": "smartphone",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_phonetic",
+      "word": "surprisingly",
+      "phonetic": "sә'praiziŋli"
+    },
+    {
+      "op": "set_note",
+      "word": "surprisingly",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_endef",
+      "word": "distractor",
+      "endef": "n. a person or thing that distracts; a wrong option in a multiple-choice test"
+    },
+    {
+      "op": "set_note",
+      "word": "distractor",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_phonetic",
+      "word": "firework",
+      "phonetic": "'faiәwә:k"
+    },
+    {
+      "op": "set_note",
+      "word": "firework",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_phonetic",
+      "word": "significantly",
+      "phonetic": "sig'nifikәntli"
+    },
+    {
+      "op": "set_note",
+      "word": "significantly",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_phonetic",
+      "word": "willingness",
+      "phonetic": "'wiliŋnәs"
+    },
+    {
+      "op": "set_note",
+      "word": "willingness",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_phonetic",
+      "word": "login",
+      "phonetic": "'lɒgin"
+    },
+    {
+      "op": "set_endef",
+      "word": "login",
+      "endef": "n. act of logging in; username"
+    },
+    {
+      "op": "set_note",
+      "word": "login",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_phonetic",
+      "word": "by-law",
+      "phonetic": "'bailɔ:"
+    },
+    {
+      "op": "set_note",
+      "word": "by-law",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_phonetic",
+      "word": "additionally",
+      "phonetic": "ә'diʃәnәli"
+    },
+    {
+      "op": "set_note",
+      "word": "additionally",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_phonetic",
+      "word": "affordable",
+      "phonetic": "ә'fɔ:dәbl"
+    },
+    {
+      "op": "set_note",
+      "word": "affordable",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_phonetic",
+      "word": "coworker",
+      "phonetic": "kәu'wә:kә"
+    },
+    {
+      "op": "set_note",
+      "word": "coworker",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_phonetic",
+      "word": "freelance",
+      "phonetic": "'fri:lɑ:ns"
+    },
+    {
+      "op": "set_note",
+      "word": "freelance",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_endef",
+      "word": "anytime",
+      "endef": "adv. at any time; whenever"
+    },
+    {
+      "op": "set_note",
+      "word": "anytime",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_phonetic",
+      "word": "urgently",
+      "phonetic": "'ә:dʒәntli"
+    },
+    {
+      "op": "set_note",
+      "word": "urgently",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_phonetic",
+      "word": "spam",
+      "phonetic": "'spæm"
+    },
+    {
+      "op": "set_note",
+      "word": "spam",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_phonetic",
+      "word": "laptop",
+      "phonetic": "'læptɒp"
+    },
+    {
+      "op": "set_note",
+      "word": "laptop",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_endef",
+      "word": "videoconference",
+      "endef": "n. a meeting held by video link"
+    },
+    {
+      "op": "set_note",
+      "word": "videoconference",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_endef",
+      "word": "refundable",
+      "endef": "a. that can be refunded; repayable"
+    },
+    {
+      "op": "set_note",
+      "word": "refundable",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_phonetic",
+      "word": "download",
+      "phonetic": "daun'lәud"
+    },
+    {
+      "op": "set_note",
+      "word": "download",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_phonetic",
+      "word": "online",
+      "phonetic": "ɒn'lain"
+    },
+    {
+      "op": "set_note",
+      "word": "online",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_phonetic",
+      "word": "traditionally",
+      "phonetic": "trә'diʃәnәli"
+    },
+    {
+      "op": "set_note",
+      "word": "traditionally",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_phonetic",
+      "word": "ice cream",
+      "phonetic": "'ais kri:m"
+    },
+    {
+      "op": "set_endef",
+      "word": "ice cream",
+      "endef": "n. frozen dessert containing cream and sugar and flavoring"
+    },
+    {
+      "op": "set_note",
+      "word": "ice cream",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_phonetic",
+      "word": "website",
+      "phonetic": "'websait"
+    },
+    {
+      "op": "set_note",
+      "word": "website",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_phonetic",
+      "word": "conveniently",
+      "phonetic": "kәn'vi:niәntli"
+    },
+    {
+      "op": "set_note",
+      "word": "conveniently",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_phonetic",
+      "word": "consistently",
+      "phonetic": "kәn'sistәntli"
+    },
+    {
+      "op": "set_note",
+      "word": "consistently",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_endef",
+      "word": "flextime",
+      "endef": "n. a system allowing employees to choose their working hours"
+    },
+    {
+      "op": "set_note",
+      "word": "flextime",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_phonetic",
+      "word": "workforce",
+      "phonetic": "'wә:kfɔ:s"
+    },
+    {
+      "op": "set_note",
+      "word": "workforce",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_phonetic",
+      "word": "environmentally",
+      "phonetic": "in,vaiәrәn'mentәli"
+    },
+    {
+      "op": "set_note",
+      "word": "environmentally",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_phonetic",
+      "word": "professionally",
+      "phonetic": "prә'feʃәnәli"
+    },
+    {
+      "op": "set_note",
+      "word": "professionally",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_phonetic",
+      "word": "takeover",
+      "phonetic": "'teikәuvә"
+    },
+    {
+      "op": "set_note",
+      "word": "takeover",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_endef",
+      "word": "repairperson",
+      "endef": "n. a person whose job is to repair things"
+    },
+    {
+      "op": "set_note",
+      "word": "repairperson",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_phonetic",
+      "word": "electronically",
+      "phonetic": "i,lek'trɒnikli"
+    },
+    {
+      "op": "set_note",
+      "word": "electronically",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_phonetic",
+      "word": "webpage",
+      "phonetic": "'webpeidʒ"
+    },
+    {
+      "op": "set_note",
+      "word": "webpage",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_endef",
+      "word": "hotline",
+      "endef": "n. a direct telephone line for emergencies or inquiries"
+    },
+    {
+      "op": "set_note",
+      "word": "hotline",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_phonetic",
+      "word": "workplace",
+      "phonetic": "'wә:kpleis"
+    },
+    {
+      "op": "set_note",
+      "word": "workplace",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_phonetic",
+      "word": "e-book",
+      "phonetic": "'i:buk"
+    },
+    {
+      "op": "set_endef",
+      "word": "e-book",
+      "endef": "n. electronic book; a book in digital form"
+    },
+    {
+      "op": "set_note",
+      "word": "e-book",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    },
+    {
+      "op": "set_phonetic",
+      "word": "blog",
+      "phonetic": "blɒg"
+    },
+    {
+      "op": "set_note",
+      "word": "blog",
+      "note": "音标/英文简释由 LLM 补全（2026-09-12），待人工复核"
+    }
+  ]
+}

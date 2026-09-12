@@ -1,0 +1,95 @@
+{
+  "note": "第二轮：清理残留的域标签/超长/缺词性前缀/重复词性",
+  "ops": [
+    {
+      "op": "set_gloss",
+      "word": "acceptance",
+      "gloss": "n. 接受；认可；承认；验收；承兑"
+    },
+    {
+      "op": "set_gloss",
+      "word": "advice",
+      "gloss": "n. 建议；忠告；意见；通知"
+    },
+    {
+      "op": "set_gloss",
+      "word": "assurance",
+      "gloss": "n. 保证；担保；保险；信心；把握"
+    },
+    {
+      "op": "set_gloss",
+      "word": "departure",
+      "gloss": "n. 离开；出发；启运；偏离"
+    },
+    {
+      "op": "set_gloss",
+      "word": "directory",
+      "gloss": "n. 名录；目录；工商名录"
+    },
+    {
+      "op": "set_gloss",
+      "word": "hardware",
+      "gloss": "n. 硬件；五金器具；五金制品"
+    },
+    {
+      "op": "set_gloss",
+      "word": "hold",
+      "gloss": "n. 掌握；控制；vt. 持有；拥有；举行；容纳；vi. 有效；持续"
+    },
+    {
+      "op": "set_gloss",
+      "word": "managerial",
+      "gloss": "a. 管理的；经营的"
+    },
+    {
+      "op": "set_gloss",
+      "word": "memory",
+      "gloss": "n. 记忆；记忆力；回忆；纪念；内存；存储"
+    },
+    {
+      "op": "set_gloss",
+      "word": "merger",
+      "gloss": "n. 合并；并购；归并"
+    },
+    {
+      "op": "set_gloss",
+      "word": "paralegal",
+      "gloss": "n. 律师助理"
+    },
+    {
+      "op": "set_gloss",
+      "word": "profitable",
+      "gloss": "a. 有利润的；有利可图的；赚钱的；合算的"
+    },
+    {
+      "op": "set_gloss",
+      "word": "publication",
+      "gloss": "n. 出版；出版物；公布；发布"
+    },
+    {
+      "op": "set_gloss",
+      "word": "restatement",
+      "gloss": "n. 重述；重申；重报"
+    },
+    {
+      "op": "set_gloss",
+      "word": "state",
+      "gloss": "n. 州；状态；国家；政府；a. 国家的；州的；正式的；vt. 陈述；说明；规定"
+    },
+    {
+      "op": "set_gloss",
+      "word": "territory",
+      "gloss": "n. 领土；领地；地区；范围；推销区域"
+    },
+    {
+      "op": "set_gloss",
+      "word": "valid",
+      "gloss": "a. 有效的；正当的；有法律效力的；正确的"
+    },
+    {
+      "op": "set_gloss",
+      "word": "wind",
+      "gloss": "n. 风；呼吸；vt. 缠绕；上发条；vi. 蜿蜒"
+    }
+  ]
+}
