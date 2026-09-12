@@ -1,0 +1,32 @@
+{
+  "purpose": "判断词库语义审查是否已经收敛：对同一批单词、同一 prompt 复判，量出评审自身的结论翻转率。",
+  "method": {
+    "sample": "data/words/postfix_sample_review.json 里的同一批 200 个单词（seed 20260912，其中 193 个两次调用都成功）",
+    "prompt": "与 scripts/review_words_llm.py 完全相同的 system + user prompt（temperature=0）",
+    "date": "2026-09-12"
+  },
+  "result": {
+    "compared": 193,
+    "verdict_flips": 17,
+    "flip_rate": 0.088,
+    "ok_first_run": 181,
+    "ok_second_run": 177,
+    "flip_examples": [
+      ["mineral", "建议改→通过"],
+      ["land", "建议改→通过"],
+      ["upper", "通过→建议改"],
+      ["budget", "建议改→通过"],
+      ["teach", "通过→建议改"],
+      ["retrieve", "通过→建议改"]
+    ]
+  },
+  "cross_round_check": {
+    "round1_fixed_words_flagged_again_in_round2": [294, 3243, 0.091],
+    "round1_passed_words_flagged_in_round2": [144, 815, 0.177],
+    "round2_flags_total": 438,
+    "round2_mechanical_complaints": 95,
+    "round2_mechanical_complaints_actually_present_in_data": 0,
+    "note": "第二轮里 95 条「超长 / 含专业义标签」的指控，用 verify_words.py 复查实际为 0——评审在这类可机械核对的问题上也会误报。"
+  },
+  "conclusion": "语义层的「通过率」在 90% 附近触底，剩下约 10% 是评审自身的方差（8.8% 同输入翻转）而不是数据缺陷。因此不再叠加第三轮全量改写；data/words/LLM_REVIEW_round2.md 与 llm_review_round2.jsonl 只作为记录保留，未回写 Excel。"
+}

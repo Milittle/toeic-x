@@ -30,6 +30,7 @@
     uv run scripts/review_words_llm.py --report-only                   # 只重生成报告
 
 断点续跑：已写入 ``llm_review.jsonl`` 的 id 会自动跳过；删除该文件可重新开始。
+复审（第二轮起）用 ``--round 2``，结果写到 ``llm_review_round2.jsonl``，不会与第一轮混淆。
 """
 
 from __future__ import annotations
@@ -50,6 +51,7 @@ WORDS = REPO / "data" / "words" / "words.json"
 QUESTIONS_DIR = REPO / "data" / "questions"
 REVIEW_JSONL = REPO / "data" / "words" / "llm_review.jsonl"
 REVIEW_MD = REPO / "data" / "words" / "LLM_REVIEW.md"
+ROUND = 1
 
 BASE_URL = os.environ.get("DEEPSEEK_BASE_URL", "https://api.deepseek.com").rstrip("/")
 MODEL = os.environ.get("DEEPSEEK_MODEL", "deepseek-v4-flash")
@@ -258,7 +260,7 @@ def build_report(results: list[dict], list_labels: dict[str, str]) -> str:
     lengths_now = [len(r.get("current_gloss", "")) for r in fixes]
     lengths_new = [len(r.get("gloss", "")) for r in fixes]
     lines = [
-        "# 词库释义 LLM 审查报告",
+        f"# 词库释义 LLM 审查报告（第 {ROUND} 轮）",
         "",
         f"- 模型：{MODEL}",
         f"- 已审查：{len(results)} 个唯一单词（通过 {len(ok)} / 建议修改 {len(fixes)} / 出错 {len(errors)}）",
@@ -363,7 +365,16 @@ def main(argv=None) -> int:
     parser.add_argument("--concurrency", type=int, default=DEFAULT_CONCURRENCY)
     parser.add_argument("--dry-run", action="store_true", help="只打印样例 prompt，不调用 API")
     parser.add_argument("--report-only", action="store_true", help="不调用 API，只重生成报告")
+    parser.add_argument("--round", type=int, default=1,
+                        help="审查轮次：1 用默认文件；N>1 写到 llm_review_roundN.jsonl / LLM_REVIEW_roundN.md，"
+                             "用来复审上一轮改过的释义（默认文件名会被断点续跑逻辑跳过）")
     args = parser.parse_args(argv)
+
+    global ROUND, REVIEW_JSONL, REVIEW_MD
+    ROUND = max(1, args.round)
+    if ROUND > 1:
+        REVIEW_JSONL = REVIEW_JSONL.with_name(f"llm_review_round{ROUND}.jsonl")
+        REVIEW_MD = REVIEW_MD.with_name(f"LLM_REVIEW_round{ROUND}.md")
 
     items = load_unique_words()
     if args.report_only:

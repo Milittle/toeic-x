@@ -33,6 +33,8 @@
 用法::
 
     uv run scripts/apply_word_fixes.py --from-llm            # 从 llm_review.jsonl 生成计划
+    uv run scripts/apply_word_fixes.py --from-llm \
+        --review data/words/llm_review_round2.jsonl --out-plan data/words/llm_fix_plan_round2.json
     uv run scripts/apply_word_fixes.py --plan data/words/fix_plan.json --dry-run
     uv run scripts/apply_word_fixes.py --plan data/words/fix_plan.json
 """
@@ -118,12 +120,12 @@ def qa_reject(word: str, gloss: str, current: str) -> str | None:
         return "含 Markdown/转义噪声"
 
 
-def from_llm(plan_path: Path) -> None:
-    if not REVIEW_JSONL.exists():
-        print(f"找不到 {REVIEW_JSONL}，请先跑 review_words_llm.py", file=sys.stderr)
+def from_llm(plan_path: Path, review_path: Path = REVIEW_JSONL) -> None:
+    if not review_path.exists():
+        print(f"找不到 {review_path}，请先跑 review_words_llm.py", file=sys.stderr)
         raise SystemExit(2)
     ops, rejects, seen = [], [], {}
-    for line in REVIEW_JSONL.read_text(encoding="utf-8").splitlines():
+    for line in review_path.read_text(encoding="utf-8").splitlines():
         if not line.strip():
             continue
         obj = json.loads(line)
@@ -315,10 +317,14 @@ def main(argv=None) -> int:
                         help="从 llm_review.jsonl 生成 llm_fix_plan.json")
     parser.add_argument("--plan", type=Path, default=PLAN, help="修复计划 JSON")
     parser.add_argument("--dry-run", action="store_true", help="只打印，不写 Excel")
+    parser.add_argument("--review", type=Path, default=REVIEW_JSONL,
+                        help="审查结果 JSONL（复审用 data/words/llm_review_round2.jsonl）")
+    parser.add_argument("--out-plan", type=Path, default=LLM_PLAN,
+                        help="--from-llm 生成的计划写到哪（复审用 llm_fix_plan_round2.json）")
     args = parser.parse_args(argv)
 
     if args.from_llm:
-        from_llm(LLM_PLAN)
+        from_llm(args.out_plan, args.review)
         return 0
     if not args.plan.exists():
         print(f"找不到计划文件 {args.plan}。先用 --from-llm 生成，或手工创建。", file=sys.stderr)
