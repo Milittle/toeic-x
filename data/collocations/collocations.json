@@ -1,6 +1,6 @@
 {
   "source": "TOEIC_Reading_固定搭配与惯用法_最终版.xlsx · 高频汇总",
-  "count": 876,
+  "count": 901,
   "items": [
     {
       "expression": "a bit",
@@ -791,6 +791,238 @@
         }
       ],
       "id": "accept-responsibility-for"
+    },
+    {
+      "expression": "access to",
+      "chinese": "使用或进入…的权利（机会）",
+      "type": "商务/名词词块",
+      "bookFreq": 0,
+      "counts": {
+        "5": 1,
+        "6": 8,
+        "7": 34
+      },
+      "bookletCount": 43,
+      "priority": "A",
+      "sourceType": "词库关联补录",
+      "sources": [
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 160
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 161
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 162
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 163
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 164
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 165
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 166
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 167
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 152
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 153
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 154
+        },
+        {
+          "testId": "reading-06",
+          "part": 5,
+          "questionNumber": 102
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 186
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 187
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 188
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 189
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 190
+        },
+        {
+          "testId": "reading-07",
+          "part": 6,
+          "questionNumber": 135
+        },
+        {
+          "testId": "reading-07",
+          "part": 6,
+          "questionNumber": 136
+        },
+        {
+          "testId": "reading-07",
+          "part": 6,
+          "questionNumber": 137
+        },
+        {
+          "testId": "reading-07",
+          "part": 6,
+          "questionNumber": 138
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 176
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 177
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 178
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 179
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 180
+        },
+        {
+          "testId": "reading-08",
+          "part": 7,
+          "questionNumber": 149
+        },
+        {
+          "testId": "reading-08",
+          "part": 7,
+          "questionNumber": 150
+        },
+        {
+          "testId": "reading-08",
+          "part": 7,
+          "questionNumber": 151
+        },
+        {
+          "testId": "reading-08",
+          "part": 7,
+          "questionNumber": 191
+        },
+        {
+          "testId": "reading-08",
+          "part": 7,
+          "questionNumber": 192
+        },
+        {
+          "testId": "reading-08",
+          "part": 7,
+          "questionNumber": 193
+        },
+        {
+          "testId": "reading-08",
+          "part": 7,
+          "questionNumber": 194
+        },
+        {
+          "testId": "reading-08",
+          "part": 7,
+          "questionNumber": 195
+        },
+        {
+          "testId": "reading-09",
+          "part": 7,
+          "questionNumber": 191
+        },
+        {
+          "testId": "reading-09",
+          "part": 7,
+          "questionNumber": 192
+        },
+        {
+          "testId": "reading-09",
+          "part": 7,
+          "questionNumber": 193
+        },
+        {
+          "testId": "reading-09",
+          "part": 7,
+          "questionNumber": 194
+        },
+        {
+          "testId": "reading-09",
+          "part": 7,
+          "questionNumber": 195
+        },
+        {
+          "testId": "reading-10",
+          "part": 6,
+          "questionNumber": 131
+        },
+        {
+          "testId": "reading-10",
+          "part": 6,
+          "questionNumber": 132
+        },
+        {
+          "testId": "reading-10",
+          "part": 6,
+          "questionNumber": 133
+        },
+        {
+          "testId": "reading-10",
+          "part": 6,
+          "questionNumber": 134
+        }
+      ],
+      "id": "access-to"
     },
     {
       "expression": "according to",
@@ -2214,6 +2446,88 @@
         }
       ],
       "id": "annual-salary"
+    },
+    {
+      "expression": "apologize for",
+      "chinese": "为…道歉",
+      "type": "短语动词/动词+介词",
+      "bookFreq": 0,
+      "counts": {
+        "5": 0,
+        "6": 0,
+        "7": 13
+      },
+      "bookletCount": 13,
+      "priority": "A",
+      "sourceType": "词库关联补录",
+      "sources": [
+        {
+          "testId": "reading-01",
+          "part": 7,
+          "questionNumber": 179
+        },
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 172
+        },
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 173
+        },
+        {
+          "testId": "reading-03",
+          "part": 7,
+          "questionNumber": 149
+        },
+        {
+          "testId": "reading-03",
+          "part": 7,
+          "questionNumber": 150
+        },
+        {
+          "testId": "reading-03",
+          "part": 7,
+          "questionNumber": 151
+        },
+        {
+          "testId": "reading-03",
+          "part": 7,
+          "questionNumber": 152
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 193
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 164
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 163
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 164
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 165
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 166
+        }
+      ],
+      "id": "apologize-for"
     },
     {
       "expression": "apply for",
@@ -5830,6 +6144,22 @@
       "id": "be-comprised-of"
     },
     {
+      "expression": "be consistent with",
+      "chinese": "与…一致；符合",
+      "type": "be + 补语/介词",
+      "bookFreq": 0,
+      "counts": {
+        "5": 0,
+        "6": 0,
+        "7": 0
+      },
+      "bookletCount": 0,
+      "priority": "A",
+      "sourceType": "词库关联补录",
+      "sources": [],
+      "id": "be-consistent-with"
+    },
+    {
       "expression": "be designed for",
       "chinese": "为…专门设计的；旨在满足…",
       "type": "be + 补语/介词",
@@ -7252,6 +7582,63 @@
       "id": "be-pleased-to-do"
     },
     {
+      "expression": "be promoted to",
+      "chinese": "被提升为",
+      "type": "be + 补语/介词",
+      "bookFreq": 0,
+      "counts": {
+        "5": 0,
+        "6": 0,
+        "7": 8
+      },
+      "bookletCount": 8,
+      "priority": "A",
+      "sourceType": "词库关联补录",
+      "sources": [
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 169
+        },
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 191
+        },
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 192
+        },
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 193
+        },
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 194
+        },
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 195
+        },
+        {
+          "testId": "reading-03",
+          "part": 7,
+          "questionNumber": 187
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 197
+        }
+      ],
+      "id": "be-promoted-to"
+    },
+    {
       "expression": "be prompted to",
       "chinese": "被 提示做",
       "type": "be + 补语/介词",
@@ -7623,6 +8010,43 @@
         }
       ],
       "id": "be-required-to-do"
+    },
+    {
+      "expression": "be responsible for",
+      "chinese": "对…负责；负责…",
+      "type": "be + 补语/介词",
+      "bookFreq": 0,
+      "counts": {
+        "5": 0,
+        "6": 0,
+        "7": 4
+      },
+      "bookletCount": 4,
+      "priority": "A",
+      "sourceType": "词库关联补录",
+      "sources": [
+        {
+          "testId": "reading-08",
+          "part": 7,
+          "questionNumber": 155
+        },
+        {
+          "testId": "reading-08",
+          "part": 7,
+          "questionNumber": 156
+        },
+        {
+          "testId": "reading-08",
+          "part": 7,
+          "questionNumber": 157
+        },
+        {
+          "testId": "reading-09",
+          "part": 7,
+          "questionNumber": 163
+        }
+      ],
+      "id": "be-responsible-for"
     },
     {
       "expression": "be satisfied with",
@@ -11583,6 +12007,99 @@
       "id": "complete-with"
     },
     {
+      "expression": "comply with",
+      "chinese": "遵守；符合",
+      "type": "短语动词/动词+介词",
+      "bookFreq": 0,
+      "counts": {
+        "5": 0,
+        "6": 0,
+        "7": 0
+      },
+      "bookletCount": 0,
+      "priority": "A",
+      "sourceType": "词库关联补录",
+      "sources": [],
+      "id": "comply-with"
+    },
+    {
+      "expression": "concern about",
+      "chinese": "对…的担忧；关切",
+      "type": "商务/名词词块",
+      "bookFreq": 0,
+      "counts": {
+        "5": 0,
+        "6": 0,
+        "7": 12
+      },
+      "bookletCount": 12,
+      "priority": "A",
+      "sourceType": "词库关联补录",
+      "sources": [
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 176
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 177
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 178
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 179
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 180
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 152
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 153
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 154
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 155
+        },
+        {
+          "testId": "reading-10",
+          "part": 7,
+          "questionNumber": 159
+        },
+        {
+          "testId": "reading-10",
+          "part": 7,
+          "questionNumber": 160
+        },
+        {
+          "testId": "reading-10",
+          "part": 7,
+          "questionNumber": 161
+        }
+      ],
+      "id": "concern-about"
+    },
+    {
       "expression": "conduct a study",
       "chinese": "进行一项研究",
       "type": "动词搭配",
@@ -11889,6 +12406,93 @@
         }
       ],
       "id": "continue-to-do"
+    },
+    {
+      "expression": "contribute to",
+      "chinese": "促成；有助于；捐献",
+      "type": "短语动词/动词+介词",
+      "bookFreq": 0,
+      "counts": {
+        "5": 0,
+        "6": 0,
+        "7": 14
+      },
+      "bookletCount": 14,
+      "priority": "A",
+      "sourceType": "词库关联补录",
+      "sources": [
+        {
+          "testId": "reading-01",
+          "part": 7,
+          "questionNumber": 165
+        },
+        {
+          "testId": "reading-01",
+          "part": 7,
+          "questionNumber": 166
+        },
+        {
+          "testId": "reading-01",
+          "part": 7,
+          "questionNumber": 167
+        },
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 181
+        },
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 182
+        },
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 183
+        },
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 184
+        },
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 185
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 150
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 151
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 152
+        },
+        {
+          "testId": "reading-10",
+          "part": 7,
+          "questionNumber": 166
+        },
+        {
+          "testId": "reading-10",
+          "part": 7,
+          "questionNumber": 167
+        },
+        {
+          "testId": "reading-10",
+          "part": 7,
+          "questionNumber": 168
+        }
+      ],
+      "id": "contribute-to"
     },
     {
       "expression": "corporate ladder",
@@ -12500,6 +13104,22 @@
       "id": "deal-with"
     },
     {
+      "expression": "decline in",
+      "chinese": "在…方面的下降",
+      "type": "商务/名词词块",
+      "bookFreq": 0,
+      "counts": {
+        "5": 0,
+        "6": 0,
+        "7": 0
+      },
+      "bookletCount": 0,
+      "priority": "A",
+      "sourceType": "词库关联补录",
+      "sources": [],
+      "id": "decline-in"
+    },
+    {
       "expression": "decrease in",
       "chinese": "……方面的减少",
       "type": "商务/名词词块",
@@ -12568,6 +13188,38 @@
       "sourceType": "Vocabulary Check",
       "sources": [],
       "id": "delivery-rates"
+    },
+    {
+      "expression": "demand for",
+      "chinese": "对…的需求",
+      "type": "商务/名词词块",
+      "bookFreq": 0,
+      "counts": {
+        "5": 0,
+        "6": 0,
+        "7": 3
+      },
+      "bookletCount": 3,
+      "priority": "A",
+      "sourceType": "词库关联补录",
+      "sources": [
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 164
+        },
+        {
+          "testId": "reading-08",
+          "part": 7,
+          "questionNumber": 147
+        },
+        {
+          "testId": "reading-08",
+          "part": 7,
+          "questionNumber": 180
+        }
+      ],
+      "id": "demand-for"
     },
     {
       "expression": "department head",
@@ -12717,6 +13369,22 @@
         }
       ],
       "id": "dial-up"
+    },
+    {
+      "expression": "difference between",
+      "chinese": "…之间的差异",
+      "type": "商务/名词词块",
+      "bookFreq": 0,
+      "counts": {
+        "5": 0,
+        "6": 0,
+        "7": 0
+      },
+      "bookletCount": 0,
+      "priority": "A",
+      "sourceType": "词库关联补录",
+      "sources": [],
+      "id": "difference-between"
     },
     {
       "expression": "dining hall",
@@ -14356,6 +15024,28 @@
         }
       ],
       "id": "economic-growth-rates"
+    },
+    {
+      "expression": "effect on",
+      "chinese": "对…的影响",
+      "type": "商务/名词词块",
+      "bookFreq": 0,
+      "counts": {
+        "5": 0,
+        "6": 0,
+        "7": 1
+      },
+      "bookletCount": 1,
+      "priority": "A",
+      "sourceType": "词库关联补录",
+      "sources": [
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 149
+        }
+      ],
+      "id": "effect-on"
     },
     {
       "expression": "either...or...",
@@ -20539,6 +21229,38 @@
       "id": "immediate-supervisor"
     },
     {
+      "expression": "impact on",
+      "chinese": "对…的影响",
+      "type": "商务/名词词块",
+      "bookFreq": 0,
+      "counts": {
+        "5": 0,
+        "6": 0,
+        "7": 3
+      },
+      "bookletCount": 3,
+      "priority": "A",
+      "sourceType": "词库关联补录",
+      "sources": [
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 149
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 150
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 151
+        }
+      ],
+      "id": "impact-on"
+    },
+    {
       "expression": "improvement in",
       "chinese": "……方面的改善",
       "type": "商务/名词词块",
@@ -23529,6 +24251,103 @@
       "id": "increase-in"
     },
     {
+      "expression": "inform A of B",
+      "chinese": "告知某人某事；通知",
+      "type": "动词搭配",
+      "bookFreq": 0,
+      "counts": {
+        "5": 0,
+        "6": 0,
+        "7": 16
+      },
+      "bookletCount": 16,
+      "priority": "A",
+      "sourceType": "词库关联补录",
+      "sources": [
+        {
+          "testId": "reading-01",
+          "part": 7,
+          "questionNumber": 186
+        },
+        {
+          "testId": "reading-01",
+          "part": 7,
+          "questionNumber": 187
+        },
+        {
+          "testId": "reading-01",
+          "part": 7,
+          "questionNumber": 188
+        },
+        {
+          "testId": "reading-01",
+          "part": 7,
+          "questionNumber": 189
+        },
+        {
+          "testId": "reading-01",
+          "part": 7,
+          "questionNumber": 190
+        },
+        {
+          "testId": "reading-03",
+          "part": 7,
+          "questionNumber": 155
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 181
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 182
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 183
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 184
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 185
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 191
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 192
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 193
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 194
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 195
+        }
+      ],
+      "id": "inform-a-of-b"
+    },
+    {
       "expression": "inform sb. of sth.",
       "chinese": "告知某人某事",
       "type": "句型/结构",
@@ -23624,6 +24443,48 @@
         }
       ],
       "id": "inform-sb-of-sth"
+    },
+    {
+      "expression": "inquiry about",
+      "chinese": "关于…的询问",
+      "type": "商务/名词词块",
+      "bookFreq": 0,
+      "counts": {
+        "5": 0,
+        "6": 0,
+        "7": 5
+      },
+      "bookletCount": 5,
+      "priority": "A",
+      "sourceType": "词库关联补录",
+      "sources": [
+        {
+          "testId": "reading-10",
+          "part": 7,
+          "questionNumber": 191
+        },
+        {
+          "testId": "reading-10",
+          "part": 7,
+          "questionNumber": 192
+        },
+        {
+          "testId": "reading-10",
+          "part": 7,
+          "questionNumber": 193
+        },
+        {
+          "testId": "reading-10",
+          "part": 7,
+          "questionNumber": 194
+        },
+        {
+          "testId": "reading-10",
+          "part": 7,
+          "questionNumber": 195
+        }
+      ],
+      "id": "inquiry-about"
     },
     {
       "expression": "insofar as",
@@ -29559,6 +30420,118 @@
       "id": "not-until"
     },
     {
+      "expression": "notify A of B",
+      "chinese": "通知某人某事；告知",
+      "type": "动词搭配",
+      "bookFreq": 0,
+      "counts": {
+        "5": 0,
+        "6": 0,
+        "7": 19
+      },
+      "bookletCount": 19,
+      "priority": "A",
+      "sourceType": "词库关联补录",
+      "sources": [
+        {
+          "testId": "reading-01",
+          "part": 7,
+          "questionNumber": 147
+        },
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 186
+        },
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 187
+        },
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 188
+        },
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 189
+        },
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 190
+        },
+        {
+          "testId": "reading-03",
+          "part": 7,
+          "questionNumber": 150
+        },
+        {
+          "testId": "reading-03",
+          "part": 7,
+          "questionNumber": 162
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 181
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 191
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 192
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 193
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 194
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 195
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 196
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 197
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 198
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 199
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 200
+        }
+      ],
+      "id": "notify-a-of-b"
+    },
+    {
       "expression": "of great value",
       "chinese": "有很高的价值，宝贵的",
       "type": "商务/名词词块",
@@ -33012,6 +33985,98 @@
       "id": "put-to-good-use"
     },
     {
+      "expression": "qualify for",
+      "chinese": "有资格获得；符合…条件",
+      "type": "短语动词/动词+介词",
+      "bookFreq": 0,
+      "counts": {
+        "5": 0,
+        "6": 0,
+        "7": 15
+      },
+      "bookletCount": 15,
+      "priority": "A",
+      "sourceType": "词库关联补录",
+      "sources": [
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 147
+        },
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 148
+        },
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 149
+        },
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 186
+        },
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 187
+        },
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 188
+        },
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 189
+        },
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 190
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 177
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 191
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 192
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 193
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 194
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 195
+        },
+        {
+          "testId": "reading-10",
+          "part": 7,
+          "questionNumber": 163
+        }
+      ],
+      "id": "qualify-for"
+    },
+    {
       "expression": "R&D",
       "chinese": "研发",
       "type": "商务/名词词块",
@@ -33318,6 +34383,168 @@
       "id": "real-estate"
     },
     {
+      "expression": "reason for",
+      "chinese": "…的原因",
+      "type": "商务/名词词块",
+      "bookFreq": 0,
+      "counts": {
+        "5": 0,
+        "6": 0,
+        "7": 29
+      },
+      "bookletCount": 29,
+      "priority": "A",
+      "sourceType": "词库关联补录",
+      "sources": [
+        {
+          "testId": "reading-01",
+          "part": 7,
+          "questionNumber": 165
+        },
+        {
+          "testId": "reading-01",
+          "part": 7,
+          "questionNumber": 196
+        },
+        {
+          "testId": "reading-01",
+          "part": 7,
+          "questionNumber": 197
+        },
+        {
+          "testId": "reading-01",
+          "part": 7,
+          "questionNumber": 198
+        },
+        {
+          "testId": "reading-01",
+          "part": 7,
+          "questionNumber": 199
+        },
+        {
+          "testId": "reading-01",
+          "part": 7,
+          "questionNumber": 200
+        },
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 155
+        },
+        {
+          "testId": "reading-03",
+          "part": 7,
+          "questionNumber": 165
+        },
+        {
+          "testId": "reading-03",
+          "part": 7,
+          "questionNumber": 166
+        },
+        {
+          "testId": "reading-03",
+          "part": 7,
+          "questionNumber": 167
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 168
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 169
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 170
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 176
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 177
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 178
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 179
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 180
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 181
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 182
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 183
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 184
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 185
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 186
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 187
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 188
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 189
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 190
+        },
+        {
+          "testId": "reading-09",
+          "part": 7,
+          "questionNumber": 151
+        }
+      ],
+      "id": "reason-for"
+    },
+    {
       "expression": "receive rave reviews",
       "chinese": "受到好评，受到极力赞美",
       "type": "动词搭配",
@@ -33567,6 +34794,125 @@
       "id": "relate-a-to-b"
     },
     {
+      "expression": "relationship between",
+      "chinese": "…之间的关系",
+      "type": "商务/名词词块",
+      "bookFreq": 0,
+      "counts": {
+        "5": 0,
+        "6": 0,
+        "7": 4
+      },
+      "bookletCount": 4,
+      "priority": "A",
+      "sourceType": "词库关联补录",
+      "sources": [
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 149
+        },
+        {
+          "testId": "reading-08",
+          "part": 7,
+          "questionNumber": 181
+        },
+        {
+          "testId": "reading-09",
+          "part": 7,
+          "questionNumber": 154
+        },
+        {
+          "testId": "reading-10",
+          "part": 7,
+          "questionNumber": 186
+        }
+      ],
+      "id": "relationship-between"
+    },
+    {
+      "expression": "relationship with",
+      "chinese": "与…的关系",
+      "type": "商务/名词词块",
+      "bookFreq": 0,
+      "counts": {
+        "5": 0,
+        "6": 0,
+        "7": 13
+      },
+      "bookletCount": 13,
+      "priority": "A",
+      "sourceType": "词库关联补录",
+      "sources": [
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 153
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 156
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 157
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 158
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 159
+        },
+        {
+          "testId": "reading-08",
+          "part": 7,
+          "questionNumber": 165
+        },
+        {
+          "testId": "reading-08",
+          "part": 7,
+          "questionNumber": 166
+        },
+        {
+          "testId": "reading-08",
+          "part": 7,
+          "questionNumber": 167
+        },
+        {
+          "testId": "reading-08",
+          "part": 7,
+          "questionNumber": 181
+        },
+        {
+          "testId": "reading-08",
+          "part": 7,
+          "questionNumber": 182
+        },
+        {
+          "testId": "reading-08",
+          "part": 7,
+          "questionNumber": 183
+        },
+        {
+          "testId": "reading-08",
+          "part": 7,
+          "questionNumber": 184
+        },
+        {
+          "testId": "reading-08",
+          "part": 7,
+          "questionNumber": 185
+        }
+      ],
+      "id": "relationship-with"
+    },
+    {
       "expression": "rent...to",
       "chinese": "将…租给",
       "type": "句型/结构",
@@ -33581,6 +34927,55 @@
       "sourceType": "Vocabulary Check",
       "sources": [],
       "id": "rent-to"
+    },
+    {
+      "expression": "reply to",
+      "chinese": "回复；答复",
+      "type": "短语动词/动词+介词",
+      "bookFreq": 0,
+      "counts": {
+        "5": 0,
+        "6": 0,
+        "7": 1
+      },
+      "bookletCount": 1,
+      "priority": "A",
+      "sourceType": "词库关联补录",
+      "sources": [
+        {
+          "testId": "reading-01",
+          "part": 7,
+          "questionNumber": 184
+        }
+      ],
+      "id": "reply-to"
+    },
+    {
+      "expression": "report to",
+      "chinese": "向…汇报；报到",
+      "type": "短语动词/动词+介词",
+      "bookFreq": 0,
+      "counts": {
+        "5": 0,
+        "6": 0,
+        "7": 2
+      },
+      "bookletCount": 2,
+      "priority": "A",
+      "sourceType": "词库关联补录",
+      "sources": [
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 167
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 168
+        }
+      ],
+      "id": "report-to"
     },
     {
       "expression": "research and development",
@@ -33840,6 +35235,38 @@
         }
       ],
       "id": "respond-to"
+    },
+    {
+      "expression": "response to",
+      "chinese": "对…的回应",
+      "type": "商务/名词词块",
+      "bookFreq": 0,
+      "counts": {
+        "5": 1,
+        "6": 0,
+        "7": 2
+      },
+      "bookletCount": 3,
+      "priority": "A",
+      "sourceType": "词库关联补录",
+      "sources": [
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 149
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 150
+        },
+        {
+          "testId": "reading-05",
+          "part": 5,
+          "questionNumber": 107
+        }
+      ],
+      "id": "response-to"
     },
     {
       "expression": "result in",
@@ -36378,6 +37805,38 @@
         }
       ],
       "id": "social-justice"
+    },
+    {
+      "expression": "solution to",
+      "chinese": "…的解决办法",
+      "type": "商务/名词词块",
+      "bookFreq": 0,
+      "counts": {
+        "5": 0,
+        "6": 0,
+        "7": 3
+      },
+      "bookletCount": 3,
+      "priority": "A",
+      "sourceType": "词库关联补录",
+      "sources": [
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 160
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 161
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 162
+        }
+      ],
+      "id": "solution-to"
     },
     {
       "expression": "sought-after",
@@ -39547,6 +41006,573 @@
         }
       ],
       "id": "text-messaging"
+    },
+    {
+      "expression": "thank A for B",
+      "chinese": "因B而感谢A",
+      "type": "动词搭配",
+      "bookFreq": 0,
+      "counts": {
+        "5": 0,
+        "6": 4,
+        "7": 106
+      },
+      "bookletCount": 110,
+      "priority": "A",
+      "sourceType": "词库关联补录",
+      "sources": [
+        {
+          "testId": "reading-01",
+          "part": 7,
+          "questionNumber": 176
+        },
+        {
+          "testId": "reading-01",
+          "part": 7,
+          "questionNumber": 177
+        },
+        {
+          "testId": "reading-01",
+          "part": 7,
+          "questionNumber": 178
+        },
+        {
+          "testId": "reading-01",
+          "part": 7,
+          "questionNumber": 179
+        },
+        {
+          "testId": "reading-01",
+          "part": 7,
+          "questionNumber": 180
+        },
+        {
+          "testId": "reading-01",
+          "part": 7,
+          "questionNumber": 181
+        },
+        {
+          "testId": "reading-01",
+          "part": 7,
+          "questionNumber": 182
+        },
+        {
+          "testId": "reading-01",
+          "part": 7,
+          "questionNumber": 183
+        },
+        {
+          "testId": "reading-01",
+          "part": 7,
+          "questionNumber": 184
+        },
+        {
+          "testId": "reading-01",
+          "part": 7,
+          "questionNumber": 185
+        },
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 176
+        },
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 177
+        },
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 178
+        },
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 179
+        },
+        {
+          "testId": "reading-02",
+          "part": 7,
+          "questionNumber": 180
+        },
+        {
+          "testId": "reading-03",
+          "part": 7,
+          "questionNumber": 162
+        },
+        {
+          "testId": "reading-03",
+          "part": 7,
+          "questionNumber": 163
+        },
+        {
+          "testId": "reading-03",
+          "part": 7,
+          "questionNumber": 164
+        },
+        {
+          "testId": "reading-03",
+          "part": 7,
+          "questionNumber": 174
+        },
+        {
+          "testId": "reading-03",
+          "part": 7,
+          "questionNumber": 175
+        },
+        {
+          "testId": "reading-03",
+          "part": 7,
+          "questionNumber": 191
+        },
+        {
+          "testId": "reading-03",
+          "part": 7,
+          "questionNumber": 192
+        },
+        {
+          "testId": "reading-03",
+          "part": 7,
+          "questionNumber": 193
+        },
+        {
+          "testId": "reading-03",
+          "part": 7,
+          "questionNumber": 194
+        },
+        {
+          "testId": "reading-03",
+          "part": 7,
+          "questionNumber": 195
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 147
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 148
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 176
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 177
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 178
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 179
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 180
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 181
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 182
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 183
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 184
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 185
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 186
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 187
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 188
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 189
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 190
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 191
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 192
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 193
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 194
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 195
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 196
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 197
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 198
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 199
+        },
+        {
+          "testId": "reading-04",
+          "part": 7,
+          "questionNumber": 200
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 158
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 159
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 160
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 176
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 177
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 178
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 179
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 180
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 191
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 192
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 193
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 194
+        },
+        {
+          "testId": "reading-05",
+          "part": 7,
+          "questionNumber": 195
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 186
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 187
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 188
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 189
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 190
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 191
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 192
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 193
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 194
+        },
+        {
+          "testId": "reading-06",
+          "part": 7,
+          "questionNumber": 195
+        },
+        {
+          "testId": "reading-07",
+          "part": 6,
+          "questionNumber": 143
+        },
+        {
+          "testId": "reading-07",
+          "part": 6,
+          "questionNumber": 144
+        },
+        {
+          "testId": "reading-07",
+          "part": 6,
+          "questionNumber": 145
+        },
+        {
+          "testId": "reading-07",
+          "part": 6,
+          "questionNumber": 146
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 163
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 164
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 165
+        },
+        {
+          "testId": "reading-07",
+          "part": 7,
+          "questionNumber": 166
+        },
+        {
+          "testId": "reading-08",
+          "part": 7,
+          "questionNumber": 147
+        },
+        {
+          "testId": "reading-08",
+          "part": 7,
+          "questionNumber": 148
+        },
+        {
+          "testId": "reading-08",
+          "part": 7,
+          "questionNumber": 155
+        },
+        {
+          "testId": "reading-08",
+          "part": 7,
+          "questionNumber": 156
+        },
+        {
+          "testId": "reading-08",
+          "part": 7,
+          "questionNumber": 157
+        },
+        {
+          "testId": "reading-08",
+          "part": 7,
+          "questionNumber": 158
+        },
+        {
+          "testId": "reading-08",
+          "part": 7,
+          "questionNumber": 159
+        },
+        {
+          "testId": "reading-08",
+          "part": 7,
+          "questionNumber": 160
+        },
+        {
+          "testId": "reading-08",
+          "part": 7,
+          "questionNumber": 161
+        },
+        {
+          "testId": "reading-09",
+          "part": 7,
+          "questionNumber": 170
+        },
+        {
+          "testId": "reading-09",
+          "part": 7,
+          "questionNumber": 171
+        },
+        {
+          "testId": "reading-09",
+          "part": 7,
+          "questionNumber": 172
+        },
+        {
+          "testId": "reading-09",
+          "part": 7,
+          "questionNumber": 173
+        },
+        {
+          "testId": "reading-09",
+          "part": 7,
+          "questionNumber": 174
+        },
+        {
+          "testId": "reading-09",
+          "part": 7,
+          "questionNumber": 175
+        },
+        {
+          "testId": "reading-10",
+          "part": 7,
+          "questionNumber": 156
+        },
+        {
+          "testId": "reading-10",
+          "part": 7,
+          "questionNumber": 157
+        },
+        {
+          "testId": "reading-10",
+          "part": 7,
+          "questionNumber": 158
+        },
+        {
+          "testId": "reading-10",
+          "part": 7,
+          "questionNumber": 171
+        },
+        {
+          "testId": "reading-10",
+          "part": 7,
+          "questionNumber": 172
+        },
+        {
+          "testId": "reading-10",
+          "part": 7,
+          "questionNumber": 173
+        },
+        {
+          "testId": "reading-10",
+          "part": 7,
+          "questionNumber": 189
+        },
+        {
+          "testId": "reading-10",
+          "part": 7,
+          "questionNumber": 191
+        },
+        {
+          "testId": "reading-10",
+          "part": 7,
+          "questionNumber": 192
+        },
+        {
+          "testId": "reading-10",
+          "part": 7,
+          "questionNumber": 193
+        },
+        {
+          "testId": "reading-10",
+          "part": 7,
+          "questionNumber": 194
+        },
+        {
+          "testId": "reading-10",
+          "part": 7,
+          "questionNumber": 195
+        }
+      ],
+      "id": "thank-a-for-b"
     },
     {
       "expression": "thanks to",

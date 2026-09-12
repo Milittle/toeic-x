@@ -1,0 +1,155 @@
+{
+  "note": "词库「关联固定搭配」里无法解析的 25 条标签补录进搭配库。中文释义与类型经人工复核（LLM 初稿 + 逐条校对）；优先级统一给 A（S 档是教材侧判断，补录条目不擅自占位）；来源类型标记为「词库关联补录」以便与教材条目区分。",
+  "items": [
+    {
+      "expression": "notify A of B",
+      "chinese": "通知某人某事；告知",
+      "type": "动词搭配",
+      "priority": "A"
+    },
+    {
+      "expression": "impact on",
+      "chinese": "对…的影响",
+      "type": "商务/名词词块",
+      "priority": "A"
+    },
+    {
+      "expression": "inform A of B",
+      "chinese": "告知某人某事；通知",
+      "type": "动词搭配",
+      "priority": "A"
+    },
+    {
+      "expression": "comply with",
+      "chinese": "遵守；符合",
+      "type": "短语动词/动词+介词",
+      "priority": "A"
+    },
+    {
+      "expression": "qualify for",
+      "chinese": "有资格获得；符合…条件",
+      "type": "短语动词/动词+介词",
+      "priority": "A"
+    },
+    {
+      "expression": "difference between",
+      "chinese": "…之间的差异",
+      "type": "商务/名词词块",
+      "priority": "A"
+    },
+    {
+      "expression": "relationship between",
+      "chinese": "…之间的关系",
+      "type": "商务/名词词块",
+      "priority": "A"
+    },
+    {
+      "expression": "report to",
+      "chinese": "向…汇报；报到",
+      "type": "短语动词/动词+介词",
+      "priority": "A"
+    },
+    {
+      "expression": "thank A for B",
+      "chinese": "因B而感谢A",
+      "type": "动词搭配",
+      "priority": "A"
+    },
+    {
+      "expression": "concern about",
+      "chinese": "对…的担忧；关切",
+      "type": "商务/名词词块",
+      "priority": "A"
+    },
+    {
+      "expression": "response to",
+      "chinese": "对…的回应",
+      "type": "商务/名词词块",
+      "priority": "A"
+    },
+    {
+      "expression": "access to",
+      "chinese": "使用或进入…的权利（机会）",
+      "type": "商务/名词词块",
+      "priority": "A"
+    },
+    {
+      "expression": "reason for",
+      "chinese": "…的原因",
+      "type": "商务/名词词块",
+      "priority": "A"
+    },
+    {
+      "expression": "contribute to",
+      "chinese": "促成；有助于；捐献",
+      "type": "短语动词/动词+介词",
+      "priority": "A"
+    },
+    {
+      "expression": "relationship with",
+      "chinese": "与…的关系",
+      "type": "商务/名词词块",
+      "priority": "A"
+    },
+    {
+      "expression": "be promoted to",
+      "chinese": "被提升为",
+      "type": "be + 补语/介词",
+      "priority": "A"
+    },
+    {
+      "expression": "apologize for",
+      "chinese": "为…道歉",
+      "type": "短语动词/动词+介词",
+      "priority": "A"
+    },
+    {
+      "expression": "inquiry about",
+      "chinese": "关于…的询问",
+      "type": "商务/名词词块",
+      "priority": "A"
+    },
+    {
+      "expression": "demand for",
+      "chinese": "对…的需求",
+      "type": "商务/名词词块",
+      "priority": "A"
+    },
+    {
+      "expression": "reply to",
+      "chinese": "回复；答复",
+      "type": "短语动词/动词+介词",
+      "priority": "A"
+    },
+    {
+      "expression": "solution to",
+      "chinese": "…的解决办法",
+      "type": "商务/名词词块",
+      "priority": "A"
+    },
+    {
+      "expression": "decline in",
+      "chinese": "在…方面的下降",
+      "type": "商务/名词词块",
+      "priority": "A"
+    },
+    {
+      "expression": "be responsible for",
+      "chinese": "对…负责；负责…",
+      "type": "be + 补语/介词",
+      "priority": "A"
+    },
+    {
+      "expression": "effect on",
+      "chinese": "对…的影响",
+      "type": "商务/名词词块",
+      "priority": "A"
+    },
+    {
+      "expression": "be consistent with",
+      "chinese": "与…一致；符合",
+      "type": "be + 补语/介词",
+      "priority": "A"
+    }
+  ]
+}

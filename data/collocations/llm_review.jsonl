@@ -878,3 +878,28 @@
 {"ok": true, "gloss": "防水衣", "reason": "ok", "id": "waterproof-clothing", "expression": "waterproof clothing", "current_gloss": "防水衣", "model": "deepseek-v4-flash", "ts": 1787450726.9329174}
 {"ok": true, "gloss": "自上而下的", "reason": "ok", "id": "top-down", "expression": "top-down", "current_gloss": "自上而下的", "model": "deepseek-v4-flash", "ts": 1787450727.4198902}
 {"ok": false, "gloss": "多达；直到；取决于", "reason": "只译出'多达'，缺少托业中常见的'直到'和'取决于'义项。", "id": "up-to", "expression": "up to", "current_gloss": "多达", "model": "deepseek-v4-flash", "ts": 1787450755.3362598}
+{"ok": true, "gloss": "关于…的询问", "reason": "ok", "id": "inquiry-about", "expression": "inquiry about", "current_gloss": "关于…的询问", "model": "deepseek-v4-flash", "ts": 1789223110.2147825}
+{"ok": true, "gloss": "遵守；符合", "reason": "ok", "id": "comply-with", "expression": "comply with", "current_gloss": "遵守；符合", "model": "deepseek-v4-flash", "ts": 1789223110.373808}
+{"ok": true, "gloss": "对…的影响", "reason": "ok", "id": "impact-on", "expression": "impact on", "current_gloss": "对…的影响", "model": "deepseek-v4-flash", "ts": 1789223110.4552274}
+{"ok": true, "gloss": "回复；答复", "reason": "ok", "id": "reply-to", "expression": "reply to", "current_gloss": "回复；答复", "model": "deepseek-v4-flash", "ts": 1789223110.6839335}
+{"ok": true, "gloss": "为…道歉", "reason": "ok", "id": "apologize-for", "expression": "apologize for", "current_gloss": "为…道歉", "model": "deepseek-v4-flash", "ts": 1789223110.706103}
+{"ok": true, "gloss": "告知某人某事；通知", "reason": "ok", "id": "inform-a-of-b", "expression": "inform A of B", "current_gloss": "告知某人某事；通知", "model": "deepseek-v4-flash", "ts": 1789223110.8356261}
+{"ok": true, "gloss": "通知某人某事；告知", "reason": "ok", "id": "notify-a-of-b", "expression": "notify A of B", "current_gloss": "通知某人某事；告知", "model": "deepseek-v4-flash", "ts": 1789223111.8662581}
+{"ok": true, "gloss": "对…的担忧；关切", "reason": "ok", "id": "concern-about", "expression": "concern about", "current_gloss": "对…的担忧；关切", "model": "deepseek-v4-flash", "ts": 1789223112.2516077}
+{"ok": true, "gloss": "与…一致；符合", "reason": "ok", "id": "be-consistent-with", "expression": "be consistent with", "current_gloss": "与…一致；符合", "model": "deepseek-v4-flash", "ts": 1789223112.303232}
+{"ok": true, "gloss": "…的解决办法", "reason": "ok", "id": "solution-to", "expression": "solution to", "current_gloss": "…的解决办法", "model": "deepseek-v4-flash", "ts": 1789223112.3311894}
+{"ok": true, "gloss": "促成；有助于；捐献", "reason": "ok", "id": "contribute-to", "expression": "contribute to", "current_gloss": "促成；有助于；捐献", "model": "deepseek-v4-flash", "ts": 1789223112.9196186}
+{"ok": true, "gloss": "在…方面的下降", "reason": "ok", "id": "decline-in", "expression": "decline in", "current_gloss": "在…方面的下降", "model": "deepseek-v4-flash", "ts": 1789223113.0039566}
+{"ok": true, "gloss": "使用或进入…的权利（机会）", "reason": "ok", "id": "access-to", "expression": "access to", "current_gloss": "使用或进入…的权利（机会）", "model": "deepseek-v4-flash", "ts": 1789223113.3454359}
+{"ok": true, "gloss": "向…汇报；报到", "reason": "ok", "id": "report-to", "expression": "report to", "current_gloss": "向…汇报；报到", "model": "deepseek-v4-flash", "ts": 1789223113.3915863}
+{"ok": true, "gloss": "有资格获得；符合…条件", "reason": "ok", "id": "qualify-for", "expression": "qualify for", "current_gloss": "有资格获得；符合…条件", "model": "deepseek-v4-flash", "ts": 1789223113.4201906}
+{"ok": true, "gloss": "对…的需求", "reason": "ok", "id": "demand-for", "expression": "demand for", "current_gloss": "对…的需求", "model": "deepseek-v4-flash", "ts": 1789223113.8661325}
+{"ok": true, "gloss": "…之间的差异", "reason": "ok", "id": "difference-between", "expression": "difference between", "current_gloss": "…之间的差异", "model": "deepseek-v4-flash", "ts": 1789223113.8970826}
+{"ok": true, "gloss": "因B而感谢A", "reason": "ok", "id": "thank-a-for-b", "expression": "thank A for B", "current_gloss": "因B而感谢A", "model": "deepseek-v4-flash", "ts": 1789223113.9387748}
+{"ok": true, "gloss": "…之间的关系", "reason": "ok", "id": "relationship-between", "expression": "relationship between", "current_gloss": "…之间的关系", "model": "deepseek-v4-flash", "ts": 1789223114.4118922}
+{"ok": true, "gloss": "对…的影响", "reason": "ok", "id": "effect-on", "expression": "effect on", "current_gloss": "对…的影响", "model": "deepseek-v4-flash", "ts": 1789223114.8285198}
+{"ok": true, "gloss": "与…的关系", "reason": "ok", "id": "relationship-with", "expression": "relationship with", "current_gloss": "与…的关系", "model": "deepseek-v4-flash", "ts": 1789223114.9848154}
+{"ok": true, "gloss": "…的原因", "reason": "ok", "id": "reason-for", "expression": "reason for", "current_gloss": "…的原因", "model": "deepseek-v4-flash", "ts": 1789223115.089582}
+{"ok": true, "gloss": "对…的回应", "reason": "ok", "id": "response-to", "expression": "response to", "current_gloss": "对…的回应", "model": "deepseek-v4-flash", "ts": 1789223115.2810662}
+{"ok": true, "gloss": "对…负责；负责…", "reason": "ok", "id": "be-responsible-for", "expression": "be responsible for", "current_gloss": "对…负责；负责…", "model": "deepseek-v4-flash", "ts": 1789223117.1375456}
+{"ok": true, "gloss": "被提升为", "reason": "ok", "id": "be-promoted-to", "expression": "be promoted to", "current_gloss": "被提升为", "model": "deepseek-v4-flash", "ts": 1789223117.4379866}
