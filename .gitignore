@@ -20,5 +20,9 @@ __pycache__/
 *.pyc
 .pytest_cache/
 
+# 写入 Excel 前的自动备份：只在本地留存用于回滚，不进 git
+# （历史备份可从 git 找回：git show <commit>:<文件名> > <文件名>）
+*.bak-*.xlsx
+
 
 .code-review-graph/
