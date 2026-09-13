@@ -27,6 +27,14 @@ export interface Collocation {
   priority: "S" | "A" | "B" | null;
   sourceType: string;
   sources: SourceRef[];
+  /**
+   * 自撰例句（教材/题库里查不到用例的搭配才有）：不是题库内容，可以无条件显示。
+   * 见 .scratch/collocation-examples/spec.md。
+   */
+  example?: string;
+  exampleZh?: string;
+  /** 例句备注，用来标明它是模型产物、待人工复核。 */
+  exampleNote?: string;
 }
 
 interface CollocationsFile {
@@ -167,6 +175,11 @@ export interface CollocationQuestion {
   translation: string;
   explanation: string;
   passage: { title: string; descriptor: string; text: string } | null;
+  /**
+   * Part 6 专有：该题在所属文章里的第几个空（0 起）。文章正文的空位没有题号时，
+   * 「原句」靠它定位（见 lib/domain/collocation-example.ts）。
+   */
+  blankIndex?: number;
 }
 
 export interface CollocationSourceGroup {
@@ -199,7 +212,7 @@ function indexTest(test: ReadingTest): Map<number, CollocationQuestion> {
       }
     } else {
       for (const ps of part.passages) {
-        for (const q of ps.questions) {
+        ps.questions.forEach((q, i) => {
           m.set(q.number, {
             part: part.part,
             number: q.number,
@@ -209,8 +222,9 @@ function indexTest(test: ReadingTest): Map<number, CollocationQuestion> {
             translation: q.translation,
             explanation: q.explanation,
             passage: { title: ps.title, descriptor: ps.descriptor, text: ps.text },
+            blankIndex: part.part === 6 ? i : undefined,
           });
-        }
+        });
       }
     }
   }

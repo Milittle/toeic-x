@@ -1,0 +1,20 @@
+{
+  "note": "题目解析里明确讲到的固定搭配补录进搭配库。本批 1 条：Test 01 P5 Q110 的解析原文写着「the majority of...后应接名词或名词性短语」，题干为 The majority of the contract ------- that took place…，但搭配库此前只有 majority vote standard，解析真正考的这条没有卡片（该题当时只链到 take place）。中文/类型为模型初稿（沿用「解析明确搭配」既有风格：释义用「……」占位，类型给商务/名词词块），优先级统一给 A（S 档是教材侧判断，补录条目不擅自占位），来源类型沿用既有的「解析明确搭配」以便与教材 Vocabulary Check 条目区分；频次列按既有 21 条同组条目填 D=1/P5=1，H 为题册原文精确出现次数（1 次：T01-P5-Q110）。已写入 TOEIC_Reading_固定搭配与惯用法_最终版.xlsx 的 高频汇总 表第 903 行（写入前的快照 = 提交 b74cabd 里的同名 xlsx，本地 .bak 已清理、可从 git 取回），改完须 npm run collocations 重新生成 collocations.json。",
+  "items": [
+    {
+      "expression": "the majority of",
+      "chinese": "……中的大多数；大部分",
+      "type": "商务/名词词块",
+      "priority": "A",
+      "bookFreq": 1,
+      "counts": {
+        "5": 1,
+        "6": 0,
+        "7": 0
+      },
+      "bookletCount": 1,
+      "sourceType": "解析明确搭配",
+      "sourceLocation": "T01-P5-Q110"
+    }
+  ]
+}

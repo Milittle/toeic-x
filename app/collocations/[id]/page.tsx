@@ -106,6 +106,18 @@ export default async function CollocationDetailPage({
         </p>
       </header>
 
+      {/* 自撰例句：教材和题库里都查不到用例的搭配才有，不是题库内容，无需门控 */}
+      {c.example && (
+        <section className="mb-4 rounded-xl border border-emerald-100 bg-emerald-50/60 p-4">
+          <div className="mb-2 flex items-baseline justify-between gap-3">
+            <h2 className="font-semibold text-emerald-900">例句</h2>
+            {c.exampleNote && <span className="text-xs text-emerald-700/80">{c.exampleNote}</span>}
+          </div>
+          <p className="text-slate-800">{c.example}</p>
+          {c.exampleZh && <p className="mt-1 text-sm text-slate-600">{c.exampleZh}</p>}
+        </section>
+      )}
+
       {/* source index — labels only, no question content (Q11: 学 vs 真题 分离) */}
       <section className="rounded-xl border border-slate-200 bg-white p-4">
         <div className="mb-3 flex items-baseline justify-between">
@@ -113,40 +125,49 @@ export default async function CollocationDetailPage({
           <span className="text-xs text-slate-400">共 {c.sources.length} 处</span>
         </div>
 
-        <table className="w-full text-sm">
-          <thead className="text-slate-500">
-            <tr>
-              <th className="py-1 text-left">套题</th>
-              <th className="py-1 text-left">状态</th>
-              <th className="py-1 text-left">题号</th>
-            </tr>
-          </thead>
-          <tbody>
-            {index.map((e) => (
-              <tr key={e.testId} className="border-t border-slate-100">
-                <td className="py-1.5">{e.title}</td>
-                <td className="py-1.5">
-                  <span className={e.revealed ? "text-emerald-700" : "text-slate-400"}>
-                    {STATUS_LABEL[e.status]}
-                  </span>
-                </td>
-                <td className="py-1.5 font-mono text-slate-600">{e.numbers.join("、")}</td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
+        {index.length === 0 ? (
+          <p className="rounded-lg bg-slate-50 p-3 text-sm text-slate-500">
+            这套教材里没有出现「{c.expression}」的题目。
+            {c.example ? "上面的例句是自撰的，不是题库原句。" : ""}
+          </p>
+        ) : (
+          <>
+            <table className="w-full text-sm">
+              <thead className="text-slate-500">
+                <tr>
+                  <th className="py-1 text-left">套题</th>
+                  <th className="py-1 text-left">状态</th>
+                  <th className="py-1 text-left">题号</th>
+                </tr>
+              </thead>
+              <tbody>
+                {index.map((e) => (
+                  <tr key={e.testId} className="border-t border-slate-100">
+                    <td className="py-1.5">{e.title}</td>
+                    <td className="py-1.5">
+                      <span className={e.revealed ? "text-emerald-700" : "text-slate-400"}>
+                        {STATUS_LABEL[e.status]}
+                      </span>
+                    </td>
+                    <td className="py-1.5 font-mono text-slate-600">{e.numbers.join("、")}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
 
-        <p className="mt-3 text-xs text-slate-400">
-          题号仅供定位，不含题目内容。已练过的套题（{revealedTests}/{index.length}）共 {revealedQuestions} 题可查看；
-          未练过的套题在真题页中会隐藏，以免提前见到而污染「未见题样本」。
-        </p>
+            <p className="mt-3 text-xs text-slate-400">
+              题号仅供定位，不含题目内容。已练过的套题（{revealedTests}/{index.length}）共 {revealedQuestions} 题可查看；
+              未练过的套题在真题页中会隐藏，以免提前见到而污染「未见题样本」。
+            </p>
 
-        <Link
-          href={`/collocations/${c.id}/questions`}
-          className="mt-4 inline-block rounded-lg bg-slate-800 px-4 py-2 text-sm text-white hover:bg-slate-700"
-        >
-          查看真题 →
-        </Link>
+            <Link
+              href={`/collocations/${c.id}/questions`}
+              className="mt-4 inline-block rounded-lg bg-slate-800 px-4 py-2 text-sm text-white hover:bg-slate-700"
+            >
+              查看真题 →
+            </Link>
+          </>
+        )}
       </section>
 
       <nav className="mt-8 flex items-center justify-center">

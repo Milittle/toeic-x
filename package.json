@@ -10,6 +10,8 @@
     "test": "vitest run",
     "extract": "python3 scripts/extract_question_bank.py",
     "collocations": "uv run scripts/extract_collocations.py",
+    "examples": "uv run scripts/fill_collocation_examples.py",
+    "apply-examples": "uv run scripts/apply_collocation_examples.py",
     "words": "uv run scripts/extract_words.py",
     "verify-words": "uv run scripts/verify_words.py",
     "verify": "python3 scripts/verify_question_bank.py",

@@ -6,6 +6,7 @@ import {
   type CollocationQuestion,
   type CollocationSourceGroup,
 } from "@/lib/content/collocations";
+import { questionExample } from "@/lib/domain/collocation-example";
 import type { Letter, TestStatus } from "@/lib/domain/types";
 
 export const dynamic = "force-dynamic"; // question reveal depends on live test status
@@ -38,7 +39,7 @@ export default async function CollocationQuestionsPage({ params }: { params: { i
 
       <section className="space-y-5">
         {groups.map((g) => (
-          <SourceGroup key={g.testId} group={g} />
+          <SourceGroup key={g.testId} group={g} expression={c.expression} />
         ))}
       </section>
 
@@ -49,7 +50,7 @@ export default async function CollocationQuestionsPage({ params }: { params: { i
   );
 }
 
-function SourceGroup({ group }: { group: CollocationSourceGroup }) {
+function SourceGroup({ group, expression }: { group: CollocationSourceGroup; expression: string }) {
   return (
     <div className="rounded-xl border border-slate-200 bg-white p-4">
       <div className="mb-3 flex items-baseline justify-between">
@@ -64,7 +65,7 @@ function SourceGroup({ group }: { group: CollocationSourceGroup }) {
           <ol className="space-y-4">
             {group.questions.map((q) => (
               <li key={q.number}>
-                <QuestionView q={q} />
+                <QuestionView q={q} expression={expression} />
               </li>
             ))}
           </ol>
@@ -79,8 +80,19 @@ function SourceGroup({ group }: { group: CollocationSourceGroup }) {
   );
 }
 
-function QuestionView({ q }: { q: CollocationQuestion }) {
+function QuestionView({ q, expression }: { q: CollocationQuestion; expression: string }) {
   const letters: Letter[] = ["A", "B", "C", "D"];
+  const answerText = q.options[q.answer] ?? "";
+  // 搭配在原句里的样子：填空补答案，阅读题定位到搭配所在的那一句。纯展示，门控在页面层。
+  const example = questionExample({
+    part: q.part,
+    number: q.number,
+    stem: q.stem,
+    answerText,
+    passageText: q.passage?.text ?? null,
+    blankIndex: q.blankIndex,
+    expression,
+  });
   return (
     <div>
       {q.passage && (
@@ -106,6 +118,18 @@ function QuestionView({ q }: { q: CollocationQuestion }) {
           </li>
         ))}
       </ul>
+      {example && (
+        <p className="mb-2 rounded-md border border-emerald-100 bg-emerald-50/60 px-2 py-1.5 text-sm leading-relaxed text-slate-700">
+          <span className="mr-1.5 rounded bg-emerald-100 px-1.5 py-0.5 text-[11px] font-medium align-middle text-emerald-800">
+            原句
+          </span>
+          {example.before && <span>{example.before} </span>}
+          <strong className="font-semibold text-emerald-800">{example.match}</strong>
+          {example.after && (
+            <span>{/^[.,;:!?)”’]/.test(example.after) ? "" : " "}{example.after}</span>
+          )}
+        </p>
+      )}
       {(q.translation || q.explanation) && (
         <div className="rounded bg-slate-50 p-2 text-xs text-slate-600">
           {q.translation && <p>译文：{q.translation}</p>}

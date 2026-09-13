@@ -12,6 +12,12 @@ The collocations are a static reference corpus parallel to the question bank
 (ADR-0002). The app never writes this file; regeneration is manual via
 ``uv run scripts/extract_collocations.py``.
 
+Columns are read by **header name** (so column order may drift): the workbook's
+own 表达 / 中文 / 类型 / 频次 / 优先级 / 来源类型, plus three optional columns
+added for 自撰例句 — ``例句`` / ``例句译文`` / ``例句备注`` (only the collocations
+with no example in the question bank have them; see
+``.scratch/collocation-examples/spec.md``).
+
 Question-source links (``sources``) are NOT trusted from the xlsx — its
 self-reported question numbers never matched the PDF-extracted bank. Instead,
 after building the records we scan the question bank text to record where each
@@ -66,29 +72,49 @@ def slugify(expression: str) -> str:
     return slug or "item"
 
 
-def build_records(rows) -> list[dict]:
+def build_records(rows, col: dict[str, int]) -> list[dict]:
+    """按表头名取列（列顺序漂移不影响结果），对齐 extract_words.py 的做法。"""
+
+    def cell(row, name):
+        i = col.get(name)
+        return row[i] if i is not None and i < len(row) else None
+
     records = []
     for row in rows:
-        expression = (row[0] or "").strip() if row[0] else ""
+        expression = (str(cell(row, "表达")).strip() if cell(row, "表达") else "")
         if not expression:
             continue
-        priority = (str(row[8]).strip() if row[8] is not None else "")
-        records.append({
+        priority = (str(cell(row, "优先级")).strip() if cell(row, "优先级") is not None else "")
+        record = {
             "expression": expression,
-            "chinese": clean_chinese(row[1]),
-            "type": (str(row[2]).strip() if row[2] is not None else ""),
-            "bookFreq": to_int(row[3]),
+            "chinese": clean_chinese(cell(row, "中文")),
+            "type": (str(cell(row, "类型")).strip() if cell(row, "类型") is not None else ""),
+            "bookFreq": to_int(cell(row, "本书词汇栏/解析收录次数")),
             "counts": {
-                "5": to_int(row[4]),
-                "6": to_int(row[5]),
-                "7": to_int(row[6]),
+                "5": to_int(cell(row, "P5次数")),
+                "6": to_int(cell(row, "P6次数")),
+                "7": to_int(cell(row, "P7次数")),
             },
-            "bookletCount": to_int(row[7]),
+            "bookletCount": to_int(cell(row, "题册原文精确出现次数")),
             "priority": priority if priority in {"S", "A", "B"} else None,
-            "sourceType": (str(row[10]).strip() if row[10] is not None else ""),
+            "sourceType": (
+                str(cell(row, "来源类型")).strip() if cell(row, "来源类型") is not None else ""
+            ),
             # question links are filled by scanning the bank, not from the xlsx.
             "sources": [],
-        })
+        }
+        # 自撰例句（只给题库里没有用例的搭配补，见 .scratch/collocation-examples/spec.md）：
+        # 没有就不写这三个键，避免整库 JSON 平白长大。
+        example = str(cell(row, "例句")).strip() if cell(row, "例句") else ""
+        if example:
+            record["example"] = example
+            zh = str(cell(row, "例句译文")).strip() if cell(row, "例句译文") else ""
+            if zh:
+                record["exampleZh"] = zh
+            note = str(cell(row, "例句备注")).strip() if cell(row, "例句备注") else ""
+            if note:
+                record["exampleNote"] = note
+        records.append(record)
     # deterministic order so generated ids are stable across runs
     records.sort(key=lambda r: (r["expression"].lower(), r["chinese"]))
     # assign stable, collision-safe ids
@@ -115,9 +141,13 @@ def main(argv=None) -> int:
     if SHEET not in wb.sheetnames:
         raise SystemExit(f"sheet {SHEET!r} not found in {src.name}; sheets: {wb.sheetnames}")
     ws = wb[SHEET]
+    header = [str(c.value).strip() if c.value is not None else "" for c in next(ws.iter_rows(min_row=1))]
+    col = {name: i for i, name in enumerate(header) if name}
+    if "表达" not in col:
+        raise SystemExit(f"sheet {SHEET!r} 的表头里找不到「表达」列，中止。")
     rows = [tuple(c.value for c in row) for row in ws.iter_rows(min_row=2, values_only=False)]
 
-    items = build_records(rows)
+    items = build_records(rows, col)
     stats = compute_sources(items, repo / "data" / "questions")
 
     out_dir.mkdir(parents=True, exist_ok=True)

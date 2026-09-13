@@ -10,7 +10,7 @@
 - 首次成绩锁定，并标记是否为未见题样本；
 - 复盘：标记 G/V/S/E/T/A/L/K 主错因和备注；
 - 复测：错题按 D+2 / D+7 / D+21 排期；
-- 搭配库：901 条固定搭配，可按 Part、类型、优先级和频次筛选；
+- 搭配库：902 条固定搭配，可按 Part、类型、优先级和频次筛选；
 - 词库：重点 1500、TSL1250、NGSL2809 三份词表，单词支持收藏；
 - 每周汇总：从 SQLite 读取做题数据，供人工查看；
 - 局域网部署：监听 `0.0.0.0`，不对公网开放。
@@ -158,7 +158,20 @@ npm run words
 npm run verify-words   # 词库结构自检，生成 data/words/VERIFICATION.md
 ```
 
-搭配库的真题关联来自题库扫描，不直接信任 Excel 中的旧题号；因此更新搭配库时应同时保留题库 JSON 和生成脚本。
+搭配库的真题关联来自题库扫描，不直接信任 Excel 中的旧题号；因此更新搭配库时应同时保留题库 JSON 和生成脚本。手工补录的条目（例如从题目解析里补的搭配）先写进 `data/collocations/*_additions.json` 作为初稿，改完 Excel 后在 `data/collocations/FIX_LOG.md` 留一条记录，写法与词库一致；源 Excel 含公式，同样只能用直接改写包内 sheet XML 的方式写入。
+
+真题页会给每条搭配显示「原句」——从题库现算，填空题把横线补成正确答案、阅读题定位搭配所在的那一句（`lib/domain/collocation-example.ts`），只在套题已揭示时显示。题库里一次都没出现的搭配（当前 172 条）看不到原句，走自撰例句补录：
+
+```bash
+npm run examples -- --dry-run                 # 只打印样例 prompt
+DEEPSEEK_API_KEY=... npm run examples         # 生成例句 + 译文，断点续跑
+npm run examples -- --report-only             # 只重生成 EXAMPLE_FILL.md
+npm run apply-examples -- --dry-run           # 看将回写哪些行
+npm run apply-examples                        # 人工确认后回写 Excel 三列
+npm run collocations                          # 重新生成 JSON
+```
+
+`fill_collocation_examples.py` 只挑 `sources` 为空的条目，结果写 `data/collocations/example_fill.jsonl` 与复核报告 `EXAMPLE_FILL.md`（含脚本用题库那套锚点匹配做的自动校验）；`apply_collocation_examples.py` 写入 `高频汇总` 的 `例句 / 例句译文 / 例句备注` 三列，写前备份、只改写 `xl/worksheets/sheet2.xml`、并在 `data/collocations/FIX_LOG.md` 追加记录。方案与验收标准见 `.scratch/collocation-examples/spec.md`。
 
 `npm run verify-words` 只读，按九类问题（词条碎片、同形重复、释义域标签、释义过长、释义缺失、字段缺失、题库词频列、级别一致性、关联搭配）列出可疑条目，供人工对照 `单词本.xlsx` 逐条核对；它不提供 `--apply`，也不会修改任何数据。词频列的复算只是线索：`单词本.xlsx` 的 `题库总次数` 等列没有随仓库保留生成脚本。
 
